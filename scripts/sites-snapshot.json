@@ -1,0 +1,4060 @@
+{
+  "source_commit": "6b3dabca2f7cc61f324bb767c1364f1fb2fc4fc9",
+  "sites_version": 61,
+  "entries": [
+    {
+      "path": ".openai/hosting.json",
+      "size": 106,
+      "text": true,
+      "sha": "688f8c561b223688a6ae4b0370ca58adae7c41b9",
+      "mode": "100644"
+    },
+    {
+      "path": "BRAND-COLLECTIONS.md",
+      "size": 2091,
+      "text": true,
+      "sha": "9a56626349f8e522b54296d1e9911c994012a5fa",
+      "mode": "100644"
+    },
+    {
+      "path": "CATALOGUE-SOURCE-AUDIT.md",
+      "size": 4833,
+      "text": true,
+      "sha": "3867dba5d440081d011847899bec0d78699fca12",
+      "mode": "100644"
+    },
+    {
+      "path": "EHUB-REDESIGN.md",
+      "size": 3079,
+      "text": true,
+      "sha": "7c2583271a4b90de1dd9ee54830b98f2a2b5e2df",
+      "mode": "100644"
+    },
+    {
+      "path": "HOMEPAGE-REVIEW.md",
+      "size": 3515,
+      "text": true,
+      "sha": "17409b507b0edf6a2b8d341823ccf72b787352ba",
+      "mode": "100644"
+    },
+    {
+      "path": "NAVIGATION-REVIEW.md",
+      "size": 3463,
+      "text": true,
+      "sha": "defe692427c7736e634ac9b2907bf99343117884",
+      "mode": "100644"
+    },
+    {
+      "path": "docs/legacy-navigation-readme.md",
+      "size": 1839,
+      "text": true,
+      "sha": "24385a566f8d4aff76ed94f06dcfd0be6516d313",
+      "mode": "100644"
+    },
+    {
+      "path": "SMART-SEARCH-MVP.md",
+      "size": 6921,
+      "text": true,
+      "sha": "842d3e76d6ba3b32c51ef3ecebacb29136967216",
+      "mode": "100644"
+    },
+    {
+      "path": "TEST-DRIVE.md",
+      "size": 2198,
+      "text": true,
+      "sha": "e2d00556adddf3bb4784c8c1b766dbb0aa02bbc3",
+      "mode": "100644"
+    },
+    {
+      "path": "VEHICLE-LIBRARY.md",
+      "size": 3161,
+      "text": true,
+      "sha": "9c019b8ce26a2907d9eb91e654f2a087e81bcec1",
+      "mode": "100644"
+    },
+    {
+      "path": "dist/app.js",
+      "size": 39307,
+      "text": true,
+      "sha": "584495dc0d5216b165b8b726dc609ce7b950b87e",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/app.js"
+    },
+    {
+      "path": "dist/assets/brands/SOURCES.md",
+      "size": 515,
+      "text": true,
+      "sha": "c60828b9ef87a68087c48bf25864f6d23092e9dc",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/brands/SOURCES.md"
+    },
+    {
+      "path": "dist/assets/brands/audi.svg",
+      "size": 2113,
+      "text": true,
+      "sha": "2198ec19dc899300683e53a1776681aa0fc61d87",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/brands/audi.svg"
+    },
+    {
+      "path": "dist/assets/brands/cupra.svg",
+      "size": 2872,
+      "text": true,
+      "sha": "8653bfc23c1c88b4663af8c15ae024cf132e33e4",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/brands/cupra.svg"
+    },
+    {
+      "path": "dist/assets/brands/seat.svg",
+      "size": 753,
+      "text": true,
+      "sha": "174a64ff249516cbc8934e719a1cbdc8007e201d",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/brands/seat.svg"
+    },
+    {
+      "path": "dist/assets/brands/skoda.svg",
+      "size": 1130,
+      "text": true,
+      "sha": "fee8d105adcb387e2fcce8e13564e3e2769054d3",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/brands/skoda.svg"
+    },
+    {
+      "path": "dist/assets/brands/volkswagen.svg",
+      "size": 1088,
+      "text": true,
+      "sha": "0f3e66383f063bb570938ca4a65498ec37761db1",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/brands/volkswagen.svg"
+    },
+    {
+      "path": "dist/assets/campaign-source/a5-campaign.webp",
+      "size": 196602,
+      "text": false,
+      "sha": "c45877fd2cec9e1e9c5f352cdf5ccb27d8119c11",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/campaign-source/a5-campaign.webp"
+    },
+    {
+      "path": "dist/assets/campaign-source/all-new-q3.webp",
+      "size": 211732,
+      "text": false,
+      "sha": "e992b2643a5ce8af26448f225fc21feaed44dd50",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/campaign-source/all-new-q3.webp"
+    },
+    {
+      "path": "dist/assets/campaign-source/audi-q5-campaign.webp",
+      "size": 333524,
+      "text": false,
+      "sha": "6d66a006344564276588d46f4f6b26a3f0c3146f",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/campaign-source/audi-q5-campaign.webp"
+    },
+    {
+      "path": "dist/assets/campaign-source/cupra-raval-campaign.webp",
+      "size": 213152,
+      "text": false,
+      "sha": "acbe59f80cf7066bde1716b734b666b3bbe62d3e",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/campaign-source/cupra-raval-campaign.webp"
+    },
+    {
+      "path": "dist/assets/campaign-source/cupra-terramar-campaign.webp",
+      "size": 230782,
+      "text": false,
+      "sha": "4c635e586ebcfc974631d433f8fc6bb391c1cb5a",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/campaign-source/cupra-terramar-campaign.webp"
+    },
+    {
+      "path": "dist/assets/campaign-source/fabia-campaign.webp",
+      "size": 196982,
+      "text": false,
+      "sha": "e211ae08b728e8171c7b55e6eb9d62684e84f598",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/campaign-source/fabia-campaign.webp"
+    },
+    {
+      "path": "dist/assets/campaign-source/formentor-campaign.webp",
+      "size": 191248,
+      "text": false,
+      "sha": "78e0e64820180e8576fbb6f2cb58dfe0d6c54702",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/campaign-source/formentor-campaign.webp"
+    },
+    {
+      "path": "dist/assets/campaign-source/ibiza-arona-campaign.webp",
+      "size": 439256,
+      "text": false,
+      "sha": "6aa78e897ed573e4fd416c67948ff632d2fc4d66",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/campaign-source/ibiza-arona-campaign.webp"
+    },
+    {
+      "path": "dist/assets/campaign-source/id3neo-campaign.webp",
+      "size": 313276,
+      "text": false,
+      "sha": "bc2c64071100f6faecf9f77b19a558e90978b4a5",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/campaign-source/id3neo-campaign.webp"
+    },
+    {
+      "path": "dist/assets/campaign-source/idpolo-campaign.webp",
+      "size": 87274,
+      "text": false,
+      "sha": "55f221b352967cf2f02764c22da815f948f3e51f",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/campaign-source/idpolo-campaign.webp"
+    },
+    {
+      "path": "dist/assets/campaign-source/kodiaq-campaign.webp",
+      "size": 246852,
+      "text": false,
+      "sha": "b7ce116829afa978ffc4541fead3d72a8e6b16f7",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/campaign-source/kodiaq-campaign.webp"
+    },
+    {
+      "path": "dist/assets/campaign-source/new-vw-troc.webp",
+      "size": 232112,
+      "text": false,
+      "sha": "18c46b7f9696001f70688c993b57a886b8b2d730",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/campaign-source/new-vw-troc.webp"
+    },
+    {
+      "path": "dist/assets/campaign-source/q4etron-campaign.webp",
+      "size": 413956,
+      "text": false,
+      "sha": "25d6bdb6e2f85b34974e8796dc1558ebed2c7279",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/campaign-source/q4etron-campaign.webp"
+    },
+    {
+      "path": "dist/assets/campaign-source/skoda-kamiq-campaign.webp",
+      "size": 196476,
+      "text": false,
+      "sha": "c03329361d9715a403c9f114edbd7a1e2f9e8f30",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/campaign-source/skoda-kamiq-campaign.webp"
+    },
+    {
+      "path": "dist/assets/campaign-source/vw-suv-taigo-t-cross.webp",
+      "size": 224514,
+      "text": false,
+      "sha": "874b2b38371f2092be57fbe1e5d2b61d0142ab20",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/campaign-source/vw-suv-taigo-t-cross.webp"
+    },
+    {
+      "path": "dist/assets/campaign-source/vw-tiguan-campaign.webp",
+      "size": 203334,
+      "text": false,
+      "sha": "f3d18a1291b7e579289bd745e9ec8d43391921a6",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/campaign-source/vw-tiguan-campaign.webp"
+    },
+    {
+      "path": "dist/assets/car.webp",
+      "size": 42474,
+      "text": false,
+      "sha": "46744bc2193258441ca2b9ddd428114832f07004",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/car.webp"
+    },
+    {
+      "path": "dist/assets/ehub/audi-a1-sb-30tfsi-advance-stronic-2-1.webp",
+      "size": 35842,
+      "text": false,
+      "sha": "96780de272cfffd80e2c6135d3639024c8699b1a",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/ehub/audi-a1-sb-30tfsi-advance-stronic-2-1.webp"
+    },
+    {
+      "path": "dist/assets/ehub/audi-a1-sb-30tfsi-advance-stronic-3-1.webp",
+      "size": 42910,
+      "text": false,
+      "sha": "6ce6025093afdbd97891649ff358a097b71f3274",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/ehub/audi-a1-sb-30tfsi-advance-stronic-3-1.webp"
+    },
+    {
+      "path": "dist/assets/ehub/audi-a1-sb-30tfsi-advance-stronic-4-1.webp",
+      "size": 45398,
+      "text": false,
+      "sha": "bd38917024c587310626f0724f993cfe7faf6a93",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/ehub/audi-a1-sb-30tfsi-advance-stronic-4-1.webp"
+    },
+    {
+      "path": "dist/assets/ehub/audi-a1-sb-30tfsi-advance-stronic-4-2.webp",
+      "size": 39280,
+      "text": false,
+      "sha": "312e59fe7fb41b390e0bbfdc9b858c5daf80a57c",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/ehub/audi-a1-sb-30tfsi-advance-stronic-4-2.webp"
+    },
+    {
+      "path": "dist/assets/ehub/audi-a1-sb-30tfsi-advance-stronic-5-1.webp",
+      "size": 41916,
+      "text": false,
+      "sha": "df85a0fdf0c8857e284592d64ea42766f431a1f7",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/ehub/audi-a1-sb-30tfsi-advance-stronic-5-1.webp"
+    },
+    {
+      "path": "dist/assets/ehub/audi-a1-sb-30tfsi-advance-stronic-5-2.webp",
+      "size": 36828,
+      "text": false,
+      "sha": "a733116762f1b88f0d864ce888044dbf06d2d26d",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/ehub/audi-a1-sb-30tfsi-advance-stronic-5-2.webp"
+    },
+    {
+      "path": "dist/assets/ehub/audi-a1-sb-sline-35tfsi-stronic-1.webp",
+      "size": 42546,
+      "text": false,
+      "sha": "147f02cfb257d6359142280363a126ba25b9b471",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/ehub/audi-a1-sb-sline-35tfsi-stronic-1.webp"
+    },
+    {
+      "path": "dist/assets/ehub/audi-a1-sb-sline-35tfsi-stronic-2.webp",
+      "size": 38762,
+      "text": false,
+      "sha": "da617b44191ac3cdcbf0658a7fe9333d0946d7c4",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/ehub/audi-a1-sb-sline-35tfsi-stronic-2.webp"
+    },
+    {
+      "path": "dist/assets/ehub/audi-a3-sportback-sline-35-tfsi-stronic-2-1.webp",
+      "size": 40614,
+      "text": false,
+      "sha": "01610a61b20734a558069a486bdc44d0fce0db22",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/ehub/audi-a3-sportback-sline-35-tfsi-stronic-2-1.webp"
+    },
+    {
+      "path": "dist/assets/ehub/audi-a3-sportback-sline-35-tfsi-stronic-2-2.webp",
+      "size": 27982,
+      "text": false,
+      "sha": "3d6066980c9eb6d5feae5b266aca34f6045cd16e",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/ehub/audi-a3-sportback-sline-35-tfsi-stronic-2-2.webp"
+    },
+    {
+      "path": "dist/assets/ehub/audi-a3-sportback-sline-45-tfsi-e-stronic-1.webp",
+      "size": 40240,
+      "text": false,
+      "sha": "31b12836441aa5a98db78fa782e6311824467587",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/ehub/audi-a3-sportback-sline-45-tfsi-e-stronic-1.webp"
+    },
+    {
+      "path": "dist/assets/ehub/audi-a3-sportback-sline-45-tfsi-e-stronic-2.webp",
+      "size": 28172,
+      "text": false,
+      "sha": "f7fb9f79c7ce11358f8f16de3d1d923d801bead7",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/ehub/audi-a3-sportback-sline-45-tfsi-e-stronic-2.webp"
+    },
+    {
+      "path": "dist/assets/ehub/audi-a5-avant-tfsi-stronic-150kw-1-1.webp",
+      "size": 76040,
+      "text": false,
+      "sha": "4625616446f541def0278fad9996bfbafdfb2d17",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/ehub/audi-a5-avant-tfsi-stronic-150kw-1-1.webp"
+    },
+    {
+      "path": "dist/assets/ehub/audi-a5-avant-tfsi-stronic-150kw-1-2.webp",
+      "size": 80928,
+      "text": false,
+      "sha": "7d271ddbacef88b5a602d5458b553ee150fe5d4e",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/ehub/audi-a5-avant-tfsi-stronic-150kw-1-2.webp"
+    },
+    {
+      "path": "dist/assets/ehub/audi-a5-avant-tfsi-stronic-150kw-1.webp",
+      "size": 76588,
+      "text": false,
+      "sha": "bab0816d461cb91c85bffdb03bd5eb027d5c2742",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/ehub/audi-a5-avant-tfsi-stronic-150kw-1.webp"
+    },
+    {
+      "path": "dist/assets/ehub/audi-a5-avant-tfsi-stronic-150kw-2.webp",
+      "size": 77964,
+      "text": false,
+      "sha": "abcad7916170db0ec2ebd6f36440b2f91b54c7e5",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/ehub/audi-a5-avant-tfsi-stronic-150kw-2.webp"
+    },
+    {
+      "path": "dist/assets/ehub/audi-a5-limousine-tfsi-stronic-110kw-1-1.webp",
+      "size": 76916,
+      "text": false,
+      "sha": "5e37f4703c3b053724b2a0e71e34bf2c916b32f0",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/ehub/audi-a5-limousine-tfsi-stronic-110kw-1-1.webp"
+    },
+    {
+      "path": "dist/assets/ehub/audi-a5-limousine-tfsi-stronic-110kw-1-2.webp",
+      "size": 80186,
+      "text": false,
+      "sha": "775ec81bb3670bac93d8a1f932041c19c0604eab",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/ehub/audi-a5-limousine-tfsi-stronic-110kw-1-2.webp"
+    },
+    {
+      "path": "dist/assets/ehub/audi-a5-limousine-tfsi-stronic-110kw-2-1.webp",
+      "size": 73858,
+      "text": false,
+      "sha": "648f6f39257c2f42ac76a6c01f6def4039b81029",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/ehub/audi-a5-limousine-tfsi-stronic-110kw-2-1.webp"
+    },
+    {
+      "path": "dist/assets/ehub/audi-a5-limousine-tfsi-stronic-110kw-2-2.webp",
+      "size": 79362,
+      "text": false,
+      "sha": "925b9eae0dd4b3f816aaaabb13de370e070e5d0c",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/ehub/audi-a5-limousine-tfsi-stronic-110kw-2-2.webp"
+    },
+    {
+      "path": "dist/assets/ehub/audi-a5-limousine-tfsi-stronic-150kw-1.webp",
+      "size": 31052,
+      "text": false,
+      "sha": "bd7eab76b268a4d98e958b3373b4b9fa858a6d77",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/ehub/audi-a5-limousine-tfsi-stronic-150kw-1.webp"
+    },
+    {
+      "path": "dist/assets/ehub/audi-a5-limousine-tfsi-stronic-150kw-3-1.webp",
+      "size": 73858,
+      "text": false,
+      "sha": "648f6f39257c2f42ac76a6c01f6def4039b81029",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/ehub/audi-a5-limousine-tfsi-stronic-150kw-3-1.webp"
+    },
+    {
+      "path": "dist/assets/ehub/audi-a5-limousine-tfsi-stronic-150kw-3-2.webp",
+      "size": 79362,
+      "text": false,
+      "sha": "925b9eae0dd4b3f816aaaabb13de370e070e5d0c",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/ehub/audi-a5-limousine-tfsi-stronic-150kw-3-2.webp"
+    },
+    {
+      "path": "dist/assets/ehub/audi-a6-sportback-e-tron-performance-1-1.webp",
+      "size": 65036,
+      "text": false,
+      "sha": "adea7c74315d47b9c25f13aeafbd8af91a252665",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/ehub/audi-a6-sportback-e-tron-performance-1-1.webp"
+    },
+    {
+      "path": "dist/assets/ehub/audi-a6-sportback-e-tron-performance-1-2.webp",
+      "size": 100402,
+      "text": false,
+      "sha": "2a95a8a8dcb89f7c15a55bb2a338e37101d3d0fc",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/ehub/audi-a6-sportback-e-tron-performance-1-2.webp"
+    },
+    {
+      "path": "dist/assets/ehub/audi-q2-35tfsi-advance-stronic-1-1.webp",
+      "size": 42040,
+      "text": false,
+      "sha": "bca6643127b5540614831ff9dd0e92991f48e29f",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/ehub/audi-q2-35tfsi-advance-stronic-1-1.webp"
+    },
+    {
+      "path": "dist/assets/ehub/audi-q2-35tfsi-advance-stronic-1-2.webp",
+      "size": 39266,
+      "text": false,
+      "sha": "8e2350972e8c5a3160f8807cafd9bec770818111",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/ehub/audi-q2-35tfsi-advance-stronic-1-2.webp"
+    },
+    {
+      "path": "dist/assets/ehub/audi-q6-etron-suv-quattro-1-1.webp",
+      "size": 63568,
+      "text": false,
+      "sha": "af6838ad9f54b4c60559ee9593083b1bd9932152",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/ehub/audi-q6-etron-suv-quattro-1-1.webp"
+    },
+    {
+      "path": "dist/assets/ehub/audi-q6-etron-suv-quattro-1-2.webp",
+      "size": 63894,
+      "text": false,
+      "sha": "c28716147fb76870edc1a3fc9c5a04cfdbc77f9b",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/ehub/audi-q6-etron-suv-quattro-1-2.webp"
+    },
+    {
+      "path": "dist/assets/ehub/audi-q6-etron-suv-quattro-1.webp",
+      "size": 47406,
+      "text": false,
+      "sha": "93217c43f9d6791da2e7258578561fe516006977",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/ehub/audi-q6-etron-suv-quattro-1.webp"
+    },
+    {
+      "path": "dist/assets/ehub/audi-q7-sline-50tdi-quattro-1.webp",
+      "size": 45326,
+      "text": false,
+      "sha": "14e407fadaa7898abe7b3bc43b49df6353639b16",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/ehub/audi-q7-sline-50tdi-quattro-1.webp"
+    },
+    {
+      "path": "dist/assets/ehub/audi-q8-60tfsie-quattro-1.webp",
+      "size": 47512,
+      "text": false,
+      "sha": "80cd944413cdf9c95d426adeb0fcdc3814460bf6",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/ehub/audi-q8-60tfsie-quattro-1.webp"
+    },
+    {
+      "path": "dist/assets/ehub/audi-q8-60tfsie-quattro-2.webp",
+      "size": 40812,
+      "text": false,
+      "sha": "7669a44de252404214c3b597cf543e5b960dfeac",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/ehub/audi-q8-60tfsie-quattro-2.webp"
+    },
+    {
+      "path": "dist/assets/ehub/audi-q8-etron-sb-55-sline-qtr-1.webp",
+      "size": 41866,
+      "text": false,
+      "sha": "d17cd05aa72713262ceb1e82e6c1bd3456402375",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/ehub/audi-q8-etron-sb-55-sline-qtr-1.webp"
+    },
+    {
+      "path": "dist/assets/ehub/cupra-ateca-1-5-tsi-dsg-150hp-1.webp",
+      "size": 49862,
+      "text": false,
+      "sha": "324c64194d23c56574e608b76a74040d25b851a0",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/ehub/cupra-ateca-1-5-tsi-dsg-150hp-1.webp"
+    },
+    {
+      "path": "dist/assets/ehub/cupra-ateca-1-5-tsi-dsg-150hp-2.webp",
+      "size": 48872,
+      "text": false,
+      "sha": "21a776a7ad1bcbb98ba3f163d240b5ae1aafb310",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/ehub/cupra-ateca-1-5-tsi-dsg-150hp-2.webp"
+    },
+    {
+      "path": "dist/assets/ehub/cupra-born-high-231bhp-59kwh-1-1.webp",
+      "size": 182616,
+      "text": false,
+      "sha": "7bf40bc15259e89b1be7a207915501e3e375cff5",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/ehub/cupra-born-high-231bhp-59kwh-1-1.webp"
+    },
+    {
+      "path": "dist/assets/ehub/cupra-born-high-231bhp-59kwh-1-2.webp",
+      "size": 179906,
+      "text": false,
+      "sha": "5be9aed29e01d5ce08eb52b62e0d6b629f43fe2e",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/ehub/cupra-born-high-231bhp-59kwh-1-2.webp"
+    },
+    {
+      "path": "dist/assets/ehub/cupra-tavascan-endurance-286bhp-77kwh-1.webp",
+      "size": 184522,
+      "text": false,
+      "sha": "6d2f729fd4854ed60e90d9e39dc0575bf67f8ed7",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/ehub/cupra-tavascan-endurance-286bhp-77kwh-1.webp"
+    },
+    {
+      "path": "dist/assets/ehub/cupra-tavascan-endurance-286bhp-77kwh-2.webp",
+      "size": 187198,
+      "text": false,
+      "sha": "edd3c6dfdcf2fc55ea597281583f869980ce05ff",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/ehub/cupra-tavascan-endurance-286bhp-77kwh-2.webp"
+    },
+    {
+      "path": "dist/assets/ehub/seat-1-1.webp",
+      "size": 172690,
+      "text": false,
+      "sha": "a6f37cc152fd2181dfde74454d9b86fbf4107e8f",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/ehub/seat-1-1.webp"
+    },
+    {
+      "path": "dist/assets/ehub/seat-1-2.webp",
+      "size": 191096,
+      "text": false,
+      "sha": "052ae1d744c4199df243e1e0040ded339b5f0052",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/ehub/seat-1-2.webp"
+    },
+    {
+      "path": "dist/assets/ehub/seat-arona-fr-1-0-tsi-115bhp-dsg-1-1.webp",
+      "size": 172690,
+      "text": false,
+      "sha": "a6f37cc152fd2181dfde74454d9b86fbf4107e8f",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/ehub/seat-arona-fr-1-0-tsi-115bhp-dsg-1-1.webp"
+    },
+    {
+      "path": "dist/assets/ehub/seat-arona-fr-1-0-tsi-115bhp-dsg-1-2.webp",
+      "size": 191096,
+      "text": false,
+      "sha": "052ae1d744c4199df243e1e0040ded339b5f0052",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/ehub/seat-arona-fr-1-0-tsi-115bhp-dsg-1-2.webp"
+    },
+    {
+      "path": "dist/assets/ehub/seat-arona-fr-1-0-tsi-115bhp-dsg-3-1.webp",
+      "size": 181358,
+      "text": false,
+      "sha": "8e1d5075941c0c34c6196ca011be8021b6db87b6",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/ehub/seat-arona-fr-1-0-tsi-115bhp-dsg-3-1.webp"
+    },
+    {
+      "path": "dist/assets/ehub/seat-arona-fr-1-0-tsi-115bhp-dsg-3-2.webp",
+      "size": 208266,
+      "text": false,
+      "sha": "6c3760ffc40f1b8c8120e283032f3ac1a651b540",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/ehub/seat-arona-fr-1-0-tsi-115bhp-dsg-3-2.webp"
+    },
+    {
+      "path": "dist/assets/ehub/seat-ibiza-fr-1-0-tsi-115bhp-dsg-2-1.webp",
+      "size": 181026,
+      "text": false,
+      "sha": "ed134d28af0db7891be662eeb25860b35fb18fe3",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/ehub/seat-ibiza-fr-1-0-tsi-115bhp-dsg-2-1.webp"
+    },
+    {
+      "path": "dist/assets/ehub/seat-ibiza-fr-1-0-tsi-115bhp-dsg-2-2.webp",
+      "size": 172214,
+      "text": false,
+      "sha": "2668081cb872710ccd01f48ee24b7195344c9e28",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/ehub/seat-ibiza-fr-1-0-tsi-115bhp-dsg-2-2.webp"
+    },
+    {
+      "path": "dist/assets/ehub/seat-ibiza-style-1-0-tsi-115bhp-dsg-1.webp",
+      "size": 200052,
+      "text": false,
+      "sha": "741c7f5caa933d7a407aeb5e161949bf1ec0b61a",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/ehub/seat-ibiza-style-1-0-tsi-115bhp-dsg-1.webp"
+    },
+    {
+      "path": "dist/assets/ehub/seat-ibiza-style-1-0-tsi-115bhp-dsg-2-1.webp",
+      "size": 185290,
+      "text": false,
+      "sha": "eee095ed83bac3b4e7dc28360eff0d9023825f9c",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/ehub/seat-ibiza-style-1-0-tsi-115bhp-dsg-2-1.webp"
+    },
+    {
+      "path": "dist/assets/ehub/seat-ibiza-style-1-0-tsi-115bhp-dsg-2-2.webp",
+      "size": 211682,
+      "text": false,
+      "sha": "59dc54a61d2f4cde2b3cdc47584c1449582ec64c",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/ehub/seat-ibiza-style-1-0-tsi-115bhp-dsg-2-2.webp"
+    },
+    {
+      "path": "dist/assets/ehub/seat-ibiza-style-1-0-tsi-115bhp-dsg-2.webp",
+      "size": 184716,
+      "text": false,
+      "sha": "499fdb13a53d1be81d7b10461b7fe5e94464b845",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/ehub/seat-ibiza-style-1-0-tsi-115bhp-dsg-2.webp"
+    },
+    {
+      "path": "dist/assets/ehub/seat-leon-fr-1-5etsi-dsg-150bhp-1.webp",
+      "size": 188588,
+      "text": false,
+      "sha": "3a45a34686e494283b4de6bd1e86499ee30935ae",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/ehub/seat-leon-fr-1-5etsi-dsg-150bhp-1.webp"
+    },
+    {
+      "path": "dist/assets/ehub/seat-leon-fr-1-5etsi-dsg-150bhp-2.webp",
+      "size": 171610,
+      "text": false,
+      "sha": "1a974a7e89701e3dfd5bcfc5d5e0ad4b116912ba",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/ehub/seat-leon-fr-1-5etsi-dsg-150bhp-2.webp"
+    },
+    {
+      "path": "dist/assets/ehub/seat-leon-nf-fr-1-5tsi-mhev-dsg-1.webp",
+      "size": 49832,
+      "text": false,
+      "sha": "363c1625da6fd739194cbd31bcd83d24b15c81e1",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/ehub/seat-leon-nf-fr-1-5tsi-mhev-dsg-1.webp"
+    },
+    {
+      "path": "dist/assets/ehub/skoda-elroq-60-1.webp",
+      "size": 189194,
+      "text": false,
+      "sha": "ed22674621a111ef56b6fdc54747c83b5ebcc998",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/ehub/skoda-elroq-60-1.webp"
+    },
+    {
+      "path": "dist/assets/ehub/skoda-elroq-60-2.webp",
+      "size": 154886,
+      "text": false,
+      "sha": "d5cb37a96b3b3ae5e11cf8edc3930cc63b2a3f56",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/ehub/skoda-elroq-60-2.webp"
+    },
+    {
+      "path": "dist/assets/ehub/skoda-elroq-61-1.webp",
+      "size": 187898,
+      "text": false,
+      "sha": "b6b0dba77417862f3a34efc19d8cf3ad871dab4d",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/ehub/skoda-elroq-61-1.webp"
+    },
+    {
+      "path": "dist/assets/ehub/skoda-elroq-61-2.webp",
+      "size": 162996,
+      "text": false,
+      "sha": "1e2ca26f7a4df97138324495335cd00332d44cf0",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/ehub/skoda-elroq-61-2.webp"
+    },
+    {
+      "path": "dist/assets/ehub/skoda-fabia-selection-1-0tsi-dsg-85kw-1-1.webp",
+      "size": 184784,
+      "text": false,
+      "sha": "b8ec929bc9bb40164cc65bbe1978f850cea6275e",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/ehub/skoda-fabia-selection-1-0tsi-dsg-85kw-1-1.webp"
+    },
+    {
+      "path": "dist/assets/ehub/skoda-fabia-selection-1-0tsi-dsg-85kw-1-2.webp",
+      "size": 183338,
+      "text": false,
+      "sha": "6b09cdd22d478da5b71677ca0e6c7c10efb9828b",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/ehub/skoda-fabia-selection-1-0tsi-dsg-85kw-1-2.webp"
+    },
+    {
+      "path": "dist/assets/ehub/skoda-fabia-selection-1-0tsi-dsg-85kw-2-1.webp",
+      "size": 132250,
+      "text": false,
+      "sha": "69f91b9795b1a1d79188a9a058d65d691f2b1e75",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/ehub/skoda-fabia-selection-1-0tsi-dsg-85kw-2-1.webp"
+    },
+    {
+      "path": "dist/assets/ehub/skoda-fabia-selection-1-0tsi-dsg-85kw-2-2.webp",
+      "size": 142702,
+      "text": false,
+      "sha": "fd4fb052eb6f9cdad28d0c39d419f35f87697e22",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/ehub/skoda-fabia-selection-1-0tsi-dsg-85kw-2-2.webp"
+    },
+    {
+      "path": "dist/assets/ehub/vw-golf-life-1-5tsi-ehybrid-dsg-110kw-1.webp",
+      "size": 203122,
+      "text": false,
+      "sha": "6eb9fea9757a993a0f4c92e90179f0b69ca592bf",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/ehub/vw-golf-life-1-5tsi-ehybrid-dsg-110kw-1.webp"
+    },
+    {
+      "path": "dist/assets/ehub/vw-golf-life-1-5tsi-ehybrid-dsg-110kw-2.webp",
+      "size": 180996,
+      "text": false,
+      "sha": "ef66856be1ea79ba7a65117f9075f6a74a6c55aa",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/ehub/vw-golf-life-1-5tsi-ehybrid-dsg-110kw-2.webp"
+    },
+    {
+      "path": "dist/assets/ehub/vw-golf-life-ehybrid-dsg-110kw-1-1.webp",
+      "size": 190446,
+      "text": false,
+      "sha": "a5c91dd73d9d020d94c516501bd7873e41575178",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/ehub/vw-golf-life-ehybrid-dsg-110kw-1-1.webp"
+    },
+    {
+      "path": "dist/assets/ehub/vw-golf-life-ehybrid-dsg-110kw-1-2.webp",
+      "size": 199478,
+      "text": false,
+      "sha": "68fac47bd1bef44d4168474d7ec1ea5db9263b1f",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/ehub/vw-golf-life-ehybrid-dsg-110kw-1-2.webp"
+    },
+    {
+      "path": "dist/assets/ehub/vw-golf-life-ehybrid-dsg-110kw-1.webp",
+      "size": 54294,
+      "text": false,
+      "sha": "8e61e03c2609ba7672ba19e513a302e9eb6968ef",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/ehub/vw-golf-life-ehybrid-dsg-110kw-1.webp"
+    },
+    {
+      "path": "dist/assets/ehub/vw-golf-life-ehybrid-dsg-110kw-2-1.webp",
+      "size": 54294,
+      "text": false,
+      "sha": "8e61e03c2609ba7672ba19e513a302e9eb6968ef",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/ehub/vw-golf-life-ehybrid-dsg-110kw-2-1.webp"
+    },
+    {
+      "path": "dist/assets/ehub/vw-id-3-1.webp",
+      "size": 63922,
+      "text": false,
+      "sha": "678ea4f98c054abd06ada7fb7dc14adb24fbcb77",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/ehub/vw-id-3-1.webp"
+    },
+    {
+      "path": "dist/assets/ehub/vw-id-3-2.webp",
+      "size": 70006,
+      "text": false,
+      "sha": "10673df2d30a1cd0479afe80b89a570fa8c9b537",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/ehub/vw-id-3-2.webp"
+    },
+    {
+      "path": "dist/assets/ehub/vw-id-3-pa-pro-2-1.webp",
+      "size": 69208,
+      "text": false,
+      "sha": "3ba9a010560ad517bbea663e8fabad9223181740",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/ehub/vw-id-3-pa-pro-2-1.webp"
+    },
+    {
+      "path": "dist/assets/ehub/vw-id-3-pa-pro-3-1.webp",
+      "size": 74280,
+      "text": false,
+      "sha": "b00e0bc8737cd20027e6f279c0405b0f3dce46d9",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/ehub/vw-id-3-pa-pro-3-1.webp"
+    },
+    {
+      "path": "dist/assets/ehub/vw-id-3-pa-pro-3-2.webp",
+      "size": 58792,
+      "text": false,
+      "sha": "15cfec33fe691d5841d5ee38a960956adfbff761",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/ehub/vw-id-3-pa-pro-3-2.webp"
+    },
+    {
+      "path": "dist/assets/ehub/vw-id-4-pro-1-1.webp",
+      "size": 36254,
+      "text": false,
+      "sha": "b3fe11305a6775a90a923eb72b9f4d84db852ba6",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/ehub/vw-id-4-pro-1-1.webp"
+    },
+    {
+      "path": "dist/assets/ehub/vw-id-4-pro-1-2.webp",
+      "size": 29554,
+      "text": false,
+      "sha": "9d3edab37c4da70c7d3d0a37b30cb2afa4478d17",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/ehub/vw-id-4-pro-1-2.webp"
+    },
+    {
+      "path": "dist/assets/ehub/vw-id-5-pro-1.webp",
+      "size": 64630,
+      "text": false,
+      "sha": "bfc4830b6fc4b83c9a55f15a129b26f71a1f0937",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/ehub/vw-id-5-pro-1.webp"
+    },
+    {
+      "path": "dist/assets/ehub/vw-t-roc-cabrio-style-1-5tsi-dsg-1-1.webp",
+      "size": 213760,
+      "text": false,
+      "sha": "f8747e6e3bc4d32bd7391e2b48e058d3d6702675",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/ehub/vw-t-roc-cabrio-style-1-5tsi-dsg-1-1.webp"
+    },
+    {
+      "path": "dist/assets/ehub/vw-t-roc-cabrio-style-1-5tsi-dsg-1-2.webp",
+      "size": 202512,
+      "text": false,
+      "sha": "4b0dd2d4469de6d6bfdf5af4bf4eaf2859f25c87",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/ehub/vw-t-roc-cabrio-style-1-5tsi-dsg-1-2.webp"
+    },
+    {
+      "path": "dist/assets/ehub/vw-t-roc-cabrio-style-1-5tsi-dsg-1.webp",
+      "size": 197652,
+      "text": false,
+      "sha": "41a2b11dea116d83965f580ce10aa32474d704aa",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/ehub/vw-t-roc-cabrio-style-1-5tsi-dsg-1.webp"
+    },
+    {
+      "path": "dist/assets/ehub/vw-t-roc-cabrio-style-1-5tsi-dsg-2.webp",
+      "size": 186242,
+      "text": false,
+      "sha": "0bb1db6998d7b424041ac140746be5cb92443ab3",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/ehub/vw-t-roc-cabrio-style-1-5tsi-dsg-2.webp"
+    },
+    {
+      "path": "dist/assets/ehub/vw-taigo-life-1-0tsi-95ps-2-1.webp",
+      "size": 181626,
+      "text": false,
+      "sha": "1bef63914996415632c0e3c0a954390fbff43a53",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/ehub/vw-taigo-life-1-0tsi-95ps-2-1.webp"
+    },
+    {
+      "path": "dist/assets/ehub/vw-taigo-life-1-0tsi-95ps-2-2.webp",
+      "size": 209324,
+      "text": false,
+      "sha": "2043a467e8f9a7335d9435ac9ea21faf46a3efb6",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/ehub/vw-taigo-life-1-0tsi-95ps-2-2.webp"
+    },
+    {
+      "path": "dist/assets/ehub/vw-taigo-life-1-0tsi-95ps-dsg1-1.webp",
+      "size": 77154,
+      "text": false,
+      "sha": "321fed295a107922f4318cd6610a684a1a2287f1",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/ehub/vw-taigo-life-1-0tsi-95ps-dsg1-1.webp"
+    },
+    {
+      "path": "dist/assets/ehub/vw-taigo-life-1-0tsi-95ps-dsg1-2.webp",
+      "size": 63740,
+      "text": false,
+      "sha": "069b08012fe92d9e3fba06c87197931f6e867073",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/ehub/vw-taigo-life-1-0tsi-95ps-dsg1-2.webp"
+    },
+    {
+      "path": "dist/assets/ehub/vw-tayron-elegance-1-5-etsi-dsg-1.webp",
+      "size": 173224,
+      "text": false,
+      "sha": "fd698f7397dc543540e1ea3a7a5d9d7c48e00c2e",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/ehub/vw-tayron-elegance-1-5-etsi-dsg-1.webp"
+    },
+    {
+      "path": "dist/assets/ehub/vw-tayron-elegance-1-5-etsi-dsg-2.webp",
+      "size": 197148,
+      "text": false,
+      "sha": "d5f345b5abfbb717a276acb127a67cfe08c6b4a7",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/ehub/vw-tayron-elegance-1-5-etsi-dsg-2.webp"
+    },
+    {
+      "path": "dist/assets/ehub/vw-tayron-elegance-1-5-etsi-dsg-copy-1.webp",
+      "size": 200460,
+      "text": false,
+      "sha": "89297b6cdcdaf0748939c1f1cc68472dd8c61b47",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/ehub/vw-tayron-elegance-1-5-etsi-dsg-copy-1.webp"
+    },
+    {
+      "path": "dist/assets/ehub/vw-tayron-elegance-1-5-etsi-dsg-copy-2.webp",
+      "size": 185632,
+      "text": false,
+      "sha": "37f073a9838ef5a0dae401e018742f8d3dd7bad8",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/ehub/vw-tayron-elegance-1-5-etsi-dsg-copy-2.webp"
+    },
+    {
+      "path": "dist/assets/ehub/vw-tiguan-life-1-5etsi-dsg-1-1.webp",
+      "size": 179576,
+      "text": false,
+      "sha": "e3d546a9874cd83a1415c4fcd79150d34ab26901",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/ehub/vw-tiguan-life-1-5etsi-dsg-1-1.webp"
+    },
+    {
+      "path": "dist/assets/ehub/vw-tiguan-life-1-5etsi-dsg-1-2.webp",
+      "size": 183628,
+      "text": false,
+      "sha": "a4c897865818f8e903f928434d2e89260b034dd8",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/ehub/vw-tiguan-life-1-5etsi-dsg-1-2.webp"
+    },
+    {
+      "path": "dist/assets/ehub/vw-tiguan-life-1-5etsi-dsg-2-1.webp",
+      "size": 171972,
+      "text": false,
+      "sha": "b7bc75e332ae23e92a8a1b02e9d4f139ca3682cf",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/ehub/vw-tiguan-life-1-5etsi-dsg-2-1.webp"
+    },
+    {
+      "path": "dist/assets/ehub/vw-tiguan-life-1-5etsi-dsg-2-2.webp",
+      "size": 173182,
+      "text": false,
+      "sha": "099b8a9506b680707c292e5402c41d790ad8c2b3",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/ehub/vw-tiguan-life-1-5etsi-dsg-2-2.webp"
+    },
+    {
+      "path": "dist/assets/ehub/vw-tiguan-rline-1-5-etsi-dsg-2-1.webp",
+      "size": 198752,
+      "text": false,
+      "sha": "e9487b3a3eb45f876a457138b1487ea949691960",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/ehub/vw-tiguan-rline-1-5-etsi-dsg-2-1.webp"
+    },
+    {
+      "path": "dist/assets/ehub/vw-tiguan-rline-1-5-etsi-dsg-2-2.webp",
+      "size": 168416,
+      "text": false,
+      "sha": "c280189a300a3a92615da6a9586d4e7eed87f7d9",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/ehub/vw-tiguan-rline-1-5-etsi-dsg-2-2.webp"
+    },
+    {
+      "path": "dist/assets/ehub/vw-tiguan-rline-2-0-tsi-dsg-150kw-4motion-1.webp",
+      "size": 185728,
+      "text": false,
+      "sha": "e7f83e9efb13ea203f0d40e7062b67ce69e6570e",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/ehub/vw-tiguan-rline-2-0-tsi-dsg-150kw-4motion-1.webp"
+    },
+    {
+      "path": "dist/assets/ehub/vw-tiguan-rline-2-0-tsi-dsg-150kw-4motion-2.webp",
+      "size": 195464,
+      "text": false,
+      "sha": "be836226aa38c6340cf1e4e4403e30ee4fd5c61e",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/ehub/vw-tiguan-rline-2-0-tsi-dsg-150kw-4motion-2.webp"
+    },
+    {
+      "path": "dist/assets/ev.jpg",
+      "size": 622829,
+      "text": false,
+      "sha": "0aa77c660acfd9c22b6d4abcf7f90c20721ef5ff",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/ev.jpg"
+    },
+    {
+      "path": "dist/assets/logo.png",
+      "size": 10782,
+      "text": false,
+      "sha": "8693ae544214f05e859cf05fd5fc4815341bb7f9",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/logo.png"
+    },
+    {
+      "path": "dist/assets/offer-audiq3.webp",
+      "size": 579030,
+      "text": false,
+      "sha": "ca093c348f26f0f8c39ada3783542018e7bcb741",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/offer-audiq3.webp"
+    },
+    {
+      "path": "dist/assets/offer-care.webp",
+      "size": 527288,
+      "text": false,
+      "sha": "49dc8b5f20aa5b728adcd2097adea5ea1f0e120e",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/offer-care.webp"
+    },
+    {
+      "path": "dist/assets/offer-kodiaq.webp",
+      "size": 751672,
+      "text": false,
+      "sha": "4cfe10c8fb3c1aa8d3b380c397ec2ce2d209572d",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/offer-kodiaq.webp"
+    },
+    {
+      "path": "dist/assets/offer-raval.webp",
+      "size": 881932,
+      "text": false,
+      "sha": "302c3542b451e9f5fe8a55b210bd00bdb078891b",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/offer-raval.webp"
+    },
+    {
+      "path": "dist/assets/offer-seat.webp",
+      "size": 1420208,
+      "text": false,
+      "sha": "0af663e96c5bfebb24a72d64a0b2f76f8ceae756",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/offer-seat.webp"
+    },
+    {
+      "path": "dist/assets/offer-taigo.webp",
+      "size": 631582,
+      "text": false,
+      "sha": "80e66007a17e79c3d91f0cf7e6c546bd84abd0d2",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/offer-taigo.webp"
+    },
+    {
+      "path": "dist/assets/offer-tiguan.webp",
+      "size": 1906756,
+      "text": false,
+      "sha": "c5f0a89579bd80a173355f430d2c98f21e7863b9",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/offer-tiguan.webp"
+    },
+    {
+      "path": "dist/assets/range-documents/audi-a3-sedan.jpg",
+      "size": 62682,
+      "text": false,
+      "sha": "745d91aa06d248787d8b838b3e2bf8a8afdcb44b",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range-documents/audi-a3-sedan.jpg"
+    },
+    {
+      "path": "dist/assets/range-documents/audi-a3-sportback.jpg",
+      "size": 76494,
+      "text": false,
+      "sha": "900aa0759cc0f7cf811703439b5fe6e26c24f147",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range-documents/audi-a3-sportback.jpg"
+    },
+    {
+      "path": "dist/assets/range-documents/audi-a5-avant.jpg",
+      "size": 80408,
+      "text": false,
+      "sha": "37963cfc920a76eb1a4d17667cb010105f0c58fc",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range-documents/audi-a5-avant.jpg"
+    },
+    {
+      "path": "dist/assets/range-documents/audi-a5-limousine.jpg",
+      "size": 75979,
+      "text": false,
+      "sha": "170b9448855424b8e4e33bc8aea11ba82e51cd01",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range-documents/audi-a5-limousine.jpg"
+    },
+    {
+      "path": "dist/assets/range-documents/audi-a6-e-tron-avant.jpg",
+      "size": 76114,
+      "text": false,
+      "sha": "c3304d28ecf185451eeb3c3c36f077dd0785cdaa",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range-documents/audi-a6-e-tron-avant.jpg"
+    },
+    {
+      "path": "dist/assets/range-documents/audi-a6-e-tron-sportback.jpg",
+      "size": 67833,
+      "text": false,
+      "sha": "9b4dcb1d6686965987656278f6ac21135fbd4050",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range-documents/audi-a6-e-tron-sportback.jpg"
+    },
+    {
+      "path": "dist/assets/range-documents/audi-e-tron-gt.jpg",
+      "size": 72699,
+      "text": false,
+      "sha": "cbb6c89cfdd227fb8d5cfc419b693941f5b0bf76",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range-documents/audi-e-tron-gt.jpg"
+    },
+    {
+      "path": "dist/assets/range-documents/audi-q3-sportback.jpg",
+      "size": 66573,
+      "text": false,
+      "sha": "db7fe646b2bcdb6e4ede375ddc457e3bc6905ac1",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range-documents/audi-q3-sportback.jpg"
+    },
+    {
+      "path": "dist/assets/range-documents/audi-q3.jpg",
+      "size": 65361,
+      "text": false,
+      "sha": "4b9c843d8c4abd5e011d06fa939566f8d0322026",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range-documents/audi-q3.jpg"
+    },
+    {
+      "path": "dist/assets/range-documents/audi-q4-e-tron-sportback.jpg",
+      "size": 76449,
+      "text": false,
+      "sha": "62ffa262808ebb8c8b5bae980cb81b13fe94a3ac",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range-documents/audi-q4-e-tron-sportback.jpg"
+    },
+    {
+      "path": "dist/assets/range-documents/audi-q4-e-tron.jpg",
+      "size": 74663,
+      "text": false,
+      "sha": "f497e004417624fafdf14b4416e6a775a0af2f7d",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range-documents/audi-q4-e-tron.jpg"
+    },
+    {
+      "path": "dist/assets/range-documents/audi-q5-sportback.jpg",
+      "size": 97907,
+      "text": false,
+      "sha": "73fe268d652193e47f2713969269b8e9f740a24f",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range-documents/audi-q5-sportback.jpg"
+    },
+    {
+      "path": "dist/assets/range-documents/audi-q5.jpg",
+      "size": 71096,
+      "text": false,
+      "sha": "e07ab5ff77ed8adf3e7269d7546b45dd46c15012",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range-documents/audi-q5.jpg"
+    },
+    {
+      "path": "dist/assets/range-documents/audi-q6-e-tron.jpg",
+      "size": 58854,
+      "text": false,
+      "sha": "8952acde0b007b51e18973537aea3a73a1257e5c",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range-documents/audi-q6-e-tron.jpg"
+    },
+    {
+      "path": "dist/assets/range-documents/audi-q6-sportback-e-tron.jpg",
+      "size": 95292,
+      "text": false,
+      "sha": "4ab2f7063e520690e5935007d6666c198ac0c217",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range-documents/audi-q6-sportback-e-tron.jpg"
+    },
+    {
+      "path": "dist/assets/range-documents/audi-q7.jpg",
+      "size": 74068,
+      "text": false,
+      "sha": "b54b74630632afdc63958fdaca013806a1053379",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range-documents/audi-q7.jpg"
+    },
+    {
+      "path": "dist/assets/range-documents/audi-q8.jpg",
+      "size": 74645,
+      "text": false,
+      "sha": "3223e710d9569a9efb5182c5eaa0fb0e6ef934bd",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range-documents/audi-q8.jpg"
+    },
+    {
+      "path": "dist/assets/range-documents/audi-rsq8.jpg",
+      "size": 52769,
+      "text": false,
+      "sha": "0b94b3f6099ea7732e190d028d8cd8f289dddb53",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range-documents/audi-rsq8.jpg"
+    },
+    {
+      "path": "dist/assets/range-documents/cupra-born.jpg",
+      "size": 69006,
+      "text": false,
+      "sha": "39ec61752c1d6749a54cae34ee46f31f2043357c",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range-documents/cupra-born.jpg"
+    },
+    {
+      "path": "dist/assets/range-documents/cupra-formentor.jpg",
+      "size": 62492,
+      "text": false,
+      "sha": "19d2a0a50416fc45515f5bdf3cb835e5a317e6bf",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range-documents/cupra-formentor.jpg"
+    },
+    {
+      "path": "dist/assets/range-documents/cupra-leon.jpg",
+      "size": 53027,
+      "text": false,
+      "sha": "9765421edb0edd5d5d17cf28afc3fb6b7deba0d6",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range-documents/cupra-leon.jpg"
+    },
+    {
+      "path": "dist/assets/range-documents/cupra-raval.jpg",
+      "size": 64254,
+      "text": false,
+      "sha": "8a4884cc88a9a8a1e0f33a538320626da5209181",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range-documents/cupra-raval.jpg"
+    },
+    {
+      "path": "dist/assets/range-documents/cupra-tavascan.jpg",
+      "size": 68196,
+      "text": false,
+      "sha": "162a119e822b5184c7a4f1066cf1e841019cc551",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range-documents/cupra-tavascan.jpg"
+    },
+    {
+      "path": "dist/assets/range-documents/cupra-terramar.jpg",
+      "size": 55507,
+      "text": false,
+      "sha": "0baa4f0471ebef22e4a9120df22cb65d1ae6b100",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range-documents/cupra-terramar.jpg"
+    },
+    {
+      "path": "dist/assets/range-documents/id-buzz-cargo.jpg",
+      "size": 80268,
+      "text": false,
+      "sha": "9faccb8f8368a009df63f04773b4a36e99630f77",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range-documents/id-buzz-cargo.jpg"
+    },
+    {
+      "path": "dist/assets/range-documents/seat-arona.jpg",
+      "size": 59130,
+      "text": false,
+      "sha": "fadb9f776bbb3fcccda34c93c2a0fccb2167f727",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range-documents/seat-arona.jpg"
+    },
+    {
+      "path": "dist/assets/range-documents/seat-ibiza-van.jpg",
+      "size": 43393,
+      "text": false,
+      "sha": "5c5ee46d6c7341840b1d9c6adfd0f96da56353ab",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range-documents/seat-ibiza-van.jpg"
+    },
+    {
+      "path": "dist/assets/range-documents/seat-ibiza.jpg",
+      "size": 58304,
+      "text": false,
+      "sha": "e47262951d792e7a9784c033de90581cc18a7931",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range-documents/seat-ibiza.jpg"
+    },
+    {
+      "path": "dist/assets/range-documents/seat-leon.jpg",
+      "size": 53129,
+      "text": false,
+      "sha": "15cb6f063123f720aa712505b21c84478b01164f",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range-documents/seat-leon.jpg"
+    },
+    {
+      "path": "dist/assets/range-documents/skoda-elroq-rs.jpg",
+      "size": 48346,
+      "text": false,
+      "sha": "77d4d5c06d2cf1e67ceddb29e8658befb804c3a6",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range-documents/skoda-elroq-rs.jpg"
+    },
+    {
+      "path": "dist/assets/range-documents/skoda-elroq.jpg",
+      "size": 40561,
+      "text": false,
+      "sha": "19c45b70d37c66407d0f59127847c00318b14f73",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range-documents/skoda-elroq.jpg"
+    },
+    {
+      "path": "dist/assets/range-documents/skoda-enyaq-coupe-rs.jpg",
+      "size": 44701,
+      "text": false,
+      "sha": "e91fe5ccedfdc018c6743cbf261e405ea3489997",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range-documents/skoda-enyaq-coupe-rs.jpg"
+    },
+    {
+      "path": "dist/assets/range-documents/skoda-enyaq-coupe.jpg",
+      "size": 59638,
+      "text": false,
+      "sha": "ca7a04c8268f1fef6cb75303b4fa0eba5e15839e",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range-documents/skoda-enyaq-coupe.jpg"
+    },
+    {
+      "path": "dist/assets/range-documents/skoda-enyaq-rs.jpg",
+      "size": 44701,
+      "text": false,
+      "sha": "e91fe5ccedfdc018c6743cbf261e405ea3489997",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range-documents/skoda-enyaq-rs.jpg"
+    },
+    {
+      "path": "dist/assets/range-documents/skoda-enyaq.jpg",
+      "size": 57844,
+      "text": false,
+      "sha": "228d10c32ac1081c9d0118cc2459666dd66b26b0",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range-documents/skoda-enyaq.jpg"
+    },
+    {
+      "path": "dist/assets/range-documents/skoda-fabia-130.jpg",
+      "size": 56809,
+      "text": false,
+      "sha": "031e96d39a3869d50f5df9de13dfe1e5c553fe78",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range-documents/skoda-fabia-130.jpg"
+    },
+    {
+      "path": "dist/assets/range-documents/skoda-fabia.jpg",
+      "size": 41618,
+      "text": false,
+      "sha": "723bbbde89913f4bab217e85d775c95cd3cee407",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range-documents/skoda-fabia.jpg"
+    },
+    {
+      "path": "dist/assets/range-documents/skoda-kamiq.jpg",
+      "size": 61481,
+      "text": false,
+      "sha": "f9325cb809b19cab6e93d7b0c7955e73274cfc33",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range-documents/skoda-kamiq.jpg"
+    },
+    {
+      "path": "dist/assets/range-documents/skoda-karoq.jpg",
+      "size": 48091,
+      "text": false,
+      "sha": "a32e1102535c0a99523f319d0594eb419097258a",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range-documents/skoda-karoq.jpg"
+    },
+    {
+      "path": "dist/assets/range-documents/skoda-kodiaq-rs.jpg",
+      "size": 50623,
+      "text": false,
+      "sha": "71327f5b41cc1fe24c8dadb08d28dace1a5fee16",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range-documents/skoda-kodiaq-rs.jpg"
+    },
+    {
+      "path": "dist/assets/range-documents/skoda-kodiaq.jpg",
+      "size": 75797,
+      "text": false,
+      "sha": "b6ab4d435ea48cdcccfb7804226d57850d6480b2",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range-documents/skoda-kodiaq.jpg"
+    },
+    {
+      "path": "dist/assets/range-documents/skoda-octavia-combi.jpg",
+      "size": 47643,
+      "text": false,
+      "sha": "696d5417eb71f2172cc2002550413275429760e9",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range-documents/skoda-octavia-combi.jpg"
+    },
+    {
+      "path": "dist/assets/range-documents/skoda-octavia-rs.jpg",
+      "size": 73613,
+      "text": false,
+      "sha": "6db28142ade50cde843f4d745e14892e47d0813b",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range-documents/skoda-octavia-rs.jpg"
+    },
+    {
+      "path": "dist/assets/range-documents/skoda-octavia.jpg",
+      "size": 64657,
+      "text": false,
+      "sha": "6c5b8023744fd3de80aa4902d6e6d55f14d5b9c3",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range-documents/skoda-octavia.jpg"
+    },
+    {
+      "path": "dist/assets/range-documents/volkswagen-amarok.jpg",
+      "size": 47275,
+      "text": false,
+      "sha": "bee693e7ba4fdbcfe9eff32874a3d3fbb180c94b",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range-documents/volkswagen-amarok.jpg"
+    },
+    {
+      "path": "dist/assets/range-documents/volkswagen-caddy-maxi-cargo.jpg",
+      "size": 63025,
+      "text": false,
+      "sha": "3e905910c7988a68095caf772eb1709699de7f82",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range-documents/volkswagen-caddy-maxi-cargo.jpg"
+    },
+    {
+      "path": "dist/assets/range-documents/volkswagen-caddy-passenger.jpg",
+      "size": 48024,
+      "text": false,
+      "sha": "99809b9886d31047d1876e682255a0cc1fa48ec8",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range-documents/volkswagen-caddy-passenger.jpg"
+    },
+    {
+      "path": "dist/assets/range-documents/volkswagen-caddy.jpg",
+      "size": 64496,
+      "text": false,
+      "sha": "fe412d6cfa95bed2219a2368ac0d42f3cd36c441",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range-documents/volkswagen-caddy.jpg"
+    },
+    {
+      "path": "dist/assets/range-documents/volkswagen-crafter.jpg",
+      "size": 71856,
+      "text": false,
+      "sha": "03a24617cdbe60190b5ae7a74409190d29fbec52",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range-documents/volkswagen-crafter.jpg"
+    },
+    {
+      "path": "dist/assets/range-documents/volkswagen-golf-performance-gti-r.jpg",
+      "size": 96956,
+      "text": false,
+      "sha": "cc6238b5b762817764efb76336bcab3e7a5ea05a",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range-documents/volkswagen-golf-performance-gti-r.jpg"
+    },
+    {
+      "path": "dist/assets/range-documents/volkswagen-golf.jpg",
+      "size": 60510,
+      "text": false,
+      "sha": "5eebc99a047878a789b481c8fc11058b45d9c13b",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range-documents/volkswagen-golf.jpg"
+    },
+    {
+      "path": "dist/assets/range-documents/volkswagen-id-3-neo.jpg",
+      "size": 77953,
+      "text": false,
+      "sha": "c50860cfef45ee91a7125bd88712326409adef4c",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range-documents/volkswagen-id-3-neo.jpg"
+    },
+    {
+      "path": "dist/assets/range-documents/volkswagen-id-4.jpg",
+      "size": 75085,
+      "text": false,
+      "sha": "5c5757d514cd1f61b52fba1dea37bab79770762a",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range-documents/volkswagen-id-4.jpg"
+    },
+    {
+      "path": "dist/assets/range-documents/volkswagen-id-5.jpg",
+      "size": 69486,
+      "text": false,
+      "sha": "77a6992692828b4386eb9970175295dc360c3e83",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range-documents/volkswagen-id-5.jpg"
+    },
+    {
+      "path": "dist/assets/range-documents/volkswagen-id-7.jpg",
+      "size": 71383,
+      "text": false,
+      "sha": "6da1e489f17980662dc57e388298db342cae3228",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range-documents/volkswagen-id-7.jpg"
+    },
+    {
+      "path": "dist/assets/range-documents/volkswagen-id-buzz.jpg",
+      "size": 53700,
+      "text": false,
+      "sha": "62f2536074453ded75ad6e0f15b479179dd749fb",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range-documents/volkswagen-id-buzz.jpg"
+    },
+    {
+      "path": "dist/assets/range-documents/volkswagen-id-polo.jpg",
+      "size": 80629,
+      "text": false,
+      "sha": "e0cb0015ce45ad612e83ea908c856ed33d01c2a5",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range-documents/volkswagen-id-polo.jpg"
+    },
+    {
+      "path": "dist/assets/range-documents/volkswagen-polo.jpg",
+      "size": 58343,
+      "text": false,
+      "sha": "37a4902145c7de09d4192ea1bf50796dbddfa135",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range-documents/volkswagen-polo.jpg"
+    },
+    {
+      "path": "dist/assets/range-documents/volkswagen-t-cross.jpg",
+      "size": 51029,
+      "text": false,
+      "sha": "55d3ae908b1a3326e22690151e9d1b616f147096",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range-documents/volkswagen-t-cross.jpg"
+    },
+    {
+      "path": "dist/assets/range-documents/volkswagen-t-roc-cabrio.jpg",
+      "size": 71362,
+      "text": false,
+      "sha": "b5f32d0d66e5f2d245713c849ddca34059f74a2b",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range-documents/volkswagen-t-roc-cabrio.jpg"
+    },
+    {
+      "path": "dist/assets/range-documents/volkswagen-t-roc.jpg",
+      "size": 71810,
+      "text": false,
+      "sha": "247551aca2ba34d3b6c5f8f3b458eda6c3b9a9b8",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range-documents/volkswagen-t-roc.jpg"
+    },
+    {
+      "path": "dist/assets/range-documents/volkswagen-t7-multivan.jpg",
+      "size": 55907,
+      "text": false,
+      "sha": "c61877a05b38d8421c6b1802bec86f5437f462a2",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range-documents/volkswagen-t7-multivan.jpg"
+    },
+    {
+      "path": "dist/assets/range-documents/volkswagen-taigo.jpg",
+      "size": 54208,
+      "text": false,
+      "sha": "2a8545a94e9e5d48449373d26decdb7b199b0392",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range-documents/volkswagen-taigo.jpg"
+    },
+    {
+      "path": "dist/assets/range-documents/volkswagen-tayron.jpg",
+      "size": 98399,
+      "text": false,
+      "sha": "f7bb9db52a1bbab3534eea3f10b3614e98edf47f",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range-documents/volkswagen-tayron.jpg"
+    },
+    {
+      "path": "dist/assets/range-documents/volkswagen-tiguan.jpg",
+      "size": 58388,
+      "text": false,
+      "sha": "f0eb297330410f85a3a3f786538e5ec46f6f6aa2",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range-documents/volkswagen-tiguan.jpg"
+    },
+    {
+      "path": "dist/assets/range/audi-a3-sedan.webp",
+      "size": 26796,
+      "text": false,
+      "sha": "1adb629d357060aeb2c9974b62dbcec30aa267e0",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range/audi-a3-sedan.webp"
+    },
+    {
+      "path": "dist/assets/range/audi-a3-sportback.webp",
+      "size": 26616,
+      "text": false,
+      "sha": "d664f33aaad5806f2da7a93a6170c89af26deeda",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range/audi-a3-sportback.webp"
+    },
+    {
+      "path": "dist/assets/range/audi-a5-avant.webp",
+      "size": 28234,
+      "text": false,
+      "sha": "2cdde0b0944c0c393b2a5136f72e0a30b7c9123e",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range/audi-a5-avant.webp"
+    },
+    {
+      "path": "dist/assets/range/audi-a5-limousine.webp",
+      "size": 24274,
+      "text": false,
+      "sha": "b8386653b71c152bcad739c7ab99934e42a0b712",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range/audi-a5-limousine.webp"
+    },
+    {
+      "path": "dist/assets/range/audi-a6-e-tron-avant.webp",
+      "size": 25564,
+      "text": false,
+      "sha": "35444acfa98820471d191f1c7532764781970f5f",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range/audi-a6-e-tron-avant.webp"
+    },
+    {
+      "path": "dist/assets/range/audi-a6-e-tron-sportback.webp",
+      "size": 28168,
+      "text": false,
+      "sha": "75dbe1be7629b450c1285a654c18757c65444ed8",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range/audi-a6-e-tron-sportback.webp"
+    },
+    {
+      "path": "dist/assets/range/audi-e-tron-gt.webp",
+      "size": 8962,
+      "text": false,
+      "sha": "5693399b022c973abc5dba1f8bd935908f389592",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range/audi-e-tron-gt.webp"
+    },
+    {
+      "path": "dist/assets/range/audi-q3-sportback.webp",
+      "size": 10200,
+      "text": false,
+      "sha": "df67ac015193f252b7ea2a45cb49c120da53530d",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range/audi-q3-sportback.webp"
+    },
+    {
+      "path": "dist/assets/range/audi-q3.webp",
+      "size": 14006,
+      "text": false,
+      "sha": "cd2fa8958204f2747f01dab73507bd2331dfb381",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range/audi-q3.webp"
+    },
+    {
+      "path": "dist/assets/range/audi-q4-e-tron-sportback.webp",
+      "size": 27316,
+      "text": false,
+      "sha": "0748b594c1c5df0368b8b43d48f4ba5c652329f6",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range/audi-q4-e-tron-sportback.webp"
+    },
+    {
+      "path": "dist/assets/range/audi-q4-e-tron.webp",
+      "size": 25672,
+      "text": false,
+      "sha": "165824c1687d9061c67f733a73e91640e5817d93",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range/audi-q4-e-tron.webp"
+    },
+    {
+      "path": "dist/assets/range/audi-q5-sportback.webp",
+      "size": 31474,
+      "text": false,
+      "sha": "2c1fbdd56440894aeef6bc5c4e548da02c1279cb",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range/audi-q5-sportback.webp"
+    },
+    {
+      "path": "dist/assets/range/audi-q5.webp",
+      "size": 36916,
+      "text": false,
+      "sha": "c7dbb5f672d72b843a37554608aa0c6e9c03bb7c",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range/audi-q5.webp"
+    },
+    {
+      "path": "dist/assets/range/audi-q6-e-tron.webp",
+      "size": 31406,
+      "text": false,
+      "sha": "cd41645504794ba6d04b87f5a86b82d8dff3889c",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range/audi-q6-e-tron.webp"
+    },
+    {
+      "path": "dist/assets/range/audi-q6-sportback-e-tron.webp",
+      "size": 26428,
+      "text": false,
+      "sha": "7ecc722e1533073a1bb8e200c5a8eb43a8df4314",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range/audi-q6-sportback-e-tron.webp"
+    },
+    {
+      "path": "dist/assets/range/audi-q7.webp",
+      "size": 39436,
+      "text": false,
+      "sha": "521a129967e936c98cb60bbb5b5e6f38b82f9fc6",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range/audi-q7.webp"
+    },
+    {
+      "path": "dist/assets/range/audi-q8.webp",
+      "size": 24834,
+      "text": false,
+      "sha": "6771c8dbce99245e0e0e8c3614163b28235fc582",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range/audi-q8.webp"
+    },
+    {
+      "path": "dist/assets/range/audi-rsq8.webp",
+      "size": 32068,
+      "text": false,
+      "sha": "47ae4e80678254ed8a4ada8518d3f57ee2087414",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range/audi-rsq8.webp"
+    },
+    {
+      "path": "dist/assets/range/cupra-born.webp",
+      "size": 37744,
+      "text": false,
+      "sha": "72e17cce2ac87654c0f3e8c0f92d1e87a96d4d0b",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range/cupra-born.webp"
+    },
+    {
+      "path": "dist/assets/range/cupra-formentor.webp",
+      "size": 33366,
+      "text": false,
+      "sha": "1ade31010df38cda297b912d6221906079c3b6aa",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range/cupra-formentor.webp"
+    },
+    {
+      "path": "dist/assets/range/cupra-leon.webp",
+      "size": 24750,
+      "text": false,
+      "sha": "6ec945cd804cdd18010c80dfba91252abea0aee1",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range/cupra-leon.webp"
+    },
+    {
+      "path": "dist/assets/range/cupra-raval.webp",
+      "size": 23336,
+      "text": false,
+      "sha": "dcbec58b14bbf142540cd9c05c38e29270f2feb6",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range/cupra-raval.webp"
+    },
+    {
+      "path": "dist/assets/range/cupra-tavascan.webp",
+      "size": 22442,
+      "text": false,
+      "sha": "9d75f3fea109c2d991768240e0568ae0fe3e36e6",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range/cupra-tavascan.webp"
+    },
+    {
+      "path": "dist/assets/range/cupra-terramar.webp",
+      "size": 25830,
+      "text": false,
+      "sha": "b1def33abecb4a3d0363c00554114d8be0054116",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range/cupra-terramar.webp"
+    },
+    {
+      "path": "dist/assets/range/id-buzz-cargo.webp",
+      "size": 18726,
+      "text": false,
+      "sha": "b4b3e7384e5d456cca86a806f27debb9dd7df32a",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range/id-buzz-cargo.webp"
+    },
+    {
+      "path": "dist/assets/range/seat-arona.webp",
+      "size": 31860,
+      "text": false,
+      "sha": "01353e57fbd4df8a9e0a739f19aa533ed11a27d0",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range/seat-arona.webp"
+    },
+    {
+      "path": "dist/assets/range/seat-ibiza-van.webp",
+      "size": 16960,
+      "text": false,
+      "sha": "0985284ca393cd3497be1abca2f225f4a4fe0cda",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range/seat-ibiza-van.webp"
+    },
+    {
+      "path": "dist/assets/range/seat-ibiza.webp",
+      "size": 32138,
+      "text": false,
+      "sha": "6e8c074eb7143c770e6fc05aad564dc66a72ea0d",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range/seat-ibiza.webp"
+    },
+    {
+      "path": "dist/assets/range/seat-leon.webp",
+      "size": 32886,
+      "text": false,
+      "sha": "a16d3290ff5236c908192ba6390ab5dc0cfa06f1",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range/seat-leon.webp"
+    },
+    {
+      "path": "dist/assets/range/skoda-elroq-rs.webp",
+      "size": 35148,
+      "text": false,
+      "sha": "9f9edefda25aaf006db2be921b04d3efda174118",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range/skoda-elroq-rs.webp"
+    },
+    {
+      "path": "dist/assets/range/skoda-elroq.webp",
+      "size": 27582,
+      "text": false,
+      "sha": "934b1d2b28172de26135fd5b1a3c7e974cae09cf",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range/skoda-elroq.webp"
+    },
+    {
+      "path": "dist/assets/range/skoda-enyaq-coupe-rs.webp",
+      "size": 37758,
+      "text": false,
+      "sha": "76f8caf749380bae4f5d23d17e071dbe9f86a435",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range/skoda-enyaq-coupe-rs.webp"
+    },
+    {
+      "path": "dist/assets/range/skoda-enyaq-coupe.webp",
+      "size": 23558,
+      "text": false,
+      "sha": "fb6fc386112d9c621eedd46f2154a03d409e4191",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range/skoda-enyaq-coupe.webp"
+    },
+    {
+      "path": "dist/assets/range/skoda-enyaq-rs.webp",
+      "size": 37440,
+      "text": false,
+      "sha": "63dcc593a528b5a9aab5d4efdfc0559ab4bbbafe",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range/skoda-enyaq-rs.webp"
+    },
+    {
+      "path": "dist/assets/range/skoda-enyaq.webp",
+      "size": 23512,
+      "text": false,
+      "sha": "5d8c20c74be3b5ba1c4cdbfa66859d43bfd7557f",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range/skoda-enyaq.webp"
+    },
+    {
+      "path": "dist/assets/range/skoda-fabia-130.webp",
+      "size": 15344,
+      "text": false,
+      "sha": "1802231d3a17b5574aa9778d3dbf736a90ff218a",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range/skoda-fabia-130.webp"
+    },
+    {
+      "path": "dist/assets/range/skoda-fabia.webp",
+      "size": 23680,
+      "text": false,
+      "sha": "3b1a990456e6782ad32d4c3ad89f76091e2d9970",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range/skoda-fabia.webp"
+    },
+    {
+      "path": "dist/assets/range/skoda-kamiq.webp",
+      "size": 29256,
+      "text": false,
+      "sha": "53a5492825307f01acf38ebf2489d7391e5d697d",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range/skoda-kamiq.webp"
+    },
+    {
+      "path": "dist/assets/range/skoda-karoq.webp",
+      "size": 24992,
+      "text": false,
+      "sha": "ecbf3b761bb04dbcf563dd2f03da065d2e1c84c9",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range/skoda-karoq.webp"
+    },
+    {
+      "path": "dist/assets/range/skoda-kodiaq-rs.webp",
+      "size": 26772,
+      "text": false,
+      "sha": "f04d48061a0fad81f407f55bbf16956e9e9b4764",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range/skoda-kodiaq-rs.webp"
+    },
+    {
+      "path": "dist/assets/range/skoda-kodiaq.webp",
+      "size": 35798,
+      "text": false,
+      "sha": "15284cb26c2cd891eedccd617cf8ed598968bd37",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range/skoda-kodiaq.webp"
+    },
+    {
+      "path": "dist/assets/range/skoda-octavia-combi.webp",
+      "size": 31398,
+      "text": false,
+      "sha": "b0a3491d61302d11c9efd98f51ce36efebd1c17d",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range/skoda-octavia-combi.webp"
+    },
+    {
+      "path": "dist/assets/range/skoda-octavia-rs.webp",
+      "size": 26360,
+      "text": false,
+      "sha": "52eefc6be2df2241399fb2e67ebc8c54747d88c3",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range/skoda-octavia-rs.webp"
+    },
+    {
+      "path": "dist/assets/range/skoda-octavia.webp",
+      "size": 22906,
+      "text": false,
+      "sha": "d9abb59b70e77ae6616a7e79dd16b689c8368c1d",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range/skoda-octavia.webp"
+    },
+    {
+      "path": "dist/assets/range/volkswagen-amarok.webp",
+      "size": 32518,
+      "text": false,
+      "sha": "b87a5dcc7def290c8a3bb1cb087d17e006c34992",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range/volkswagen-amarok.webp"
+    },
+    {
+      "path": "dist/assets/range/volkswagen-caddy-maxi-cargo.webp",
+      "size": 22446,
+      "text": false,
+      "sha": "1307a4ce54694639b9327bf08563adcdacf57c93",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range/volkswagen-caddy-maxi-cargo.webp"
+    },
+    {
+      "path": "dist/assets/range/volkswagen-caddy-passenger.webp",
+      "size": 25138,
+      "text": false,
+      "sha": "cf3d13ab210853943a9c799798adc86cea5ec8c8",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range/volkswagen-caddy-passenger.webp"
+    },
+    {
+      "path": "dist/assets/range/volkswagen-caddy.webp",
+      "size": 8340,
+      "text": false,
+      "sha": "1309c4349b7f1cfe6a1d7d1e9c231f93eefd5501",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range/volkswagen-caddy.webp"
+    },
+    {
+      "path": "dist/assets/range/volkswagen-crafter.webp",
+      "size": 23764,
+      "text": false,
+      "sha": "02a7bf42a6d522f07810926ec218a1c80c5f7551",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range/volkswagen-crafter.webp"
+    },
+    {
+      "path": "dist/assets/range/volkswagen-golf-performance-gti-r.webp",
+      "size": 29406,
+      "text": false,
+      "sha": "7c09429c10577351dbfa305cfa01080cee049681",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range/volkswagen-golf-performance-gti-r.webp"
+    },
+    {
+      "path": "dist/assets/range/volkswagen-golf.webp",
+      "size": 26892,
+      "text": false,
+      "sha": "c04dc66494f79efd3b7a03a98cdaeda00694ba98",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range/volkswagen-golf.webp"
+    },
+    {
+      "path": "dist/assets/range/volkswagen-id-3-neo.webp",
+      "size": 28514,
+      "text": false,
+      "sha": "ddc8b11b9b7cd0a95a0d67e5637d543f40a75e09",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range/volkswagen-id-3-neo.webp"
+    },
+    {
+      "path": "dist/assets/range/volkswagen-id-4.webp",
+      "size": 32210,
+      "text": false,
+      "sha": "d3a56093633a34d1dba3e036ec663ab554b6d63b",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range/volkswagen-id-4.webp"
+    },
+    {
+      "path": "dist/assets/range/volkswagen-id-5.webp",
+      "size": 29060,
+      "text": false,
+      "sha": "9af5561829eed3364543852c024497cfb577ec55",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range/volkswagen-id-5.webp"
+    },
+    {
+      "path": "dist/assets/range/volkswagen-id-7.webp",
+      "size": 34374,
+      "text": false,
+      "sha": "1f5075a9571478e517406d6d024c50f13f0a21c2",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range/volkswagen-id-7.webp"
+    },
+    {
+      "path": "dist/assets/range/volkswagen-id-buzz.webp",
+      "size": 25228,
+      "text": false,
+      "sha": "7113d2876a3c6c0e60ac53650d7e5cc16f656aa1",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range/volkswagen-id-buzz.webp"
+    },
+    {
+      "path": "dist/assets/range/volkswagen-id-polo.webp",
+      "size": 28782,
+      "text": false,
+      "sha": "7387286bbe96fe6674bfc0c01e94e8219ec49530",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range/volkswagen-id-polo.webp"
+    },
+    {
+      "path": "dist/assets/range/volkswagen-polo.webp",
+      "size": 23124,
+      "text": false,
+      "sha": "10b452eb1c26da4ec45275d11aadc6d682852d17",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range/volkswagen-polo.webp"
+    },
+    {
+      "path": "dist/assets/range/volkswagen-t-cross.webp",
+      "size": 29336,
+      "text": false,
+      "sha": "4fe08d599becb1e954c3cafe360a5df335728bee",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range/volkswagen-t-cross.webp"
+    },
+    {
+      "path": "dist/assets/range/volkswagen-t-roc-cabrio.webp",
+      "size": 30680,
+      "text": false,
+      "sha": "912b6597af4d25d30bd73d0f450acbb11feb58d3",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range/volkswagen-t-roc-cabrio.webp"
+    },
+    {
+      "path": "dist/assets/range/volkswagen-t-roc.webp",
+      "size": 36952,
+      "text": false,
+      "sha": "030ee7185b9be9e03f8f2c4753f2cc80963d1a88",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range/volkswagen-t-roc.webp"
+    },
+    {
+      "path": "dist/assets/range/volkswagen-t7-multivan.webp",
+      "size": 24886,
+      "text": false,
+      "sha": "43a1f9ce54fbcf8218223b8d5332975ceae29d82",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range/volkswagen-t7-multivan.webp"
+    },
+    {
+      "path": "dist/assets/range/volkswagen-taigo.webp",
+      "size": 30310,
+      "text": false,
+      "sha": "ac421e6f38cf2993a1504f608b8cdc1570eb5713",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range/volkswagen-taigo.webp"
+    },
+    {
+      "path": "dist/assets/range/volkswagen-tayron.webp",
+      "size": 24128,
+      "text": false,
+      "sha": "69e477d56b1c102a420f4b0b7336e3ad14e7bdf3",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range/volkswagen-tayron.webp"
+    },
+    {
+      "path": "dist/assets/range/volkswagen-tiguan.webp",
+      "size": 30856,
+      "text": false,
+      "sha": "56c9cfb7ea620c9b59a545e100f37f8a3aabedab",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/range/volkswagen-tiguan.webp"
+    },
+    {
+      "path": "dist/assets/sales.webp",
+      "size": 42474,
+      "text": false,
+      "sha": "46744bc2193258441ca2b9ddd428114832f07004",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/sales.webp"
+    },
+    {
+      "path": "dist/assets/smart-hero-film-mobile.mp4",
+      "size": 1561783,
+      "text": false,
+      "sha": "76144d359452dc97f14c78a07f176b2f503dd5a2",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/smart-hero-film-mobile.mp4"
+    },
+    {
+      "path": "dist/assets/smart-hero-film.mp4",
+      "size": 8437304,
+      "text": false,
+      "sha": "ce9bc635f2925dd4a1ee22097884bc0be75321b7",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/smart-hero-film.mp4"
+    },
+    {
+      "path": "dist/assets/smart-hero-poster.jpg",
+      "size": 340414,
+      "text": false,
+      "sha": "01ab23174b10b6f800c468c1125cb6559f76e163",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/smart-hero-poster.jpg"
+    },
+    {
+      "path": "dist/assets/support.webp",
+      "size": 876037,
+      "text": false,
+      "sha": "173c8d45b6cf0cd13d9dd63e6cf7cc5a442bcb80",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/support.webp"
+    },
+    {
+      "path": "dist/assets/test-drive-driver.source.json",
+      "size": 1672,
+      "text": true,
+      "sha": "138810421e773312185f30189fe909a364d9c085",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/test-drive-driver.source.json"
+    },
+    {
+      "path": "dist/assets/test-drive-driver.webp",
+      "size": 121660,
+      "text": false,
+      "sha": "3e2f06afcf01882539eece1035ef8ae5ed6e9d29",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/test-drive-driver.webp"
+    },
+    {
+      "path": "dist/assets/tiguan-hero.webp",
+      "size": 249350,
+      "text": false,
+      "sha": "37929d7d8e8496fe440708e82cb2ff95796b0b5d",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/tiguan-hero.webp"
+    },
+    {
+      "path": "dist/assets/vehicles/SOURCES.json",
+      "size": 670,
+      "text": true,
+      "sha": "88410a82c4a3ce0ff821272c4e1edec6fc0db252",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/vehicles/SOURCES.json"
+    },
+    {
+      "path": "dist/assets/vehicles/elroq-view-2.jpg",
+      "size": 98171,
+      "text": false,
+      "sha": "5c49e481677be0c5d79bc2f832ef6f384bf1703c",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/vehicles/elroq-view-2.jpg"
+    },
+    {
+      "path": "dist/assets/vehicles/elroq.jpg",
+      "size": 75706,
+      "text": false,
+      "sha": "43c4a96dcf18c11595f8a90f12a7f4be04f557a4",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/vehicles/elroq.jpg"
+    },
+    {
+      "path": "dist/assets/vehicles/golf-view-2.jpg",
+      "size": 64702,
+      "text": false,
+      "sha": "319785af8bda7f5220dab2d02610e7cf0a66e939",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/vehicles/golf-view-2.jpg"
+    },
+    {
+      "path": "dist/assets/vehicles/golf.jpg",
+      "size": 189134,
+      "text": false,
+      "sha": "6dae7310bbc4290093785134e41b88bfa42b3792",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/vehicles/golf.jpg"
+    },
+    {
+      "path": "dist/assets/vehicles/ibiza-view-2.jpg",
+      "size": 214486,
+      "text": false,
+      "sha": "aa869c452831ef510d6b27ffe5841b51a623078b",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/vehicles/ibiza-view-2.jpg"
+    },
+    {
+      "path": "dist/assets/vehicles/ibiza.jpg",
+      "size": 803789,
+      "text": false,
+      "sha": "74a534cee1f3e21cfa1a4b5476af78a311d48daf",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/vehicles/ibiza.jpg"
+    },
+    {
+      "path": "dist/assets/vehicles/kamiq-view-2.jpg",
+      "size": 83755,
+      "text": false,
+      "sha": "fe911874f2f58164664c64fb9be20f2c45a4c854",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/vehicles/kamiq-view-2.jpg"
+    },
+    {
+      "path": "dist/assets/vehicles/kamiq.png",
+      "size": 246686,
+      "text": false,
+      "sha": "28ab68a40c2a85ddb4a087e80add851e16761ae1",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/vehicles/kamiq.png"
+    },
+    {
+      "path": "dist/assets/vehicles/octavia-view-2.jpg",
+      "size": 98632,
+      "text": false,
+      "sha": "fc6b4ac62814168d33a55ee1dd5867b8323bc748",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/vehicles/octavia-view-2.jpg"
+    },
+    {
+      "path": "dist/assets/vehicles/octavia.jpg",
+      "size": 1576375,
+      "text": false,
+      "sha": "d50882b8a485628e035cfb56122a877b5c34fc37",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/vehicles/octavia.jpg"
+    },
+    {
+      "path": "dist/assets/vehicles/q3-view-2.jpg",
+      "size": 1040921,
+      "text": false,
+      "sha": "d16f3de29644e03511a6e5c59b89c7c131fb400d",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/vehicles/q3-view-2.jpg"
+    },
+    {
+      "path": "dist/assets/vehicles/q3.jpg",
+      "size": 89231,
+      "text": false,
+      "sha": "6497b623a8afd29498aee12d25a8ec364d07f9b0",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/vehicles/q3.jpg"
+    },
+    {
+      "path": "dist/assets/vehicles/raval-view-2.jpg",
+      "size": 67897,
+      "text": false,
+      "sha": "688dcb3678b112a7f4b072f44cf2eb854fd4d1db",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/vehicles/raval-view-2.jpg"
+    },
+    {
+      "path": "dist/assets/vehicles/raval-view-3.jpg",
+      "size": 81508,
+      "text": false,
+      "sha": "f81964cb58ad078a917c542b6dc0a7116a338438",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/vehicles/raval-view-3.jpg"
+    },
+    {
+      "path": "dist/assets/vehicles/raval.webp",
+      "size": 401488,
+      "text": false,
+      "sha": "84f1b1e6d317b2c8109a85b7026e669f43b0c27e",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/vehicles/raval.webp"
+    },
+    {
+      "path": "dist/assets/vehicles/terramar-view-2.jpg",
+      "size": 250116,
+      "text": false,
+      "sha": "ac63f1bacabde5b5be4d4f2b5b01bf56e6c5f39f",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/vehicles/terramar-view-2.jpg"
+    },
+    {
+      "path": "dist/assets/vehicles/terramar.jpg",
+      "size": 223730,
+      "text": false,
+      "sha": "b1967ee94e2e42e3058e37256caae5198a92bf90",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/vehicles/terramar.jpg"
+    },
+    {
+      "path": "dist/assets/vehicles/tiguan-view-2.jpg",
+      "size": 79676,
+      "text": false,
+      "sha": "ac6f1b9b9c8867d7d1318f9bcff75b78b47f9966",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/vehicles/tiguan-view-2.jpg"
+    },
+    {
+      "path": "dist/assets/vehicles/tiguan.jpg",
+      "size": 440946,
+      "text": false,
+      "sha": "30ed2bbd11db13e98fa92f5d5cf5bf55f6ec8cb4",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/vehicles/tiguan.jpg"
+    },
+    {
+      "path": "dist/assets/vehicles/troc-view-2.jpg",
+      "size": 160644,
+      "text": false,
+      "sha": "544a2a78ad19588a04e5e79fd9d61e6297353730",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/vehicles/troc-view-2.jpg"
+    },
+    {
+      "path": "dist/assets/vehicles/troc.jpg",
+      "size": 107333,
+      "text": false,
+      "sha": "4fa7b22a4343d9c0e8a65c7518cef3480e86d421",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/assets/vehicles/troc.jpg"
+    },
+    {
+      "path": "dist/brands.css",
+      "size": 6736,
+      "text": true,
+      "sha": "55d7aa3cb7dfc600bf7139630f6af55b5d0de391",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/brands.css"
+    },
+    {
+      "path": "dist/brands.js",
+      "size": 2439,
+      "text": true,
+      "sha": "2f5e8be10cd3975aedf49aca95b96c0ab11a53d3",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/brands.js"
+    },
+    {
+      "path": "dist/buttons.css",
+      "size": 6718,
+      "text": true,
+      "sha": "4d9f36761f914208d8eb82e3c1d33fdb50b48087",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/buttons.css"
+    },
+    {
+      "path": "dist/buttons.js",
+      "size": 1972,
+      "text": true,
+      "sha": "cec3fc1cef7428d69e44909de92c98f4d9900039",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/buttons.js"
+    },
+    {
+      "path": "dist/catalogue-details.css",
+      "size": 5588,
+      "text": true,
+      "sha": "f20b190c27095c9dc7bb9e44391c20fa39ed9fa8",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/catalogue-details.css"
+    },
+    {
+      "path": "dist/catalogue-details.js",
+      "size": 4509,
+      "text": true,
+      "sha": "fc7a1cd20b4c076faa3c5e45e286cf6ec91cc614",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/catalogue-details.js"
+    },
+    {
+      "path": "dist/contact.css",
+      "size": 11724,
+      "text": true,
+      "sha": "768ede50b895671d7d0f81a31656e894e3b95d6c",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/contact.css"
+    },
+    {
+      "path": "dist/contact.js",
+      "size": 12515,
+      "text": true,
+      "sha": "2296d23ed1d1cc9e1e60400f7dfd3cf6b3c85385",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/contact.js"
+    },
+    {
+      "path": "dist/data/catalogue-coverage.json",
+      "size": 3227,
+      "text": true,
+      "sha": "9dffefbd933cdf03da8301101518d252bb6b0175",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/data/catalogue-coverage.json"
+    },
+    {
+      "path": "dist/data/contact-sources.json",
+      "size": 557,
+      "text": true,
+      "sha": "17434bd540a064f7fe2a18e54e67d4236a14b2ea",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/data/contact-sources.json"
+    },
+    {
+      "path": "dist/data/cro-hero-proof.json",
+      "size": 1778,
+      "text": true,
+      "sha": "d95b474e636f6dcc56dc8513bf36bbc76ca326db",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/data/cro-hero-proof.json"
+    },
+    {
+      "path": "dist/data/documents/a1.json",
+      "size": 33204,
+      "text": true,
+      "sha": "133c4742dd3b5b1f4f7d7346c273ef0c2857fd87",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/data/documents/a1.json"
+    },
+    {
+      "path": "dist/data/documents/a1_cc.json",
+      "size": 22428,
+      "text": true,
+      "sha": "cda03956cbd5002f039f356735b5a569cc996cf8",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/data/documents/a1_cc.json"
+    },
+    {
+      "path": "dist/data/documents/a3sb.json",
+      "size": 69541,
+      "text": true,
+      "sha": "220f59a7030150e75d21917b9d68295ad17ee71e",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/data/documents/a3sb.json"
+    },
+    {
+      "path": "dist/data/documents/a3sedan.json",
+      "size": 56030,
+      "text": true,
+      "sha": "0159a13c2c2b577ba33c5452e9cd8fa8992a63a7",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/data/documents/a3sedan.json"
+    },
+    {
+      "path": "dist/data/documents/a5avant.json",
+      "size": 88251,
+      "text": true,
+      "sha": "247674d0b3e10be30dfb7a0755cfe5e07e4d1da4",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/data/documents/a5avant.json"
+    },
+    {
+      "path": "dist/data/documents/a5limousine.json",
+      "size": 88265,
+      "text": true,
+      "sha": "7be3e4f1594a21140a7ce06ca09a06d838dcea62",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/data/documents/a5limousine.json"
+    },
+    {
+      "path": "dist/data/documents/a6etronavant.json",
+      "size": 72724,
+      "text": true,
+      "sha": "a98707f56ec895c28d5168a864115b1911afc926",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/data/documents/a6etronavant.json"
+    },
+    {
+      "path": "dist/data/documents/a6etronsportback.json",
+      "size": 75781,
+      "text": true,
+      "sha": "a6cb6279c04adeb3cc0d9118b34c082bf15a90ff",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/data/documents/a6etronsportback.json"
+    },
+    {
+      "path": "dist/data/documents/amarok.json",
+      "size": 21124,
+      "text": true,
+      "sha": "26954ca86e050d14e2aa0a6298f12f120b274bc6",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/data/documents/amarok.json"
+    },
+    {
+      "path": "dist/data/documents/arona.json",
+      "size": 14826,
+      "text": true,
+      "sha": "9870dccdfcc7266c15be3b4ce054d0eace900789",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/data/documents/arona.json"
+    },
+    {
+      "path": "dist/data/documents/caddy.json",
+      "size": 14025,
+      "text": true,
+      "sha": "27fe1504e3b18600dce103546d7832b8b4e2d024",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/data/documents/caddy.json"
+    },
+    {
+      "path": "dist/data/documents/caddymaxicargo.json",
+      "size": 10895,
+      "text": true,
+      "sha": "c7c30fda8dcff96c35e88b4b2c7d4722aac9371a",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/data/documents/caddymaxicargo.json"
+    },
+    {
+      "path": "dist/data/documents/caddypassenger.json",
+      "size": 17612,
+      "text": true,
+      "sha": "4e179c8d93f006bf61a88afde56afc609bc25a99",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/data/documents/caddypassenger.json"
+    },
+    {
+      "path": "dist/data/documents/crafter.json",
+      "size": 10785,
+      "text": true,
+      "sha": "a74eea420e9f6a1aa5f5f5a92809eecd8bb778bd",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/data/documents/crafter.json"
+    },
+    {
+      "path": "dist/data/documents/cupra-formentor.json",
+      "size": 28011,
+      "text": true,
+      "sha": "cfd5d2ed6bf96430d76a557e1004421058a22b4b",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/data/documents/cupra-formentor.json"
+    },
+    {
+      "path": "dist/data/documents/cupra-terramar.json",
+      "size": 23323,
+      "text": true,
+      "sha": "793969caa877a89c1bf1f52435c7623f5967094f",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/data/documents/cupra-terramar.json"
+    },
+    {
+      "path": "dist/data/documents/cupra_born.json",
+      "size": 17110,
+      "text": true,
+      "sha": "c078630b94ed7c17d90622c7f0e720a77dbd8dce",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/data/documents/cupra_born.json"
+    },
+    {
+      "path": "dist/data/documents/cupra_leon.json",
+      "size": 25084,
+      "text": true,
+      "sha": "514e7d26eaeaa4a1efe1669fa8f52fc8f81354f5",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/data/documents/cupra_leon.json"
+    },
+    {
+      "path": "dist/data/documents/elroq.json",
+      "size": 32896,
+      "text": true,
+      "sha": "002d03b5bf0ddb042580f9fcf48dec42a219deb3",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/data/documents/elroq.json"
+    },
+    {
+      "path": "dist/data/documents/elroqrs.json",
+      "size": 19729,
+      "text": true,
+      "sha": "1691da7fc5e104250e112917d5b08586404b69d3",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/data/documents/elroqrs.json"
+    },
+    {
+      "path": "dist/data/documents/enyaq.json",
+      "size": 36598,
+      "text": true,
+      "sha": "87e8ae43da1d6e09ea9cf5d2c6b789a24cea3780",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/data/documents/enyaq.json"
+    },
+    {
+      "path": "dist/data/documents/enyaqcoupe.json",
+      "size": 36851,
+      "text": true,
+      "sha": "10e16065140e62450b3f30beb82da21e654fe597",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/data/documents/enyaqcoupe.json"
+    },
+    {
+      "path": "dist/data/documents/enyaqrs.json",
+      "size": 22199,
+      "text": true,
+      "sha": "cd6df115b10e6eff422ccbb8ce9a571f3cb90f69",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/data/documents/enyaqrs.json"
+    },
+    {
+      "path": "dist/data/documents/etrongt.json",
+      "size": 49629,
+      "text": true,
+      "sha": "85fc283c4ec6e2eefdd736e7864676493378eb71",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/data/documents/etrongt.json"
+    },
+    {
+      "path": "dist/data/documents/fabia.json",
+      "size": 31921,
+      "text": true,
+      "sha": "fa073f4119de1c9de4ed97d2ba20019a58a559d4",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/data/documents/fabia.json"
+    },
+    {
+      "path": "dist/data/documents/fabia130.json",
+      "size": 18499,
+      "text": true,
+      "sha": "aaea48b201e4178ac0ad9a150e2b0c2f482914be",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/data/documents/fabia130.json"
+    },
+    {
+      "path": "dist/data/documents/golfgti.json",
+      "size": 31449,
+      "text": true,
+      "sha": "63bbf4a9bc29afef6c4fc0d029254522f0045447",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/data/documents/golfgti.json"
+    },
+    {
+      "path": "dist/data/documents/ibiza-van.json",
+      "size": 8097,
+      "text": true,
+      "sha": "bd091e2b14686d8e92949df52fd9cf3c5ba041f5",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/data/documents/ibiza-van.json"
+    },
+    {
+      "path": "dist/data/documents/ibiza.json",
+      "size": 14678,
+      "text": true,
+      "sha": "a1cd5df405b939799c9a425134845b6d5eb6ae72",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/data/documents/ibiza.json"
+    },
+    {
+      "path": "dist/data/documents/id-polo.json",
+      "size": 26497,
+      "text": true,
+      "sha": "84bd55e977a8b10edbaef2152760d27e8d041337",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/data/documents/id-polo.json"
+    },
+    {
+      "path": "dist/data/documents/id32024.json",
+      "size": 30232,
+      "text": true,
+      "sha": "a2441581b6c079e5ba46d39e2fb0c58c3b79da70",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/data/documents/id32024.json"
+    },
+    {
+      "path": "dist/data/documents/id3neo.json",
+      "size": 25161,
+      "text": true,
+      "sha": "6a7259318f5129ec63db860facb15c3fe586892d",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/data/documents/id3neo.json"
+    },
+    {
+      "path": "dist/data/documents/id4.json",
+      "size": 42260,
+      "text": true,
+      "sha": "26ac5dc06fff5299a24f417b52caba9ec51d32fc",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/data/documents/id4.json"
+    },
+    {
+      "path": "dist/data/documents/id5.json",
+      "size": 29483,
+      "text": true,
+      "sha": "69fdc21d3bd4d63b939e47d2699e72a949a2f9ab",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/data/documents/id5.json"
+    },
+    {
+      "path": "dist/data/documents/id7.json",
+      "size": 33149,
+      "text": true,
+      "sha": "bb1080defe9be2ed1a837e919d2894256e60cfc2",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/data/documents/id7.json"
+    },
+    {
+      "path": "dist/data/documents/idbuzz.json",
+      "size": 30145,
+      "text": true,
+      "sha": "51fffdc4d855fcdc49a9ab01381a9f50259843f8",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/data/documents/idbuzz.json"
+    },
+    {
+      "path": "dist/data/documents/idbuzz_cargo.json",
+      "size": 14120,
+      "text": true,
+      "sha": "001b3effa3f939be189c528298a11c80dc401b98",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/data/documents/idbuzz_cargo.json"
+    },
+    {
+      "path": "dist/data/documents/kamiq.json",
+      "size": 39490,
+      "text": true,
+      "sha": "774f6fa811a189e5ca40a1a799efe866bd6232b4",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/data/documents/kamiq.json"
+    },
+    {
+      "path": "dist/data/documents/kodiaq.json",
+      "size": 34783,
+      "text": true,
+      "sha": "645acd0e07f7d14df0471be985f3e07adf51c6ee",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/data/documents/kodiaq.json"
+    },
+    {
+      "path": "dist/data/documents/kodiaqrs.json",
+      "size": 18794,
+      "text": true,
+      "sha": "2bb42b6d6cb22074d876887c31b72b24a7663982",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/data/documents/kodiaqrs.json"
+    },
+    {
+      "path": "dist/data/documents/newgolf.json",
+      "size": 47082,
+      "text": true,
+      "sha": "8f7ae4787ec30dff2b4173ed4f05a5c06332cf11",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/data/documents/newgolf.json"
+    },
+    {
+      "path": "dist/data/documents/newkaroq.json",
+      "size": 35134,
+      "text": true,
+      "sha": "45a4c0d4c3d2355cdd99ab5af8a54a9e50c72859",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/data/documents/newkaroq.json"
+    },
+    {
+      "path": "dist/data/documents/newleon.json",
+      "size": 18573,
+      "text": true,
+      "sha": "6b6c04c9a998815875df2bbc927ee8b251e60b6f",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/data/documents/newleon.json"
+    },
+    {
+      "path": "dist/data/documents/newpolo.json",
+      "size": 29666,
+      "text": true,
+      "sha": "76efdb439b1cb3806d0825f3a0979a65571ab3ab",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/data/documents/newpolo.json"
+    },
+    {
+      "path": "dist/data/documents/q2.json",
+      "size": 38073,
+      "text": true,
+      "sha": "18539bba3b39e995be0320fd33b8fc4ceada5edb",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/data/documents/q2.json"
+    },
+    {
+      "path": "dist/data/documents/q3.json",
+      "size": 52718,
+      "text": true,
+      "sha": "e4b25a797c84d7ef8d6605632cfb6ea80c587f62",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/data/documents/q3.json"
+    },
+    {
+      "path": "dist/data/documents/q3_sb.json",
+      "size": 54761,
+      "text": true,
+      "sha": "edcf8705418f312936548d2da4e882802d47b9d1",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/data/documents/q3_sb.json"
+    },
+    {
+      "path": "dist/data/documents/q4.json",
+      "size": 41324,
+      "text": true,
+      "sha": "19f4864d2369fd1fa98236c08ec1c0adda95028c",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/data/documents/q4.json"
+    },
+    {
+      "path": "dist/data/documents/q4sb.json",
+      "size": 41386,
+      "text": true,
+      "sha": "5235b055fa2d26b997ddeb16561de57894a6ee4e",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/data/documents/q4sb.json"
+    },
+    {
+      "path": "dist/data/documents/q5.json",
+      "size": 65292,
+      "text": true,
+      "sha": "a403e4c5f3894eca272b1f3eca1b6be232fd150f",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/data/documents/q5.json"
+    },
+    {
+      "path": "dist/data/documents/q5sb.json",
+      "size": 65681,
+      "text": true,
+      "sha": "d8cccad03ba2a2f614b0aeb8607d14d1d35f670b",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/data/documents/q5sb.json"
+    },
+    {
+      "path": "dist/data/documents/q6.json",
+      "size": 70460,
+      "text": true,
+      "sha": "5368d5d3fb4254dbb6b682b06fc3452829500447",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/data/documents/q6.json"
+    },
+    {
+      "path": "dist/data/documents/q6sb.json",
+      "size": 72270,
+      "text": true,
+      "sha": "130f6c9e575eb63f7e7bd711df4a7e11646a52a4",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/data/documents/q6sb.json"
+    },
+    {
+      "path": "dist/data/documents/q7.json",
+      "size": 54440,
+      "text": true,
+      "sha": "60691c3d3bd776581acd36995a3a4cfc732638c2",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/data/documents/q7.json"
+    },
+    {
+      "path": "dist/data/documents/q8.json",
+      "size": 59364,
+      "text": true,
+      "sha": "35fc24d9f4b26cb20f59806a958186b9d7a62e9c",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/data/documents/q8.json"
+    },
+    {
+      "path": "dist/data/documents/raval.json",
+      "size": 20048,
+      "text": true,
+      "sha": "cb8292e44a07fe0d8b1bd1c5a72e41fab4430dbc",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/data/documents/raval.json"
+    },
+    {
+      "path": "dist/data/documents/rsq8.json",
+      "size": 33384,
+      "text": true,
+      "sha": "0e2eb455d4dc26ad675d0e8ea09a28237ca643b9",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/data/documents/rsq8.json"
+    },
+    {
+      "path": "dist/data/documents/skoda-octavia-combi.json",
+      "size": 36145,
+      "text": true,
+      "sha": "234e84e9518507a4eb432ce21f3bfe8f69538898",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/data/documents/skoda-octavia-combi.json"
+    },
+    {
+      "path": "dist/data/documents/skoda-octavia-rs.json",
+      "size": 19000,
+      "text": true,
+      "sha": "c61e354c83f26c129e759dd7800cd4e7b9098283",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/data/documents/skoda-octavia-rs.json"
+    },
+    {
+      "path": "dist/data/documents/skoda-octavia.json",
+      "size": 35378,
+      "text": true,
+      "sha": "da31fdc0ca16809ba899f8937c3702aebc99abaf",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/data/documents/skoda-octavia.json"
+    },
+    {
+      "path": "dist/data/documents/t-cross.json",
+      "size": 29770,
+      "text": true,
+      "sha": "11a9f87ad6a61180a6bcdfabbe7a2cbfce91b589",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/data/documents/t-cross.json"
+    },
+    {
+      "path": "dist/data/documents/t-roc.json",
+      "size": 28707,
+      "text": true,
+      "sha": "0d771351462917bdc771a29f27e8697ff92ff343",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/data/documents/t-roc.json"
+    },
+    {
+      "path": "dist/data/documents/t7multivan.json",
+      "size": 28019,
+      "text": true,
+      "sha": "d16ec0b6c91c8ec3f09bdc6c04ce7e058626a068",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/data/documents/t7multivan.json"
+    },
+    {
+      "path": "dist/data/documents/taigo.json",
+      "size": 30189,
+      "text": true,
+      "sha": "9465896dec5ef841c2f533f176f63630ebbe987d",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/data/documents/taigo.json"
+    },
+    {
+      "path": "dist/data/documents/tavascan.json",
+      "size": 21353,
+      "text": true,
+      "sha": "f4aee0e9c8e886177a573b6ff9775fe3891a8e76",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/data/documents/tavascan.json"
+    },
+    {
+      "path": "dist/data/documents/tayron.json",
+      "size": 42088,
+      "text": true,
+      "sha": "878f1292ae8199a15854f9a33a419b40d1b87398",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/data/documents/tayron.json"
+    },
+    {
+      "path": "dist/data/documents/tiguan.json",
+      "size": 48828,
+      "text": true,
+      "sha": "9182e4cddadab862c6b0ffd3ea2846cbe59a278f",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/data/documents/tiguan.json"
+    },
+    {
+      "path": "dist/data/documents/troc_cabrio.json",
+      "size": 24457,
+      "text": true,
+      "sha": "8e6a8e979427be71aee8e7b4849f867ffc6440ac",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/data/documents/troc_cabrio.json"
+    },
+    {
+      "path": "dist/data/ehub.json",
+      "size": 545006,
+      "text": true,
+      "sha": "c5dd60d1cb23e77924414f51cbb5d60fbdd48e5b",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/data/ehub.json"
+    },
+    {
+      "path": "dist/data/hero-media.json",
+      "size": 521,
+      "text": true,
+      "sha": "7786672855ed8f8d793055464a31a04a966120e0",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/data/hero-media.json"
+    },
+    {
+      "path": "dist/data/model-media.json",
+      "size": 55571,
+      "text": true,
+      "sha": "b140e56f4c9bd7ab080a119f7454fa2db254375d",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/data/model-media.json"
+    },
+    {
+      "path": "dist/data/source/campaigns.json",
+      "size": 96896,
+      "text": true,
+      "sha": "02f06b6140c35453bc15453fcd7be956f8bfaf56",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/data/source/campaigns.json"
+    },
+    {
+      "path": "dist/data/source/crawl-manifest.json",
+      "size": 165143,
+      "text": true,
+      "sha": "e68ae8e5e69e51f009cd91c9e1718f94ddc0f9e4",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/data/source/crawl-manifest.json"
+    },
+    {
+      "path": "dist/data/source/ehub-products.json",
+      "size": 180635,
+      "text": true,
+      "sha": "f351cad2c6626ebdd15abc5de4f811b6518f5d6c",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/data/source/ehub-products.json"
+    },
+    {
+      "path": "dist/data/source/extra-documents.json",
+      "size": 870,
+      "text": true,
+      "sha": "c93f1dc220e18f0decb8b8055925d86840df64fd",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/data/source/extra-documents.json"
+    },
+    {
+      "path": "dist/data/source/model-image-audit.json",
+      "size": 13881,
+      "text": true,
+      "sha": "d6d436514007bec038a2f3a722f209092e59d72e",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/data/source/model-image-audit.json"
+    },
+    {
+      "path": "dist/data/source/sitemap-audit.json",
+      "size": 124,
+      "text": true,
+      "sha": "84b8c86920f90bcc0b413d5391a54e5644baf5d8",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/data/source/sitemap-audit.json"
+    },
+    {
+      "path": "dist/data/source/unicars-active-listings.json",
+      "size": 11417,
+      "text": true,
+      "sha": "f83b69df7a6cd6296b91c3b1966afd1a36f24d3d",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/data/source/unicars-active-listings.json"
+    },
+    {
+      "path": "dist/data/vehicle-library.json",
+      "size": 765945,
+      "text": true,
+      "sha": "47facac6d4a335f8f08728c56da15115e23f3ac8",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/data/vehicle-library.json"
+    },
+    {
+      "path": "dist/data/vehicles.csv",
+      "size": 351056,
+      "text": true,
+      "sha": "59b35d9968e26957e54f2e759a3bf8c2b7bcf1ad",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/data/vehicles.csv"
+    },
+    {
+      "path": "dist/data/vehicles.json",
+      "size": 600080,
+      "text": true,
+      "sha": "c4a8256bcd2153fe0edc831717697ed0de90b145",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/data/vehicles.json"
+    },
+    {
+      "path": "dist/documents/price-lists-bundle-d994e9bb2c-1.bin",
+      "size": 20971520,
+      "text": false,
+      "sha": "0e4bf76ac38f5ba38430b2048f272d613b86c5a3",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/documents/price-lists-bundle-d994e9bb2c-1.bin"
+    },
+    {
+      "path": "dist/documents/price-lists-bundle-d994e9bb2c-2.bin",
+      "size": 10191548,
+      "text": false,
+      "sha": "efcadbf6998d8c8617f62f5bcbba17145fd55255",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/documents/price-lists-bundle-d994e9bb2c-2.bin"
+    },
+    {
+      "path": "dist/documents/price-lists/a1.pdf",
+      "size": 652479,
+      "text": false,
+      "sha": "a5261a656048d8da1a4afe313eb01cd0eb345002",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/documents/price-lists/a1.pdf"
+    },
+    {
+      "path": "dist/documents/price-lists/a1_cc.pdf",
+      "size": 792396,
+      "text": false,
+      "sha": "b5a9712706db0b5f069f46c73186030501f723ad",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/documents/price-lists/a1_cc.pdf"
+    },
+    {
+      "path": "dist/documents/price-lists/a3sb.pdf",
+      "size": 242208,
+      "text": false,
+      "sha": "e4360a53861cb7aa145fffbba4a100697288eaa4",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/documents/price-lists/a3sb.pdf"
+    },
+    {
+      "path": "dist/documents/price-lists/a3sedan.pdf",
+      "size": 225214,
+      "text": false,
+      "sha": "e82b3978efc13a41eea096dc6622ff2988f7707a",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/documents/price-lists/a3sedan.pdf"
+    },
+    {
+      "path": "dist/documents/price-lists/a5avant.pdf",
+      "size": 267572,
+      "text": false,
+      "sha": "463f539665033096dc25d7d715f0e09d08ed008e",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/documents/price-lists/a5avant.pdf"
+    },
+    {
+      "path": "dist/documents/price-lists/a5limousine.pdf",
+      "size": 652246,
+      "text": false,
+      "sha": "4f699864db9f319707475686c3481b9c76845009",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/documents/price-lists/a5limousine.pdf"
+    },
+    {
+      "path": "dist/documents/price-lists/a6etronavant.pdf",
+      "size": 295646,
+      "text": false,
+      "sha": "cc1233d650c1f9567b3fc65bd9462329750acbc8",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/documents/price-lists/a6etronavant.pdf"
+    },
+    {
+      "path": "dist/documents/price-lists/a6etronsportback.pdf",
+      "size": 254706,
+      "text": false,
+      "sha": "fa074dad7f2038c774baa1979261c586db84a739",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/documents/price-lists/a6etronsportback.pdf"
+    },
+    {
+      "path": "dist/documents/price-lists/amarok.pdf",
+      "size": 605993,
+      "text": false,
+      "sha": "4122cce3512fd5a66e05cf2f7b12b47b2d8a8abe",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/documents/price-lists/amarok.pdf"
+    },
+    {
+      "path": "dist/documents/price-lists/arona.pdf",
+      "size": 456032,
+      "text": false,
+      "sha": "c94c8acd8a69f52a470c62277b83849412c7b3c8",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/documents/price-lists/arona.pdf"
+    },
+    {
+      "path": "dist/documents/price-lists/caddy.pdf",
+      "size": 516458,
+      "text": false,
+      "sha": "500ec35826528eacd96f8433fb7fffb80bb236a1",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/documents/price-lists/caddy.pdf"
+    },
+    {
+      "path": "dist/documents/price-lists/caddymaxicargo.pdf",
+      "size": 492594,
+      "text": false,
+      "sha": "7356349d521e93a9a45d906b19c278f7a332701e",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/documents/price-lists/caddymaxicargo.pdf"
+    },
+    {
+      "path": "dist/documents/price-lists/caddypassenger.pdf",
+      "size": 384564,
+      "text": false,
+      "sha": "d3fdcbc3e8d9628261eee87bb93e84f8e9409e00",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/documents/price-lists/caddypassenger.pdf"
+    },
+    {
+      "path": "dist/documents/price-lists/crafter.pdf",
+      "size": 446780,
+      "text": false,
+      "sha": "a35697135c241150d9359fe88ae0a0d199d7fe41",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/documents/price-lists/crafter.pdf"
+    },
+    {
+      "path": "dist/documents/price-lists/cupra-formentor.pdf",
+      "size": 630941,
+      "text": false,
+      "sha": "2862865318e00f8b3ed325ff66e25c242e51ab57",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/documents/price-lists/cupra-formentor.pdf"
+    },
+    {
+      "path": "dist/documents/price-lists/cupra-terramar.pdf",
+      "size": 512433,
+      "text": false,
+      "sha": "317c76a1a7a96d1589aa61239b93c9b227b43bf8",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/documents/price-lists/cupra-terramar.pdf"
+    },
+    {
+      "path": "dist/documents/price-lists/cupra_born.pdf",
+      "size": 314169,
+      "text": false,
+      "sha": "8f78f0896daa2fc1bfad45be9f7e7f484f7c3b4b",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/documents/price-lists/cupra_born.pdf"
+    },
+    {
+      "path": "dist/documents/price-lists/cupra_leon.pdf",
+      "size": 593786,
+      "text": false,
+      "sha": "723b26ad22d99dde86374a70a2d668c9d3e6d093",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/documents/price-lists/cupra_leon.pdf"
+    },
+    {
+      "path": "dist/documents/price-lists/elroq.pdf",
+      "size": 490243,
+      "text": false,
+      "sha": "30ba299bc4f474eb29460f6fff16ef6698ad0f2c",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/documents/price-lists/elroq.pdf"
+    },
+    {
+      "path": "dist/documents/price-lists/elroqrs.pdf",
+      "size": 231525,
+      "text": false,
+      "sha": "59008d190ecac51bb2fdcb5ed51e5e6123d5a907",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/documents/price-lists/elroqrs.pdf"
+    },
+    {
+      "path": "dist/documents/price-lists/enyaq.pdf",
+      "size": 366309,
+      "text": false,
+      "sha": "c51a507fb8b277d1216f68346819348dad7aac59",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/documents/price-lists/enyaq.pdf"
+    },
+    {
+      "path": "dist/documents/price-lists/enyaqcoupe.pdf",
+      "size": 369411,
+      "text": false,
+      "sha": "9bc4291f87d76ef34adb1cb8d9d814c29711bd74",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/documents/price-lists/enyaqcoupe.pdf"
+    },
+    {
+      "path": "dist/documents/price-lists/enyaqrs.pdf",
+      "size": 310087,
+      "text": false,
+      "sha": "14bf06df1cc22d18435341cd7f2e9ea430cf4841",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/documents/price-lists/enyaqrs.pdf"
+    },
+    {
+      "path": "dist/documents/price-lists/etrongt.pdf",
+      "size": 476996,
+      "text": false,
+      "sha": "83d5b99bd90a91964979b31a54440907e7ac41e5",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/documents/price-lists/etrongt.pdf"
+    },
+    {
+      "path": "dist/documents/price-lists/fabia.pdf",
+      "size": 444043,
+      "text": false,
+      "sha": "4deb268e62a6cbfc091ae7fa426053b31088d370",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/documents/price-lists/fabia.pdf"
+    },
+    {
+      "path": "dist/documents/price-lists/fabia130.pdf",
+      "size": 292670,
+      "text": false,
+      "sha": "617ec4238e28fb13a8e14fe70d6dc08a2eac203c",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/documents/price-lists/fabia130.pdf"
+    },
+    {
+      "path": "dist/documents/price-lists/golfgti.pdf",
+      "size": 833861,
+      "text": false,
+      "sha": "cccbacefade64c81feb7ca14d26b73fbf48bacc9",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/documents/price-lists/golfgti.pdf"
+    },
+    {
+      "path": "dist/documents/price-lists/ibiza-van.pdf",
+      "size": 477377,
+      "text": false,
+      "sha": "80f50bc2ac8f3a9404482d2b54534daeb3507f59",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/documents/price-lists/ibiza-van.pdf"
+    },
+    {
+      "path": "dist/documents/price-lists/ibiza.pdf",
+      "size": 530139,
+      "text": false,
+      "sha": "269713b87b1dc4f05deafe8aa9dac7df3c0f9b4c",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/documents/price-lists/ibiza.pdf"
+    },
+    {
+      "path": "dist/documents/price-lists/id-polo.pdf",
+      "size": 601030,
+      "text": false,
+      "sha": "ad449d52a9f6def090042133f35b1b5e0c26a0e4",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/documents/price-lists/id-polo.pdf"
+    },
+    {
+      "path": "dist/documents/price-lists/id32024.pdf",
+      "size": 643324,
+      "text": false,
+      "sha": "9e11f86fab178e4941608a349e1ebfd32b528990",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/documents/price-lists/id32024.pdf"
+    },
+    {
+      "path": "dist/documents/price-lists/id3neo.pdf",
+      "size": 869053,
+      "text": false,
+      "sha": "917a5e3b0e96857760b019fcc0de897be3bc13c8",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/documents/price-lists/id3neo.pdf"
+    },
+    {
+      "path": "dist/documents/price-lists/id4.pdf",
+      "size": 649285,
+      "text": false,
+      "sha": "3f00aaf0fae88d74a5d8a5ef4468b1548155501f",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/documents/price-lists/id4.pdf"
+    },
+    {
+      "path": "dist/documents/price-lists/id5.pdf",
+      "size": 339001,
+      "text": false,
+      "sha": "780a10cf7db0380546cad70344b277c8e84d3966",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/documents/price-lists/id5.pdf"
+    },
+    {
+      "path": "dist/documents/price-lists/id7.pdf",
+      "size": 617333,
+      "text": false,
+      "sha": "06d3835ee9ed369c8e09442a108d6546aff897cb",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/documents/price-lists/id7.pdf"
+    },
+    {
+      "path": "dist/documents/price-lists/idbuzz.pdf",
+      "size": 331256,
+      "text": false,
+      "sha": "74aa67f44cdc8ac8b91af7ab21f9090e31b50dd1",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/documents/price-lists/idbuzz.pdf"
+    },
+    {
+      "path": "dist/documents/price-lists/idbuzz_cargo.pdf",
+      "size": 392888,
+      "text": false,
+      "sha": "145c2bb9968fccb4cfb4f022436c6373368da5c0",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/documents/price-lists/idbuzz_cargo.pdf"
+    },
+    {
+      "path": "dist/documents/price-lists/kamiq.pdf",
+      "size": 542660,
+      "text": false,
+      "sha": "ecb1cb766d95ab4fe6137eb222de5e819d977d62",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/documents/price-lists/kamiq.pdf"
+    },
+    {
+      "path": "dist/documents/price-lists/kodiaq.pdf",
+      "size": 457470,
+      "text": false,
+      "sha": "629a7819a421a4af9a8d020409889690f49cb24c",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/documents/price-lists/kodiaq.pdf"
+    },
+    {
+      "path": "dist/documents/price-lists/kodiaqrs.pdf",
+      "size": 424467,
+      "text": false,
+      "sha": "cac348c9cffe35680b5220d752fd21a463aea96b",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/documents/price-lists/kodiaqrs.pdf"
+    },
+    {
+      "path": "dist/documents/price-lists/newgolf.pdf",
+      "size": 552792,
+      "text": false,
+      "sha": "42b7985267aa5568f1cfc943dac4905e4d77914c",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/documents/price-lists/newgolf.pdf"
+    },
+    {
+      "path": "dist/documents/price-lists/newkaroq.pdf",
+      "size": 584694,
+      "text": false,
+      "sha": "2d61f1f1328699b84c9db86e33bb304c484502e4",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/documents/price-lists/newkaroq.pdf"
+    },
+    {
+      "path": "dist/documents/price-lists/newleon.pdf",
+      "size": 477758,
+      "text": false,
+      "sha": "99eca97cc930529f0415ce1f4298b8b58017a90f",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/documents/price-lists/newleon.pdf"
+    },
+    {
+      "path": "dist/documents/price-lists/newpolo.pdf",
+      "size": 483572,
+      "text": false,
+      "sha": "97ec3399fdad50e55700351cca1817dd36fe2114",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/documents/price-lists/newpolo.pdf"
+    },
+    {
+      "path": "dist/documents/price-lists/q2.pdf",
+      "size": 644371,
+      "text": false,
+      "sha": "9b1ca87daff6c05196b5726b079405f53cc33342",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/documents/price-lists/q2.pdf"
+    },
+    {
+      "path": "dist/documents/price-lists/q3.pdf",
+      "size": 560770,
+      "text": false,
+      "sha": "f5d01d1c5f1621cfe04c21a9c45cf562847c73ad",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/documents/price-lists/q3.pdf"
+    },
+    {
+      "path": "dist/documents/price-lists/q3_sb.pdf",
+      "size": 537532,
+      "text": false,
+      "sha": "66b3bc71491b13aaf6e798abd95789199d368011",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/documents/price-lists/q3_sb.pdf"
+    },
+    {
+      "path": "dist/documents/price-lists/q4.pdf",
+      "size": 566341,
+      "text": false,
+      "sha": "45abdb348d93d36b89d21090395f4ec5a4506d29",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/documents/price-lists/q4.pdf"
+    },
+    {
+      "path": "dist/documents/price-lists/q4sb.pdf",
+      "size": 749120,
+      "text": false,
+      "sha": "76710033775a8133e2a3a6b837687bc2570dd379",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/documents/price-lists/q4sb.pdf"
+    },
+    {
+      "path": "dist/documents/price-lists/q5.pdf",
+      "size": 579588,
+      "text": false,
+      "sha": "076f08b0392b3c0afbe130a70166af1ad7b8aa57",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/documents/price-lists/q5.pdf"
+    },
+    {
+      "path": "dist/documents/price-lists/q5sb.pdf",
+      "size": 629270,
+      "text": false,
+      "sha": "fbd713187dc857e2a7c6e543cc618581890c5663",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/documents/price-lists/q5sb.pdf"
+    },
+    {
+      "path": "dist/documents/price-lists/q6.pdf",
+      "size": 664662,
+      "text": false,
+      "sha": "a953b5dda331165b6b7e88d19f5e0f8c180cf94e",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/documents/price-lists/q6.pdf"
+    },
+    {
+      "path": "dist/documents/price-lists/q6sb.pdf",
+      "size": 631078,
+      "text": false,
+      "sha": "2cd8fad80fc5885b48580f220692fb457dd7954e",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/documents/price-lists/q6sb.pdf"
+    },
+    {
+      "path": "dist/documents/price-lists/q7.pdf",
+      "size": 738960,
+      "text": false,
+      "sha": "c947c18c2371629865e6a6174b7b8374eecdeb63",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/documents/price-lists/q7.pdf"
+    },
+    {
+      "path": "dist/documents/price-lists/q8.pdf",
+      "size": 800308,
+      "text": false,
+      "sha": "399a2bb4732d90b1ec238fc1dc69dbdcc889986c",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/documents/price-lists/q8.pdf"
+    },
+    {
+      "path": "dist/documents/price-lists/raval.pdf",
+      "size": 494179,
+      "text": false,
+      "sha": "68e2b7c93ea79a9632e0068ae026d4c901d36208",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/documents/price-lists/raval.pdf"
+    },
+    {
+      "path": "dist/documents/price-lists/rsq8.pdf",
+      "size": 374656,
+      "text": false,
+      "sha": "27bcbc861d0173294b154c142e8d6402578dec23",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/documents/price-lists/rsq8.pdf"
+    },
+    {
+      "path": "dist/documents/price-lists/skoda-octavia-combi.pdf",
+      "size": 492944,
+      "text": false,
+      "sha": "272423e2d8a07a14dbe113f9e9afed10b942d351",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/documents/price-lists/skoda-octavia-combi.pdf"
+    },
+    {
+      "path": "dist/documents/price-lists/skoda-octavia-rs.pdf",
+      "size": 668013,
+      "text": false,
+      "sha": "f373fa121769d0d7739382c055fbcfc38054351e",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/documents/price-lists/skoda-octavia-rs.pdf"
+    },
+    {
+      "path": "dist/documents/price-lists/skoda-octavia.pdf",
+      "size": 433076,
+      "text": false,
+      "sha": "06a44e55f9e6df46a30834a5c3ac2c9c3fb08b7a",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/documents/price-lists/skoda-octavia.pdf"
+    },
+    {
+      "path": "dist/documents/price-lists/t-cross.pdf",
+      "size": 456716,
+      "text": false,
+      "sha": "9b6b612fd8f47be8124275ab199361314fbdf055",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/documents/price-lists/t-cross.pdf"
+    },
+    {
+      "path": "dist/documents/price-lists/t-roc.pdf",
+      "size": 586232,
+      "text": false,
+      "sha": "379b2704c289a138960a7dab167912cf7d71c6de",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/documents/price-lists/t-roc.pdf"
+    },
+    {
+      "path": "dist/documents/price-lists/t7multivan.pdf",
+      "size": 475307,
+      "text": false,
+      "sha": "037a98bee00e4b4921ce148244bd6e1f607bb042",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/documents/price-lists/t7multivan.pdf"
+    },
+    {
+      "path": "dist/documents/price-lists/taigo.pdf",
+      "size": 482922,
+      "text": false,
+      "sha": "475e0c59cbc41e8f0da44c9c40fe04c19eb4e744",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/documents/price-lists/taigo.pdf"
+    },
+    {
+      "path": "dist/documents/price-lists/tavascan.pdf",
+      "size": 609645,
+      "text": false,
+      "sha": "ebebc31fb0dd12d30e97f65ff05c48160dde71c9",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/documents/price-lists/tavascan.pdf"
+    },
+    {
+      "path": "dist/documents/price-lists/tayron.pdf",
+      "size": 760132,
+      "text": false,
+      "sha": "5ed8786a3bb87685741b6c4904a0710f3d643f53",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/documents/price-lists/tayron.pdf"
+    },
+    {
+      "path": "dist/documents/price-lists/tiguan.pdf",
+      "size": 547032,
+      "text": false,
+      "sha": "d68d49125a5ce46db7dfdf1361d1c7fe9699a569",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/documents/price-lists/tiguan.pdf"
+    },
+    {
+      "path": "dist/documents/price-lists/troc_cabrio.pdf",
+      "size": 543999,
+      "text": false,
+      "sha": "68c5526a5f59de17173ae73d0eca4c2c0e35458f",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/documents/price-lists/troc_cabrio.pdf"
+    },
+    {
+      "path": "dist/ehub-core.mjs",
+      "size": 1419,
+      "text": true,
+      "sha": "1f1fdee2cfa5d3bcccf37f0e35570f7c3c372b2c",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/ehub-core.mjs"
+    },
+    {
+      "path": "dist/ehub.css",
+      "size": 41163,
+      "text": true,
+      "sha": "b611b03861bbee8c3add5c2112090f5b81d3c7d6",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/ehub.css"
+    },
+    {
+      "path": "dist/ehub.js",
+      "size": 29699,
+      "text": true,
+      "sha": "83050a64fda11bb063751df8419170b6d77e549c",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/ehub.js"
+    },
+    {
+      "path": "dist/home.css",
+      "size": 37127,
+      "text": true,
+      "sha": "076dbaf37028d0622ace32e2d4dddefc76d6273f",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/home.css"
+    },
+    {
+      "path": "dist/home.js",
+      "size": 20772,
+      "text": true,
+      "sha": "fc01391fb10078776928de43d902e35f7b95aacf",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/home.js"
+    },
+    {
+      "path": "dist/index.html",
+      "size": 7383,
+      "text": true,
+      "sha": "f48b490b8ea269e03fd1d55b906369a8cea3ec3c",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/index.html"
+    },
+    {
+      "path": "dist/navigation.css",
+      "size": 44799,
+      "text": true,
+      "sha": "4a5f4282898ffb387de061768497978bf2c9f42a",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/navigation.css"
+    },
+    {
+      "path": "dist/smart-cards.mjs",
+      "size": 1133,
+      "text": true,
+      "sha": "278bba2adecd8959baeebdcb469a27f12571e390",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/smart-cards.mjs"
+    },
+    {
+      "path": "dist/smart-core.mjs",
+      "size": 11219,
+      "text": true,
+      "sha": "89e4b2f4c141bf99b1fba3e0db34686824bb8877",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/smart-core.mjs"
+    },
+    {
+      "path": "dist/smart-search.css",
+      "size": 43726,
+      "text": true,
+      "sha": "b5ecbbd813261c1a619b04e1d18c15582e85298d",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/smart-search.css"
+    },
+    {
+      "path": "dist/smart-search.mjs",
+      "size": 27642,
+      "text": true,
+      "sha": "b02ddae9c75006f68c36086d3baafcdd683dc641",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/smart-search.mjs"
+    },
+    {
+      "path": "dist/style.css",
+      "size": 15600,
+      "text": true,
+      "sha": "2f845de48aad5744d9907d8327b53e257877fca9",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/style.css"
+    },
+    {
+      "path": "dist/test-drive-core.mjs",
+      "size": 3673,
+      "text": true,
+      "sha": "e38c9043803eec37bd953668773f66e5ac198616",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/test-drive-core.mjs"
+    },
+    {
+      "path": "dist/test-drive.css",
+      "size": 28892,
+      "text": true,
+      "sha": "8ad56b4e28cd1dcf67cdcc5e852844b3df66f9d9",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/test-drive.css"
+    },
+    {
+      "path": "dist/test-drive.js",
+      "size": 22539,
+      "text": true,
+      "sha": "65ace4423db30340711fd148b89a30abeb75568c",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/test-drive.js"
+    },
+    {
+      "path": "dist/vehicle-library-core.mjs",
+      "size": 2291,
+      "text": true,
+      "sha": "18f089785f2528ca52edb8eba27dc49dcffa4bab",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/vehicle-library-core.mjs"
+    },
+    {
+      "path": "dist/vehicle-library.css",
+      "size": 23042,
+      "text": true,
+      "sha": "51a8febde75212ee9b70f07bdef5e4ccbe1f8ea1",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/vehicle-library.css"
+    },
+    {
+      "path": "dist/vehicle-library.js",
+      "size": 23854,
+      "text": true,
+      "sha": "d1afc5e17dfbd6beddc9500858da0d0c7d57a5a1",
+      "mode": "100644",
+      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/vehicle-library.js"
+    },
+    {
+      "path": "qa/black-brand-logos.jpg",
+      "size": 114837,
+      "text": false,
+      "sha": "46089a52b1f29319ef1a79addae6bdfd6311ee00",
+      "mode": "100644"
+    },
+    {
+      "path": "qa/brand-overview-action.jpg",
+      "size": 82114,
+      "text": false,
+      "sha": "6450592d21657e41cf6f9618d953b6110ca1b931",
+      "mode": "100644"
+    },
+    {
+      "path": "qa/cinematic-smart-hero.jpg",
+      "size": 145156,
+      "text": false,
+      "sha": "6067a788eef611f278ce0c92b0d5cf5a9c19571a",
+      "mode": "100644"
+    },
+    {
+      "path": "qa/clean-hero.jpg",
+      "size": 141679,
+      "text": false,
+      "sha": "3e47b3b7042a7e0c5e022af1bf8c89b7b6eb5e9e",
+      "mode": "100644"
+    },
+    {
+      "path": "qa/compact-smart-results.jpg",
+      "size": 68641,
+      "text": false,
+      "sha": "9eea93709621a8dda74274e388009882a14f5610",
+      "mode": "100644"
+    },
+    {
+      "path": "qa/home-without-extra-banner.jpg",
+      "size": 103092,
+      "text": false,
+      "sha": "ebbca3b7aa29445eae5d5768c9cecf21f7ac9d93",
+      "mode": "100644"
+    },
+    {
+      "path": "qa/homepage-full.jpg",
+      "size": 708021,
+      "text": false,
+      "sha": "1a6e1c9e5a5133e0082c0c54bb25eea595827d6e",
+      "mode": "100644"
+    },
+    {
+      "path": "qa/homepage-hero.jpg",
+      "size": 148913,
+      "text": false,
+      "sha": "e77ed580d16ee041af8fc7bc130d5c8c42c71c65",
+      "mode": "100644"
+    },
+    {
+      "path": "qa/intentional-buttons.jpg",
+      "size": 96385,
+      "text": false,
+      "sha": "5b5d73ae44c9ba44e810644807866410717391f7",
+      "mode": "100644"
+    },
+    {
+      "path": "qa/mobile-navigation.jpg",
+      "size": 95006,
+      "text": false,
+      "sha": "fc7f65dd76d88e7e615730142de343c71b6d69b7",
+      "mode": "100644"
+    },
+    {
+      "path": "qa/navigation-arrow-boxes.jpg",
+      "size": 96154,
+      "text": false,
+      "sha": "7406866bbe2431211315a4ba8854b311a045f459",
+      "mode": "100644"
+    },
+    {
+      "path": "qa/navigation-headings.jpg",
+      "size": 96000,
+      "text": false,
+      "sha": "9a1584718aff840a1e9390104ec2618cbacf56ba",
+      "mode": "100644"
+    },
+    {
+      "path": "qa/navigation-journeys.jpg",
+      "size": 89949,
+      "text": false,
+      "sha": "446dc266fdbb281ead081a2e8b17f0110c36e7a4",
+      "mode": "100644"
+    },
+    {
+      "path": "qa/navigation-polished.jpg",
+      "size": 91216,
+      "text": false,
+      "sha": "459de6bd3e98d524ac33d9b5eb9094a4148f1faf",
+      "mode": "100644"
+    },
+    {
+      "path": "qa/navigation-support.jpg",
+      "size": 90609,
+      "text": false,
+      "sha": "28188111ec4e7f07a990a13953f31e323d78a2c9",
+      "mode": "100644"
+    },
+    {
+      "path": "qa/refined-offers.jpg",
+      "size": 143251,
+      "text": false,
+      "sha": "3c38eb112dc26cdd788d09474c7a9986faec6271",
+      "mode": "100644"
+    },
+    {
+      "path": "qa/refined-smart-cards.jpg",
+      "size": 79292,
+      "text": false,
+      "sha": "1631f48dc8bfc038bd99e212b246c6c2f38571ac",
+      "mode": "100644"
+    },
+    {
+      "path": "qa/simplified-smart-results.jpg",
+      "size": 85822,
+      "text": false,
+      "sha": "c1d1f75687663b8c9b806bda6f724a0e0ff211fd",
+      "mode": "100644"
+    },
+    {
+      "path": "qa/smart-search-banner.jpg",
+      "size": 132001,
+      "text": false,
+      "sha": "02a163d69719a7b3bc6184935b74371225574c25",
+      "mode": "100644"
+    },
+    {
+      "path": "qa/smart-search-results.jpg",
+      "size": 82226,
+      "text": false,
+      "sha": "582f2afbabe0f59aec1ac06eb6cbc7a448374985",
+      "mode": "100644"
+    },
+    {
+      "path": "qa/visual-finder.jpg",
+      "size": 102484,
+      "text": false,
+      "sha": "fc704ff6e874292f8a1566a1e53f7a05bd87ecbc",
+      "mode": "100644"
+    },
+    {
+      "path": "scripts/finalize-catalogue.py",
+      "size": 2385,
+      "text": true,
+      "sha": "bd857d2bf71c56b828e23c3ba3933fb8362489d4",
+      "mode": "100644"
+    },
+    {
+      "path": "server/smart-search.mjs",
+      "size": 5801,
+      "text": true,
+      "sha": "d51d127c924b97ac1d560521ed7ab2e296d91d4f",
+      "mode": "100644"
+    },
+    {
+      "path": "tests/brand-collections.test.mjs",
+      "size": 5815,
+      "text": true,
+      "sha": "02f27c1223a0f1a6bdda3bd8b072f5fe325726b4",
+      "mode": "100644"
+    },
+    {
+      "path": "tests/catalogue-completeness.test.mjs",
+      "size": 6852,
+      "text": true,
+      "sha": "9f8b02e0fd76527233a41b788a3d2b0896d375c9",
+      "mode": "100644"
+    },
+    {
+      "path": "tests/catalogue-ui.test.mjs",
+      "size": 5723,
+      "text": true,
+      "sha": "5763a489c2689932bab9bac4b372b59c50a5f28c",
+      "mode": "100644"
+    },
+    {
+      "path": "tests/ehub-hero.test.mjs",
+      "size": 3187,
+      "text": true,
+      "sha": "97bf5b47dd3c8ce6f202826b2e721f72a8ad3cd2",
+      "mode": "100644"
+    },
+    {
+      "path": "tests/ehub.test.mjs",
+      "size": 3437,
+      "text": true,
+      "sha": "5dcee0f24f495658545252f513f49312e0249435",
+      "mode": "100644"
+    },
+    {
+      "path": "tests/fixtures/pilot-vehicles.json",
+      "size": 9862,
+      "text": true,
+      "sha": "fc4f4730ac93414099830d8062aef4066552d198",
+      "mode": "100644"
+    },
+    {
+      "path": "tests/smart-search.test.mjs",
+      "size": 8494,
+      "text": true,
+      "sha": "c337a328fd4f809e7d2f1e4fb76198a1f1b7da93",
+      "mode": "100644"
+    },
+    {
+      "path": "tests/test-drive.test.mjs",
+      "size": 7574,
+      "text": true,
+      "sha": "a3b896d623692b2ef96de3b5e6159f9df8ef8ce9",
+      "mode": "100644"
+    },
+    {
+      "path": "tests/vehicle-library.test.mjs",
+      "size": 3998,
+      "text": true,
+      "sha": "a2c777befc33ece4f33ede96a1d0760a785b9901",
+      "mode": "100644"
+    }
+  ]
+}

@@ -1,10 +1,37 @@
 name: Import UniCars source snapshot
 on:
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/import-sites-snapshot.yml'
+      - 'scripts/sites-snapshot.json'
+      - 'scripts/import-sites-snapshot.py'
 permissions:
   contents: write
+concurrency:
+  group: unicars-source-import
+  cancel-in-progress: false
 jobs:
   import:
     runs-on: ubuntu-latest
+    timeout-minutes: 20
     steps:
-      - run: echo 'Import workflow initialized; source manifest will be added next.'
+      - uses: actions/checkout@v7
+        with:
+          ref: main
+      - name: Download and verify the complete published snapshot
+        run: python3 scripts/import-sites-snapshot.py
+      - name: Run project checks
+        run: node --test tests/*.test.mjs
+      - name: Commit the complete imported site
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -- dist IMPORT-REPORT.json
+          if git diff --cached --quiet; then
+            echo "The complete source snapshot is already present."
+          else
+            git commit -m "Import complete UniCars website, vehicle data and assets"
+            git push origin HEAD:main
+          fi
