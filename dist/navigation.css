@@ -222,3 +222,45 @@ body{font-family:Figtree,Arial,sans-serif}h1,h2,h3{font-family:Archivo,Figtree,s
 .scope-destinations p{font-size:16px;line-height:1.6;color:#506577;margin:0 0 22px}
 .scope-destinations .button{border-radius:var(--radius-surface);min-height:46px}
 @media(max-width:700px){.scope-destinations{grid-template-columns:1fr;gap:16px}.scope-destinations article{padding:22px}.scope-destinations h2{font-size:24px}}
+
+/* Floating glass header: solid at the top of a page, a frosted capsule once the page scrolls, out of the way while reading down. */
+.header{transition:transform .5s cubic-bezier(.22,.8,.2,1),background-color .3s ease,box-shadow .3s ease,border-color .3s ease}
+.header .header-inner{width:100%;border:1px solid transparent;border-radius:0;transition:width .5s cubic-bezier(.22,.8,.2,1),height .5s cubic-bezier(.22,.8,.2,1),margin .5s cubic-bezier(.22,.8,.2,1),padding .5s cubic-bezier(.22,.8,.2,1),border-radius .5s cubic-bezier(.22,.8,.2,1),background-color .35s ease,border-color .35s ease,box-shadow .35s ease}
+.header .logo{transition:width .5s cubic-bezier(.22,.8,.2,1),opacity .2s,transform .3s cubic-bezier(.2,.8,.2,1)}
+.header.is-scrolled{background:transparent;border-bottom-color:transparent;box-shadow:none;pointer-events:none}
+.header.is-scrolled .header-inner,.header.is-scrolled .mega,.header.is-scrolled .mobile-menu{pointer-events:auto}
+.header.is-scrolled .header-inner{width:calc(100% - 24px);margin:10px auto 0;height:72px;border-radius:24px;background:rgb(255 255 255 / 76%);border-color:rgb(255 255 255 / 65%);box-shadow:0 20px 48px -20px rgb(14 30 46 / 30%),0 1px 3px rgb(14 30 46 / 7%),inset 0 1px 0 rgb(255 255 255 / 75%);-webkit-backdrop-filter:blur(22px) saturate(180%);backdrop-filter:blur(22px) saturate(180%)}
+.header.is-hidden{transform:translateY(calc(-100% - 16px))}
+@media(min-width:1101px){
+.header.is-scrolled .header-inner{width:calc(100% - 48px);max-width:1480px;margin-top:12px;padding-inline:22px 10px}
+.header.is-scrolled .logo{width:146px}
+.header .desktop-nav{transition:height .5s cubic-bezier(.22,.8,.2,1),background-color .35s ease}
+.header.is-scrolled .desktop-nav{height:48px;background:rgb(20 37 54 / 6%)}
+.header.is-scrolled .desktop-nav>button,.header.is-scrolled .desktop-nav>a,.header.is-scrolled .desktop-nav .nav-indicator{height:40px}
+.header .header-cta{transition:min-height .5s cubic-bezier(.22,.8,.2,1),background-color .22s,transform .16s}
+.header.is-scrolled .header-cta{min-height:50px!important}
+}
+@media(max-width:1100px){
+.header.is-scrolled .header-inner{width:calc(100% - 16px);margin-top:8px;height:62px;border-radius:20px;padding-inline:18px 9px}
+.header.is-scrolled .logo{width:134px}
+}
+@media(max-width:600px){
+.header.is-scrolled .header-inner{padding-inline:14px 8px}
+.header.is-scrolled .logo{width:118px}
+}
+.header.is-on-dark .header-inner{background:rgb(10 16 24 / 52%);border-color:rgb(255 255 255 / 12%);box-shadow:0 20px 48px -18px rgb(0 0 0 / 55%),inset 0 1px 0 rgb(255 255 255 / 10%)}
+.header.is-on-dark .logo img{filter:brightness(0) invert(1)}
+.header .logo img{transition:filter .35s ease}
+.header.is-on-dark .desktop-nav{background:rgb(255 255 255 / 9%)}
+.header.is-on-dark .desktop-nav>button,.header.is-on-dark .desktop-nav>a{color:rgb(255 255 255 / 88%)}
+.header.is-on-dark .desktop-nav>button:hover,.header.is-on-dark .desktop-nav>a:hover{color:#fff}
+.header.is-on-dark .desktop-nav.has-nav-highlight>[aria-expanded=true],.header.is-on-dark .desktop-nav.has-nav-highlight>[aria-current=page]{color:#0058df}
+.header.is-on-dark .desktop-nav>button:focus-visible,.header.is-on-dark .desktop-nav>a:focus-visible{outline-color:#fff}
+@media(max-width:1100px){
+.menu-open .header.is-scrolled{background:#fff;pointer-events:auto}
+.menu-open .header.is-scrolled .header-inner{width:100%;margin:0 auto;height:76px;border-radius:0;padding-inline:26px;background:transparent;border-color:transparent;box-shadow:none;-webkit-backdrop-filter:none;backdrop-filter:none}
+.menu-open .header.is-scrolled .logo{width:160px}
+.menu-open .header.is-on-dark .logo img{filter:none}
+}
+@media(max-width:600px){.menu-open .header.is-scrolled .header-inner{padding-inline:20px}.menu-open .header.is-scrolled .logo{width:136px}}
+@supports not ((backdrop-filter:blur(1px)) or (-webkit-backdrop-filter:blur(1px))){.header.is-scrolled .header-inner{background:rgb(255 255 255 / 96%)}.header.is-on-dark .header-inner{background:rgb(10 16 24 / 94%)}}
