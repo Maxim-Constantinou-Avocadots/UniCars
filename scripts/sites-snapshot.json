@@ -3733,8 +3733,7 @@
       "size": 7383,
       "text": true,
       "sha": "f48b490b8ea269e03fd1d55b906369a8cea3ec3c",
-      "mode": "100644",
-      "source_url": "https://unicars-navigation-concept.avocadots-9013.chatgpt.site/index.html"
+      "mode": "100644"
     },
     {
       "path": "dist/navigation.css",
