@@ -1,0 +1,42 @@
+name: Validate and deploy to Wix
+
+on:
+  push:
+    branches: [main]
+    paths: ['dist/**', 'wix/**', 'scripts/build-wix.py', 'scripts/publish-wix.py', 'tests/**', '.github/workflows/wix-deploy.yml']
+  pull_request:
+    paths: ['dist/**', 'wix/**', 'scripts/build-wix.py', 'scripts/publish-wix.py', 'tests/**', '.github/workflows/wix-deploy.yml']
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: wix-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  website:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+      - name: Test the canonical source
+        run: node --test tests/*.test.mjs
+      - name: Build Wix deployment
+        run: python3 scripts/build-wix.py
+      - name: Publish the main branch to Wix
+        if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request'
+        env:
+          WIX_API_KEY: ${{ secrets.WIX_API_KEY }}
+        shell: bash
+        run: |
+          if [ -z "$WIX_API_KEY" ]; then
+            echo '::notice::WIX_API_KEY is missing. Build passed; automatic Wix deployment is not activated.'
+            echo 'Automatic deployment needs the WIX_API_KEY Actions secret. Prompted edits can still be published through the connected Wix plugin.' >> "$GITHUB_STEP_SUMMARY"
+            exit 0
+          fi
+          npx -y @wix/cli@latest login --api-key "$WIX_API_KEY"
+          python3 scripts/publish-wix.py

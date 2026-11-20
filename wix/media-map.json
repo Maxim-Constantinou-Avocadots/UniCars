@@ -1,0 +1,2815 @@
+{
+  "assets/campaign-source/a5-campaign.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_e396d35a9e394c40937b0df6dae707fb~mv2.webp",
+    "id": "2ea7da_e396d35a9e394c40937b0df6dae707fb~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/campaign-source/a5-campaign.webp",
+    "sha256": "e8f75859029acff8411ef29127d3cae7eb00bc2144e585f137fe4abb026e9e26"
+  },
+  "assets/campaign-source/all-new-q3.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_64b6ba6c3d014171a2208c5e32716b49~mv2.webp",
+    "id": "2ea7da_64b6ba6c3d014171a2208c5e32716b49~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/campaign-source/all-new-q3.webp",
+    "sha256": "1e88b252cf64315fb4383bd783cb509128d68d643e0f3b011dfdb349bc495a0e"
+  },
+  "assets/campaign-source/audi-q5-campaign.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_957883eaa3384f5d992fd941e0de37b2~mv2.webp",
+    "id": "2ea7da_957883eaa3384f5d992fd941e0de37b2~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/campaign-source/audi-q5-campaign.webp",
+    "sha256": "1cb4e98fe3d52490c495282758713ebab06fbe783129b7965bc72086b9448dae"
+  },
+  "assets/campaign-source/cupra-raval-campaign.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_28dd4488cf364b03afb881996feb4a28~mv2.webp",
+    "id": "2ea7da_28dd4488cf364b03afb881996feb4a28~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/campaign-source/cupra-raval-campaign.webp",
+    "sha256": "e5f7299641ddaeab0f32f708319fa8ac185204f230875338d3f0ae112fffdf26"
+  },
+  "assets/campaign-source/cupra-terramar-campaign.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_ce358a9c9f8b40d4b52293ebd9ed4b70~mv2.webp",
+    "id": "2ea7da_ce358a9c9f8b40d4b52293ebd9ed4b70~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/campaign-source/cupra-terramar-campaign.webp",
+    "sha256": "6029e98694bbb7fba28c4ce355604434d7d401babab7b9ebb8370c4049526a49"
+  },
+  "assets/campaign-source/fabia-campaign.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_9e26aa3ec07340ec9b2fb3d61c482f90~mv2.webp",
+    "id": "2ea7da_9e26aa3ec07340ec9b2fb3d61c482f90~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/campaign-source/fabia-campaign.webp",
+    "sha256": "b479600b238361d95d5a85e7f0d756eef32183de102bd42a43fda8f767d0e90b"
+  },
+  "assets/campaign-source/formentor-campaign.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_bf669e8df38f47ef895bd814fb1efea0~mv2.webp",
+    "id": "2ea7da_bf669e8df38f47ef895bd814fb1efea0~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/campaign-source/formentor-campaign.webp",
+    "sha256": "97c60eec9478f5927afdcf55d7b4613d9e60202326ea20efaa09a5f3855bdad6"
+  },
+  "assets/campaign-source/ibiza-arona-campaign.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_3083511f115b4add8db1ba39b8337aa8~mv2.webp",
+    "id": "2ea7da_3083511f115b4add8db1ba39b8337aa8~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/campaign-source/ibiza-arona-campaign.webp",
+    "sha256": "d8cb9876a5281b87f774213d89d2b7b1e176d557c747f9fd3dd806ebdc06f006"
+  },
+  "assets/campaign-source/id3neo-campaign.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_c5776fd5a0474713b8695c60cb230a02~mv2.webp",
+    "id": "2ea7da_c5776fd5a0474713b8695c60cb230a02~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/campaign-source/id3neo-campaign.webp",
+    "sha256": "8a9002bdbc90845aa4f92a25efc487982ef0daafcd5842678409be745484d67c"
+  },
+  "assets/campaign-source/idpolo-campaign.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_b5bcc298dfb34cc188e47ab616db2412~mv2.webp",
+    "id": "2ea7da_b5bcc298dfb34cc188e47ab616db2412~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/campaign-source/idpolo-campaign.webp",
+    "sha256": "cd249918ad546117be8ab1e6f15de15a1766fa921d25d676dcfa949b7de23c50"
+  },
+  "assets/campaign-source/kodiaq-campaign.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_d7795a9acccb4bb8a61702beaeb6c891~mv2.webp",
+    "id": "2ea7da_d7795a9acccb4bb8a61702beaeb6c891~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/campaign-source/kodiaq-campaign.webp",
+    "sha256": "ec5f25616dc4719020a8004fbfa489b08d7abe201db19c01378935c8d9a8e39d"
+  },
+  "assets/campaign-source/new-vw-troc.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_e75b7137e8cb416fa91600407a9ea792~mv2.webp",
+    "id": "2ea7da_e75b7137e8cb416fa91600407a9ea792~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/campaign-source/new-vw-troc.webp",
+    "sha256": "367482aa6e4e924e7053ac2b5b0ee1755a5bd4d6cc76c30bc6caaca34b28e4e1"
+  },
+  "assets/campaign-source/q4etron-campaign.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_10f2db34e1d143aba1e7ceee29e736f8~mv2.webp",
+    "id": "2ea7da_10f2db34e1d143aba1e7ceee29e736f8~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/campaign-source/q4etron-campaign.webp",
+    "sha256": "3923c280916dfde6116f9e3e7bcf84c2f2262f2c83170bb2a5455342d3a53d5a"
+  },
+  "assets/campaign-source/skoda-kamiq-campaign.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_661180c92b734d0ba40ac72453162728~mv2.webp",
+    "id": "2ea7da_661180c92b734d0ba40ac72453162728~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/campaign-source/skoda-kamiq-campaign.webp",
+    "sha256": "9e21d85adafbfd758d232f39f4781f80b36858eb72c16ffb7a71f53ed0c0dbfb"
+  },
+  "assets/campaign-source/vw-suv-taigo-t-cross.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_0be4d5bd96df432d82f4025ace73db84~mv2.webp",
+    "id": "2ea7da_0be4d5bd96df432d82f4025ace73db84~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/campaign-source/vw-suv-taigo-t-cross.webp",
+    "sha256": "ed2c8410aecdab4190a657a770d7da22d6fdb4a85d9d8a3a7e839204bc60e764"
+  },
+  "assets/campaign-source/vw-tiguan-campaign.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_67392fe36e2b4a6ca4aaa6716ad2739a~mv2.webp",
+    "id": "2ea7da_67392fe36e2b4a6ca4aaa6716ad2739a~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/campaign-source/vw-tiguan-campaign.webp",
+    "sha256": "6acc95b163c038745ccb6f45f725ed18cc9fc7108072da25831139726a4bc8dc"
+  },
+  "assets/car.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_cf3647833ece4fa29cfebdb8517fc166~mv2.webp",
+    "id": "2ea7da_cf3647833ece4fa29cfebdb8517fc166~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/car.webp",
+    "sha256": "0d4b29803abb06bb70e6ec0e7ba7b587e9ff9731dd36619dc4813075ad342d24"
+  },
+  "assets/ehub/audi-a1-sb-30tfsi-advance-stronic-2-1.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_49052495d8c547a991ac11c7dd7f3775~mv2.webp",
+    "id": "2ea7da_49052495d8c547a991ac11c7dd7f3775~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/ehub/audi-a1-sb-30tfsi-advance-stronic-2-1.webp",
+    "sha256": "9a4c28600afd27ba60a0b5b2e77f5000fc735d2f6e4fb5f218d0c0e483a12afd"
+  },
+  "assets/ehub/audi-a1-sb-30tfsi-advance-stronic-3-1.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_e68c983c235d4a568007c1bc9f6eb758~mv2.webp",
+    "id": "2ea7da_e68c983c235d4a568007c1bc9f6eb758~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/ehub/audi-a1-sb-30tfsi-advance-stronic-3-1.webp",
+    "sha256": "0ad4593e6266d944a7e24801fb1248b51b6a14c0d71487f162ad3ed399a76abd"
+  },
+  "assets/ehub/audi-a1-sb-30tfsi-advance-stronic-4-1.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_870c633f6f6042f99d36cadccf883be8~mv2.webp",
+    "id": "2ea7da_870c633f6f6042f99d36cadccf883be8~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/ehub/audi-a1-sb-30tfsi-advance-stronic-4-1.webp",
+    "sha256": "3b3c856cea42405affab64c668532f8b97ae420e14aa1cb39ead053b51cbfb73"
+  },
+  "assets/ehub/audi-a1-sb-30tfsi-advance-stronic-4-2.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_44c3f1c771b24455ab36c0e9445a99a0~mv2.webp",
+    "id": "2ea7da_44c3f1c771b24455ab36c0e9445a99a0~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/ehub/audi-a1-sb-30tfsi-advance-stronic-4-2.webp",
+    "sha256": "067890eafe4abce88ad21dabe94497a5a0e5d21f2132d421545bdf460426017d"
+  },
+  "assets/ehub/audi-a1-sb-30tfsi-advance-stronic-5-1.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_8aca6f1885c5461abcfef39410eb4444~mv2.webp",
+    "id": "2ea7da_8aca6f1885c5461abcfef39410eb4444~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/ehub/audi-a1-sb-30tfsi-advance-stronic-5-1.webp",
+    "sha256": "1245a37f7842efe8633220ce4dc7071d4ced526a641cdab24b56f3e0474edf59"
+  },
+  "assets/ehub/audi-a1-sb-30tfsi-advance-stronic-5-2.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_579815719a5a4a12902418b8eae2d01e~mv2.webp",
+    "id": "2ea7da_579815719a5a4a12902418b8eae2d01e~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/ehub/audi-a1-sb-30tfsi-advance-stronic-5-2.webp",
+    "sha256": "30f3e51c7ccf5840c00a69b0f6ee5948a8761422ffe1a8baf1d7ae230de2227e"
+  },
+  "assets/ehub/audi-a1-sb-sline-35tfsi-stronic-1.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_8bbf79a368094cdaae7c7b8d3434b277~mv2.webp",
+    "id": "2ea7da_8bbf79a368094cdaae7c7b8d3434b277~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/ehub/audi-a1-sb-sline-35tfsi-stronic-1.webp",
+    "sha256": "758998ec0306f3c40426f37c5bc8716c5b6b4268f5689f990cab10ec682905b3"
+  },
+  "assets/ehub/audi-a1-sb-sline-35tfsi-stronic-2.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_5023866b335f409389e871a23353ae3d~mv2.webp",
+    "id": "2ea7da_5023866b335f409389e871a23353ae3d~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/ehub/audi-a1-sb-sline-35tfsi-stronic-2.webp",
+    "sha256": "365d8fbc82294692db55363629453f24a97e59a69d136ae50205772f225a02d9"
+  },
+  "assets/ehub/audi-a3-sportback-sline-35-tfsi-stronic-2-1.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_68cc106a952f480d9414edfb79ee58ec~mv2.webp",
+    "id": "2ea7da_68cc106a952f480d9414edfb79ee58ec~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/ehub/audi-a3-sportback-sline-35-tfsi-stronic-2-1.webp",
+    "sha256": "a918dea6d3513491e141154d6cb7097b9fc0124c48d95b6aa6715b34df0c69d2"
+  },
+  "assets/ehub/audi-a3-sportback-sline-35-tfsi-stronic-2-2.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_3ab7d05083904c6685fafa35183da925~mv2.webp",
+    "id": "2ea7da_3ab7d05083904c6685fafa35183da925~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/ehub/audi-a3-sportback-sline-35-tfsi-stronic-2-2.webp",
+    "sha256": "8ff6bc05b3b54cf8e16946923d8d0d81fe8c86bba25c825028ee5b3cb66bde67"
+  },
+  "assets/ehub/audi-a3-sportback-sline-45-tfsi-e-stronic-1.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_2158e2da71534ad9a5b685f8ac36cb8b~mv2.webp",
+    "id": "2ea7da_2158e2da71534ad9a5b685f8ac36cb8b~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/ehub/audi-a3-sportback-sline-45-tfsi-e-stronic-1.webp",
+    "sha256": "ec135ac1608c2d12506c54dc07094f5373d35f344f4f0db0e132ce259ba0a413"
+  },
+  "assets/ehub/audi-a3-sportback-sline-45-tfsi-e-stronic-2.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_d5a49e9b83d44857bb15234c84f94371~mv2.webp",
+    "id": "2ea7da_d5a49e9b83d44857bb15234c84f94371~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/ehub/audi-a3-sportback-sline-45-tfsi-e-stronic-2.webp",
+    "sha256": "c3fd934b5c7241af2bc165d99cb97aada9172cb0abaf14d13783dfc8350a5a46"
+  },
+  "assets/ehub/audi-a5-avant-tfsi-stronic-150kw-1-1.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_cae7061de8a24f1782fb4da90cfa5d75~mv2.webp",
+    "id": "2ea7da_cae7061de8a24f1782fb4da90cfa5d75~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/ehub/audi-a5-avant-tfsi-stronic-150kw-1-1.webp",
+    "sha256": "0257d4e99b9a3c660971f00fa3a76f81a8c0ace1eab90b74981975679b790b12"
+  },
+  "assets/ehub/audi-a5-avant-tfsi-stronic-150kw-1-2.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_90cccff809e04b67912ee3cf014fc7b7~mv2.webp",
+    "id": "2ea7da_90cccff809e04b67912ee3cf014fc7b7~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/ehub/audi-a5-avant-tfsi-stronic-150kw-1-2.webp",
+    "sha256": "10440d3ee8515c8d13bf7ae90eb801dfce89f572262ebc41ea4d8941feb95863"
+  },
+  "assets/ehub/audi-a5-avant-tfsi-stronic-150kw-1.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_3bf32b1a66ab4957b01447a7016f0748~mv2.webp",
+    "id": "2ea7da_3bf32b1a66ab4957b01447a7016f0748~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/ehub/audi-a5-avant-tfsi-stronic-150kw-1.webp",
+    "sha256": "8646b624bf749cafdc9a9d57497ccff50b649e67b7ca8ead59dcf1ebec3a972d"
+  },
+  "assets/ehub/audi-a5-avant-tfsi-stronic-150kw-2.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_8b281b9cc34a49e3b3a1e1fc113433f8~mv2.webp",
+    "id": "2ea7da_8b281b9cc34a49e3b3a1e1fc113433f8~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/ehub/audi-a5-avant-tfsi-stronic-150kw-2.webp",
+    "sha256": "d9b9c2f8eca920b512d356bf4fdd631a723250e48c9a1ac3212a373322faebcc"
+  },
+  "assets/ehub/audi-a5-limousine-tfsi-stronic-110kw-1-1.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_4e895e13f6944f86a51cda090ee032d7~mv2.webp",
+    "id": "2ea7da_4e895e13f6944f86a51cda090ee032d7~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/ehub/audi-a5-limousine-tfsi-stronic-110kw-1-1.webp",
+    "sha256": "5d43f59ccb19583bdcdcbea66b9011bd214760284ba2be100d83cde80bfc03f4"
+  },
+  "assets/ehub/audi-a5-limousine-tfsi-stronic-110kw-1-2.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_795a48bf992b4e178a7d7a6368c64e4e~mv2.webp",
+    "id": "2ea7da_795a48bf992b4e178a7d7a6368c64e4e~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/ehub/audi-a5-limousine-tfsi-stronic-110kw-1-2.webp",
+    "sha256": "de8050e40b18e187eaf14463266c8130b82f098549eee968f05e89083b0f8f20"
+  },
+  "assets/ehub/audi-a5-limousine-tfsi-stronic-110kw-2-1.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_851bee6a65844d9da7d4440629992726~mv2.webp",
+    "id": "2ea7da_851bee6a65844d9da7d4440629992726~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/ehub/audi-a5-limousine-tfsi-stronic-110kw-2-1.webp",
+    "sha256": "62b2bfe5915cd2076e4b3780027510741e5a538890e828e2375735f4829272d2"
+  },
+  "assets/ehub/audi-a5-limousine-tfsi-stronic-110kw-2-2.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_782d8615447b48d8a29346ab66e1a61b~mv2.webp",
+    "id": "2ea7da_782d8615447b48d8a29346ab66e1a61b~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/ehub/audi-a5-limousine-tfsi-stronic-110kw-2-2.webp",
+    "sha256": "3d03f5dd7b7baa99a000c057bd0345e761d3ddd33bb177054133301d1a6be5d6"
+  },
+  "assets/ehub/audi-a5-limousine-tfsi-stronic-150kw-1.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_3e1bfeb9afe54d5caf34a07ab6cb0f6a~mv2.webp",
+    "id": "2ea7da_3e1bfeb9afe54d5caf34a07ab6cb0f6a~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/ehub/audi-a5-limousine-tfsi-stronic-150kw-1.webp",
+    "sha256": "0a242f0c373d77f5bc5e7f741d043bec9164e8764595646ce153b999f84b5449"
+  },
+  "assets/ehub/audi-a5-limousine-tfsi-stronic-150kw-3-1.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_a8d9631e262b459db7190783b183d72e~mv2.webp",
+    "id": "2ea7da_a8d9631e262b459db7190783b183d72e~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/ehub/audi-a5-limousine-tfsi-stronic-150kw-3-1.webp",
+    "sha256": "62b2bfe5915cd2076e4b3780027510741e5a538890e828e2375735f4829272d2"
+  },
+  "assets/ehub/audi-a5-limousine-tfsi-stronic-150kw-3-2.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_4e1a9589ac6944a195943d2468e1e1c2~mv2.webp",
+    "id": "2ea7da_4e1a9589ac6944a195943d2468e1e1c2~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/ehub/audi-a5-limousine-tfsi-stronic-150kw-3-2.webp",
+    "sha256": "3d03f5dd7b7baa99a000c057bd0345e761d3ddd33bb177054133301d1a6be5d6"
+  },
+  "assets/ehub/audi-a6-sportback-e-tron-performance-1-1.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_69b3960999924f0492e924bba2b0b5e8~mv2.webp",
+    "id": "2ea7da_69b3960999924f0492e924bba2b0b5e8~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/ehub/audi-a6-sportback-e-tron-performance-1-1.webp",
+    "sha256": "c18d62c7b0df322c52c75f331f2f4f3e121457840bf8560889f9690620e34b29"
+  },
+  "assets/ehub/audi-a6-sportback-e-tron-performance-1-2.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_987d5b1d02384702b8f604f6780b3789~mv2.webp",
+    "id": "2ea7da_987d5b1d02384702b8f604f6780b3789~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/ehub/audi-a6-sportback-e-tron-performance-1-2.webp",
+    "sha256": "2fce382b9d1978eb731fc3d0e379ce54861436e9e4f6004e3a8c6ab8e4241d5a"
+  },
+  "assets/ehub/audi-q2-35tfsi-advance-stronic-1-1.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_d15ba44ff7684ed483a600067ab05319~mv2.webp",
+    "id": "2ea7da_d15ba44ff7684ed483a600067ab05319~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/ehub/audi-q2-35tfsi-advance-stronic-1-1.webp",
+    "sha256": "e967aeee23abb18ef2ee90c825a11a9ef54f4c3aaa4351b16ef74556ffb691f0"
+  },
+  "assets/ehub/audi-q2-35tfsi-advance-stronic-1-2.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_9080949a55d246df92d14e1bf1cd9ab3~mv2.webp",
+    "id": "2ea7da_9080949a55d246df92d14e1bf1cd9ab3~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/ehub/audi-q2-35tfsi-advance-stronic-1-2.webp",
+    "sha256": "801b1631ecd7f0654a963f6ca6f387d276813daa0c0a48837c641afc818c6964"
+  },
+  "assets/ehub/audi-q6-etron-suv-quattro-1-1.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_1a69ed7d88014513b5747e09c62bed61~mv2.webp",
+    "id": "2ea7da_1a69ed7d88014513b5747e09c62bed61~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/ehub/audi-q6-etron-suv-quattro-1-1.webp",
+    "sha256": "acaa031a4ed749a1d2b65b6bc019e2ee5d5ca46afb9465d0b381ea7028fcdaff"
+  },
+  "assets/ehub/audi-q6-etron-suv-quattro-1-2.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_74f9ea5609c34c91a6dd456f043e3e41~mv2.webp",
+    "id": "2ea7da_74f9ea5609c34c91a6dd456f043e3e41~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/ehub/audi-q6-etron-suv-quattro-1-2.webp",
+    "sha256": "77a5baee954acd1ec88685b53ef9df89fb0e64da68fa93b3824843ce43a07602"
+  },
+  "assets/ehub/audi-q6-etron-suv-quattro-1.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_cc216d78601d411484b07d6584914604~mv2.webp",
+    "id": "2ea7da_cc216d78601d411484b07d6584914604~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/ehub/audi-q6-etron-suv-quattro-1.webp",
+    "sha256": "c4dd7a91bc123af4882bbb0da1f888c13640d53dd822fb86da782bbb814689f0"
+  },
+  "assets/ehub/audi-q7-sline-50tdi-quattro-1.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_e609cafaabf54add8eb7c610de56b005~mv2.webp",
+    "id": "2ea7da_e609cafaabf54add8eb7c610de56b005~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/ehub/audi-q7-sline-50tdi-quattro-1.webp",
+    "sha256": "edbc0ae215dcfcb7078f6dfd8408b5e778d335cc2e142bb76ad418dc6fbcecff"
+  },
+  "assets/ehub/audi-q8-60tfsie-quattro-1.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_cd355ce98d824e918739836ba59a9210~mv2.webp",
+    "id": "2ea7da_cd355ce98d824e918739836ba59a9210~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/ehub/audi-q8-60tfsie-quattro-1.webp",
+    "sha256": "a7228de6b2fea609fdb04396445b3eb10d8f521a1394b50132fd08ea130cab53"
+  },
+  "assets/ehub/audi-q8-60tfsie-quattro-2.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_c3b6e7a194f4478585980d02eaf3e216~mv2.webp",
+    "id": "2ea7da_c3b6e7a194f4478585980d02eaf3e216~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/ehub/audi-q8-60tfsie-quattro-2.webp",
+    "sha256": "a7b4188ce6b4784e5b674eec0ae5f6b41079bd487b543e13b999cda3ddba40af"
+  },
+  "assets/ehub/audi-q8-etron-sb-55-sline-qtr-1.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_940c9b6373a943fd806858342a390313~mv2.webp",
+    "id": "2ea7da_940c9b6373a943fd806858342a390313~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/ehub/audi-q8-etron-sb-55-sline-qtr-1.webp",
+    "sha256": "8bf59d3bab7ca13bb05a442bc46d184cf8848c1b9b00205460bab78cd55697b6"
+  },
+  "assets/ehub/cupra-ateca-1-5-tsi-dsg-150hp-1.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_accaef3c6bf246e49e139abb98e65115~mv2.webp",
+    "id": "2ea7da_accaef3c6bf246e49e139abb98e65115~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/ehub/cupra-ateca-1-5-tsi-dsg-150hp-1.webp",
+    "sha256": "7fde0eac2a4b9911c0e62a5171fd2609702374c578d1aace2598669fce0a61f6"
+  },
+  "assets/ehub/cupra-ateca-1-5-tsi-dsg-150hp-2.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_ae1c42073ef042ce93d0ad377b0ef7ac~mv2.webp",
+    "id": "2ea7da_ae1c42073ef042ce93d0ad377b0ef7ac~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/ehub/cupra-ateca-1-5-tsi-dsg-150hp-2.webp",
+    "sha256": "97ef1a7f2bc80d9a0976f076f924c4acbcba91e3fcdcdc7ae493165a6d18d301"
+  },
+  "assets/ehub/cupra-born-high-231bhp-59kwh-1-1.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_8823441d77f449d68467ad98b40aebfb~mv2.webp",
+    "id": "2ea7da_8823441d77f449d68467ad98b40aebfb~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/ehub/cupra-born-high-231bhp-59kwh-1-1.webp",
+    "sha256": "438c6d4ea313c2cc2cf1c2019769ac1801dbe9dd996adfd8c844ea6bb70e1b8b"
+  },
+  "assets/ehub/cupra-born-high-231bhp-59kwh-1-2.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_587e959178d04dc0b0816dc72a7f4075~mv2.webp",
+    "id": "2ea7da_587e959178d04dc0b0816dc72a7f4075~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/ehub/cupra-born-high-231bhp-59kwh-1-2.webp",
+    "sha256": "0d1d00ac8299a8f65356718a4ffc566e04213204d40a1ad9f68b4d30a23b16f9"
+  },
+  "assets/ehub/cupra-tavascan-endurance-286bhp-77kwh-1.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_617def1dc7b1433a96b7243d1942a9ec~mv2.webp",
+    "id": "2ea7da_617def1dc7b1433a96b7243d1942a9ec~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/ehub/cupra-tavascan-endurance-286bhp-77kwh-1.webp",
+    "sha256": "ed72c115925da53da89e1fea304295d1b7a55fbf312a2eb2fc4dfec2423afb65"
+  },
+  "assets/ehub/cupra-tavascan-endurance-286bhp-77kwh-2.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_565f8a5d00bf4f2a891ab7fd75c63df8~mv2.webp",
+    "id": "2ea7da_565f8a5d00bf4f2a891ab7fd75c63df8~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/ehub/cupra-tavascan-endurance-286bhp-77kwh-2.webp",
+    "sha256": "9fca1b26567549159418c8ef240931c2dd693ec1084196f059814b49b5233726"
+  },
+  "assets/ehub/seat-1-1.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_e15835ed71d74202882c6f2c5568e20e~mv2.webp",
+    "id": "2ea7da_e15835ed71d74202882c6f2c5568e20e~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/ehub/seat-1-1.webp",
+    "sha256": "65316ddea7c7c2b59d1cdb4db678ce7dc88e4e169a7edebcb63865db414b47b0"
+  },
+  "assets/ehub/seat-1-2.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_e7cf918eae93470b965211a4a8f12fd7~mv2.webp",
+    "id": "2ea7da_e7cf918eae93470b965211a4a8f12fd7~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/ehub/seat-1-2.webp",
+    "sha256": "ad045077a1118d6a41922e6c7b9f52bb4b84ddc4dcadf0ec1d5116bc33984c74"
+  },
+  "assets/ehub/seat-arona-fr-1-0-tsi-115bhp-dsg-1-1.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_bf36ebcb4058466eb99ef4f9db88ff34~mv2.webp",
+    "id": "2ea7da_bf36ebcb4058466eb99ef4f9db88ff34~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/ehub/seat-arona-fr-1-0-tsi-115bhp-dsg-1-1.webp",
+    "sha256": "65316ddea7c7c2b59d1cdb4db678ce7dc88e4e169a7edebcb63865db414b47b0"
+  },
+  "assets/ehub/seat-arona-fr-1-0-tsi-115bhp-dsg-1-2.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_b94f8c2410964d43ad8e714509f3947f~mv2.webp",
+    "id": "2ea7da_b94f8c2410964d43ad8e714509f3947f~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/ehub/seat-arona-fr-1-0-tsi-115bhp-dsg-1-2.webp",
+    "sha256": "ad045077a1118d6a41922e6c7b9f52bb4b84ddc4dcadf0ec1d5116bc33984c74"
+  },
+  "assets/ehub/seat-arona-fr-1-0-tsi-115bhp-dsg-3-1.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_0e002da7d065485ead24712067afdd0b~mv2.webp",
+    "id": "2ea7da_0e002da7d065485ead24712067afdd0b~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/ehub/seat-arona-fr-1-0-tsi-115bhp-dsg-3-1.webp",
+    "sha256": "f1d1af8549249b7b2c8366b8d2be78385e0818e4227bf692a4a97a6e0a4a7fb3"
+  },
+  "assets/ehub/seat-arona-fr-1-0-tsi-115bhp-dsg-3-2.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_6ec85b2ee6ba443fb1ffa978913754c6~mv2.webp",
+    "id": "2ea7da_6ec85b2ee6ba443fb1ffa978913754c6~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/ehub/seat-arona-fr-1-0-tsi-115bhp-dsg-3-2.webp",
+    "sha256": "749a4b2378c18b81d7bc542d0efedd8fb8b6d98856ae030dc633a3ee7bc067b1"
+  },
+  "assets/ehub/seat-ibiza-fr-1-0-tsi-115bhp-dsg-2-1.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_e3a3d7ed4be34cce80a94ab36157cc0e~mv2.webp",
+    "id": "2ea7da_e3a3d7ed4be34cce80a94ab36157cc0e~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/ehub/seat-ibiza-fr-1-0-tsi-115bhp-dsg-2-1.webp",
+    "sha256": "7661f572707b09f5b63df299ef8b4acc97f6cca35d01c3aacd51bd7e9a732509"
+  },
+  "assets/ehub/seat-ibiza-fr-1-0-tsi-115bhp-dsg-2-2.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_adc3a65dce554cb7b7c5091f6ec298bc~mv2.webp",
+    "id": "2ea7da_adc3a65dce554cb7b7c5091f6ec298bc~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/ehub/seat-ibiza-fr-1-0-tsi-115bhp-dsg-2-2.webp",
+    "sha256": "5c1122972a0469d59edde64b6f665971bc35bdfe643ff16a5089073ca051e4da"
+  },
+  "assets/ehub/seat-ibiza-style-1-0-tsi-115bhp-dsg-1.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_e840b0ca84e9465ba501686e4d239695~mv2.webp",
+    "id": "2ea7da_e840b0ca84e9465ba501686e4d239695~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/ehub/seat-ibiza-style-1-0-tsi-115bhp-dsg-1.webp",
+    "sha256": "bc100095e81b1512c71059211bf9d1b3eeaa71042f0f5973673cded12b8bda64"
+  },
+  "assets/ehub/seat-ibiza-style-1-0-tsi-115bhp-dsg-2-1.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_27656aa9a2984347a7052f25cd8cf2da~mv2.webp",
+    "id": "2ea7da_27656aa9a2984347a7052f25cd8cf2da~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/ehub/seat-ibiza-style-1-0-tsi-115bhp-dsg-2-1.webp",
+    "sha256": "69078ab50f61954284dba52d79e14915131f487dc26727d6be33044d0f04fda4"
+  },
+  "assets/ehub/seat-ibiza-style-1-0-tsi-115bhp-dsg-2-2.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_82455d0293964209b2b13e60d4f6935d~mv2.webp",
+    "id": "2ea7da_82455d0293964209b2b13e60d4f6935d~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/ehub/seat-ibiza-style-1-0-tsi-115bhp-dsg-2-2.webp",
+    "sha256": "ec05e5fd0dbde37beb4e852274333a390c33260bd14c6c357cfacee37e8ffcfe"
+  },
+  "assets/ehub/seat-ibiza-style-1-0-tsi-115bhp-dsg-2.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_52715c71bf1649709624cedf4e7c84da~mv2.webp",
+    "id": "2ea7da_52715c71bf1649709624cedf4e7c84da~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/ehub/seat-ibiza-style-1-0-tsi-115bhp-dsg-2.webp",
+    "sha256": "a53ef989a144388ebd757a432a8e2d859d5ad0d309c4d402c130c3ea69b9db1d"
+  },
+  "assets/ehub/seat-leon-fr-1-5etsi-dsg-150bhp-1.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_b0b44eb215584246b8b667d6dcb1bfa7~mv2.webp",
+    "id": "2ea7da_b0b44eb215584246b8b667d6dcb1bfa7~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/ehub/seat-leon-fr-1-5etsi-dsg-150bhp-1.webp",
+    "sha256": "9df90660fdbe0b987f680c031d2edfd3143681ebd45af0e1fa8fb33f84ed29f1"
+  },
+  "assets/ehub/seat-leon-fr-1-5etsi-dsg-150bhp-2.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_9bdaa5870c45446ca09dde7e1df5023a~mv2.webp",
+    "id": "2ea7da_9bdaa5870c45446ca09dde7e1df5023a~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/ehub/seat-leon-fr-1-5etsi-dsg-150bhp-2.webp",
+    "sha256": "36cae8eafa0b22f44b84a83cefa12f577022a5cf154bd67e44921b7d4009a703"
+  },
+  "assets/ehub/seat-leon-nf-fr-1-5tsi-mhev-dsg-1.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_3c6f489a52874e0b809b890313f2ec27~mv2.webp",
+    "id": "2ea7da_3c6f489a52874e0b809b890313f2ec27~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/ehub/seat-leon-nf-fr-1-5tsi-mhev-dsg-1.webp",
+    "sha256": "812765a163e4cc0abbaada4e327fc81d9228647e812301c10e79ad2efb7129c1"
+  },
+  "assets/ehub/skoda-elroq-60-1.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_914012213a6e4414b4ff1f6db1b38a70~mv2.webp",
+    "id": "2ea7da_914012213a6e4414b4ff1f6db1b38a70~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/ehub/skoda-elroq-60-1.webp",
+    "sha256": "7508d635f69e78cbb865df195de0921ba33803f20a386f458b7d4fd96c34ddaf"
+  },
+  "assets/ehub/skoda-elroq-60-2.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_494b5e5f279a4a19860229f397fa6a5e~mv2.webp",
+    "id": "2ea7da_494b5e5f279a4a19860229f397fa6a5e~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/ehub/skoda-elroq-60-2.webp",
+    "sha256": "e31daded76fc275885498f1e2264bbb1dc7116ea464172ec70a92cb519a5fcc6"
+  },
+  "assets/ehub/skoda-elroq-61-1.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_fdc1a1462a34447e9df1655ace498ef3~mv2.webp",
+    "id": "2ea7da_fdc1a1462a34447e9df1655ace498ef3~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/ehub/skoda-elroq-61-1.webp",
+    "sha256": "20e7505f36ce01d55cc69c8e845ce6a918a7555005a1c5dca8f41c9587599122"
+  },
+  "assets/ehub/skoda-elroq-61-2.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_87a5fc2d8f1946b581e4460d99ebb6b6~mv2.webp",
+    "id": "2ea7da_87a5fc2d8f1946b581e4460d99ebb6b6~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/ehub/skoda-elroq-61-2.webp",
+    "sha256": "6559a69034d3baf6e7905353f0a870635851c54cbe11023642055cc1c5af51d0"
+  },
+  "assets/ehub/skoda-fabia-selection-1-0tsi-dsg-85kw-1-1.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_b97cc796a687458a932179cb27c03a04~mv2.webp",
+    "id": "2ea7da_b97cc796a687458a932179cb27c03a04~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/ehub/skoda-fabia-selection-1-0tsi-dsg-85kw-1-1.webp",
+    "sha256": "5f6725f43fe33c5ba997ff7bf2370f99b1f431e60bd838b3fca584968a760736"
+  },
+  "assets/ehub/skoda-fabia-selection-1-0tsi-dsg-85kw-1-2.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_04d00c22b72241b782330bb0227e47f0~mv2.webp",
+    "id": "2ea7da_04d00c22b72241b782330bb0227e47f0~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/ehub/skoda-fabia-selection-1-0tsi-dsg-85kw-1-2.webp",
+    "sha256": "66a6f34f4f8a3a0a7bcada1b331b1211c25b4047ada163895875b979c98081b2"
+  },
+  "assets/ehub/skoda-fabia-selection-1-0tsi-dsg-85kw-2-1.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_1c054bbe7a984355a7f6cbbc6751e007~mv2.webp",
+    "id": "2ea7da_1c054bbe7a984355a7f6cbbc6751e007~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/ehub/skoda-fabia-selection-1-0tsi-dsg-85kw-2-1.webp",
+    "sha256": "4e451cd943f77388cc673c1c40b155609390b29034e25b421ce2417a27a20f81"
+  },
+  "assets/ehub/skoda-fabia-selection-1-0tsi-dsg-85kw-2-2.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_22df44616ae54824b543c99d5bd2836e~mv2.webp",
+    "id": "2ea7da_22df44616ae54824b543c99d5bd2836e~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/ehub/skoda-fabia-selection-1-0tsi-dsg-85kw-2-2.webp",
+    "sha256": "1cf17982369965849e1bd3e6c05941c3d4a0c5b69c93865c33c237504ff9c891"
+  },
+  "assets/ehub/vw-golf-life-1-5tsi-ehybrid-dsg-110kw-1.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_f77de8a3433d4a618635adae562bbcc3~mv2.webp",
+    "id": "2ea7da_f77de8a3433d4a618635adae562bbcc3~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/ehub/vw-golf-life-1-5tsi-ehybrid-dsg-110kw-1.webp",
+    "sha256": "a0988ce1b688a50ad621b38e53a477e0d77fd644c71bec165bc2ff640d0c0b68"
+  },
+  "assets/ehub/vw-golf-life-1-5tsi-ehybrid-dsg-110kw-2.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_7650a3863d8f48c58e02ebaaf91771ff~mv2.webp",
+    "id": "2ea7da_7650a3863d8f48c58e02ebaaf91771ff~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/ehub/vw-golf-life-1-5tsi-ehybrid-dsg-110kw-2.webp",
+    "sha256": "6cffb44bde31adc03badbd45fd9481df7b2a79cc94572f95a7c808e645a00e39"
+  },
+  "assets/ehub/vw-golf-life-ehybrid-dsg-110kw-1-1.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_c6d653b83f5b40f5bcf8b3eeb80da42f~mv2.webp",
+    "id": "2ea7da_c6d653b83f5b40f5bcf8b3eeb80da42f~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/ehub/vw-golf-life-ehybrid-dsg-110kw-1-1.webp",
+    "sha256": "7f686e8ba450e78e121ab1646f62f61970bd2e02c9b97c1e5fd3ea80038e545c"
+  },
+  "assets/ehub/vw-golf-life-ehybrid-dsg-110kw-1-2.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_920c22d818d2424d9279d6594dd0339d~mv2.webp",
+    "id": "2ea7da_920c22d818d2424d9279d6594dd0339d~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/ehub/vw-golf-life-ehybrid-dsg-110kw-1-2.webp",
+    "sha256": "f0a3b45c5b615408a7df58609b9d9400d70e6e676967744622dd2fd1831cfdea"
+  },
+  "assets/ehub/vw-golf-life-ehybrid-dsg-110kw-1.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_122b20c84e7642a3b46e1f4617250011~mv2.webp",
+    "id": "2ea7da_122b20c84e7642a3b46e1f4617250011~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/ehub/vw-golf-life-ehybrid-dsg-110kw-1.webp",
+    "sha256": "d605dae3befb395c2573a837a528c35633905d7aaf325fcd2dc8532fc7cadaff"
+  },
+  "assets/ehub/vw-golf-life-ehybrid-dsg-110kw-2-1.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_96d5da1c5d15451aab7718aca028af86~mv2.webp",
+    "id": "2ea7da_96d5da1c5d15451aab7718aca028af86~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/ehub/vw-golf-life-ehybrid-dsg-110kw-2-1.webp",
+    "sha256": "d605dae3befb395c2573a837a528c35633905d7aaf325fcd2dc8532fc7cadaff"
+  },
+  "assets/ehub/vw-id-3-1.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_0ea9665f78da47fdb96e485050a098b9~mv2.webp",
+    "id": "2ea7da_0ea9665f78da47fdb96e485050a098b9~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/ehub/vw-id-3-1.webp",
+    "sha256": "1cf50401c70c3ae9743812ee6a74dce8462da7fb0c00063e500769a19fe51aab"
+  },
+  "assets/ehub/vw-id-3-2.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_75597d9001d74dc0afc3fcfddbf03f1c~mv2.webp",
+    "id": "2ea7da_75597d9001d74dc0afc3fcfddbf03f1c~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/ehub/vw-id-3-2.webp",
+    "sha256": "69f133345a2936b1932e95030e99e5b51ca52d86052ff8d809077268d8cbbffe"
+  },
+  "assets/ehub/vw-id-3-pa-pro-2-1.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_39c55656204b48b9a5298e93d0db2795~mv2.webp",
+    "id": "2ea7da_39c55656204b48b9a5298e93d0db2795~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/ehub/vw-id-3-pa-pro-2-1.webp",
+    "sha256": "725df236961bc1670fb8319bc45cbd9a006a3f01a05f5f1b1c88b01de70af9a9"
+  },
+  "assets/ehub/vw-id-3-pa-pro-3-1.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_d95c8cc564584da39817b7c27792fcb1~mv2.webp",
+    "id": "2ea7da_d95c8cc564584da39817b7c27792fcb1~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/ehub/vw-id-3-pa-pro-3-1.webp",
+    "sha256": "9b085827c1fd14b2128f05170c6675c7ea91fd068e289f7ceac4bf5e8e3f6c35"
+  },
+  "assets/ehub/vw-id-3-pa-pro-3-2.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_1a25f0256d5148959c4313181ccab224~mv2.webp",
+    "id": "2ea7da_1a25f0256d5148959c4313181ccab224~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/ehub/vw-id-3-pa-pro-3-2.webp",
+    "sha256": "18bc546722b205eff46fb142079d54eafe8d29f52eb28c9bd7d6cb8eae578545"
+  },
+  "assets/ehub/vw-id-4-pro-1-1.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_f3d3798c7f934fe5bfa4e0a8790b0a36~mv2.webp",
+    "id": "2ea7da_f3d3798c7f934fe5bfa4e0a8790b0a36~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/ehub/vw-id-4-pro-1-1.webp",
+    "sha256": "8389fa7cd0fad97828a690097f5e9e7f9790b9f9eebd97ae64e3e72d0ce2751c"
+  },
+  "assets/ehub/vw-id-4-pro-1-2.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_eee009ad45fa48989013a2c6e5b83944~mv2.webp",
+    "id": "2ea7da_eee009ad45fa48989013a2c6e5b83944~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/ehub/vw-id-4-pro-1-2.webp",
+    "sha256": "69716c9f3bda8f79e002ef404e0600ee554654d4eba3beac38b573351f4d3a34"
+  },
+  "assets/ehub/vw-id-5-pro-1.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_41ba4afa1f834b64a968478371cd4472~mv2.webp",
+    "id": "2ea7da_41ba4afa1f834b64a968478371cd4472~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/ehub/vw-id-5-pro-1.webp",
+    "sha256": "2ed66b9ec4a4a1ad817e642aba9bd800922a245831d3e2a424852ac7ed13b7d0"
+  },
+  "assets/ehub/vw-t-roc-cabrio-style-1-5tsi-dsg-1-1.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_f416f814760f4be5b8e05d81c12a08db~mv2.webp",
+    "id": "2ea7da_f416f814760f4be5b8e05d81c12a08db~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/ehub/vw-t-roc-cabrio-style-1-5tsi-dsg-1-1.webp",
+    "sha256": "2e852a5708967df88786a2bde3b4b568639aab07adfa0136aafdb07bfd5ec520"
+  },
+  "assets/ehub/vw-t-roc-cabrio-style-1-5tsi-dsg-1-2.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_5c4065313b004d189c5b2c835c21f974~mv2.webp",
+    "id": "2ea7da_5c4065313b004d189c5b2c835c21f974~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/ehub/vw-t-roc-cabrio-style-1-5tsi-dsg-1-2.webp",
+    "sha256": "2830b96a933a2228ddb44521f8684ed4cca4317252e41e3774c8f2c672dd14d4"
+  },
+  "assets/ehub/vw-t-roc-cabrio-style-1-5tsi-dsg-1.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_d4898310be8a48cea9974ea248af799f~mv2.webp",
+    "id": "2ea7da_d4898310be8a48cea9974ea248af799f~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/ehub/vw-t-roc-cabrio-style-1-5tsi-dsg-1.webp",
+    "sha256": "2f5aa203831f0c9ef4336c25c5176349cb2238f44480181cbd757adcb3d98511"
+  },
+  "assets/ehub/vw-t-roc-cabrio-style-1-5tsi-dsg-2.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_8306fd318f814b49a4e61f5e021fc62b~mv2.webp",
+    "id": "2ea7da_8306fd318f814b49a4e61f5e021fc62b~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/ehub/vw-t-roc-cabrio-style-1-5tsi-dsg-2.webp",
+    "sha256": "61fc38e8fa492e0cf1bb634b37d2e2c7f548725c01432af81aaa8204f581c306"
+  },
+  "assets/ehub/vw-taigo-life-1-0tsi-95ps-2-1.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_5b67e52c0b5245df84b8833842745de7~mv2.webp",
+    "id": "2ea7da_5b67e52c0b5245df84b8833842745de7~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/ehub/vw-taigo-life-1-0tsi-95ps-2-1.webp",
+    "sha256": "3dee17093d07815ab63d22be85ebd7e8799e15a2fffee89817cc3b0b20cbed45"
+  },
+  "assets/ehub/vw-taigo-life-1-0tsi-95ps-2-2.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_54e65e5bc70a4a739775c263c0cc244d~mv2.webp",
+    "id": "2ea7da_54e65e5bc70a4a739775c263c0cc244d~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/ehub/vw-taigo-life-1-0tsi-95ps-2-2.webp",
+    "sha256": "6dfe9aa130f1be535430c64f68e1a0985ff9596297c922358d95270af2cdadf3"
+  },
+  "assets/ehub/vw-taigo-life-1-0tsi-95ps-dsg1-1.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_dacf1f5b975846f5b06d8fee4e007c2f~mv2.webp",
+    "id": "2ea7da_dacf1f5b975846f5b06d8fee4e007c2f~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/ehub/vw-taigo-life-1-0tsi-95ps-dsg1-1.webp",
+    "sha256": "c0013be67f97bf7f0ddbe8b6fc6f87ca48fc628c17ceb7e57b70c1f22051e15e"
+  },
+  "assets/ehub/vw-taigo-life-1-0tsi-95ps-dsg1-2.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_5b37ae893fa44f49a9c4c820ac2bc3fb~mv2.webp",
+    "id": "2ea7da_5b37ae893fa44f49a9c4c820ac2bc3fb~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/ehub/vw-taigo-life-1-0tsi-95ps-dsg1-2.webp",
+    "sha256": "fc3b7ff53433dfa8cd65516481b0a68f4c09ab80fafb42c50d5dbc2060cb0d5b"
+  },
+  "assets/ehub/vw-tayron-elegance-1-5-etsi-dsg-1.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_f5b47a6157874ed1971286b098cf03d1~mv2.webp",
+    "id": "2ea7da_f5b47a6157874ed1971286b098cf03d1~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/ehub/vw-tayron-elegance-1-5-etsi-dsg-1.webp",
+    "sha256": "a59154eb51a42dc6702cbe2bb174adbe491e2403b118c3a70bc2277aece000c7"
+  },
+  "assets/ehub/vw-tayron-elegance-1-5-etsi-dsg-2.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_7c320b6a478e48e6a3a31774011eccb2~mv2.webp",
+    "id": "2ea7da_7c320b6a478e48e6a3a31774011eccb2~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/ehub/vw-tayron-elegance-1-5-etsi-dsg-2.webp",
+    "sha256": "56f05f70bf31c39b626ae6198fe3649eef83bf9aeda227b7562558373550f2c3"
+  },
+  "assets/ehub/vw-tayron-elegance-1-5-etsi-dsg-copy-1.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_2041b0aa57294d30820191d7aea18345~mv2.webp",
+    "id": "2ea7da_2041b0aa57294d30820191d7aea18345~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/ehub/vw-tayron-elegance-1-5-etsi-dsg-copy-1.webp",
+    "sha256": "c57d0a43fb36a7d0e84a13e1ec609ff21f1240a6965b6dc6e612426765661dbe"
+  },
+  "assets/ehub/vw-tayron-elegance-1-5-etsi-dsg-copy-2.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_6b80f86d6773476eac1b607130dca089~mv2.webp",
+    "id": "2ea7da_6b80f86d6773476eac1b607130dca089~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/ehub/vw-tayron-elegance-1-5-etsi-dsg-copy-2.webp",
+    "sha256": "d5f52e50304d26362e22fb4aa729656a771eec5b49295e2c7907a8332e7924b6"
+  },
+  "assets/ehub/vw-tiguan-life-1-5etsi-dsg-1-1.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_2df0621a41984aecbc3f135470d9e005~mv2.webp",
+    "id": "2ea7da_2df0621a41984aecbc3f135470d9e005~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/ehub/vw-tiguan-life-1-5etsi-dsg-1-1.webp",
+    "sha256": "409793df9c7f52ef068e1b0b1107b9b8e4ca491b6406cd8648437a0c163bc296"
+  },
+  "assets/ehub/vw-tiguan-life-1-5etsi-dsg-1-2.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_f180f4d60fc74f94a73edc9e289a3b8c~mv2.webp",
+    "id": "2ea7da_f180f4d60fc74f94a73edc9e289a3b8c~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/ehub/vw-tiguan-life-1-5etsi-dsg-1-2.webp",
+    "sha256": "bea297ae41a3da9582e5968de875a9c1ab1c6e70c345a5f7ffe75dd4c26da538"
+  },
+  "assets/ehub/vw-tiguan-life-1-5etsi-dsg-2-1.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_cd10d1ecbcd04c9e86bf0b106705513d~mv2.webp",
+    "id": "2ea7da_cd10d1ecbcd04c9e86bf0b106705513d~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/ehub/vw-tiguan-life-1-5etsi-dsg-2-1.webp",
+    "sha256": "86e3fbc5486b0b0e9ee88071a966acb98274310f894c8077f83efab67250a8f8"
+  },
+  "assets/ehub/vw-tiguan-life-1-5etsi-dsg-2-2.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_1cbba603349644cbb4885743c548b518~mv2.webp",
+    "id": "2ea7da_1cbba603349644cbb4885743c548b518~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/ehub/vw-tiguan-life-1-5etsi-dsg-2-2.webp",
+    "sha256": "ba88c440fbf42ec0358f8410831e7b995322ec69c564e9e6726fd0ad47ba3bbc"
+  },
+  "assets/ehub/vw-tiguan-rline-1-5-etsi-dsg-2-1.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_5676899ed068498a94f6ed0cc7e01126~mv2.webp",
+    "id": "2ea7da_5676899ed068498a94f6ed0cc7e01126~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/ehub/vw-tiguan-rline-1-5-etsi-dsg-2-1.webp",
+    "sha256": "9956e96faba6438891d629d977ffb364ae8a24484c66f43142e2d34eaf18d35f"
+  },
+  "assets/ehub/vw-tiguan-rline-1-5-etsi-dsg-2-2.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_af8497bdb94b463b8665930aedc2f4b2~mv2.webp",
+    "id": "2ea7da_af8497bdb94b463b8665930aedc2f4b2~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/ehub/vw-tiguan-rline-1-5-etsi-dsg-2-2.webp",
+    "sha256": "0b99b30452cbf486599e0ec6b446f792ba457dda34e56f6106c6171338f6824b"
+  },
+  "assets/ehub/vw-tiguan-rline-2-0-tsi-dsg-150kw-4motion-1.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_1eb1a1da8e4c46389d01d8a0285bbeb7~mv2.webp",
+    "id": "2ea7da_1eb1a1da8e4c46389d01d8a0285bbeb7~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/ehub/vw-tiguan-rline-2-0-tsi-dsg-150kw-4motion-1.webp",
+    "sha256": "5b9c3c1f1b582f2074f74a93c90f27315dca5a43765358c6b9b8d46b816066e7"
+  },
+  "assets/ehub/vw-tiguan-rline-2-0-tsi-dsg-150kw-4motion-2.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_39a936fd4ae544d4b6367e3928629bd2~mv2.webp",
+    "id": "2ea7da_39a936fd4ae544d4b6367e3928629bd2~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/ehub/vw-tiguan-rline-2-0-tsi-dsg-150kw-4motion-2.webp",
+    "sha256": "342c5059502950acdfddec9af6c209980797b21977b43bb4b22dd24fba1d9a17"
+  },
+  "assets/ev.jpg": {
+    "url": "https://static.wixstatic.com/media/2ea7da_c07123cb8e874f33a3a9224a776c2aba~mv2.jpg",
+    "id": "2ea7da_c07123cb8e874f33a3a9224a776c2aba~mv2.jpg",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/ev.jpg",
+    "sha256": "092be055cc9c55b36015d02270f4771eef3b47c8d68a26446d2131c7c832cb01"
+  },
+  "assets/logo.png": {
+    "url": "https://static.wixstatic.com/media/2ea7da_f000cad5b4d24285866b0109ac83a7ac~mv2.png",
+    "id": "2ea7da_f000cad5b4d24285866b0109ac83a7ac~mv2.png",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/logo.png",
+    "sha256": "b8564b74ed98134eba1bf47300311b09c0ea00464220883228ade62954a37742"
+  },
+  "assets/offer-audiq3.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_ef40192ed5b24e3b80ef2b88a6a6257b~mv2.webp",
+    "id": "2ea7da_ef40192ed5b24e3b80ef2b88a6a6257b~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/offer-audiq3.webp",
+    "sha256": "b9201b004c0d2f31511d99ca44be5b8f93a4bbb32f973b73ddeb849ee109e53b"
+  },
+  "assets/offer-care.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_785467d0314a4b4da1b909529ff80eba~mv2.webp",
+    "id": "2ea7da_785467d0314a4b4da1b909529ff80eba~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/offer-care.webp",
+    "sha256": "70d69dce9be929a9a29e30eb81e224af11add5df44e140bdcc98c8208c421995"
+  },
+  "assets/offer-kodiaq.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_8a3bfb01dd6a48359ddeaa4eee8b0220~mv2.webp",
+    "id": "2ea7da_8a3bfb01dd6a48359ddeaa4eee8b0220~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/offer-kodiaq.webp",
+    "sha256": "c98051def7d1b2be813ec4fd4ec5ce1b329690ea859e66bb39a7076d87203fd7"
+  },
+  "assets/offer-raval.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_3aaa489954ca4b21a7088906e4d22671~mv2.webp",
+    "id": "2ea7da_3aaa489954ca4b21a7088906e4d22671~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/offer-raval.webp",
+    "sha256": "879168cad9bc32cca1845e3fe5aaa995f22a45385ee76efe2aa9784753256147"
+  },
+  "assets/offer-seat.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_eeada888479f444f9f1368c8e3a4926c~mv2.webp",
+    "id": "2ea7da_eeada888479f444f9f1368c8e3a4926c~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/offer-seat.webp",
+    "sha256": "0d16894b669546e63fc0ebf256a192e8c1e1fa0bf1c795b867498433abefe832"
+  },
+  "assets/offer-taigo.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_100f901e54994ed49405a36448fb43dc~mv2.webp",
+    "id": "2ea7da_100f901e54994ed49405a36448fb43dc~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/offer-taigo.webp",
+    "sha256": "14c1ad7347320852d349dab6e09dc7b70ce2c6233f5c08b67d7370d084b664c5"
+  },
+  "assets/offer-tiguan.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_e3e879508a4e44b8bbf54a5d5949c6de~mv2.webp",
+    "id": "2ea7da_e3e879508a4e44b8bbf54a5d5949c6de~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/offer-tiguan.webp",
+    "sha256": "47be1d41f3620ad8941b204d87a2d72ec4074383fe9d24574d587a78a6a40046"
+  },
+  "assets/range-documents/audi-a3-sedan.jpg": {
+    "url": "https://static.wixstatic.com/media/2ea7da_e9d700f76fb54a0cb94276fd6f65b6c5~mv2.jpg",
+    "id": "2ea7da_e9d700f76fb54a0cb94276fd6f65b6c5~mv2.jpg",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range-documents/audi-a3-sedan.jpg",
+    "sha256": "8c728cb898d46eba258dc92a9dcd1033b31f68cbce09935b9a55c9eb5973ceb6"
+  },
+  "assets/range-documents/audi-a3-sportback.jpg": {
+    "url": "https://static.wixstatic.com/media/2ea7da_0bdf769087be4c8499142787d6c5263b~mv2.jpg",
+    "id": "2ea7da_0bdf769087be4c8499142787d6c5263b~mv2.jpg",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range-documents/audi-a3-sportback.jpg",
+    "sha256": "58b5b2a49bc3fe2281face90f0c8131963bd47f32aadce6cb59e541aec81dd56"
+  },
+  "assets/range-documents/audi-a5-avant.jpg": {
+    "url": "https://static.wixstatic.com/media/2ea7da_de3bbff845d649a98acd288d6fcacb6b~mv2.jpg",
+    "id": "2ea7da_de3bbff845d649a98acd288d6fcacb6b~mv2.jpg",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range-documents/audi-a5-avant.jpg",
+    "sha256": "4ad7dca012f8133b86db5f5afc873f979d5ff6c972331454f4205cfb566ceaf0"
+  },
+  "assets/range-documents/audi-a5-limousine.jpg": {
+    "url": "https://static.wixstatic.com/media/2ea7da_fdd3a1f939fa41df84e4339e31a81853~mv2.jpg",
+    "id": "2ea7da_fdd3a1f939fa41df84e4339e31a81853~mv2.jpg",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range-documents/audi-a5-limousine.jpg",
+    "sha256": "27c490d6a2c172bee52fbf64dc9c3d12a6bba83f07a3f509f780ae9a01d497c5"
+  },
+  "assets/range-documents/audi-a6-e-tron-avant.jpg": {
+    "url": "https://static.wixstatic.com/media/2ea7da_b99580747b854c17a2edae6bc5c2e541~mv2.jpg",
+    "id": "2ea7da_b99580747b854c17a2edae6bc5c2e541~mv2.jpg",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range-documents/audi-a6-e-tron-avant.jpg",
+    "sha256": "f420193e4db795672b34021eafb5cdfa37bad089a6aeef66ab47a7c057c1e5d8"
+  },
+  "assets/range-documents/audi-a6-e-tron-sportback.jpg": {
+    "url": "https://static.wixstatic.com/media/2ea7da_8bdb1be3c17e4cb790f3d49a20d9d8d7~mv2.jpg",
+    "id": "2ea7da_8bdb1be3c17e4cb790f3d49a20d9d8d7~mv2.jpg",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range-documents/audi-a6-e-tron-sportback.jpg",
+    "sha256": "7eeeae79f001fc1cf38f985c43a18442be97256c300f2480514f169b6f5e9ef1"
+  },
+  "assets/range-documents/audi-e-tron-gt.jpg": {
+    "url": "https://static.wixstatic.com/media/2ea7da_997dd330388f42c6aba04de6fdef2d49~mv2.jpg",
+    "id": "2ea7da_997dd330388f42c6aba04de6fdef2d49~mv2.jpg",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range-documents/audi-e-tron-gt.jpg",
+    "sha256": "65306694bd020c2f0a42b0f287474989190d925c415cd129eda4bb87c8040cf7"
+  },
+  "assets/range-documents/audi-q3-sportback.jpg": {
+    "url": "https://static.wixstatic.com/media/2ea7da_076c02d9d1e7459cb92fa0abf201d8ec~mv2.jpg",
+    "id": "2ea7da_076c02d9d1e7459cb92fa0abf201d8ec~mv2.jpg",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range-documents/audi-q3-sportback.jpg",
+    "sha256": "d16684c3cc78a0a2ad7d5e443ed0f4f4767b43bdc9f16444e4a2c0b7137c46fa"
+  },
+  "assets/range-documents/audi-q3.jpg": {
+    "url": "https://static.wixstatic.com/media/2ea7da_e4b46eff189b4b8ba23fcb4ce8db2fa2~mv2.jpg",
+    "id": "2ea7da_e4b46eff189b4b8ba23fcb4ce8db2fa2~mv2.jpg",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range-documents/audi-q3.jpg",
+    "sha256": "01fcd575bf77492f32b8730b35f3a404a6a4b4161fbd2f738634e749cfc7bca4"
+  },
+  "assets/range-documents/audi-q4-e-tron-sportback.jpg": {
+    "url": "https://static.wixstatic.com/media/2ea7da_e093b0def50243839661bf8c9674efd9~mv2.jpg",
+    "id": "2ea7da_e093b0def50243839661bf8c9674efd9~mv2.jpg",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range-documents/audi-q4-e-tron-sportback.jpg",
+    "sha256": "9ae0f642e75a5009e8c4c7c49f27203e4bbad1dca32e71a9af962ded1d734b2b"
+  },
+  "assets/range-documents/audi-q4-e-tron.jpg": {
+    "url": "https://static.wixstatic.com/media/2ea7da_09808c44aa37403892defd210efdc4ba~mv2.jpg",
+    "id": "2ea7da_09808c44aa37403892defd210efdc4ba~mv2.jpg",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range-documents/audi-q4-e-tron.jpg",
+    "sha256": "d17a2e73ce96a7d16a5a217264ac0ecc2dcc56f59d9225c28fb65306aee43d49"
+  },
+  "assets/range-documents/audi-q5-sportback.jpg": {
+    "url": "https://static.wixstatic.com/media/2ea7da_b5ad495795b845f08ccf4839de257184~mv2.jpg",
+    "id": "2ea7da_b5ad495795b845f08ccf4839de257184~mv2.jpg",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range-documents/audi-q5-sportback.jpg",
+    "sha256": "0d66e09cea9c96d107178ed392af2053dae74e5de070fb8f90af7a829c63e6fc"
+  },
+  "assets/range-documents/audi-q5.jpg": {
+    "url": "https://static.wixstatic.com/media/2ea7da_bd84842672764e43978e16814dc4eed1~mv2.jpg",
+    "id": "2ea7da_bd84842672764e43978e16814dc4eed1~mv2.jpg",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range-documents/audi-q5.jpg",
+    "sha256": "cc95e55f2aa947d7a509b1f12dffecea536a131c072dbbe7e361c5b74bb50152"
+  },
+  "assets/range-documents/audi-q6-e-tron.jpg": {
+    "url": "https://static.wixstatic.com/media/2ea7da_4d648db7b7ed41588a7b6164a08b2ca6~mv2.jpg",
+    "id": "2ea7da_4d648db7b7ed41588a7b6164a08b2ca6~mv2.jpg",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range-documents/audi-q6-e-tron.jpg",
+    "sha256": "4d471f46e02a62551522da4a93d44e5ad15477eda7de06c7125d8f82b2f76c03"
+  },
+  "assets/range-documents/audi-q6-sportback-e-tron.jpg": {
+    "url": "https://static.wixstatic.com/media/2ea7da_399b41a72d724a5ba745c732b6efcf52~mv2.jpg",
+    "id": "2ea7da_399b41a72d724a5ba745c732b6efcf52~mv2.jpg",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range-documents/audi-q6-sportback-e-tron.jpg",
+    "sha256": "23d2fcc946be71f7c15ee40f1b9ddf98a802b890182197618082db670754cbe2"
+  },
+  "assets/range-documents/audi-q7.jpg": {
+    "url": "https://static.wixstatic.com/media/2ea7da_6ed3427cadc94a35a33e707e69fe1a9f~mv2.jpg",
+    "id": "2ea7da_6ed3427cadc94a35a33e707e69fe1a9f~mv2.jpg",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range-documents/audi-q7.jpg",
+    "sha256": "32348a319858e42e4b71595f66bb4ba68c9904f32bf4718bc428c37286fc6880"
+  },
+  "assets/range-documents/audi-q8.jpg": {
+    "url": "https://static.wixstatic.com/media/2ea7da_5ebae940d1c8476ba5175c96686a0597~mv2.jpg",
+    "id": "2ea7da_5ebae940d1c8476ba5175c96686a0597~mv2.jpg",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range-documents/audi-q8.jpg",
+    "sha256": "98e8de12db82fe78a8a97752af370822dbca8962a89fa3fa4ebf31ca62c697ab"
+  },
+  "assets/range-documents/audi-rsq8.jpg": {
+    "url": "https://static.wixstatic.com/media/2ea7da_882778e3622f419b9dc607c736896fcf~mv2.jpg",
+    "id": "2ea7da_882778e3622f419b9dc607c736896fcf~mv2.jpg",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range-documents/audi-rsq8.jpg",
+    "sha256": "0cd175a9b2fb2f535aa34a737396c1e0e1f4ad00fb46062ed610ba6e11cb63b5"
+  },
+  "assets/range-documents/cupra-born.jpg": {
+    "url": "https://static.wixstatic.com/media/2ea7da_99cc0bf2e91e41298680921dbc48c266~mv2.jpg",
+    "id": "2ea7da_99cc0bf2e91e41298680921dbc48c266~mv2.jpg",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range-documents/cupra-born.jpg",
+    "sha256": "c8c76550b9c34b6ab750fd85a46ce5aa966204cfd6f054f4153640fe40a90c9a"
+  },
+  "assets/range-documents/cupra-formentor.jpg": {
+    "url": "https://static.wixstatic.com/media/2ea7da_5051cff330c1416aa9e37f376e25a3c1~mv2.jpg",
+    "id": "2ea7da_5051cff330c1416aa9e37f376e25a3c1~mv2.jpg",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range-documents/cupra-formentor.jpg",
+    "sha256": "c2822388eb641eadbc7d9ddf03eec3019b176b049e3df591e357796a161d2b99"
+  },
+  "assets/range-documents/cupra-leon.jpg": {
+    "url": "https://static.wixstatic.com/media/2ea7da_34a22553f8894cea8c3ed8cb958909e4~mv2.jpg",
+    "id": "2ea7da_34a22553f8894cea8c3ed8cb958909e4~mv2.jpg",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range-documents/cupra-leon.jpg",
+    "sha256": "547f26fbe1a233c9b2e88371b3f5f6efc32b1c625bdb82ae89ab0c0a0208151a"
+  },
+  "assets/range-documents/cupra-raval.jpg": {
+    "url": "https://static.wixstatic.com/media/2ea7da_7b502dd234ff4087a925f4965db3a827~mv2.jpg",
+    "id": "2ea7da_7b502dd234ff4087a925f4965db3a827~mv2.jpg",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range-documents/cupra-raval.jpg",
+    "sha256": "d7b99549505e6416505570d63cefcc89978705069e159d45fe494b5e64478246"
+  },
+  "assets/range-documents/cupra-tavascan.jpg": {
+    "url": "https://static.wixstatic.com/media/2ea7da_907578e2b1c3463eadb28a042ee063ef~mv2.jpg",
+    "id": "2ea7da_907578e2b1c3463eadb28a042ee063ef~mv2.jpg",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range-documents/cupra-tavascan.jpg",
+    "sha256": "19336d88a1520566a0bd8af1b3494747377ec30c444c17223ed8f2afb974b45b"
+  },
+  "assets/range-documents/cupra-terramar.jpg": {
+    "url": "https://static.wixstatic.com/media/2ea7da_ae729edcc85444d19fc45ccc0e80e280~mv2.jpg",
+    "id": "2ea7da_ae729edcc85444d19fc45ccc0e80e280~mv2.jpg",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range-documents/cupra-terramar.jpg",
+    "sha256": "42db5e47228166ad10089af3f3a33534eab3dcaa7992d0d087c24f68c651721c"
+  },
+  "assets/range-documents/id-buzz-cargo.jpg": {
+    "url": "https://static.wixstatic.com/media/2ea7da_bc3f8b482d604ad0b1966cf80ece1734~mv2.jpg",
+    "id": "2ea7da_bc3f8b482d604ad0b1966cf80ece1734~mv2.jpg",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range-documents/id-buzz-cargo.jpg",
+    "sha256": "f0c0790519d2a8ce920acbf199e5121489df5cb598e65768462c4c63f5ce30c1"
+  },
+  "assets/range-documents/seat-arona.jpg": {
+    "url": "https://static.wixstatic.com/media/2ea7da_28439f53a1ea4727a4bfa56eb25fb91e~mv2.jpg",
+    "id": "2ea7da_28439f53a1ea4727a4bfa56eb25fb91e~mv2.jpg",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range-documents/seat-arona.jpg",
+    "sha256": "5356984399f59478be2bb01df4b5282956332772d8063c2f75089b8e46465845"
+  },
+  "assets/range-documents/seat-ibiza-van.jpg": {
+    "url": "https://static.wixstatic.com/media/2ea7da_02f7e4f1ad4c443c825924ec82cd1007~mv2.jpg",
+    "id": "2ea7da_02f7e4f1ad4c443c825924ec82cd1007~mv2.jpg",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range-documents/seat-ibiza-van.jpg",
+    "sha256": "0f3b3958a5f46fcdf1ae768ead1bb3d65b65e11ef1b5396e1bb9adc20f37e6d3"
+  },
+  "assets/range-documents/seat-ibiza.jpg": {
+    "url": "https://static.wixstatic.com/media/2ea7da_b526d2080a284e098211e27a3881e05e~mv2.jpg",
+    "id": "2ea7da_b526d2080a284e098211e27a3881e05e~mv2.jpg",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range-documents/seat-ibiza.jpg",
+    "sha256": "0d8cbf6d3a1df78c169dc21b87c339e0ef14d2bfcfa49372b62d1a2f63791ad8"
+  },
+  "assets/range-documents/seat-leon.jpg": {
+    "url": "https://static.wixstatic.com/media/2ea7da_0bd293188563480cbef4b0624faa9f70~mv2.jpg",
+    "id": "2ea7da_0bd293188563480cbef4b0624faa9f70~mv2.jpg",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range-documents/seat-leon.jpg",
+    "sha256": "0306dc52a5286fbd77b66f6c5b22f80ed81f0b379e086bb432667eb5b681e454"
+  },
+  "assets/range-documents/skoda-elroq-rs.jpg": {
+    "url": "https://static.wixstatic.com/media/2ea7da_7e7eb21a116d447d8b5e48e10064d4ae~mv2.jpg",
+    "id": "2ea7da_7e7eb21a116d447d8b5e48e10064d4ae~mv2.jpg",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range-documents/skoda-elroq-rs.jpg",
+    "sha256": "8c7faf8dc79f2abc726338cccbd9f9fc37c3e57eb30d69da95c9d41ad124608e"
+  },
+  "assets/range-documents/skoda-elroq.jpg": {
+    "url": "https://static.wixstatic.com/media/2ea7da_fa11edaf239140c49611ee5429d219b0~mv2.jpg",
+    "id": "2ea7da_fa11edaf239140c49611ee5429d219b0~mv2.jpg",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range-documents/skoda-elroq.jpg",
+    "sha256": "ca0e6b610d6a0170239ea8f88b5d8fab825217cd45c6abd743b376994c29bce3"
+  },
+  "assets/range-documents/skoda-enyaq-coupe-rs.jpg": {
+    "url": "https://static.wixstatic.com/media/2ea7da_0010461f586649f49d5721d0d1541108~mv2.jpg",
+    "id": "2ea7da_0010461f586649f49d5721d0d1541108~mv2.jpg",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range-documents/skoda-enyaq-coupe-rs.jpg",
+    "sha256": "7e6cdfc70df4412f15ccaf1f33490e00ce037543e52089cf392e241b5c660db2"
+  },
+  "assets/range-documents/skoda-enyaq-coupe.jpg": {
+    "url": "https://static.wixstatic.com/media/2ea7da_f17a665f8d594f14958be7d3b1ea8964~mv2.jpg",
+    "id": "2ea7da_f17a665f8d594f14958be7d3b1ea8964~mv2.jpg",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range-documents/skoda-enyaq-coupe.jpg",
+    "sha256": "0bbfa6e8f20dc94f9d494f19837fee9a2cffe6858bdb64137d9b3c27d1ed9b1e"
+  },
+  "assets/range-documents/skoda-enyaq-rs.jpg": {
+    "url": "https://static.wixstatic.com/media/2ea7da_86e6f7102fe1475e93d2b6b39e34b77d~mv2.jpg",
+    "id": "2ea7da_86e6f7102fe1475e93d2b6b39e34b77d~mv2.jpg",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range-documents/skoda-enyaq-rs.jpg",
+    "sha256": "7e6cdfc70df4412f15ccaf1f33490e00ce037543e52089cf392e241b5c660db2"
+  },
+  "assets/range-documents/skoda-enyaq.jpg": {
+    "url": "https://static.wixstatic.com/media/2ea7da_c248e7eeb2fe4185817c481ccb0c2696~mv2.jpg",
+    "id": "2ea7da_c248e7eeb2fe4185817c481ccb0c2696~mv2.jpg",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range-documents/skoda-enyaq.jpg",
+    "sha256": "7700e82f552f80cce25dd4c8f5aa176c3cf734c0c46413d734ccbb30d61bb43b"
+  },
+  "assets/range-documents/skoda-fabia-130.jpg": {
+    "url": "https://static.wixstatic.com/media/2ea7da_3ee87a4523f14d7a9f6cc69324b02b13~mv2.jpg",
+    "id": "2ea7da_3ee87a4523f14d7a9f6cc69324b02b13~mv2.jpg",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range-documents/skoda-fabia-130.jpg",
+    "sha256": "c137f4867e7eb0763530c7af0b9a499be15a95a9c973c498b1b6a1be4fd5659f"
+  },
+  "assets/range-documents/skoda-fabia.jpg": {
+    "url": "https://static.wixstatic.com/media/2ea7da_09a5f46c3be842bf85e0b205d1818fab~mv2.jpg",
+    "id": "2ea7da_09a5f46c3be842bf85e0b205d1818fab~mv2.jpg",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range-documents/skoda-fabia.jpg",
+    "sha256": "beee6e767909c6edf23223874b49b689be72c405436ac196689308390b180c01"
+  },
+  "assets/range-documents/skoda-kamiq.jpg": {
+    "url": "https://static.wixstatic.com/media/2ea7da_cfaed1dcd89f4a64aafdcdd8c5e278ef~mv2.jpg",
+    "id": "2ea7da_cfaed1dcd89f4a64aafdcdd8c5e278ef~mv2.jpg",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range-documents/skoda-kamiq.jpg",
+    "sha256": "d38b6c88f6e6aa40a3bc8c4581349ae11726b37204d0a45a396e237a85628beb"
+  },
+  "assets/range-documents/skoda-karoq.jpg": {
+    "url": "https://static.wixstatic.com/media/2ea7da_c6ee702603bc4c69923994af1547ed94~mv2.jpg",
+    "id": "2ea7da_c6ee702603bc4c69923994af1547ed94~mv2.jpg",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range-documents/skoda-karoq.jpg",
+    "sha256": "562d223ef2272d2634b97ef133a78714e2e8d3fff39c93712b946302547bec4f"
+  },
+  "assets/range-documents/skoda-kodiaq-rs.jpg": {
+    "url": "https://static.wixstatic.com/media/2ea7da_7e087bb06bd44984a3446cbd94f01c05~mv2.jpg",
+    "id": "2ea7da_7e087bb06bd44984a3446cbd94f01c05~mv2.jpg",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range-documents/skoda-kodiaq-rs.jpg",
+    "sha256": "81720d3501c26670684021f4f9c4319368c3eb1414291f220504cf4d0309e8ec"
+  },
+  "assets/range-documents/skoda-kodiaq.jpg": {
+    "url": "https://static.wixstatic.com/media/2ea7da_f2d5eb5e75dc49ba8b5f7005adec44e3~mv2.jpg",
+    "id": "2ea7da_f2d5eb5e75dc49ba8b5f7005adec44e3~mv2.jpg",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range-documents/skoda-kodiaq.jpg",
+    "sha256": "2e3c11af14f144407c484b77c4bde9ac20421d18162f27b50a75eb5b5c82e91c"
+  },
+  "assets/range-documents/skoda-octavia-combi.jpg": {
+    "url": "https://static.wixstatic.com/media/2ea7da_0afdf4af9716474b91c074a71e5d447a~mv2.jpg",
+    "id": "2ea7da_0afdf4af9716474b91c074a71e5d447a~mv2.jpg",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range-documents/skoda-octavia-combi.jpg",
+    "sha256": "787b6675ee4e87268471d4ada0da87f923d4237e31bed7e03b0e7a3c88d551c1"
+  },
+  "assets/range-documents/skoda-octavia-rs.jpg": {
+    "url": "https://static.wixstatic.com/media/2ea7da_bbab6ff752e54e938f7e0590fea3e372~mv2.jpg",
+    "id": "2ea7da_bbab6ff752e54e938f7e0590fea3e372~mv2.jpg",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range-documents/skoda-octavia-rs.jpg",
+    "sha256": "551ef771fc9408c3ac467e4344a72ec5055b08079a84e6df2c55eec49e3d2cae"
+  },
+  "assets/range-documents/skoda-octavia.jpg": {
+    "url": "https://static.wixstatic.com/media/2ea7da_8f4e8823d6e2497fb2edc3b6eeee751c~mv2.jpg",
+    "id": "2ea7da_8f4e8823d6e2497fb2edc3b6eeee751c~mv2.jpg",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range-documents/skoda-octavia.jpg",
+    "sha256": "d7977ac5a4ab99f326349470aa2ba3c9b527af8f9846aa5107ffdb81ee56aa71"
+  },
+  "assets/range-documents/volkswagen-amarok.jpg": {
+    "url": "https://static.wixstatic.com/media/2ea7da_301cf685e3ef4dd9b4f72fc7a8a0f04e~mv2.jpg",
+    "id": "2ea7da_301cf685e3ef4dd9b4f72fc7a8a0f04e~mv2.jpg",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range-documents/volkswagen-amarok.jpg",
+    "sha256": "7581e5f6ac0cd98d32f4de850b0445cfb99736f15cf7a7dd6562c9b0553b1670"
+  },
+  "assets/range-documents/volkswagen-caddy-maxi-cargo.jpg": {
+    "url": "https://static.wixstatic.com/media/2ea7da_afeb24c90a4748d2850178c0159ffa16~mv2.jpg",
+    "id": "2ea7da_afeb24c90a4748d2850178c0159ffa16~mv2.jpg",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range-documents/volkswagen-caddy-maxi-cargo.jpg",
+    "sha256": "15a8dd68ab259e903cf2d5ca062cb97d817fef9b75758e2993db28e3dc2d69ff"
+  },
+  "assets/range-documents/volkswagen-caddy-passenger.jpg": {
+    "url": "https://static.wixstatic.com/media/2ea7da_df9c5628fa29440ca6d19769e5fd49a5~mv2.jpg",
+    "id": "2ea7da_df9c5628fa29440ca6d19769e5fd49a5~mv2.jpg",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range-documents/volkswagen-caddy-passenger.jpg",
+    "sha256": "4f49dab29184c5d83716e23fd68a3c0301fe438458e9a9931b2a30c003bced6f"
+  },
+  "assets/range-documents/volkswagen-caddy.jpg": {
+    "url": "https://static.wixstatic.com/media/2ea7da_168bea79416e4f51b12d031c1c78ef9f~mv2.jpg",
+    "id": "2ea7da_168bea79416e4f51b12d031c1c78ef9f~mv2.jpg",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range-documents/volkswagen-caddy.jpg",
+    "sha256": "72647260b0cda833bb987b6b3bfdf561bcac3082501bb6b80e1223b6fc6fa81b"
+  },
+  "assets/range-documents/volkswagen-crafter.jpg": {
+    "url": "https://static.wixstatic.com/media/2ea7da_f7dbd65e33ba4370b401f28f0f2394ea~mv2.jpg",
+    "id": "2ea7da_f7dbd65e33ba4370b401f28f0f2394ea~mv2.jpg",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range-documents/volkswagen-crafter.jpg",
+    "sha256": "6610e89dd6194837eae777f1320e00421c9bfa70a2ab991cae781c178624e00f"
+  },
+  "assets/range-documents/volkswagen-golf-performance-gti-r.jpg": {
+    "url": "https://static.wixstatic.com/media/2ea7da_ec9eadd5b9a8439587f4233b805989e0~mv2.jpg",
+    "id": "2ea7da_ec9eadd5b9a8439587f4233b805989e0~mv2.jpg",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range-documents/volkswagen-golf-performance-gti-r.jpg",
+    "sha256": "07eb13f91c484176208188a5f296648db8a6f9b11d1db7554272e3a4ab31ac44"
+  },
+  "assets/range-documents/volkswagen-golf.jpg": {
+    "url": "https://static.wixstatic.com/media/2ea7da_db3337bcfffd4618ba1bbf0a4d74b4fe~mv2.jpg",
+    "id": "2ea7da_db3337bcfffd4618ba1bbf0a4d74b4fe~mv2.jpg",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range-documents/volkswagen-golf.jpg",
+    "sha256": "7743379dcdd18f8e75b36673331d545a43632112f61345d27ec3e2bd5e33bac3"
+  },
+  "assets/range-documents/volkswagen-id-3-neo.jpg": {
+    "url": "https://static.wixstatic.com/media/2ea7da_90ef76e3f9104480aa8d8c48abda4eb6~mv2.jpg",
+    "id": "2ea7da_90ef76e3f9104480aa8d8c48abda4eb6~mv2.jpg",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range-documents/volkswagen-id-3-neo.jpg",
+    "sha256": "d1493e56482ce6de550e7da993bc9e2661fd7cca4393f7c11b602cd6c39403e2"
+  },
+  "assets/range-documents/volkswagen-id-4.jpg": {
+    "url": "https://static.wixstatic.com/media/2ea7da_a32286468af346d491ea1db447b834c8~mv2.jpg",
+    "id": "2ea7da_a32286468af346d491ea1db447b834c8~mv2.jpg",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range-documents/volkswagen-id-4.jpg",
+    "sha256": "c7566dd35883a7004f68e5f65991725cf68445c1888fc7eef0b9a153178d17e1"
+  },
+  "assets/range-documents/volkswagen-id-5.jpg": {
+    "url": "https://static.wixstatic.com/media/2ea7da_3956a72e054a4e908d02ee9ed2563d49~mv2.jpg",
+    "id": "2ea7da_3956a72e054a4e908d02ee9ed2563d49~mv2.jpg",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range-documents/volkswagen-id-5.jpg",
+    "sha256": "a5199aa72d9759f0a5f1d0dcae0d72371856058b5b82cd72a9554a4b6c4bd8ff"
+  },
+  "assets/range-documents/volkswagen-id-7.jpg": {
+    "url": "https://static.wixstatic.com/media/2ea7da_f3f9d4d6077146c38cf3873ca102ec66~mv2.jpg",
+    "id": "2ea7da_f3f9d4d6077146c38cf3873ca102ec66~mv2.jpg",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range-documents/volkswagen-id-7.jpg",
+    "sha256": "4654c56ed16e2698d5f3634db66243a5d521d8120d60b4e029dbb93b9a090f24"
+  },
+  "assets/range-documents/volkswagen-id-buzz.jpg": {
+    "url": "https://static.wixstatic.com/media/2ea7da_4ddefa770bb94612b2101558356900c5~mv2.jpg",
+    "id": "2ea7da_4ddefa770bb94612b2101558356900c5~mv2.jpg",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range-documents/volkswagen-id-buzz.jpg",
+    "sha256": "13bc727e77d93630e9e960029a557461fb48ab466c4e9db818350b79fa1e9ac0"
+  },
+  "assets/range-documents/volkswagen-id-polo.jpg": {
+    "url": "https://static.wixstatic.com/media/2ea7da_522b48ab9eda4d3ca716b78e094605f8~mv2.jpg",
+    "id": "2ea7da_522b48ab9eda4d3ca716b78e094605f8~mv2.jpg",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range-documents/volkswagen-id-polo.jpg",
+    "sha256": "4a49693100f1a0196d0a27f02c98501af55114cd41e07b30881e7a118e60140f"
+  },
+  "assets/range-documents/volkswagen-polo.jpg": {
+    "url": "https://static.wixstatic.com/media/2ea7da_40bf6454c78149ee8baed4683b8942c9~mv2.jpg",
+    "id": "2ea7da_40bf6454c78149ee8baed4683b8942c9~mv2.jpg",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range-documents/volkswagen-polo.jpg",
+    "sha256": "e0fefc5f543565ddcfdc064213a7ed866362831cfe2337a2f411f339f01a4cb8"
+  },
+  "assets/range-documents/volkswagen-t-cross.jpg": {
+    "url": "https://static.wixstatic.com/media/2ea7da_6d5e9ed4e5b24a6d97a5cc8ef784dc14~mv2.jpg",
+    "id": "2ea7da_6d5e9ed4e5b24a6d97a5cc8ef784dc14~mv2.jpg",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range-documents/volkswagen-t-cross.jpg",
+    "sha256": "118bd9195ae1115623ce2d47355604d740fa63f2d3041d7f998fa71607833a6d"
+  },
+  "assets/range-documents/volkswagen-t-roc-cabrio.jpg": {
+    "url": "https://static.wixstatic.com/media/2ea7da_3d3a49b5d73f4b0f958069dd196464f5~mv2.jpg",
+    "id": "2ea7da_3d3a49b5d73f4b0f958069dd196464f5~mv2.jpg",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range-documents/volkswagen-t-roc-cabrio.jpg",
+    "sha256": "31be64ebc34f4724fcac8873ba655fa12a97499d8c6da382a75fdd21451e6aa9"
+  },
+  "assets/range-documents/volkswagen-t-roc.jpg": {
+    "url": "https://static.wixstatic.com/media/2ea7da_3065bf94e12a4d89aa633774b716e9b6~mv2.jpg",
+    "id": "2ea7da_3065bf94e12a4d89aa633774b716e9b6~mv2.jpg",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range-documents/volkswagen-t-roc.jpg",
+    "sha256": "0243a9f9b9c7f095af62b5294b4194d51a0aebc2d583e09a77b20438a4a97014"
+  },
+  "assets/range-documents/volkswagen-t7-multivan.jpg": {
+    "url": "https://static.wixstatic.com/media/2ea7da_eb74ed365ebb41419a00c034e91895cf~mv2.jpg",
+    "id": "2ea7da_eb74ed365ebb41419a00c034e91895cf~mv2.jpg",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range-documents/volkswagen-t7-multivan.jpg",
+    "sha256": "3523d77fd8f092ba1b9efe3e9c83eab00a9ac9da9f31637cb4212f14a549ddb8"
+  },
+  "assets/range-documents/volkswagen-taigo.jpg": {
+    "url": "https://static.wixstatic.com/media/2ea7da_a6899351d6844f07a3c2dced7e09a35f~mv2.jpg",
+    "id": "2ea7da_a6899351d6844f07a3c2dced7e09a35f~mv2.jpg",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range-documents/volkswagen-taigo.jpg",
+    "sha256": "739d69689e5b3bb9e2fbe7c79ca1d0375399cfdd2c5171877a4dad75133a3d08"
+  },
+  "assets/range-documents/volkswagen-tayron.jpg": {
+    "url": "https://static.wixstatic.com/media/2ea7da_bf195217184e4f6397f334b390d330cf~mv2.jpg",
+    "id": "2ea7da_bf195217184e4f6397f334b390d330cf~mv2.jpg",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range-documents/volkswagen-tayron.jpg",
+    "sha256": "a2ffafda0870e5a3e2034655247ba9135cb4be3799e44bed0b4fa78c5a4b5523"
+  },
+  "assets/range-documents/volkswagen-tiguan.jpg": {
+    "url": "https://static.wixstatic.com/media/2ea7da_a3f69ee7d72e4b878fbb63ed2a05cc16~mv2.jpg",
+    "id": "2ea7da_a3f69ee7d72e4b878fbb63ed2a05cc16~mv2.jpg",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range-documents/volkswagen-tiguan.jpg",
+    "sha256": "2e781ef9d5ba6417b88594308262b7338a9938021a0533eeb1a6b425cb869ad7"
+  },
+  "assets/range/audi-a3-sedan.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_cb0f43e2a53044baa8094ac5d5b8c3f4~mv2.webp",
+    "id": "2ea7da_cb0f43e2a53044baa8094ac5d5b8c3f4~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range/audi-a3-sedan.webp",
+    "sha256": "934805bb8ca2f1499d28957f877990fba90d10c2bd65fb0602b97835b0b4e0b8"
+  },
+  "assets/range/audi-a3-sportback.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_38af8ed8bf7c4829af99798e6b88bc00~mv2.webp",
+    "id": "2ea7da_38af8ed8bf7c4829af99798e6b88bc00~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range/audi-a3-sportback.webp",
+    "sha256": "b235c7ef58500148663f6021ce7189a35db9b043c1d55b95b407b51d9d5416fa"
+  },
+  "assets/range/audi-a5-avant.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_6adf17c4a44e449c9d69352f1f4fd14b~mv2.webp",
+    "id": "2ea7da_6adf17c4a44e449c9d69352f1f4fd14b~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range/audi-a5-avant.webp",
+    "sha256": "7eb9ef2f9ff886b2d5581b02ae0abed9c214b340b155ab7ed8e1a3ee2abde8dd"
+  },
+  "assets/range/audi-a5-limousine.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_8d65bc5794374338ae2ef598fc252a9d~mv2.webp",
+    "id": "2ea7da_8d65bc5794374338ae2ef598fc252a9d~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range/audi-a5-limousine.webp",
+    "sha256": "75e24e8f33f68c7f1c36f04b7306dde43629be6edd7f30ed93715847b161be1b"
+  },
+  "assets/range/audi-a6-e-tron-avant.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_da09c69efa9648e8a82f29b8ea1ad57c~mv2.webp",
+    "id": "2ea7da_da09c69efa9648e8a82f29b8ea1ad57c~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range/audi-a6-e-tron-avant.webp",
+    "sha256": "eb1453b334ee0432a2e4d85545aa2c2540e65841e24032c30b612fccce7c1422"
+  },
+  "assets/range/audi-a6-e-tron-sportback.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_23a0e0e229ca4d5586345a9a08fc3f81~mv2.webp",
+    "id": "2ea7da_23a0e0e229ca4d5586345a9a08fc3f81~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range/audi-a6-e-tron-sportback.webp",
+    "sha256": "0a712eaa9ed972ffac0cfe8cb870a141f1532d72b8b070f45ca0835eaf56dceb"
+  },
+  "assets/range/audi-e-tron-gt.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_80ffa26edc75441d90193bf5733b4820~mv2.webp",
+    "id": "2ea7da_80ffa26edc75441d90193bf5733b4820~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range/audi-e-tron-gt.webp",
+    "sha256": "db23613f78ae52dc7160d869876cb1ecf68a554e7a1d8a87871cf625d17639c8"
+  },
+  "assets/range/audi-q3-sportback.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_b8669ab0e15d47e48919a17f3c4ca8ef~mv2.webp",
+    "id": "2ea7da_b8669ab0e15d47e48919a17f3c4ca8ef~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range/audi-q3-sportback.webp",
+    "sha256": "edd3ab72787df1000175b61c2a26ee29249f3bddc552216443339e1feeebb382"
+  },
+  "assets/range/audi-q3.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_4e8ed9ebd3f1426d980179ab11c8ac17~mv2.webp",
+    "id": "2ea7da_4e8ed9ebd3f1426d980179ab11c8ac17~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range/audi-q3.webp",
+    "sha256": "6dbd3552c42c54ebad72bb05485436fbd7968b905a7596818274227ab020e673"
+  },
+  "assets/range/audi-q4-e-tron-sportback.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_5a9d36fcbdfb45a5836606c803bf8f05~mv2.webp",
+    "id": "2ea7da_5a9d36fcbdfb45a5836606c803bf8f05~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range/audi-q4-e-tron-sportback.webp",
+    "sha256": "c2eb1f79dc588a5c17610ab56ae1fa995e38b392f76cab226500fba956715c32"
+  },
+  "assets/range/audi-q4-e-tron.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_07888c94e0c642d08c30d78d720df142~mv2.webp",
+    "id": "2ea7da_07888c94e0c642d08c30d78d720df142~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range/audi-q4-e-tron.webp",
+    "sha256": "0fc4e8dfd79b506a72f1c6532c3c318c0cfd7f927141ff6dd0325919bc94a9bc"
+  },
+  "assets/range/audi-q5-sportback.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_c85d27c2d38a4e5b8e3bff9194a6970b~mv2.webp",
+    "id": "2ea7da_c85d27c2d38a4e5b8e3bff9194a6970b~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range/audi-q5-sportback.webp",
+    "sha256": "89efda4779ac09b5df59bc37bd20dc65ef61f585defc606b8687117dbbea5800"
+  },
+  "assets/range/audi-q5.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_173afb868bd845c18898bda87069ee5c~mv2.webp",
+    "id": "2ea7da_173afb868bd845c18898bda87069ee5c~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range/audi-q5.webp",
+    "sha256": "6567afe77288130eeeda785517790878a9ff04bf95a8222695b2fceb9f794ab4"
+  },
+  "assets/range/audi-q6-e-tron.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_4ea0b90bb9394754836369c52961febe~mv2.webp",
+    "id": "2ea7da_4ea0b90bb9394754836369c52961febe~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range/audi-q6-e-tron.webp",
+    "sha256": "ec2af63094466522bfddf8a0e699160e5194b4c0171333129fe06d7c72aecdb8"
+  },
+  "assets/range/audi-q6-sportback-e-tron.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_2353b53f73ab453698788bde0c484a6c~mv2.webp",
+    "id": "2ea7da_2353b53f73ab453698788bde0c484a6c~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range/audi-q6-sportback-e-tron.webp",
+    "sha256": "723bebf16e6b13d54c078d37c7739e5c754c97b813bdd6da5e8e6eddf667b9d2"
+  },
+  "assets/range/audi-q7.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_747e6dd438c1433a83a54e5e6c42dd83~mv2.webp",
+    "id": "2ea7da_747e6dd438c1433a83a54e5e6c42dd83~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range/audi-q7.webp",
+    "sha256": "20b80721040cccd96e7e703ca40b0a7aa318cee89357ba703e7630964291250c"
+  },
+  "assets/range/audi-q8.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_0126eec350f6410e99b84fb4ac750162~mv2.webp",
+    "id": "2ea7da_0126eec350f6410e99b84fb4ac750162~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range/audi-q8.webp",
+    "sha256": "e23747c85c4e93817fea09e0ec2b25f278a7aabd8bc0b0c9c2f8d5e16a2f7fca"
+  },
+  "assets/range/audi-rsq8.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_7f18ecf2e1a146c4a7c2f4517d14abbc~mv2.webp",
+    "id": "2ea7da_7f18ecf2e1a146c4a7c2f4517d14abbc~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range/audi-rsq8.webp",
+    "sha256": "80f341fc01fb1878577b308d9fd94d7abaeef933ead23ec259b1e1ddb795ad9b"
+  },
+  "assets/range/cupra-born.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_b3c2cb1c3da54d30a9a39f87e48da4e0~mv2.webp",
+    "id": "2ea7da_b3c2cb1c3da54d30a9a39f87e48da4e0~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range/cupra-born.webp",
+    "sha256": "a360403f7cfdb265d291612138ba9b54f9355612f936580056e94f3c1920578f"
+  },
+  "assets/range/cupra-formentor.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_2f473fdbb8184ee2b0f57aa78c70c9dd~mv2.webp",
+    "id": "2ea7da_2f473fdbb8184ee2b0f57aa78c70c9dd~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range/cupra-formentor.webp",
+    "sha256": "ef16d60812221da6e3108587dc5dc246d938868d91dbf0decd8757dfd2dcc344"
+  },
+  "assets/range/cupra-leon.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_9c8966b2e6684ceab9f16770be9a6726~mv2.webp",
+    "id": "2ea7da_9c8966b2e6684ceab9f16770be9a6726~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range/cupra-leon.webp",
+    "sha256": "9e6a8c564f64bbb58f280408d0bf4e52bbe92736f16f453ebceac262c84c591a"
+  },
+  "assets/range/cupra-raval.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_3898baa0327541adba28fb5c327d9c50~mv2.webp",
+    "id": "2ea7da_3898baa0327541adba28fb5c327d9c50~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range/cupra-raval.webp",
+    "sha256": "07c389fa865ff1b8485e2d93807c1cd87ac1ddb9eab9ad79c25f3529e082fc61"
+  },
+  "assets/range/cupra-tavascan.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_f22ab8a73e7741c495843dd77e7341a2~mv2.webp",
+    "id": "2ea7da_f22ab8a73e7741c495843dd77e7341a2~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range/cupra-tavascan.webp",
+    "sha256": "c56787ac47df50c86709e27c4766d136cf867b2c4e75249800567a16e3e82c22"
+  },
+  "assets/range/cupra-terramar.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_3c3222d074a74fa187a4c9e94c2e06b3~mv2.webp",
+    "id": "2ea7da_3c3222d074a74fa187a4c9e94c2e06b3~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range/cupra-terramar.webp",
+    "sha256": "77e8498e60452858a2b95078d2983c8aa2b97180587ca3c534c23c2b03fd318f"
+  },
+  "assets/range/id-buzz-cargo.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_6df32ccf132e48678118cd7b10a90f3f~mv2.webp",
+    "id": "2ea7da_6df32ccf132e48678118cd7b10a90f3f~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range/id-buzz-cargo.webp",
+    "sha256": "c83c544392623fe38ed5a3f48b747ae7803ac81360ea69d330b877b227b5fe54"
+  },
+  "assets/range/seat-arona.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_bcd3a4246e604462b0bd836d535f4d7e~mv2.webp",
+    "id": "2ea7da_bcd3a4246e604462b0bd836d535f4d7e~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range/seat-arona.webp",
+    "sha256": "60c8a3f4ef888d3475ee5b73f017044b3d422416648e60728691503587635455"
+  },
+  "assets/range/seat-ibiza-van.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_ea262c1a9531442499375cdf81f8eaf1~mv2.webp",
+    "id": "2ea7da_ea262c1a9531442499375cdf81f8eaf1~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range/seat-ibiza-van.webp",
+    "sha256": "b172a2e4310936881a26559c57803d9c48b38f71dbcb1fdb743d9a5edc38e11e"
+  },
+  "assets/range/seat-ibiza.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_2cc170f24827421aa7499dceef32fb68~mv2.webp",
+    "id": "2ea7da_2cc170f24827421aa7499dceef32fb68~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range/seat-ibiza.webp",
+    "sha256": "3b1d3988693fe7ebe6fba0618fee8e7cd4b26409d7041ef68d632e276621fefa"
+  },
+  "assets/range/seat-leon.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_9be2194b85b348b8a75cef3fd32422e5~mv2.webp",
+    "id": "2ea7da_9be2194b85b348b8a75cef3fd32422e5~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range/seat-leon.webp",
+    "sha256": "7bde08557671b4c7ef2463020686a43fbdebc684936c8d37854ecf1133c9e9f1"
+  },
+  "assets/range/skoda-elroq-rs.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_6b4236f1ee0f44d1a13473c6b777b38a~mv2.webp",
+    "id": "2ea7da_6b4236f1ee0f44d1a13473c6b777b38a~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range/skoda-elroq-rs.webp",
+    "sha256": "c76d7539a5f48150ac5beb726929ad8836d9b36f1426ef564d6feb7e6e5f1035"
+  },
+  "assets/range/skoda-elroq.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_68769a22423d4281811869bf5ea387b6~mv2.webp",
+    "id": "2ea7da_68769a22423d4281811869bf5ea387b6~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range/skoda-elroq.webp",
+    "sha256": "d4e41f875dc360b7cb550e4366ced3367ab3dbc5e15a80d86e7ea2e182a7d7ab"
+  },
+  "assets/range/skoda-enyaq-coupe-rs.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_523b9fdc50ad4a25a1465164f6532db5~mv2.webp",
+    "id": "2ea7da_523b9fdc50ad4a25a1465164f6532db5~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range/skoda-enyaq-coupe-rs.webp",
+    "sha256": "86a6390770525ffdad067661214d672082e7e79fee613e096e9a42b0c3b6d2e5"
+  },
+  "assets/range/skoda-enyaq-coupe.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_4222e62eecd24a7e92c36e8ea75d0aeb~mv2.webp",
+    "id": "2ea7da_4222e62eecd24a7e92c36e8ea75d0aeb~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range/skoda-enyaq-coupe.webp",
+    "sha256": "469acf1eb21608a544da7b9806f1b37de56d5ac47cd5761a1b71e3c609440d79"
+  },
+  "assets/range/skoda-enyaq-rs.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_9ce32b08836e41b6a8a5ac9a0b7d5d95~mv2.webp",
+    "id": "2ea7da_9ce32b08836e41b6a8a5ac9a0b7d5d95~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range/skoda-enyaq-rs.webp",
+    "sha256": "32e09c6973b24e74756c0493a889888a81ccb0ac94cbee5f5cd4037aa7b5acf7"
+  },
+  "assets/range/skoda-enyaq.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_15bd1f6866cf46628812b4103ba5f355~mv2.webp",
+    "id": "2ea7da_15bd1f6866cf46628812b4103ba5f355~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range/skoda-enyaq.webp",
+    "sha256": "209bfdfb446fe3991bf6566dfe4ced153ec643254eb0f4cb30051d5525e9bd99"
+  },
+  "assets/range/skoda-fabia-130.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_e6d2a987bec54960a90c3c978fcced3c~mv2.webp",
+    "id": "2ea7da_e6d2a987bec54960a90c3c978fcced3c~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range/skoda-fabia-130.webp",
+    "sha256": "067f9535d1a838da6c818f0ef1e24b48bf0d269edf2b0f0864e034a519ac3513"
+  },
+  "assets/range/skoda-fabia.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_2efdece24eed402ea3eafc5472bcf378~mv2.webp",
+    "id": "2ea7da_2efdece24eed402ea3eafc5472bcf378~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range/skoda-fabia.webp",
+    "sha256": "23eb22a95ef0512611b0b4a0de4f64586e9e4735ad410ec9f1b2f59eb6ffcdb5"
+  },
+  "assets/range/skoda-kamiq.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_ccfdb82e4f5e41078849adb79ee2b2f9~mv2.webp",
+    "id": "2ea7da_ccfdb82e4f5e41078849adb79ee2b2f9~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range/skoda-kamiq.webp",
+    "sha256": "eea2087fa747aa116f36e4fe322aad6b241e2256a8de1611903c3b2f32ff6c2c"
+  },
+  "assets/range/skoda-karoq.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_cf7ebdae1e1a48ca8009aecda2f18d6e~mv2.webp",
+    "id": "2ea7da_cf7ebdae1e1a48ca8009aecda2f18d6e~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range/skoda-karoq.webp",
+    "sha256": "ae7f18f4462667ebbcdfdfdd02c9989f6b8a7bd0a2ecd2ac8b1f704deb133b94"
+  },
+  "assets/range/skoda-kodiaq-rs.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_58ffbfe8946f41c6b83b21f2f54d7006~mv2.webp",
+    "id": "2ea7da_58ffbfe8946f41c6b83b21f2f54d7006~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range/skoda-kodiaq-rs.webp",
+    "sha256": "13e87d7ebb9c4df1812082573fa9faaefc759ef06335c429715260a0a55a22fc"
+  },
+  "assets/range/skoda-kodiaq.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_4d3f6f94a5fd4c8e8bdad192fdc33636~mv2.webp",
+    "id": "2ea7da_4d3f6f94a5fd4c8e8bdad192fdc33636~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range/skoda-kodiaq.webp",
+    "sha256": "b3cd85f1679ea0f71a303f9ffe028da8c297e7c2da79b0641b63e5f3887cefd1"
+  },
+  "assets/range/skoda-octavia-combi.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_ae1866b97f0f406cbcbfe11fe839bf09~mv2.webp",
+    "id": "2ea7da_ae1866b97f0f406cbcbfe11fe839bf09~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range/skoda-octavia-combi.webp",
+    "sha256": "88525b8b5689a75792884925b71c1fb3757b534761f6ebaede3bfb05e09f8cc4"
+  },
+  "assets/range/skoda-octavia-rs.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_e69dd1b4d79941d58cc0cb4762164082~mv2.webp",
+    "id": "2ea7da_e69dd1b4d79941d58cc0cb4762164082~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range/skoda-octavia-rs.webp",
+    "sha256": "34feaaca3864e2e066d3a61f948860541fe37eb8a8a8946b8d22a418d1f77321"
+  },
+  "assets/range/skoda-octavia.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_ddc5d461681a4b179d73acc27056e94f~mv2.webp",
+    "id": "2ea7da_ddc5d461681a4b179d73acc27056e94f~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range/skoda-octavia.webp",
+    "sha256": "26a260fa76618237be81f2d2acf9cefb1ebd90d5fd9f1fc8a2b2755310b7f4b5"
+  },
+  "assets/range/volkswagen-amarok.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_ca427635a4ce47088550597ec20240fa~mv2.webp",
+    "id": "2ea7da_ca427635a4ce47088550597ec20240fa~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range/volkswagen-amarok.webp",
+    "sha256": "81ac70bf82dd1e2facfa40d74a5f09f9ffe352f908d4e0549f769bd098290107"
+  },
+  "assets/range/volkswagen-caddy-maxi-cargo.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_b98eeff62b6342db8df729ef9860b031~mv2.webp",
+    "id": "2ea7da_b98eeff62b6342db8df729ef9860b031~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range/volkswagen-caddy-maxi-cargo.webp",
+    "sha256": "e71b1a634a31f942ae1bfddae4bd9ff059affa48e13525dc2f969e785a6fb22c"
+  },
+  "assets/range/volkswagen-caddy-passenger.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_f65aef00e5bf4472b792047d392a4fb4~mv2.webp",
+    "id": "2ea7da_f65aef00e5bf4472b792047d392a4fb4~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range/volkswagen-caddy-passenger.webp",
+    "sha256": "fbc558bf2d7eb80742c5ce3f72f31170ff6703e701ce26a9e3683769954dcb63"
+  },
+  "assets/range/volkswagen-caddy.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_cd937a5777a946d6b6a81fdede3447d3~mv2.webp",
+    "id": "2ea7da_cd937a5777a946d6b6a81fdede3447d3~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range/volkswagen-caddy.webp",
+    "sha256": "42766a5b1a839a92d110138b089297634f6a1c58ce6b3713c0f527282a8cfa50"
+  },
+  "assets/range/volkswagen-crafter.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_efcf94dcd96144baa156a51ddada9824~mv2.webp",
+    "id": "2ea7da_efcf94dcd96144baa156a51ddada9824~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range/volkswagen-crafter.webp",
+    "sha256": "7732db48e15b0a80fc6c00ee8d4e1b0bcafea8fe12b5795a5bef812d11f4b8a1"
+  },
+  "assets/range/volkswagen-golf-performance-gti-r.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_3ad9fc891db64ac9b40863dfa47b5e66~mv2.webp",
+    "id": "2ea7da_3ad9fc891db64ac9b40863dfa47b5e66~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range/volkswagen-golf-performance-gti-r.webp",
+    "sha256": "3f0b1ff02b63e4164a8857f6de6546db1798297e13c52bb4bd008d2efc426a9a"
+  },
+  "assets/range/volkswagen-golf.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_2435b49d923d4293b31b4209d951b74e~mv2.webp",
+    "id": "2ea7da_2435b49d923d4293b31b4209d951b74e~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range/volkswagen-golf.webp",
+    "sha256": "b6c64a6ac1220ae52e5db95505f84f95dae46abcbac01d0b8a0c93a64ed41fec"
+  },
+  "assets/range/volkswagen-id-3-neo.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_895ec3b4f4664ab99eda58747dc02cc8~mv2.webp",
+    "id": "2ea7da_895ec3b4f4664ab99eda58747dc02cc8~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range/volkswagen-id-3-neo.webp",
+    "sha256": "536803b16517376144f72cf38536b1794aa5337aa77ff1ac8f486e1c04adb39f"
+  },
+  "assets/range/volkswagen-id-4.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_7d181fea6d6c443d815367f24e03361e~mv2.webp",
+    "id": "2ea7da_7d181fea6d6c443d815367f24e03361e~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range/volkswagen-id-4.webp",
+    "sha256": "7b4d2867dbec45eb6af63adda8abd7465446a838deca4947b51afd241b06cf17"
+  },
+  "assets/range/volkswagen-id-5.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_0dd8cc72f5f04be5a42233d2eb73e916~mv2.webp",
+    "id": "2ea7da_0dd8cc72f5f04be5a42233d2eb73e916~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range/volkswagen-id-5.webp",
+    "sha256": "11ceaff5a184879550c2016eef28f9a2a284956dafd36021f8ba13965f110f16"
+  },
+  "assets/range/volkswagen-id-7.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_308d33cc225f49f3a1884fcd93713583~mv2.webp",
+    "id": "2ea7da_308d33cc225f49f3a1884fcd93713583~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range/volkswagen-id-7.webp",
+    "sha256": "e4e441f83384e2d87a4478d9d2b7189138670da2cdd7efc8ddeb76a9299a2ec4"
+  },
+  "assets/range/volkswagen-id-buzz.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_46a796b986a049a7afac19a9ea153543~mv2.webp",
+    "id": "2ea7da_46a796b986a049a7afac19a9ea153543~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range/volkswagen-id-buzz.webp",
+    "sha256": "ebcbe58d7fcc47a0b0fb684a69483cd2b36ca91398edf1e445d4a58169192ae2"
+  },
+  "assets/range/volkswagen-id-polo.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_cf5eae5f7e50413fbaff6334afbc69c7~mv2.webp",
+    "id": "2ea7da_cf5eae5f7e50413fbaff6334afbc69c7~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range/volkswagen-id-polo.webp",
+    "sha256": "16b2dc9d1acf7fbe9efed28993b1ef2e3d93ba90421582c923004b3521b0ce4e"
+  },
+  "assets/range/volkswagen-polo.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_690ed05cf09d46d7bf37e07c4e5fb005~mv2.webp",
+    "id": "2ea7da_690ed05cf09d46d7bf37e07c4e5fb005~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range/volkswagen-polo.webp",
+    "sha256": "e7f2c0ed81da1dc1ed0976338a08c27b4c62200b68b0869ae4070ab3c73071a1"
+  },
+  "assets/range/volkswagen-t-cross.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_a81489df158c479cb43e9ebe7724bc7a~mv2.webp",
+    "id": "2ea7da_a81489df158c479cb43e9ebe7724bc7a~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range/volkswagen-t-cross.webp",
+    "sha256": "4fb661b0aba1667e5e7234cc821fa31eb2dc48fc18a70222e162ded92935f92c"
+  },
+  "assets/range/volkswagen-t-roc-cabrio.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_2f2694fa8b3a44dbb49d9032955f9e2d~mv2.webp",
+    "id": "2ea7da_2f2694fa8b3a44dbb49d9032955f9e2d~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range/volkswagen-t-roc-cabrio.webp",
+    "sha256": "1116c4366185413a66dffb040ee6c9c960104fd1230be78450f74991873e6276"
+  },
+  "assets/range/volkswagen-t-roc.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_3c2418690b624cae887f6bc307f4a76b~mv2.webp",
+    "id": "2ea7da_3c2418690b624cae887f6bc307f4a76b~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range/volkswagen-t-roc.webp",
+    "sha256": "f61aa705281bcf040c51235fec78f03a98884afd2ebc6d662f2f005b1903ae22"
+  },
+  "assets/range/volkswagen-t7-multivan.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_a1b8d493241b44f7b9b8e8c5c99b1c91~mv2.webp",
+    "id": "2ea7da_a1b8d493241b44f7b9b8e8c5c99b1c91~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range/volkswagen-t7-multivan.webp",
+    "sha256": "5c89f7ba019fafd84170547a2afa14b47289f2256d3a97fb9023d3943019750c"
+  },
+  "assets/range/volkswagen-taigo.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_fdfd80876f8d4a6f8ed03f93d31def9c~mv2.webp",
+    "id": "2ea7da_fdfd80876f8d4a6f8ed03f93d31def9c~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range/volkswagen-taigo.webp",
+    "sha256": "3d957dab44a062455777240748147f4ba3963fa95a58f12c1095624bf8c77704"
+  },
+  "assets/range/volkswagen-tayron.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_1154c66295544f0fa02566963e21c71d~mv2.webp",
+    "id": "2ea7da_1154c66295544f0fa02566963e21c71d~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range/volkswagen-tayron.webp",
+    "sha256": "05a9e0e41fe058f5de19802b2bc5b48dbc7400818f7880438630d7647f6d9018"
+  },
+  "assets/range/volkswagen-tiguan.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_6b9ce025f02b42458e5a5b3d060a59af~mv2.webp",
+    "id": "2ea7da_6b9ce025f02b42458e5a5b3d060a59af~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/range/volkswagen-tiguan.webp",
+    "sha256": "be6b8a5739789b0205dcddc21c9ae9d0c09a069606a5fb77056ecbca86691385"
+  },
+  "assets/sales.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_c9663d06450648c5862b3487b8f64356~mv2.webp",
+    "id": "2ea7da_c9663d06450648c5862b3487b8f64356~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/sales.webp",
+    "sha256": "0d4b29803abb06bb70e6ec0e7ba7b587e9ff9731dd36619dc4813075ad342d24"
+  },
+  "assets/smart-hero-film-mobile.mp4": {
+    "url": "https://video.wixstatic.com/video/2ea7da_d56b60bb9c194dc3ad4649a0d71c158b/file",
+    "id": "2ea7da_d56b60bb9c194dc3ad4649a0d71c158b",
+    "mediaType": "VIDEO",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/smart-hero-film-mobile.mp4",
+    "sha256": "ba7c15cf761910a9a463e9abbe034d9d8f26644f8cbabe29826d29fec5292ed2"
+  },
+  "assets/smart-hero-film.mp4": {
+    "url": "https://video.wixstatic.com/video/2ea7da_c4b22cd9de86411ea314f99de092710b/file",
+    "id": "2ea7da_c4b22cd9de86411ea314f99de092710b",
+    "mediaType": "VIDEO",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/smart-hero-film.mp4",
+    "sha256": "f061d8b25843d7ad1b4850d68604a52bc4246144a981ef8f06674a5461d1c85f"
+  },
+  "assets/smart-hero-poster.jpg": {
+    "url": "https://static.wixstatic.com/media/2ea7da_0d29befa66c0415f8283eaf2e17c7799~mv2.jpg",
+    "id": "2ea7da_0d29befa66c0415f8283eaf2e17c7799~mv2.jpg",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/smart-hero-poster.jpg",
+    "sha256": "c8694694f4274ef9f967b767407bf5ba0bcf697f699d931681851e1a87414518"
+  },
+  "assets/support.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_efdbfa9e6f214da5b18b897950b645e7~mv2.webp",
+    "id": "2ea7da_efdbfa9e6f214da5b18b897950b645e7~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/support.webp",
+    "sha256": "3cdb984b872ac6f51c52d7e880d604fa0a356d833ee95a6f8f54867efd449ee6"
+  },
+  "assets/test-drive-driver.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_c0a76bf535e4459dbe9953dfc507e839~mv2.webp",
+    "id": "2ea7da_c0a76bf535e4459dbe9953dfc507e839~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/test-drive-driver.webp",
+    "sha256": "bcb81cab563621e09a5a31327e2bfe146145a2888b3b416831827924b9ae1e68"
+  },
+  "assets/tiguan-hero.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_4f0b56fd30304b2ca7d7e504ff3ec9af~mv2.webp",
+    "id": "2ea7da_4f0b56fd30304b2ca7d7e504ff3ec9af~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/tiguan-hero.webp",
+    "sha256": "6e384b996044c7dde7b2a030c0208d20d677924c5266afc5b5a08cf833305da6"
+  },
+  "assets/vehicles/elroq-view-2.jpg": {
+    "url": "https://static.wixstatic.com/media/2ea7da_2cf21854c8dd4ff5bc03e080efb37881~mv2.jpg",
+    "id": "2ea7da_2cf21854c8dd4ff5bc03e080efb37881~mv2.jpg",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/vehicles/elroq-view-2.jpg",
+    "sha256": "7d5a1c939ad1a7701b39ad4c22f543c10e29b9259fd8c14e564070b388916208"
+  },
+  "assets/vehicles/elroq.jpg": {
+    "url": "https://static.wixstatic.com/media/2ea7da_c94113f598664bbd83526220e4d050bf~mv2.jpg",
+    "id": "2ea7da_c94113f598664bbd83526220e4d050bf~mv2.jpg",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/vehicles/elroq.jpg",
+    "sha256": "a6bfed6b2a7d5d8d15c8b208b78d26b982bcb2675be27880b7130462b247ee98"
+  },
+  "assets/vehicles/golf-view-2.jpg": {
+    "url": "https://static.wixstatic.com/media/2ea7da_5e9f5b667c654b95995d7c98283afbdf~mv2.jpg",
+    "id": "2ea7da_5e9f5b667c654b95995d7c98283afbdf~mv2.jpg",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/vehicles/golf-view-2.jpg",
+    "sha256": "c382f7de97d05c92116f22c5e731d0c527af7d12758f49557a3c48b3a595dcff"
+  },
+  "assets/vehicles/golf.jpg": {
+    "url": "https://static.wixstatic.com/media/2ea7da_fe5564fa9d9d412782ec23a13de73495~mv2.jpg",
+    "id": "2ea7da_fe5564fa9d9d412782ec23a13de73495~mv2.jpg",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/vehicles/golf.jpg",
+    "sha256": "bcb77b66aa148567469801677f34c85fb8417d1c687f6fddbc2cc16eb14f87bf"
+  },
+  "assets/vehicles/ibiza-view-2.jpg": {
+    "url": "https://static.wixstatic.com/media/2ea7da_e79b094cc46d4a6da95d6ea85dbcd5ff~mv2.jpg",
+    "id": "2ea7da_e79b094cc46d4a6da95d6ea85dbcd5ff~mv2.jpg",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/vehicles/ibiza-view-2.jpg",
+    "sha256": "dc1acb20eb28d7d8b719dacb89265ea9cabca795a939c3b2604b29557a8f64ee"
+  },
+  "assets/vehicles/ibiza.jpg": {
+    "url": "https://static.wixstatic.com/media/2ea7da_6f24e2e494904437bb0175e158ab044f~mv2.jpg",
+    "id": "2ea7da_6f24e2e494904437bb0175e158ab044f~mv2.jpg",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/vehicles/ibiza.jpg",
+    "sha256": "ade5866277ed8912579483708cf04cf837263a226804d6600a8a58d654d9c41c"
+  },
+  "assets/vehicles/kamiq-view-2.jpg": {
+    "url": "https://static.wixstatic.com/media/2ea7da_6973713ab22a4588a2affba79de27287~mv2.jpg",
+    "id": "2ea7da_6973713ab22a4588a2affba79de27287~mv2.jpg",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/vehicles/kamiq-view-2.jpg",
+    "sha256": "1587fea18cb4215ec0f09b73511a2a23cc00bae0c2af72a0b4dc854c49edb2e0"
+  },
+  "assets/vehicles/kamiq.png": {
+    "url": "https://static.wixstatic.com/media/2ea7da_ea00dfb852864f7099ba3d18b090c0ff~mv2.png",
+    "id": "2ea7da_ea00dfb852864f7099ba3d18b090c0ff~mv2.png",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/vehicles/kamiq.png",
+    "sha256": "c7c53bb43f8de71260608d7b53cfe46d29a59028dd9c03743d75183d38ceabf7"
+  },
+  "assets/vehicles/octavia-view-2.jpg": {
+    "url": "https://static.wixstatic.com/media/2ea7da_0713e1c989d24abdb32bf32cceed7365~mv2.jpg",
+    "id": "2ea7da_0713e1c989d24abdb32bf32cceed7365~mv2.jpg",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/vehicles/octavia-view-2.jpg",
+    "sha256": "2ac403fb82ca340a278b171f232ec32a863afb793f976326693b34e167d511a2"
+  },
+  "assets/vehicles/octavia.jpg": {
+    "url": "https://static.wixstatic.com/media/2ea7da_6ccf86251b7e4552ac69f1860b37982a~mv2.jpg",
+    "id": "2ea7da_6ccf86251b7e4552ac69f1860b37982a~mv2.jpg",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/vehicles/octavia.jpg",
+    "sha256": "12a99152349aea95c3b982041f77b68c21a55b2c73be1ce6197ac1332092b8ae"
+  },
+  "assets/vehicles/q3-view-2.jpg": {
+    "url": "https://static.wixstatic.com/media/2ea7da_7bec001e3bdc4220b4788f814e4765e8~mv2.jpg",
+    "id": "2ea7da_7bec001e3bdc4220b4788f814e4765e8~mv2.jpg",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/vehicles/q3-view-2.jpg",
+    "sha256": "60b94f704aad349c23721c062a15da818369183d133d9faac33db460be48d450"
+  },
+  "assets/vehicles/q3.jpg": {
+    "url": "https://static.wixstatic.com/media/2ea7da_7ce340b1f7044493b4f4c53897f02ee8~mv2.jpg",
+    "id": "2ea7da_7ce340b1f7044493b4f4c53897f02ee8~mv2.jpg",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/vehicles/q3.jpg",
+    "sha256": "d0ce2dc4598a106a85fbd6731c91653a46ba36c2cbab5b95166b607b7ecb2ac6"
+  },
+  "assets/vehicles/raval-view-2.jpg": {
+    "url": "https://static.wixstatic.com/media/2ea7da_6e59122e75304114b5727bcfb085d8d6~mv2.jpg",
+    "id": "2ea7da_6e59122e75304114b5727bcfb085d8d6~mv2.jpg",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/vehicles/raval-view-2.jpg",
+    "sha256": "631c7ba227ae07caa59938c9bac0bac28121af2551b1970e942e9e0f63206741"
+  },
+  "assets/vehicles/raval-view-3.jpg": {
+    "url": "https://static.wixstatic.com/media/2ea7da_f2c4f11bf4dc4d0cb7b34f82cdf045a5~mv2.jpg",
+    "id": "2ea7da_f2c4f11bf4dc4d0cb7b34f82cdf045a5~mv2.jpg",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/vehicles/raval-view-3.jpg",
+    "sha256": "8473a8cc00aca4208c7cb34a8fa331e9120c8bb4b02138116d62c1a287e07db1"
+  },
+  "assets/vehicles/raval.webp": {
+    "url": "https://static.wixstatic.com/media/2ea7da_1dfcf50e32334bf293895c6adcaea316~mv2.webp",
+    "id": "2ea7da_1dfcf50e32334bf293895c6adcaea316~mv2.webp",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/vehicles/raval.webp",
+    "sha256": "eecf657e95c15c623df4db5fe40ea192bddb4d5ba5c97fbecfb13ba2e0a6de34"
+  },
+  "assets/vehicles/terramar-view-2.jpg": {
+    "url": "https://static.wixstatic.com/media/2ea7da_4b2a3d224f9d46ff8afc433dce0bba7e~mv2.jpg",
+    "id": "2ea7da_4b2a3d224f9d46ff8afc433dce0bba7e~mv2.jpg",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/vehicles/terramar-view-2.jpg",
+    "sha256": "91456f31af53188695064354ef52e657809e171873fd008627a6c48b59ec7ead"
+  },
+  "assets/vehicles/terramar.jpg": {
+    "url": "https://static.wixstatic.com/media/2ea7da_98f30d6f9f344c48a7daecd47232f7a6~mv2.jpg",
+    "id": "2ea7da_98f30d6f9f344c48a7daecd47232f7a6~mv2.jpg",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/vehicles/terramar.jpg",
+    "sha256": "1f41f299ae13864866e105a95f9cf5f951da9deabc90cec1c5726051d1cc3db9"
+  },
+  "assets/vehicles/tiguan-view-2.jpg": {
+    "url": "https://static.wixstatic.com/media/2ea7da_a6d74eb43b2f44f8a21f6b8defbd4b66~mv2.jpg",
+    "id": "2ea7da_a6d74eb43b2f44f8a21f6b8defbd4b66~mv2.jpg",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/vehicles/tiguan-view-2.jpg",
+    "sha256": "1dd49efe6a5b3c9f6b260b2bef2fde8df2c45896c2355931db7851c3428fc544"
+  },
+  "assets/vehicles/tiguan.jpg": {
+    "url": "https://static.wixstatic.com/media/2ea7da_f2a2cc8ea80d4a8d82181a6385eb960a~mv2.jpg",
+    "id": "2ea7da_f2a2cc8ea80d4a8d82181a6385eb960a~mv2.jpg",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/vehicles/tiguan.jpg",
+    "sha256": "60dd27d60df0ee225f84727d7fbb8fab095d66c2775880921cbda19bc3a08272"
+  },
+  "assets/vehicles/troc-view-2.jpg": {
+    "url": "https://static.wixstatic.com/media/2ea7da_454ee82ede2f47e49f47872afab79cf2~mv2.jpg",
+    "id": "2ea7da_454ee82ede2f47e49f47872afab79cf2~mv2.jpg",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/vehicles/troc-view-2.jpg",
+    "sha256": "0da795455a2fb7e212d834a040115b2fdb316bd3ce657c8b6eca1dbd3f7174b2"
+  },
+  "assets/vehicles/troc.jpg": {
+    "url": "https://static.wixstatic.com/media/2ea7da_1073bb28159f4a1b9b48dc368b5ac50f~mv2.jpg",
+    "id": "2ea7da_1073bb28159f4a1b9b48dc368b5ac50f~mv2.jpg",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/vehicles/troc.jpg",
+    "sha256": "a9343c4d643178aea0b6fb5eed1b778b81baed5c1fe61eeeade6ac67ab3f2e3e"
+  },
+  "documents/price-lists/a1.pdf": {
+    "url": "https://7f793d65-03fd-425a-a784-58a0d3f114f0.usrfiles.com/ugd/2ea7da_8416a3454ae24cd0afa531890a84850a.pdf",
+    "id": "2ea7da_8416a3454ae24cd0afa531890a84850a.pdf",
+    "mediaType": "DOCUMENT",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/documents/price-lists/a1.pdf",
+    "sha256": "468d3ee78648d5ee9e730ca1547d411aef160449c4f471b5edce05202c17a1ac"
+  },
+  "documents/price-lists/a1_cc.pdf": {
+    "url": "https://7f793d65-03fd-425a-a784-58a0d3f114f0.usrfiles.com/ugd/2ea7da_a5a6fc104bd449e7ae84178913f5a807.pdf",
+    "id": "2ea7da_a5a6fc104bd449e7ae84178913f5a807.pdf",
+    "mediaType": "DOCUMENT",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/documents/price-lists/a1_cc.pdf",
+    "sha256": "aa3778ee998b71ba0262b7683fe045e903ed69148731fdb6eb7e41f43e74e0db"
+  },
+  "documents/price-lists/a3sb.pdf": {
+    "url": "https://7f793d65-03fd-425a-a784-58a0d3f114f0.usrfiles.com/ugd/2ea7da_4b7ec83a1f874c9995119ffe5f94ec4b.pdf",
+    "id": "2ea7da_4b7ec83a1f874c9995119ffe5f94ec4b.pdf",
+    "mediaType": "DOCUMENT",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/documents/price-lists/a3sb.pdf",
+    "sha256": "f11373cbefd444a7216dce137a47649a3185140da9688f7fd4c2cc3952291238"
+  },
+  "documents/price-lists/a3sedan.pdf": {
+    "url": "https://7f793d65-03fd-425a-a784-58a0d3f114f0.usrfiles.com/ugd/2ea7da_f0d5907edeab4903a2dbcbe02436165b.pdf",
+    "id": "2ea7da_f0d5907edeab4903a2dbcbe02436165b.pdf",
+    "mediaType": "DOCUMENT",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/documents/price-lists/a3sedan.pdf",
+    "sha256": "474a0649b59c3830dcb50aa153acd29ffb46a0b41fe3a91ce0606115bca24b53"
+  },
+  "documents/price-lists/a5avant.pdf": {
+    "url": "https://7f793d65-03fd-425a-a784-58a0d3f114f0.usrfiles.com/ugd/2ea7da_1d8431708a3148dbbf8e623b42b1e229.pdf",
+    "id": "2ea7da_1d8431708a3148dbbf8e623b42b1e229.pdf",
+    "mediaType": "DOCUMENT",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/documents/price-lists/a5avant.pdf",
+    "sha256": "9437cc74bde7a6ac9bff8a10d4558d5a27a1add7ea8d5c8395cd68cfb7ee6626"
+  },
+  "documents/price-lists/a5limousine.pdf": {
+    "url": "https://7f793d65-03fd-425a-a784-58a0d3f114f0.usrfiles.com/ugd/2ea7da_9471cbb60de846bc9c20419a80493d8c.pdf",
+    "id": "2ea7da_9471cbb60de846bc9c20419a80493d8c.pdf",
+    "mediaType": "DOCUMENT",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/documents/price-lists/a5limousine.pdf",
+    "sha256": "2bfa10dbbba8cb16f87cd1e54f178231a44a3ba6872078f1637785e2c4cca231"
+  },
+  "documents/price-lists/a6etronavant.pdf": {
+    "url": "https://7f793d65-03fd-425a-a784-58a0d3f114f0.usrfiles.com/ugd/2ea7da_e82b66780f2944e495561efc20e05fd1.pdf",
+    "id": "2ea7da_e82b66780f2944e495561efc20e05fd1.pdf",
+    "mediaType": "DOCUMENT",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/documents/price-lists/a6etronavant.pdf",
+    "sha256": "46476bbd15e4d985949b93c7c2f15eb4bd079ac3f2772d00223888a97537a056"
+  },
+  "documents/price-lists/a6etronsportback.pdf": {
+    "url": "https://7f793d65-03fd-425a-a784-58a0d3f114f0.usrfiles.com/ugd/2ea7da_a3883c85dd8341f6a8d806ed51d7b0a6.pdf",
+    "id": "2ea7da_a3883c85dd8341f6a8d806ed51d7b0a6.pdf",
+    "mediaType": "DOCUMENT",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/documents/price-lists/a6etronsportback.pdf",
+    "sha256": "a708583f6777560423dcd0cbf866ddea885883818c5aaa36ac03993a0e7f3d13"
+  },
+  "documents/price-lists/amarok.pdf": {
+    "url": "https://7f793d65-03fd-425a-a784-58a0d3f114f0.usrfiles.com/ugd/2ea7da_ba56bff21ccd43b9bd03e2786514a244.pdf",
+    "id": "2ea7da_ba56bff21ccd43b9bd03e2786514a244.pdf",
+    "mediaType": "DOCUMENT",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/documents/price-lists/amarok.pdf",
+    "sha256": "698a5aefa320d8ce52bbe21e0cd726cbe21c0d0e4196523ead1301a19d251e15"
+  },
+  "documents/price-lists/arona.pdf": {
+    "url": "https://7f793d65-03fd-425a-a784-58a0d3f114f0.usrfiles.com/ugd/2ea7da_04eccfab2932406583e6617ac4842d11.pdf",
+    "id": "2ea7da_04eccfab2932406583e6617ac4842d11.pdf",
+    "mediaType": "DOCUMENT",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/documents/price-lists/arona.pdf",
+    "sha256": "75a35d0b81c7f87debeb14dad29b477e5c017b4564e8beca91d0a083cf4078ec"
+  },
+  "documents/price-lists/caddy.pdf": {
+    "url": "https://7f793d65-03fd-425a-a784-58a0d3f114f0.usrfiles.com/ugd/2ea7da_e4ef368ef8c4404282b0ab377014598d.pdf",
+    "id": "2ea7da_e4ef368ef8c4404282b0ab377014598d.pdf",
+    "mediaType": "DOCUMENT",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/documents/price-lists/caddy.pdf",
+    "sha256": "b9d2e2a7cbb25273c8bb311331cd67b59385a3f5c8d69f7256cc9b5420d2eb21"
+  },
+  "documents/price-lists/caddymaxicargo.pdf": {
+    "url": "https://7f793d65-03fd-425a-a784-58a0d3f114f0.usrfiles.com/ugd/2ea7da_136bb8ba226a49d1b0de8781c446dbf3.pdf",
+    "id": "2ea7da_136bb8ba226a49d1b0de8781c446dbf3.pdf",
+    "mediaType": "DOCUMENT",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/documents/price-lists/caddymaxicargo.pdf",
+    "sha256": "8c25a59f024c697daf96c5270947c24cd5634e6f1cd8ab7d8865ef685132fb89"
+  },
+  "documents/price-lists/caddypassenger.pdf": {
+    "url": "https://7f793d65-03fd-425a-a784-58a0d3f114f0.usrfiles.com/ugd/2ea7da_31036f32113a4d1f9fc605020aeffd2f.pdf",
+    "id": "2ea7da_31036f32113a4d1f9fc605020aeffd2f.pdf",
+    "mediaType": "DOCUMENT",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/documents/price-lists/caddypassenger.pdf",
+    "sha256": "c38a2b39fc242572e16d10bb631f6e0f7b112dcfcb5c187e3880ca27780f410a"
+  },
+  "documents/price-lists/crafter.pdf": {
+    "url": "https://7f793d65-03fd-425a-a784-58a0d3f114f0.usrfiles.com/ugd/2ea7da_1c88e5297e49462bae43c0aebacc330c.pdf",
+    "id": "2ea7da_1c88e5297e49462bae43c0aebacc330c.pdf",
+    "mediaType": "DOCUMENT",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/documents/price-lists/crafter.pdf",
+    "sha256": "e6254aa3a1b9956e28b04e396b0bfea3a3d4a3dc9ecd507852f3d3739a656d13"
+  },
+  "documents/price-lists/cupra-formentor.pdf": {
+    "url": "https://7f793d65-03fd-425a-a784-58a0d3f114f0.usrfiles.com/ugd/2ea7da_4233f1a7112c482f8201e1cefc40d2cd.pdf",
+    "id": "2ea7da_4233f1a7112c482f8201e1cefc40d2cd.pdf",
+    "mediaType": "DOCUMENT",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/documents/price-lists/cupra-formentor.pdf",
+    "sha256": "f9f0ccc4b0e42c1289e6e9fa6847c299cd6b959292d3a1f3094bea40f1401800"
+  },
+  "documents/price-lists/cupra-terramar.pdf": {
+    "url": "https://7f793d65-03fd-425a-a784-58a0d3f114f0.usrfiles.com/ugd/2ea7da_59cc19e6b98247748f2833a33144c3da.pdf",
+    "id": "2ea7da_59cc19e6b98247748f2833a33144c3da.pdf",
+    "mediaType": "DOCUMENT",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/documents/price-lists/cupra-terramar.pdf",
+    "sha256": "9daff7a2725ee3e728698b6447d31487a0617b716e1944eddd4569a24456b87c"
+  },
+  "documents/price-lists/cupra_born.pdf": {
+    "url": "https://7f793d65-03fd-425a-a784-58a0d3f114f0.usrfiles.com/ugd/2ea7da_71ca6810fa624ac1ad2c2f09d6f7e924.pdf",
+    "id": "2ea7da_71ca6810fa624ac1ad2c2f09d6f7e924.pdf",
+    "mediaType": "DOCUMENT",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/documents/price-lists/cupra_born.pdf",
+    "sha256": "44e154ea5772c0871b747d03603ddf63b85ef899570535987bc7b61fe73f58e8"
+  },
+  "documents/price-lists/cupra_leon.pdf": {
+    "url": "https://7f793d65-03fd-425a-a784-58a0d3f114f0.usrfiles.com/ugd/2ea7da_281301be75d7443b91468300677e2b63.pdf",
+    "id": "2ea7da_281301be75d7443b91468300677e2b63.pdf",
+    "mediaType": "DOCUMENT",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/documents/price-lists/cupra_leon.pdf",
+    "sha256": "277ac2ba6fc58d977fde1a0e20c527bd179893eb554060b9701d1b6cf2af9d39"
+  },
+  "documents/price-lists/elroq.pdf": {
+    "url": "https://7f793d65-03fd-425a-a784-58a0d3f114f0.usrfiles.com/ugd/2ea7da_95185670141b48e59e36eea8594debcb.pdf",
+    "id": "2ea7da_95185670141b48e59e36eea8594debcb.pdf",
+    "mediaType": "DOCUMENT",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/documents/price-lists/elroq.pdf",
+    "sha256": "0b93681f8d1b3da466a243a62f9950463c26bc392f3a6bbccc5f2f1a562de1c3"
+  },
+  "documents/price-lists/elroqrs.pdf": {
+    "url": "https://7f793d65-03fd-425a-a784-58a0d3f114f0.usrfiles.com/ugd/2ea7da_92c71f0f284c4fdb99264d249418ab04.pdf",
+    "id": "2ea7da_92c71f0f284c4fdb99264d249418ab04.pdf",
+    "mediaType": "DOCUMENT",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/documents/price-lists/elroqrs.pdf",
+    "sha256": "0190e2738f40792fd1477228f8a44c64897d32236b2fb4dc4f0696ede7942250"
+  },
+  "documents/price-lists/enyaq.pdf": {
+    "url": "https://7f793d65-03fd-425a-a784-58a0d3f114f0.usrfiles.com/ugd/2ea7da_d4492d6399ab44429ec3f13726768d47.pdf",
+    "id": "2ea7da_d4492d6399ab44429ec3f13726768d47.pdf",
+    "mediaType": "DOCUMENT",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/documents/price-lists/enyaq.pdf",
+    "sha256": "1696550e4173a6d7a04e80ffc48e9bb9db7dd31f16107459c99dce52efd7d31f"
+  },
+  "documents/price-lists/enyaqcoupe.pdf": {
+    "url": "https://7f793d65-03fd-425a-a784-58a0d3f114f0.usrfiles.com/ugd/2ea7da_021bbe6d048348479de1b826c2afd235.pdf",
+    "id": "2ea7da_021bbe6d048348479de1b826c2afd235.pdf",
+    "mediaType": "DOCUMENT",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/documents/price-lists/enyaqcoupe.pdf",
+    "sha256": "994ab2b421ea10ee63fbcaeb8b616c89b4304f1d684ef759ccded596acd260bc"
+  },
+  "documents/price-lists/enyaqrs.pdf": {
+    "url": "https://7f793d65-03fd-425a-a784-58a0d3f114f0.usrfiles.com/ugd/2ea7da_f81aa9e3d52f4890a81561058e984af0.pdf",
+    "id": "2ea7da_f81aa9e3d52f4890a81561058e984af0.pdf",
+    "mediaType": "DOCUMENT",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/documents/price-lists/enyaqrs.pdf",
+    "sha256": "b63b71ddf55a4c7ca781bb76771755390c8186c16acbc5cfb486d0a513be36c8"
+  },
+  "documents/price-lists/etrongt.pdf": {
+    "url": "https://7f793d65-03fd-425a-a784-58a0d3f114f0.usrfiles.com/ugd/2ea7da_672ea48989954a5ea789190b68fc26de.pdf",
+    "id": "2ea7da_672ea48989954a5ea789190b68fc26de.pdf",
+    "mediaType": "DOCUMENT",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/documents/price-lists/etrongt.pdf",
+    "sha256": "326a864eb42f61e2fda5f35b7a6c2e934061f4e5bb75876f3361a5475cfdeac3"
+  },
+  "documents/price-lists/fabia.pdf": {
+    "url": "https://7f793d65-03fd-425a-a784-58a0d3f114f0.usrfiles.com/ugd/2ea7da_7c07f79125e64065858f1660e03f8660.pdf",
+    "id": "2ea7da_7c07f79125e64065858f1660e03f8660.pdf",
+    "mediaType": "DOCUMENT",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/documents/price-lists/fabia.pdf",
+    "sha256": "9f8f073194d63d3e4a26794c08c408a226ac34990a6dac2ddff28bf88b95c65f"
+  },
+  "documents/price-lists/fabia130.pdf": {
+    "url": "https://7f793d65-03fd-425a-a784-58a0d3f114f0.usrfiles.com/ugd/2ea7da_f7193016d36842afb1b2ef834f16d04f.pdf",
+    "id": "2ea7da_f7193016d36842afb1b2ef834f16d04f.pdf",
+    "mediaType": "DOCUMENT",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/documents/price-lists/fabia130.pdf",
+    "sha256": "4dff2b492fccce85476bd9f31e31649b044c109d3ec7911345f1fdc028a5c24e"
+  },
+  "documents/price-lists/golfgti.pdf": {
+    "url": "https://7f793d65-03fd-425a-a784-58a0d3f114f0.usrfiles.com/ugd/2ea7da_0c12f209bb0b44fbbaef72731f506ecc.pdf",
+    "id": "2ea7da_0c12f209bb0b44fbbaef72731f506ecc.pdf",
+    "mediaType": "DOCUMENT",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/documents/price-lists/golfgti.pdf",
+    "sha256": "a0cd7f9a94c080e2ce91f270d334d4ab52a4da134aaf95b103938e72000ca8ac"
+  },
+  "documents/price-lists/ibiza-van.pdf": {
+    "url": "https://7f793d65-03fd-425a-a784-58a0d3f114f0.usrfiles.com/ugd/2ea7da_44737004796548ceaeef38aaf63cecfd.pdf",
+    "id": "2ea7da_44737004796548ceaeef38aaf63cecfd.pdf",
+    "mediaType": "DOCUMENT",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/documents/price-lists/ibiza-van.pdf",
+    "sha256": "133a1b29daf3074603c64b0409b93079cccf4ac8c8cc731b4970dda35af5b7b6"
+  },
+  "documents/price-lists/ibiza.pdf": {
+    "url": "https://7f793d65-03fd-425a-a784-58a0d3f114f0.usrfiles.com/ugd/2ea7da_b0d53e49f47e4f7e90609e66639e16f4.pdf",
+    "id": "2ea7da_b0d53e49f47e4f7e90609e66639e16f4.pdf",
+    "mediaType": "DOCUMENT",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/documents/price-lists/ibiza.pdf",
+    "sha256": "f83ab379d506b87a96e15dbecd8b2df014b47ff5160011bf0cd5658f001ce3d0"
+  },
+  "documents/price-lists/id-polo.pdf": {
+    "url": "https://7f793d65-03fd-425a-a784-58a0d3f114f0.usrfiles.com/ugd/2ea7da_c8eb605cbebc46af88ee68f49a3f5076.pdf",
+    "id": "2ea7da_c8eb605cbebc46af88ee68f49a3f5076.pdf",
+    "mediaType": "DOCUMENT",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/documents/price-lists/id-polo.pdf",
+    "sha256": "9cad9be9eda4dc74179ab69ce03ae428e001419efde8cced0c302866b98a3570"
+  },
+  "documents/price-lists/id32024.pdf": {
+    "url": "https://7f793d65-03fd-425a-a784-58a0d3f114f0.usrfiles.com/ugd/2ea7da_c4593c764ef145d1bf5b3164cbfea3a2.pdf",
+    "id": "2ea7da_c4593c764ef145d1bf5b3164cbfea3a2.pdf",
+    "mediaType": "DOCUMENT",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/documents/price-lists/id32024.pdf",
+    "sha256": "9cca8c0b92fff69dbfb394b4c9a1c3c0c114fcb07a8c7b299ed1cd731dca108b"
+  },
+  "documents/price-lists/id3neo.pdf": {
+    "url": "https://7f793d65-03fd-425a-a784-58a0d3f114f0.usrfiles.com/ugd/2ea7da_3af0962eacc3465890490b3c23f8a679.pdf",
+    "id": "2ea7da_3af0962eacc3465890490b3c23f8a679.pdf",
+    "mediaType": "DOCUMENT",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/documents/price-lists/id3neo.pdf",
+    "sha256": "cec4ce0f314af101e2dba52bed41c3e357b6606292f19b333ad95f4b341941de"
+  },
+  "documents/price-lists/id4.pdf": {
+    "url": "https://7f793d65-03fd-425a-a784-58a0d3f114f0.usrfiles.com/ugd/2ea7da_5274d5bda3154655bca8e600c9107dd7.pdf",
+    "id": "2ea7da_5274d5bda3154655bca8e600c9107dd7.pdf",
+    "mediaType": "DOCUMENT",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/documents/price-lists/id4.pdf",
+    "sha256": "4481395fa08fe2092b9c29f850c46741cd8fc47771e0aae891fc86fa0a688253"
+  },
+  "documents/price-lists/id5.pdf": {
+    "url": "https://7f793d65-03fd-425a-a784-58a0d3f114f0.usrfiles.com/ugd/2ea7da_ccb52771bb70445b8f7f7b98fa364dba.pdf",
+    "id": "2ea7da_ccb52771bb70445b8f7f7b98fa364dba.pdf",
+    "mediaType": "DOCUMENT",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/documents/price-lists/id5.pdf",
+    "sha256": "b803cf90ad176b902de4da03424fd3e838c66d8924ff9ea34559ab34977409b6"
+  },
+  "documents/price-lists/id7.pdf": {
+    "url": "https://7f793d65-03fd-425a-a784-58a0d3f114f0.usrfiles.com/ugd/2ea7da_cf650911c7e546a5bcca3be9c0d233cd.pdf",
+    "id": "2ea7da_cf650911c7e546a5bcca3be9c0d233cd.pdf",
+    "mediaType": "DOCUMENT",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/documents/price-lists/id7.pdf",
+    "sha256": "43d64afbd8ddc9ef4b3526527b44f651bea29f77a44c79a8171e220da6ef96a1"
+  },
+  "documents/price-lists/idbuzz.pdf": {
+    "url": "https://7f793d65-03fd-425a-a784-58a0d3f114f0.usrfiles.com/ugd/2ea7da_676d429a4bf24de58d7ecb423e20aa99.pdf",
+    "id": "2ea7da_676d429a4bf24de58d7ecb423e20aa99.pdf",
+    "mediaType": "DOCUMENT",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/documents/price-lists/idbuzz.pdf",
+    "sha256": "982f8e763cda6268914ad675f24e62b468f31d06a64a1b3aac737104abba82f0"
+  },
+  "documents/price-lists/idbuzz_cargo.pdf": {
+    "url": "https://7f793d65-03fd-425a-a784-58a0d3f114f0.usrfiles.com/ugd/2ea7da_29d648feacf54c0e8b9ee0354e59f7d7.pdf",
+    "id": "2ea7da_29d648feacf54c0e8b9ee0354e59f7d7.pdf",
+    "mediaType": "DOCUMENT",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/documents/price-lists/idbuzz_cargo.pdf",
+    "sha256": "8332c278a0a47075d612756f8733b54b9eea57e71e7f270c3fdf410cc8a65449"
+  },
+  "documents/price-lists/kamiq.pdf": {
+    "url": "https://7f793d65-03fd-425a-a784-58a0d3f114f0.usrfiles.com/ugd/2ea7da_2622798134d3452ea6e91d0273ddfafd.pdf",
+    "id": "2ea7da_2622798134d3452ea6e91d0273ddfafd.pdf",
+    "mediaType": "DOCUMENT",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/documents/price-lists/kamiq.pdf",
+    "sha256": "6e81f2bd2ad23da972240cf22aaf6d8c73f93bcb71796eeeee8bf39f38ea11f5"
+  },
+  "documents/price-lists/kodiaq.pdf": {
+    "url": "https://7f793d65-03fd-425a-a784-58a0d3f114f0.usrfiles.com/ugd/2ea7da_2ba34fcaa54f4acda14dbbbd4806ba29.pdf",
+    "id": "2ea7da_2ba34fcaa54f4acda14dbbbd4806ba29.pdf",
+    "mediaType": "DOCUMENT",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/documents/price-lists/kodiaq.pdf",
+    "sha256": "8a398c2952652e81ac7d36d87711dbabeff7509ea21e9bd178db788f49c9ecef"
+  },
+  "documents/price-lists/kodiaqrs.pdf": {
+    "url": "https://7f793d65-03fd-425a-a784-58a0d3f114f0.usrfiles.com/ugd/2ea7da_c42cc42568444d6bbf53e2cd1db13352.pdf",
+    "id": "2ea7da_c42cc42568444d6bbf53e2cd1db13352.pdf",
+    "mediaType": "DOCUMENT",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/documents/price-lists/kodiaqrs.pdf",
+    "sha256": "7ccfa6c07446e0eb4f973cfc334719b710945f0bc292487d9ea51a81d6351292"
+  },
+  "documents/price-lists/newgolf.pdf": {
+    "url": "https://7f793d65-03fd-425a-a784-58a0d3f114f0.usrfiles.com/ugd/2ea7da_9d4ed837879447c9b0c77a1f1c730500.pdf",
+    "id": "2ea7da_9d4ed837879447c9b0c77a1f1c730500.pdf",
+    "mediaType": "DOCUMENT",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/documents/price-lists/newgolf.pdf",
+    "sha256": "877af948c0759538b6ef91f3a4e35737e6bc9552426515bb8f9155d9a13e6898"
+  },
+  "documents/price-lists/newkaroq.pdf": {
+    "url": "https://7f793d65-03fd-425a-a784-58a0d3f114f0.usrfiles.com/ugd/2ea7da_1024191545c7466eb8d19dbf07e19af4.pdf",
+    "id": "2ea7da_1024191545c7466eb8d19dbf07e19af4.pdf",
+    "mediaType": "DOCUMENT",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/documents/price-lists/newkaroq.pdf",
+    "sha256": "60770d0c4014e2b4d5e09285666b898c4debc74c9b0c6afaac2954d48063571d"
+  },
+  "documents/price-lists/newleon.pdf": {
+    "url": "https://7f793d65-03fd-425a-a784-58a0d3f114f0.usrfiles.com/ugd/2ea7da_8b8df0c4c22d44109c87b9821baca109.pdf",
+    "id": "2ea7da_8b8df0c4c22d44109c87b9821baca109.pdf",
+    "mediaType": "DOCUMENT",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/documents/price-lists/newleon.pdf",
+    "sha256": "d5b7e19814f1f9dfc5d785931f951d3a9f84d7fd53ac356ae15f299ab98485a0"
+  },
+  "documents/price-lists/newpolo.pdf": {
+    "url": "https://7f793d65-03fd-425a-a784-58a0d3f114f0.usrfiles.com/ugd/2ea7da_60e7585a1e76440ea011a3912b77271d.pdf",
+    "id": "2ea7da_60e7585a1e76440ea011a3912b77271d.pdf",
+    "mediaType": "DOCUMENT",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/documents/price-lists/newpolo.pdf",
+    "sha256": "ffc60b6d7157993c0983c3fa0ddc4aaf5d5855b0972444c4d95ea1aa85696d30"
+  },
+  "documents/price-lists/q2.pdf": {
+    "url": "https://7f793d65-03fd-425a-a784-58a0d3f114f0.usrfiles.com/ugd/2ea7da_91b2d176d60847f0bc44fb78f511d3ed.pdf",
+    "id": "2ea7da_91b2d176d60847f0bc44fb78f511d3ed.pdf",
+    "mediaType": "DOCUMENT",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/documents/price-lists/q2.pdf",
+    "sha256": "d12ad6bd9d9f1b3356dd5c729718b2da2542e867079984c812356c01c0892043"
+  },
+  "documents/price-lists/q3.pdf": {
+    "url": "https://7f793d65-03fd-425a-a784-58a0d3f114f0.usrfiles.com/ugd/2ea7da_433346171d604047afaa379fde5d5bc1.pdf",
+    "id": "2ea7da_433346171d604047afaa379fde5d5bc1.pdf",
+    "mediaType": "DOCUMENT",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/documents/price-lists/q3.pdf",
+    "sha256": "519a90b898afbe395555d243e4fce8b0be20f0446155ea4bfcf9de161923efda"
+  },
+  "documents/price-lists/q3_sb.pdf": {
+    "url": "https://7f793d65-03fd-425a-a784-58a0d3f114f0.usrfiles.com/ugd/2ea7da_6749768465604d9cb4d18b5109a55dde.pdf",
+    "id": "2ea7da_6749768465604d9cb4d18b5109a55dde.pdf",
+    "mediaType": "DOCUMENT",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/documents/price-lists/q3_sb.pdf",
+    "sha256": "7151721b4025cc973152cea1ea27caf930f443570aecd9c30e37f6de44c6ca1f"
+  },
+  "documents/price-lists/q4.pdf": {
+    "url": "https://7f793d65-03fd-425a-a784-58a0d3f114f0.usrfiles.com/ugd/2ea7da_5746d4dea64044938ca124daae54ea77.pdf",
+    "id": "2ea7da_5746d4dea64044938ca124daae54ea77.pdf",
+    "mediaType": "DOCUMENT",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/documents/price-lists/q4.pdf",
+    "sha256": "c2a1b3bc6c8d24d34b2b8fec02152d509811a68ef2dd96f0ca1043a4a6d91e3e"
+  },
+  "documents/price-lists/q4sb.pdf": {
+    "url": "https://7f793d65-03fd-425a-a784-58a0d3f114f0.usrfiles.com/ugd/2ea7da_a26b8787204a4629b514e616dec61d6d.pdf",
+    "id": "2ea7da_a26b8787204a4629b514e616dec61d6d.pdf",
+    "mediaType": "DOCUMENT",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/documents/price-lists/q4sb.pdf",
+    "sha256": "3c4afccb3fc86d5ae7ede6f5994627aa8eccb3b4b3325650d8ca9c0d14687e15"
+  },
+  "documents/price-lists/q5.pdf": {
+    "url": "https://7f793d65-03fd-425a-a784-58a0d3f114f0.usrfiles.com/ugd/2ea7da_23f8f368a7cf441890474cd32a7ab7cc.pdf",
+    "id": "2ea7da_23f8f368a7cf441890474cd32a7ab7cc.pdf",
+    "mediaType": "DOCUMENT",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/documents/price-lists/q5.pdf",
+    "sha256": "2f9d903c8cebb7af51f221de75fbe8b831ec78e16700edc6f6712e8dbf880491"
+  },
+  "documents/price-lists/q5sb.pdf": {
+    "url": "https://7f793d65-03fd-425a-a784-58a0d3f114f0.usrfiles.com/ugd/2ea7da_bed1dbafd7b547bf8a74d6581e6d14c8.pdf",
+    "id": "2ea7da_bed1dbafd7b547bf8a74d6581e6d14c8.pdf",
+    "mediaType": "DOCUMENT",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/documents/price-lists/q5sb.pdf",
+    "sha256": "25e084e9416a8b6c596e19ffc59ac46ee612b2c3c35a50280605a95eb9daf1dc"
+  },
+  "documents/price-lists/q6.pdf": {
+    "url": "https://7f793d65-03fd-425a-a784-58a0d3f114f0.usrfiles.com/ugd/2ea7da_e5a334cac7dd490399e12f0e388f3bdf.pdf",
+    "id": "2ea7da_e5a334cac7dd490399e12f0e388f3bdf.pdf",
+    "mediaType": "DOCUMENT",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/documents/price-lists/q6.pdf",
+    "sha256": "2d494bfbf60a52291f72f76f33498139e4520fb209c20c5e3ee85b9fc17f59dd"
+  },
+  "documents/price-lists/q6sb.pdf": {
+    "url": "https://7f793d65-03fd-425a-a784-58a0d3f114f0.usrfiles.com/ugd/2ea7da_25d65d66e4a84c54af89f9ca3a857311.pdf",
+    "id": "2ea7da_25d65d66e4a84c54af89f9ca3a857311.pdf",
+    "mediaType": "DOCUMENT",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/documents/price-lists/q6sb.pdf",
+    "sha256": "5ee8751e9c80b9e783a78adedbf1d21572772689f8945e8f900f6e98d7c0f09b"
+  },
+  "documents/price-lists/q7.pdf": {
+    "url": "https://7f793d65-03fd-425a-a784-58a0d3f114f0.usrfiles.com/ugd/2ea7da_ce979d07c3db4ea788f217b00e5ca42a.pdf",
+    "id": "2ea7da_ce979d07c3db4ea788f217b00e5ca42a.pdf",
+    "mediaType": "DOCUMENT",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/documents/price-lists/q7.pdf",
+    "sha256": "3b58f438729b52152fede4a8339b7035080768163533eeeed0bb15f0f0e99bf2"
+  },
+  "documents/price-lists/q8.pdf": {
+    "url": "https://7f793d65-03fd-425a-a784-58a0d3f114f0.usrfiles.com/ugd/2ea7da_10b4d07e51eb42a991c1cdd582a98057.pdf",
+    "id": "2ea7da_10b4d07e51eb42a991c1cdd582a98057.pdf",
+    "mediaType": "DOCUMENT",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/documents/price-lists/q8.pdf",
+    "sha256": "f1ff94b8f6e85ad3c57c55f3f1ea12c602a6a8259b7539d9ed27f695c42a7121"
+  },
+  "documents/price-lists/raval.pdf": {
+    "url": "https://7f793d65-03fd-425a-a784-58a0d3f114f0.usrfiles.com/ugd/2ea7da_106ff1e74bb0476b87bba7cf4fb93536.pdf",
+    "id": "2ea7da_106ff1e74bb0476b87bba7cf4fb93536.pdf",
+    "mediaType": "DOCUMENT",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/documents/price-lists/raval.pdf",
+    "sha256": "63b1a188c1173905f521c458b7f7661a23a24bbbbe428b92839d55dd3018463a"
+  },
+  "documents/price-lists/rsq8.pdf": {
+    "url": "https://7f793d65-03fd-425a-a784-58a0d3f114f0.usrfiles.com/ugd/2ea7da_7c260104b01d42bd974a5f68fa31e343.pdf",
+    "id": "2ea7da_7c260104b01d42bd974a5f68fa31e343.pdf",
+    "mediaType": "DOCUMENT",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/documents/price-lists/rsq8.pdf",
+    "sha256": "d3968c92739d50afccef1df2eae9be323557650d7d18ca814e317cbde8978e55"
+  },
+  "documents/price-lists/skoda-octavia-combi.pdf": {
+    "url": "https://7f793d65-03fd-425a-a784-58a0d3f114f0.usrfiles.com/ugd/2ea7da_4feadd936cea47fe98362defda742cce.pdf",
+    "id": "2ea7da_4feadd936cea47fe98362defda742cce.pdf",
+    "mediaType": "DOCUMENT",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/documents/price-lists/skoda-octavia-combi.pdf",
+    "sha256": "10fab2cee99353c57f3702a0c5fe9fddd05479bc43c50505cdb9c49b54083a7e"
+  },
+  "documents/price-lists/skoda-octavia-rs.pdf": {
+    "url": "https://7f793d65-03fd-425a-a784-58a0d3f114f0.usrfiles.com/ugd/2ea7da_f9d8501ea6c34e2b9678b239a4545568.pdf",
+    "id": "2ea7da_f9d8501ea6c34e2b9678b239a4545568.pdf",
+    "mediaType": "DOCUMENT",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/documents/price-lists/skoda-octavia-rs.pdf",
+    "sha256": "3d46ee0384d211495cb65926c9fe924bae4a012b602c9d5b4382e60f9fc49335"
+  },
+  "documents/price-lists/skoda-octavia.pdf": {
+    "url": "https://7f793d65-03fd-425a-a784-58a0d3f114f0.usrfiles.com/ugd/2ea7da_d5348f3f5615426782e61335f8b8b4c4.pdf",
+    "id": "2ea7da_d5348f3f5615426782e61335f8b8b4c4.pdf",
+    "mediaType": "DOCUMENT",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/documents/price-lists/skoda-octavia.pdf",
+    "sha256": "33a71916822ae9e25333cc5ffdf7bf40548b3db5bbfec8ded7c7ddc172d20b13"
+  },
+  "documents/price-lists/t-cross.pdf": {
+    "url": "https://7f793d65-03fd-425a-a784-58a0d3f114f0.usrfiles.com/ugd/2ea7da_ba018647e14b4f9b815eb8b1c48b6462.pdf",
+    "id": "2ea7da_ba018647e14b4f9b815eb8b1c48b6462.pdf",
+    "mediaType": "DOCUMENT",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/documents/price-lists/t-cross.pdf",
+    "sha256": "e8762664c789fb0df5464d05072a94da501d8e404b7eba9da5789a3bcb7576bc"
+  },
+  "documents/price-lists/t-roc.pdf": {
+    "url": "https://7f793d65-03fd-425a-a784-58a0d3f114f0.usrfiles.com/ugd/2ea7da_b258481a4ff94ab7b9c60770e1e7977f.pdf",
+    "id": "2ea7da_b258481a4ff94ab7b9c60770e1e7977f.pdf",
+    "mediaType": "DOCUMENT",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/documents/price-lists/t-roc.pdf",
+    "sha256": "f3bb2cd9b02ae4ba87503081476dfd3dc20e5ce891c9f9768d70aa9c710ca553"
+  },
+  "documents/price-lists/t7multivan.pdf": {
+    "url": "https://7f793d65-03fd-425a-a784-58a0d3f114f0.usrfiles.com/ugd/2ea7da_c649e09a89f149e59cef117f6c5a3699.pdf",
+    "id": "2ea7da_c649e09a89f149e59cef117f6c5a3699.pdf",
+    "mediaType": "DOCUMENT",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/documents/price-lists/t7multivan.pdf",
+    "sha256": "4bc11eef8678a748a39097efff4d036d1ba3c4a08b22ab1556be5ce781c87cd8"
+  },
+  "documents/price-lists/taigo.pdf": {
+    "url": "https://7f793d65-03fd-425a-a784-58a0d3f114f0.usrfiles.com/ugd/2ea7da_2e5b914b8cbb4fee822cfc55565eef0b.pdf",
+    "id": "2ea7da_2e5b914b8cbb4fee822cfc55565eef0b.pdf",
+    "mediaType": "DOCUMENT",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/documents/price-lists/taigo.pdf",
+    "sha256": "64c936d9247485102f48d5fc9dbb1d4dac9f1c9f82729c74dabbea686410f687"
+  },
+  "documents/price-lists/tavascan.pdf": {
+    "url": "https://7f793d65-03fd-425a-a784-58a0d3f114f0.usrfiles.com/ugd/2ea7da_cd3812c15f324d1088dd827d21604c94.pdf",
+    "id": "2ea7da_cd3812c15f324d1088dd827d21604c94.pdf",
+    "mediaType": "DOCUMENT",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/documents/price-lists/tavascan.pdf",
+    "sha256": "b39f75e97fb38525f48e582bf9a393a996940b4ac0cc58e74264ac47b7b57e10"
+  },
+  "documents/price-lists/tayron.pdf": {
+    "url": "https://7f793d65-03fd-425a-a784-58a0d3f114f0.usrfiles.com/ugd/2ea7da_293738c6dd1049beb18c9571813664be.pdf",
+    "id": "2ea7da_293738c6dd1049beb18c9571813664be.pdf",
+    "mediaType": "DOCUMENT",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/documents/price-lists/tayron.pdf",
+    "sha256": "b42e684f54a0cdb99e05ac8630c0e0130b194d6dca68bcdd0c39b5bfce710fde"
+  },
+  "documents/price-lists/tiguan.pdf": {
+    "url": "https://7f793d65-03fd-425a-a784-58a0d3f114f0.usrfiles.com/ugd/2ea7da_a2046660c581423b9585ac79729c1712.pdf",
+    "id": "2ea7da_a2046660c581423b9585ac79729c1712.pdf",
+    "mediaType": "DOCUMENT",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/documents/price-lists/tiguan.pdf",
+    "sha256": "da6143c87d6c6ca0d11ec3408139fae137637d313712cd692203379b4be6e0cb"
+  },
+  "documents/price-lists/troc_cabrio.pdf": {
+    "url": "https://7f793d65-03fd-425a-a784-58a0d3f114f0.usrfiles.com/ugd/2ea7da_da96e1d4ea884df8aa792d8ba6076f98.pdf",
+    "id": "2ea7da_da96e1d4ea884df8aa792d8ba6076f98.pdf",
+    "mediaType": "DOCUMENT",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/documents/price-lists/troc_cabrio.pdf",
+    "sha256": "a2d6b9e12ecd3a338c407d66ed5543f772c841483d6952d90f3689822f0df057"
+  },
+  "https://images.pexels.com/photos/41005078/pexels-photo-41005078/free-photo-of-portrait-of-a-smiling-woman-in-soft-lighting.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=128&amp;h=128&amp;fit=crop&amp;crop=faces": {
+    "url": "https://static.wixstatic.com/media/2ea7da_2f5696dac7b14c8cbe9dc304ec70fa49~mv2.jpeg",
+    "id": "2ea7da_2f5696dac7b14c8cbe9dc304ec70fa49~mv2.jpeg",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://images.pexels.com/photos/41005078/pexels-photo-41005078/free-photo-of-portrait-of-a-smiling-woman-in-soft-lighting.jpeg?auto=compress&cs=tinysrgb&w=128&h=128&fit=crop&crop=faces"
+  },
+  "https://images.pexels.com/photos/7191768/pexels-photo-7191768.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=128&amp;h=128&amp;fit=crop&amp;crop=faces": {
+    "url": "https://static.wixstatic.com/media/2ea7da_f1a9aa8bf0b94071bb600d98c5b68970~mv2.jpeg",
+    "id": "2ea7da_f1a9aa8bf0b94071bb600d98c5b68970~mv2.jpeg",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://images.pexels.com/photos/7191768/pexels-photo-7191768.jpeg?auto=compress&cs=tinysrgb&w=128&h=128&fit=crop&crop=faces"
+  },
+  "https://images.pexels.com/photos/7400021/pexels-photo-7400021.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=128&amp;h=128&amp;fit=crop&amp;crop=faces": {
+    "url": "https://static.wixstatic.com/media/2ea7da_ddadedf4967447d5a2f8f78e2e37e378~mv2.jpeg",
+    "id": "2ea7da_ddadedf4967447d5a2f8f78e2e37e378~mv2.jpeg",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://images.pexels.com/photos/7400021/pexels-photo-7400021.jpeg?auto=compress&cs=tinysrgb&w=128&h=128&fit=crop&crop=faces"
+  }
+}

@@ -38,6 +38,9 @@
  async function downloadBundle(control,data){
   if(control.disabled)return;
   const label=control.querySelector('[data-vl-download-label]'),status=document.getElementById('vlBundleStatus');
+  if(data.download.url){
+   const link=document.createElement('a');link.href=data.download.url;link.download=data.download.filename;link.target='_blank';link.rel='noopener';document.body.append(link);link.click();link.remove();status.textContent='The PDF archive has opened. Check the new tab or your downloads.';return;
+  }
   control.disabled=true;control.setAttribute('aria-busy','true');label.textContent='Preparing your PDFs…';status.textContent='Preparing the full document library. Please keep this page open.';
   try{
    const buffers=[];for(let i=0;i<data.download.parts.length;i++){status.textContent=`Preparing download (${i+1} of ${data.download.parts.length})…`;const response=await fetch(data.download.parts[i]);if(!response.ok)throw Error('Download unavailable');buffers.push(await response.arrayBuffer());}
