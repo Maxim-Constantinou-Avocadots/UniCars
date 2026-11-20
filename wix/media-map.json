@@ -135,6 +135,30 @@
     "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/car.webp",
     "sha256": "0d4b29803abb06bb70e6ec0e7ba7b587e9ff9731dd36619dc4813075ad342d24"
   },
+  "assets/ehub-hero-film-mobile.mp4": {
+    "url": "https://video.wixstatic.com/video/2ea7da_8cea980b7b2d42adb940d27b41be4224/file",
+    "id": "2ea7da_8cea980b7b2d42adb940d27b41be4224",
+    "mediaType": "VIDEO",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/7c0ab770f1fda3d494ef91e04d1a4156cd66ee98/dist/assets/ehub-hero-film-mobile.mp4",
+    "sha256": "31d57c3a930b92082088b8f34258bbc2bb9f3bcf54af393323c689be5e39ea38"
+  },
+  "assets/ehub-hero-film.mp4": {
+    "url": "https://video.wixstatic.com/video/2ea7da_1fd7134bb9574cb8ae7b39f4684bd6cf/file",
+    "id": "2ea7da_1fd7134bb9574cb8ae7b39f4684bd6cf",
+    "mediaType": "VIDEO",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/7c0ab770f1fda3d494ef91e04d1a4156cd66ee98/dist/assets/ehub-hero-film.mp4",
+    "sha256": "19d426bbb20b1697249ffa464a08862d22f1ac0fd71742667815714287b8e1f8"
+  },
+  "assets/ehub-hero-poster.jpg": {
+    "url": "https://static.wixstatic.com/media/2ea7da_7a2fa0c2fc6b42919ae004c928054374~mv2.jpg",
+    "id": "2ea7da_7a2fa0c2fc6b42919ae004c928054374~mv2.jpg",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/7c0ab770f1fda3d494ef91e04d1a4156cd66ee98/dist/assets/ehub-hero-poster.jpg",
+    "sha256": "cda7420581190881fd1a85c098343ac9e4202145e6f07c77c9601e1a53cedb6d"
+  },
   "assets/ehub/audi-a1-sb-30tfsi-advance-stronic-2-1.webp": {
     "url": "https://static.wixstatic.com/media/2ea7da_49052495d8c547a991ac11c7dd7f3775~mv2.webp",
     "id": "2ea7da_49052495d8c547a991ac11c7dd7f3775~mv2.webp",
