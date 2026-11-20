@@ -15,6 +15,10 @@ The original eHub is a Shopify catalogue for expressions of interest, not a bind
 - Enquiry actions open the original vehicle listing on eHub. Call actions use the existing Unicars head-office number. No payment/reservation flow or unconnected enquiry form is presented as working.
 - FAQs explain the actual nonbinding process, fixed vehicle equipment and mixed fuel types.
 
+## Hero
+
+A cinematic video frame: brand chips with the live listing count and top published saving, a centred headline, "Explore the cars" and "How eHub works", and the three featured offers (exact price and saving, linking to each listing) along the base. The background film (`assets/ehub-hero-film*.mp4`, provenance in `assets/ehub-hero-film.source.json`) loads only when the hero is on screen, uses a 720p file at 800px and below, has a visible pause/play control, and stays on its poster for reduced-motion and data-saver users. Text contrast was measured over the brightest film frame (≥4.5:1).
+
 ## Integration boundary
 
 `dist/data/ehub.json` is a dated public-source snapshot; it is not automatically refreshed. Shopify's public available flag is retained as source data but never promoted to a live stock guarantee. Before production, connect an authorised catalogue/inventory refresh and the agreed lead destination. Preserve original listing and variant identity, vehicle status, prices and equipment.
