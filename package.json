@@ -1,0 +1,16 @@
+{
+  "name": "unicars-website",
+  "private": true,
+  "description": "UniCars website prototype, hosted on Wix Headless and released from GitHub.",
+  "engines": {
+    "node": ">=24.22.1"
+  },
+  "scripts": {
+    "start": "python3 -m http.server 8000 --directory dist",
+    "test": "node --test tests/*.test.mjs",
+    "release": "wix release"
+  },
+  "devDependencies": {
+    "@wix/cli": "1.2.14"
+  }
+}
