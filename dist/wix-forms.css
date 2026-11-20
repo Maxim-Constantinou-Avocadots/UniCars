@@ -4,4 +4,69 @@
 #requestDialog .uf-heading{margin-top:14px}#requestDialog .form-fields{display:block}#requestDialog .uf-form input,#requestDialog .uf-form select,#requestDialog .uf-form textarea{margin:0}#campaignDialog .uf-heading{margin-top:26px}.uc-enquiry .uf-heading{margin-bottom:24px}.td-booking>[data-wix-form]{width:100%}.td-selection[data-uf-selection] h2{font-size:32px;margin:8px 0 12px}.td-selection[data-uf-selection]>span{color:#d9e5f1;font-size:14px}.td-selection[data-uf-selection]>p{color:#d9e5f1;letter-spacing:.1em;font-size:12px}.uf-form .button:disabled{opacity:.6;cursor:wait}.uf-form [hidden]{display:none!important}
 @media(max-width:600px){.uf-fields{grid-template-columns:1fr;gap:18px}.uf-field{grid-column:1/-1!important}.uf-brands{gap:5px}.uf-brands .uf-choice>span{padding:11px 3px;min-height:87px;border-radius:14px}.uf-brands .uf-choice img{width:40px;height:27px}.uf-brands .uf-choice strong{font-size:9px}.uf-models{gap:9px;max-height:390px}.uf-models .uf-choice img{height:90px}.uf-models .uf-choice strong{font-size:12px}.uf-actions{gap:9px}.uf-actions>.primary{flex:1}.uf-progress{gap:3px}.uf-progress button{flex-direction:column;gap:7px}.uf-progress button strong{font-size:10px}.uf-review dl>div{grid-template-columns:1fr;gap:3px}.uf-review section{padding:15px}.uf-calendar{padding:12px}.uf-days label>span{min-height:35px}.uf-data-note{font-size:11px}}
 [data-wix-form=newsletter] .uf-field{grid-column:1/-1}.uf-role-offer{grid-column:1/-1}
+/* The live schema renderer sits inside the existing test-drive card. Keep its
+   content inset at every step, including loading, errors and confirmation. */
+.td-booking .uf-form,
+.td-booking [data-wix-form]>.uf-loading,
+.td-booking [data-wix-form]>.uf-success,
+.td-booking [data-wix-form]>.uf-closed{padding:34px 36px 28px}
+.td-booking [data-wix-form]>.uf-error{margin:24px 36px}
+.td-booking [data-wix-form]>.uf-button{margin:0 36px 28px}
+.td-booking .uf-progress{grid-template-columns:repeat(4,minmax(0,1fr));gap:8px;padding:18px 24px;margin:0;background:#fbfcfe;border-bottom:1px solid #e3eaf2}
+.td-booking .uf-progress button{justify-content:center;gap:9px;min-width:0;min-height:48px;padding:10px 6px;line-height:1.35;border-radius:var(--radius-inset)!important}
+.td-booking .uf-progress button>span{width:28px;height:28px;border-radius:var(--radius-inset);font-size:13px}
+.td-booking .uf-progress button strong{font-size:13px;line-height:1.35;font-weight:500}
+.td-booking .uf-progress button[aria-current=step]{background:#edf4fd;color:#0058df}
+.td-booking .uf-progress button:disabled{opacity:1;color:#71849a}
+.td-booking .uf-progress button:focus-visible{outline:3px solid #8bb8ff;outline-offset:2px}
+.td-booking .uf-heading{margin:0 0 28px}
+.td-booking .uf-heading>p{margin:0 0 12px;color:#0058df;font-size:12px}
+.td-booking .uf-heading h2{margin:0 0 12px;line-height:1.15}
+.td-booking .uf-fields{gap:24px 16px}
+.td-booking .uf-brands .uf-choice>span{min-height:104px;border-radius:var(--radius-surface);gap:12px}
+.td-booking .uf-brands .uf-choice strong{font-size:12px}
+.td-booking .uf-choice>input{margin:0;clip-path:inset(50%);overflow:hidden}
+.td-booking .uf-description{margin:10px 0 0;line-height:1.6}
+.td-booking .uf-error{margin-top:9px}
+.td-booking .uf-actions{justify-content:space-between;align-items:center;border-top:1px solid #e9edf1;padding-top:22px;margin-top:28px}
+.td-booking .uf-actions>.primary{margin-left:auto}
+.td-booking .uf-button{--button-height:52px;--button-icon-size:34px;font-size:15px;min-width:150px}
+.td-booking .uf-data-note{margin:16px 0 0;font-size:12px;line-height:1.6;text-align:right}
+.td-booking .uf-models{padding:3px;scroll-padding:3px}
+.td-booking .uf-success>p{margin:16px 0}
+.td-booking .uf-success>p:first-of-type{margin:0 0 12px}
+.td-booking .uf-success>small{margin:20px 0}
+.td-booking .uf-closed>p{margin:14px 0 20px}
+@media(min-width:1650px){
+ .td-booking .uf-form,.td-booking [data-wix-form]>.uf-loading,.td-booking [data-wix-form]>.uf-success,.td-booking [data-wix-form]>.uf-closed{padding:40px 44px 32px}
+}
+@media(max-width:1180px){
+ .td-booking .uf-form,.td-booking [data-wix-form]>.uf-loading,.td-booking [data-wix-form]>.uf-success,.td-booking [data-wix-form]>.uf-closed{padding:28px 24px 24px}
+ .td-booking .uf-progress{padding:16px 14px;gap:4px}
+ .td-booking .uf-progress button{gap:6px}
+ .td-booking .uf-progress button strong{font-size:12px}
+}
+@media(max-width:950px) and (min-width:601px){
+ .td-booking .uf-form,.td-booking [data-wix-form]>.uf-loading,.td-booking [data-wix-form]>.uf-success,.td-booking [data-wix-form]>.uf-closed{padding:32px}
+ .td-booking .uf-progress{padding:18px 24px}
+}
+@media(max-width:600px){
+ .td-booking .uf-form,.td-booking [data-wix-form]>.uf-loading,.td-booking [data-wix-form]>.uf-success,.td-booking [data-wix-form]>.uf-closed{padding:26px 18px 22px}
+ .td-booking [data-wix-form]>.uf-error{margin:20px 18px}
+ .td-booking [data-wix-form]>.uf-button{margin:0 18px 22px}
+ .td-booking .uf-progress{padding:12px 10px;gap:4px}
+ .td-booking .uf-progress button{flex-direction:column;gap:7px;padding:8px 3px;min-height:64px}
+ .td-booking .uf-progress button strong{font-size:11px;text-align:center}
+ .td-booking .uf-heading{margin-bottom:24px}
+ .td-booking .uf-heading h2{font-size:27px}
+ .td-booking .uf-fields{gap:22px}
+ .td-booking .uf-brands{grid-template-columns:repeat(3,minmax(0,1fr));gap:10px}
+ .td-booking .uf-brands .uf-choice>span{min-height:94px;padding:14px 7px;gap:10px}
+ .td-booking .uf-brands .uf-choice strong{font-size:12px}
+ .td-booking .uf-brands .uf-choice img{width:42px;height:30px}
+ .td-booking .uf-actions{margin-top:24px;padding-top:20px;gap:10px}
+ .td-booking .uf-actions>.primary{flex:1}
+ .td-booking .uf-button{font-size:14px;min-width:0;--button-icon-size:30px}
+ .td-booking .uf-data-note{margin-top:16px;text-align:left;font-size:12px}
+}
 @media(prefers-reduced-motion:reduce){.uf-loading>span{animation:none}.uf-choice>span{transition:none}}
