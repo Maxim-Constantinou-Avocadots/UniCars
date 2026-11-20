@@ -1,8 +1,9 @@
 name: Deploy to Wix
 
-# Every push to main that changes the website releases dist/ to the Wix
-# Headless site named in wix.config.json. Run it by hand from the Actions tab
-# to re-release without a code change (this also clears Wix's cache).
+# Every push to main that changes the website is checked here. When the
+# WIX_API_KEY secret exists, the run also releases dist/ to the Wix Headless
+# site named in wix.config.json; without it, releases are made with the Wix
+# CLI after pushing (see 'Hosting on Wix' in README.md).
 on:
   push:
     branches: [main]
@@ -50,16 +51,20 @@ jobs:
           fi
 
       - name: Log in to Wix
+        id: login
         env:
           WIX_API_KEY: ${{ secrets.WIX_API_KEY }}
         run: |
           if [ -z "$WIX_API_KEY" ]; then
-            echo "::error::The WIX_API_KEY repository secret is missing. See 'Hosting on Wix' in README.md."
-            exit 1
+            echo "::notice::No WIX_API_KEY secret, so this run checks the site but doesn't release it. Releases are made with the Wix CLI (see 'Hosting on Wix' in README.md)."
+            echo "release=false" >> "$GITHUB_OUTPUT"
+            exit 0
           fi
           npx wix login --api-key "$WIX_API_KEY"
+          echo "release=true" >> "$GITHUB_OUTPUT"
 
       - name: Release to Wix
+        if: steps.login.outputs.release == 'true'
         env:
           HEAD_MESSAGE: ${{ github.event.head_commit.message }}
         run: |

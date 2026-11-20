@@ -54,35 +54,37 @@ Smart Search currently uses local matching rules. A live LLM is not connected. C
 
 ## Hosting on Wix
 
-The site is hosted on Wix Headless and released from this repository. **GitHub is the source of truth**: every push to `main` that changes `dist/` (or the hosting files) runs `.github/workflows/deploy-wix.yml`, which runs the checks and then `wix release`, uploading `dist/` to Wix.
+The site is hosted on Wix Headless. **GitHub is the source of truth**: changes are committed and pushed here, then `dist/` is released to Wix with the Wix CLI. Nothing is uploaded to the site any other way.
 
 - Live site: https://unicars-avocadots-0709.wix-site-host.com/
 - Dashboard: https://manage.wix.com/dashboard/7f793d65-03fd-425a-a784-58a0d3f114f0
 - `wix.config.json` links this repository to the Wix site (site ID and its headless app ID) and names `dist/` as the folder to release.
-- `package.json` pins the Wix CLI. It needs Node 24.22.1 or later; the workflow uses Node 24.
+- `package.json` pins the Wix CLI. It needs Node 24.22.1 or later.
 
-Make every change here and push it; don't upload files to the site through the Wix dashboard or another tool, or the next release from GitHub will overwrite them. To re-release without a change (for example to clear Wix's cache), run **Deploy to Wix** from the Actions tab.
+Don't upload files through the Wix dashboard or another tool ("Create New Frontend" included): the next release from this repository replaces the whole site.
 
-### One-time setup
+### Releasing
 
-1. In the Wix [API Keys Manager](https://manage.wix.com/account/api-keys), generate an API key with access to the **Unicars** site only.
-2. In this repository, go to **Settings → Secrets and variables → Actions** and add it as a repository secret named `WIX_API_KEY`.
-3. Run **Deploy to Wix** from the Actions tab, or push to `main`.
-
-### Releasing from your own computer
+From the repository, after pushing:
 
 ```sh
 npm ci
-npx wix login      # browser login, once
+npx wix login      # a one-time code you approve in the browser
 npx wix release
 ```
 
+Run from Claude, this needs Claude's network access to Wix (`wix.com` and `wixapis.com`) to be allowed under Settings → Capabilities.
+
+### Optional: release automatically on every push
+
+`.github/workflows/deploy-wix.yml` runs on every push to `main` that changes `dist/` or the hosting files. It always runs the checks; it also releases when the repository has a `WIX_API_KEY` secret. To turn that on, generate a key in the Wix [API Keys Manager](https://manage.wix.com/account/api-keys) with access to the **Unicars** site only, and add it under **Settings → Secrets and variables → Actions**.
+
 ### Limits
 
-A Wix release can include at most 5,000 files; the workflow checks this before releasing. `dist/` is large (about 120 MB, mostly price-list PDFs and the bulk-download parts in `dist/documents/`). If Wix refuses the release for its size, move those files to Wix Media and link them from there.
+A Wix release can include at most 5,000 files; the workflow checks this. `dist/` is large (about 120 MB, mostly price-list PDFs and the bulk-download parts in `dist/documents/`). If Wix refuses a release for its size, move those files to Wix Media and link them from there.
 
 ## Source provenance
 
-Imported from Sites version **61**, source commit `6b3dabca2f7cc61f324bb767c1364f1fb2fc4fc9`. The retained `.openai/hosting.json` identifies the earlier Sites prototype; it contains no credentials. Do not add API keys or tokens to Git: the Wix key lives only in the `WIX_API_KEY` repository secret.
+Imported from Sites version **61**, source commit `6b3dabca2f7cc61f324bb767c1364f1fb2fc4fc9`. The retained `.openai/hosting.json` identifies the earlier Sites prototype; it contains no credentials. Do not add API keys or tokens to Git; an optional Wix key belongs only in the `WIX_API_KEY` repository secret.
 
 The original early-navigation README is retained in `docs/legacy-navigation-readme.md`. Its descriptions and screenshots reflect that earlier stage of the project.
