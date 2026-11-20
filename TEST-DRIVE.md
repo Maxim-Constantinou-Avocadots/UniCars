@@ -1,13 +1,11 @@
-# Book a test drive
+# Test-drive requests
 
-Route: `#test-drive`. Supports `#test-drive?model=<range-model-id>`, `smart-vehicle-<version-id>` and `ehub-car-<listing-id>` as preselection values.
+The test-drive page keeps its vehicle imagery, brand selection, model cards, preferred showroom, calendar, contact preferences and review stage. Inputs, choices, validation, conditional visibility and submission settings come from the live Wix form schema.
 
-The page uses the existing UniCars typography, blue, button geometry, monochrome brand marks and locally hosted vehicle imagery. A photographic panel and frosted selection summary sit alongside a four-step form: car, visit, contact details and review. On narrow screens the content becomes a single column, brand names remain readable, vehicle options use two columns and the visit calendar fills the form width.
+Form ID: `6fb28204-5ca5-4047-a323-8eabc0730ef5`.
 
-All 65 imported model listings are searchable. Brand selection narrows the range. Existing header, mobile-menu, footer and legacy test-drive actions open the page. Model-library, Smart Search and eHub detail links carry their vehicle context into the form; an eHub car retains its original reference even when it is outside the active model range.
+Submissions: https://manage.wix.com/dashboard/7f793d65-03fd-425a-a784-58a0d3f114f0/wix-forms/form/6fb28204-5ca5-4047-a323-8eabc0730ef5/submissions
 
-Sales-location choices reuse the published contact directory already held by the contact page. Locations are filtered by their listed brands, without implying test-drive car availability. Dates use the Cyprus timezone, start tomorrow and allow preferences over the next 90 days. Morning, afternoon and flexible time preferences are requests, not live availability slots.
+A submitted request does not reserve a vehicle or appointment. The Unicars team must confirm it. Model/stock entry points preselect the precise vehicle when it remains an allowed live form choice. Switching brands clears hidden model/showroom choices. Phone is required when the visitor asks for a call; contact consent is required. Dates follow the schema’s rolling future-date bounds.
 
-The review stage permits editing prior steps, revalidates all choices and provides a clearly labelled request preview. No details are submitted, persisted in browser storage or sent to an external service. The final screen links to the selected sales contact's telephone number. A production booking endpoint, delivery destination, availability rules and approved privacy content are needed before accepting live requests.
-
-Validation: `node --test tests/*.test.mjs` (74 passing checks). New coverage includes date boundaries, calendar month transitions, all model preselection routes, brand-specific locations, contact validation, step progression/editing, exact eHub reference retention, escaped user content and route integration. Browser visual verification remains unavailable because the earlier automatic approval review reported the workspace credit limit; no browser QA is claimed.
+The current regression suite checks the live-schema snapshot, brand rules, field changes, route prefills, review validation, visitor transport and failure handling. Browser visual QA remains unavailable. Do not reintroduce the former local-only preview completion.

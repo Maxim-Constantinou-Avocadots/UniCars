@@ -35,7 +35,7 @@ Run the regression checks with a current Node.js release:
 node --test tests/*.test.mjs
 ```
 
-The imported source passed 77 checks before export. Browser visual verification of the latest changes was unavailable; older screenshots in `qa/` are historical references.
+The imported source passed 77 checks before export; the current suite has 80 checks, including dashboard-backed form rules and submission/error behaviour. Browser visual verification of the latest changes was unavailable; older screenshots in `qa/` are historical references.
 
 ## Project structure
 
@@ -56,7 +56,7 @@ The imported source passed 77 checks before export. Browser visual verification 
 
 The snapshot was checked on **20 November 2026** and contains 65 main-site model listings, 303 priced model versions, 54 individual eHub cars, 68 original PDFs and 16 vehicle campaigns. These are published source records, not live inventory. Prices and availability need confirmation with Unicars; missing source fields and unusual document dates remain flagged.
 
-Smart Search currently uses local matching rules. A live LLM is not connected. Contact and test-drive forms are interactive previews: they do not send requests, reserve appointments or persist personal details.
+Smart Search currently uses local matching rules. A live LLM is not connected. Contact, test-drive, offer, sales/support, newsletter and feedback forms use Wix Forms. Their live schemas, validation and submissions come from Wix through anonymous visitor authentication. Test-drive and service requests require team confirmation; they do not reserve appointments. Newsletter forms record signup requests; no mailing campaign or notification automation has been configured.
 
 ## Hosting and source provenance
 
@@ -79,8 +79,14 @@ The generated `wix-site.zip` has `index.html` at its root. Publish that ZIP to s
 
 When an asset changes, upload the original replacement to Wix Media and update its URL and source SHA-256 in `wix/media-map.json`. The build rejects missing/stale mappings and enforces Wix static hosting limits. If the all-PDF archive changes, upload the reconstructed archive and update `archiveUrl` and `archiveSha256` in `wix/site.json`.
 
-Hosting migration does not connect Wix Forms, live inventory, a CMS or an LLM. Existing forms remain clearly labelled local previews. Visual browser QA was unavailable during migration; automated source, build and published-file verification are separate from visual review.
+Wix Forms is connected. The catalogue remains a static snapshot; a live inventory feed, CMS and LLM are not connected. Visual browser QA was unavailable during migration; automated source, build and published-file verification are separate from visual review.
 
 The retained `.openai/hosting.json` identifies the existing Site. It contains no credentials. Do not add API keys or tokens to Git; use runtime environment variables for a future production integration.
 
 The original early-navigation README is retained in `docs/legacy-navigation-readme.md`. Its descriptions and screenshots reflect that earlier stage of the project.
+
+## Forms in the Wix dashboard
+
+Open https://manage.wix.com/dashboard/7f793d65-03fd-425a-a784-58a0d3f114f0/wix-forms and select a form, then Submissions. Public form IDs and presentation hints are in `dist/data/wix-forms.json`. Original Wix browser modules are checked into `dist/js/wix/`, so a complete GitHub deployment preserves the backend connection. `dist/wix-forms-ui.mjs` renders the live schema; owner-added or renamed fields, validation, rules, steps and submit settings are read at runtime. Optional presentation hints preserve vehicle cards, brand logos and the calendar; unknown/new fields use the standard renderer.
+
+No account API key is used in browser code. The public OAuth client ID mints visitor tokens; only the signed-in Wix dashboard can read submissions. Six forms were created on 20 November 2026. Synthetic QA entries are clearly marked and may appear in spam review.

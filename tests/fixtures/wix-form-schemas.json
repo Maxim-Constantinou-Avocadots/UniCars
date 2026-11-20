@@ -1,0 +1,2290 @@
+{
+  "contact": {
+    "id": "c14d59da-e77a-4e28-825d-967d424a503c",
+    "name": "Unicars - Contact enquiries",
+    "fields": [
+      {
+        "target": "what_can_we_help_with_p5ehy3",
+        "label": "What can we help with?",
+        "showLabel": true,
+        "control": "radio",
+        "required": true,
+        "readOnly": false,
+        "hidden": false,
+        "stepId": "b11ac28e-1707-48b7-9586-cd1ff9497a1f",
+        "defaultValue": "",
+        "choices": [
+          {
+            "value": "Vehicle enquiry",
+            "label": "Vehicle enquiry"
+          },
+          {
+            "value": "Service & repairs",
+            "label": "Service & repairs"
+          },
+          {
+            "value": "Parts enquiry",
+            "label": "Parts enquiry"
+          },
+          {
+            "value": "Something else",
+            "label": "Something else"
+          }
+        ],
+        "addressParts": [],
+        "validation": {
+          "format": "UNKNOWN_FORMAT"
+        },
+        "identifier": "RADIO_GROUP",
+        "inputType": "STRING",
+        "componentType": "RADIO_GROUP"
+      },
+      {
+        "target": "your_name_ko7m6n",
+        "label": "Your name",
+        "showLabel": true,
+        "control": "text",
+        "required": true,
+        "readOnly": false,
+        "hidden": false,
+        "stepId": "b11ac28e-1707-48b7-9586-cd1ff9497a1f",
+        "defaultValue": "",
+        "choices": [],
+        "addressParts": [],
+        "validation": {
+          "format": "UNKNOWN_FORMAT",
+          "minLength": 2,
+          "maxLength": 100
+        },
+        "identifier": "CONTACTS_FIRST_NAME",
+        "inputType": "STRING",
+        "componentType": "TEXT_INPUT"
+      },
+      {
+        "target": "email_address_a4ixcc",
+        "label": "Email address",
+        "showLabel": true,
+        "control": "email",
+        "required": true,
+        "readOnly": false,
+        "hidden": false,
+        "stepId": "b11ac28e-1707-48b7-9586-cd1ff9497a1f",
+        "defaultValue": "",
+        "choices": [],
+        "addressParts": [],
+        "validation": {
+          "format": "EMAIL"
+        },
+        "identifier": "CONTACTS_EMAIL",
+        "inputType": "STRING",
+        "componentType": "TEXT_INPUT"
+      },
+      {
+        "target": "phone_number_gjvzg2",
+        "label": "Phone number",
+        "showLabel": true,
+        "control": "phone",
+        "required": false,
+        "readOnly": false,
+        "hidden": false,
+        "stepId": "b11ac28e-1707-48b7-9586-cd1ff9497a1f",
+        "defaultValue": "",
+        "choices": [],
+        "addressParts": [],
+        "validation": {
+          "format": "PHONE"
+        },
+        "phoneCountry": "CY",
+        "identifier": "CONTACTS_PHONE",
+        "inputType": "STRING",
+        "componentType": "PHONE_INPUT"
+      },
+      {
+        "target": "preferred_city_kml2dz",
+        "label": "Preferred city",
+        "showLabel": true,
+        "control": "select",
+        "required": false,
+        "readOnly": false,
+        "hidden": false,
+        "stepId": "b11ac28e-1707-48b7-9586-cd1ff9497a1f",
+        "defaultValue": "",
+        "choices": [
+          {
+            "value": "Nicosia",
+            "label": "Nicosia"
+          },
+          {
+            "value": "Limassol",
+            "label": "Limassol"
+          },
+          {
+            "value": "Larnaca",
+            "label": "Larnaca"
+          },
+          {
+            "value": "Paphos",
+            "label": "Paphos"
+          },
+          {
+            "value": "Paralimni",
+            "label": "Paralimni"
+          }
+        ],
+        "addressParts": [],
+        "validation": {
+          "format": "UNKNOWN_FORMAT"
+        },
+        "identifier": "DROPDOWN",
+        "inputType": "STRING",
+        "componentType": "DROPDOWN"
+      },
+      {
+        "target": "brand_7jcooy",
+        "label": "Brand",
+        "showLabel": true,
+        "control": "select",
+        "required": false,
+        "readOnly": false,
+        "hidden": false,
+        "stepId": "b11ac28e-1707-48b7-9586-cd1ff9497a1f",
+        "defaultValue": "",
+        "choices": [
+          {
+            "value": "Volkswagen",
+            "label": "Volkswagen"
+          },
+          {
+            "value": "Audi",
+            "label": "Audi"
+          },
+          {
+            "value": "Škoda",
+            "label": "Škoda"
+          },
+          {
+            "value": "CUPRA",
+            "label": "CUPRA"
+          },
+          {
+            "value": "SEAT",
+            "label": "SEAT"
+          }
+        ],
+        "addressParts": [],
+        "validation": {
+          "format": "UNKNOWN_FORMAT"
+        },
+        "identifier": "DROPDOWN",
+        "inputType": "STRING",
+        "componentType": "DROPDOWN"
+      },
+      {
+        "target": "model_zx8yrm",
+        "label": "Model",
+        "showLabel": true,
+        "control": "text",
+        "required": false,
+        "readOnly": false,
+        "hidden": false,
+        "stepId": "b11ac28e-1707-48b7-9586-cd1ff9497a1f",
+        "defaultValue": "",
+        "choices": [],
+        "addressParts": [],
+        "validation": {
+          "format": "UNKNOWN_FORMAT",
+          "maxLength": 100
+        },
+        "identifier": "TEXT_INPUT",
+        "inputType": "STRING",
+        "componentType": "TEXT_INPUT"
+      },
+      {
+        "target": "your_message_jdk4yc",
+        "label": "Your message",
+        "showLabel": true,
+        "control": "textarea",
+        "required": true,
+        "readOnly": false,
+        "hidden": false,
+        "stepId": "b11ac28e-1707-48b7-9586-cd1ff9497a1f",
+        "defaultValue": "",
+        "choices": [],
+        "addressParts": [],
+        "validation": {
+          "format": "UNKNOWN_FORMAT",
+          "maxLength": 3000
+        },
+        "identifier": "TEXT_AREA",
+        "inputType": "STRING",
+        "componentType": "TEXT_INPUT"
+      },
+      {
+        "target": "i_agree_to_be_contacted_about_this_enqui_ik9acf",
+        "label": "I agree to be contacted about this enquiry.",
+        "showLabel": true,
+        "control": "checkbox",
+        "required": true,
+        "readOnly": false,
+        "hidden": false,
+        "stepId": "b11ac28e-1707-48b7-9586-cd1ff9497a1f",
+        "defaultValue": false,
+        "choices": [],
+        "addressParts": [],
+        "validation": {
+          "mustBeTrue": true
+        },
+        "identifier": "CHECKBOX",
+        "inputType": "BOOLEAN",
+        "componentType": "CHECKBOX"
+      },
+      {
+        "target": "page_or_vehicle_f1xbq3",
+        "label": "Page or vehicle",
+        "showLabel": true,
+        "control": "text",
+        "required": false,
+        "readOnly": false,
+        "hidden": false,
+        "stepId": "b11ac28e-1707-48b7-9586-cd1ff9497a1f",
+        "defaultValue": "",
+        "choices": [],
+        "addressParts": [],
+        "validation": {
+          "format": "UNKNOWN_FORMAT",
+          "maxLength": 500
+        },
+        "identifier": "TEXT_INPUT",
+        "inputType": "STRING",
+        "componentType": "TEXT_INPUT"
+      }
+    ],
+    "steps": [
+      {
+        "id": "b11ac28e-1707-48b7-9586-cd1ff9497a1f",
+        "name": "",
+        "targets": [
+          "what_can_we_help_with_p5ehy3",
+          "your_name_ko7m6n",
+          "email_address_a4ixcc",
+          "phone_number_gjvzg2",
+          "preferred_city_kml2dz",
+          "brand_7jcooy",
+          "model_zx8yrm",
+          "your_message_jdk4yc",
+          "i_agree_to_be_contacted_about_this_enqui_ik9acf",
+          "page_or_vehicle_f1xbq3"
+        ]
+      }
+    ],
+    "rules": [],
+    "submitText": "Send enquiry",
+    "nextText": "",
+    "previousText": "",
+    "enabled": true,
+    "disabledMessage": "",
+    "limits": {},
+    "requiredIndicator": "ASTERISK",
+    "requiredIndicatorBefore": false,
+    "success": {
+      "action": "THANK_YOU_MESSAGE",
+      "message": "Thank you. Your enquiry has been received. The Unicars team will contact you about your request."
+    }
+  },
+  "testDrive": {
+    "id": "6fb28204-5ca5-4047-a323-8eabc0730ef5",
+    "name": "Unicars - Test-drive requests",
+    "fields": [
+      {
+        "target": "choose_your_brand_c2l19d",
+        "label": "Choose your brand",
+        "showLabel": true,
+        "control": "radio",
+        "required": true,
+        "readOnly": false,
+        "hidden": false,
+        "stepId": "fb71218f-4d9e-4201-baf1-85daa7e62d0f",
+        "defaultValue": "",
+        "choices": [
+          {
+            "value": "Volkswagen",
+            "label": "Volkswagen"
+          },
+          {
+            "value": "Audi",
+            "label": "Audi"
+          },
+          {
+            "value": "Škoda",
+            "label": "Škoda"
+          },
+          {
+            "value": "CUPRA",
+            "label": "CUPRA"
+          },
+          {
+            "value": "SEAT",
+            "label": "SEAT"
+          }
+        ],
+        "addressParts": [],
+        "validation": {
+          "format": "UNKNOWN_FORMAT"
+        },
+        "identifier": "RADIO_GROUP",
+        "inputType": "STRING",
+        "componentType": "RADIO_GROUP"
+      },
+      {
+        "target": "volkswagen_model_sr8aae",
+        "label": "Volkswagen model",
+        "showLabel": true,
+        "control": "radio",
+        "required": true,
+        "readOnly": false,
+        "hidden": true,
+        "stepId": "fb71218f-4d9e-4201-baf1-85daa7e62d0f",
+        "defaultValue": "",
+        "choices": [
+          {
+            "value": "volkswagen-golf",
+            "label": "Volkswagen Golf"
+          },
+          {
+            "value": "volkswagen-golf-performance-gti-r",
+            "label": "Volkswagen Golf GTI & R"
+          },
+          {
+            "value": "volkswagen-polo",
+            "label": "Volkswagen Polo"
+          },
+          {
+            "value": "volkswagen-id-polo",
+            "label": "Volkswagen ID. Polo"
+          },
+          {
+            "value": "volkswagen-id-3-neo",
+            "label": "Volkswagen ID.3 Neo"
+          },
+          {
+            "value": "volkswagen-id-4",
+            "label": "Volkswagen ID.4"
+          },
+          {
+            "value": "volkswagen-id-5",
+            "label": "Volkswagen ID.5"
+          },
+          {
+            "value": "volkswagen-id-7",
+            "label": "Volkswagen ID.7"
+          },
+          {
+            "value": "volkswagen-t-cross",
+            "label": "Volkswagen T-Cross"
+          },
+          {
+            "value": "volkswagen-taigo",
+            "label": "Volkswagen Taigo"
+          },
+          {
+            "value": "volkswagen-t-roc",
+            "label": "Volkswagen T-Roc"
+          },
+          {
+            "value": "volkswagen-t-roc-cabrio",
+            "label": "Volkswagen T-Roc Cabrio"
+          },
+          {
+            "value": "volkswagen-tiguan",
+            "label": "Volkswagen Tiguan"
+          },
+          {
+            "value": "volkswagen-tayron",
+            "label": "Volkswagen Tayron"
+          },
+          {
+            "value": "volkswagen-id-buzz",
+            "label": "Volkswagen ID. Buzz"
+          },
+          {
+            "value": "id-buzz-cargo",
+            "label": "Volkswagen ID. Buzz Cargo"
+          },
+          {
+            "value": "volkswagen-amarok",
+            "label": "Volkswagen Amarok"
+          },
+          {
+            "value": "volkswagen-caddy-maxi-cargo",
+            "label": "Volkswagen Caddy Maxi Cargo"
+          },
+          {
+            "value": "volkswagen-caddy-passenger",
+            "label": "Volkswagen Caddy Passenger"
+          },
+          {
+            "value": "volkswagen-t7-multivan",
+            "label": "Volkswagen T7 Multivan"
+          },
+          {
+            "value": "volkswagen-caddy",
+            "label": "Volkswagen Caddy Cargo"
+          },
+          {
+            "value": "volkswagen-crafter",
+            "label": "Volkswagen Crafter"
+          },
+          {
+            "value": "offer-vw-t-roc-cabrio-style-1-5tsi-dsg-1",
+            "label": "Volkswagen T-Roc Cabrio - eHub Not stated"
+          },
+          {
+            "value": "offer-vw-t-roc-cabrio-style-1-5tsi-dsg",
+            "label": "Volkswagen T-Roc Cabrio - eHub VC168678"
+          },
+          {
+            "value": "offer-vw-tiguan-rline-2-0-tsi-dsg-150kw-4motion",
+            "label": "Volkswagen Tiguan - eHub VC170584"
+          },
+          {
+            "value": "offer-vw-tiguan-rline-1-5-etsi-dsg-2",
+            "label": "Volkswagen Tiguan - eHub VC170228"
+          },
+          {
+            "value": "offer-vw-tiguan-life-1-5etsi-dsg-2",
+            "label": "Volkswagen Tiguan - eHub VC170571"
+          },
+          {
+            "value": "offer-vw-tiguan-life-1-5etsi-dsg-1",
+            "label": "Volkswagen Tiguan - eHub VC170569"
+          },
+          {
+            "value": "offer-vw-golf-life-1-5tsi-ehybrid-dsg-110kw",
+            "label": "Volkswagen Golf - eHub VC165432"
+          },
+          {
+            "value": "offer-vw-golf-life-ehybrid-dsg-110kw-1",
+            "label": "Volkswagen Golf - eHub VC164971"
+          },
+          {
+            "value": "offer-vw-id-5-pro",
+            "label": "Volkswagen ID.5 - eHub VC168415"
+          },
+          {
+            "value": "offer-vw-id-4-pro-1",
+            "label": "Volkswagen ID.4 - eHub VC168412"
+          },
+          {
+            "value": "offer-vw-id-3-pa-pro-3",
+            "label": "Volkswagen ID.3 - eHub VC168402"
+          },
+          {
+            "value": "offer-vw-tayron-elegance-1-5-etsi-dsg-copy",
+            "label": "Volkswagen Tayron - eHub VC164414"
+          },
+          {
+            "value": "offer-vw-tayron-elegance-1-5-etsi-dsg",
+            "label": "Volkswagen Tayron - eHub VC164415"
+          },
+          {
+            "value": "offer-vw-taigo-life-1-0tsi-95ps-2",
+            "label": "Volkswagen Taigo - eHub VC165878"
+          },
+          {
+            "value": "offer-vw-id-3-pa-pro-2",
+            "label": "Volkswagen ID.3 - eHub VC158491"
+          },
+          {
+            "value": "offer-vw-golf-life-ehybrid-dsg-110kw",
+            "label": "Volkswagen Golf - eHub VC165433"
+          },
+          {
+            "value": "offer-vw-golf-life-ehybrid-dsg-110kw-2",
+            "label": "Volkswagen Golf - eHub VC164970"
+          },
+          {
+            "value": "offer-vw-id-3",
+            "label": "Volkswagen ID. Buzz Cargo - eHub VC160574"
+          },
+          {
+            "value": "offer-vw-taigo-life-1-0tsi-95ps-dsg1",
+            "label": "Volkswagen Taigo - eHub VC162467"
+          }
+        ],
+        "addressParts": [],
+        "validation": {
+          "format": "UNKNOWN_FORMAT"
+        },
+        "identifier": "RADIO_GROUP",
+        "inputType": "STRING",
+        "componentType": "RADIO_GROUP"
+      },
+      {
+        "target": "audi_model_t5kpdw",
+        "label": "Audi model",
+        "showLabel": true,
+        "control": "radio",
+        "required": true,
+        "readOnly": false,
+        "hidden": true,
+        "stepId": "fb71218f-4d9e-4201-baf1-85daa7e62d0f",
+        "defaultValue": "",
+        "choices": [
+          {
+            "value": "audi-a3-sedan",
+            "label": "Audi A3 Sedan"
+          },
+          {
+            "value": "audi-a3-sportback",
+            "label": "Audi A3 Sportback"
+          },
+          {
+            "value": "audi-a5-limousine",
+            "label": "Audi A5 Limousine"
+          },
+          {
+            "value": "audi-a5-avant",
+            "label": "Audi A5 Avant"
+          },
+          {
+            "value": "audi-a6-e-tron-sportback",
+            "label": "Audi A6 e-tron Sportback"
+          },
+          {
+            "value": "audi-a6-e-tron-avant",
+            "label": "Audi A6 e-tron Avant"
+          },
+          {
+            "value": "audi-e-tron-gt",
+            "label": "Audi e-tron GT"
+          },
+          {
+            "value": "audi-q3",
+            "label": "Audi Q3"
+          },
+          {
+            "value": "audi-q3-sportback",
+            "label": "Audi Q3 Sportback"
+          },
+          {
+            "value": "audi-q4-e-tron",
+            "label": "Audi Q4 e-tron"
+          },
+          {
+            "value": "audi-q4-e-tron-sportback",
+            "label": "Audi Q4 e-tron Sportback"
+          },
+          {
+            "value": "audi-q5",
+            "label": "Audi Q5"
+          },
+          {
+            "value": "audi-q5-sportback",
+            "label": "Audi Q5 Sportback"
+          },
+          {
+            "value": "audi-q6-e-tron",
+            "label": "Audi Q6 e-tron"
+          },
+          {
+            "value": "audi-q6-sportback-e-tron",
+            "label": "Audi Q6 Sportback e-tron"
+          },
+          {
+            "value": "audi-q7",
+            "label": "Audi Q7"
+          },
+          {
+            "value": "audi-q8",
+            "label": "Audi Q8"
+          },
+          {
+            "value": "audi-rsq8",
+            "label": "Audi RS Q8"
+          },
+          {
+            "value": "offer-audi-q8-60tfsie-quattro",
+            "label": "Audi Q8 - eHub VC164542"
+          },
+          {
+            "value": "offer-audi-q6-etron-suv-quattro-1",
+            "label": "Audi Q6 e-tron - eHub VC163081"
+          },
+          {
+            "value": "offer-audi-q2-35tfsi-advance-stronic-1",
+            "label": "Audi Q2 - eHub VC164028"
+          },
+          {
+            "value": "offer-audi-a6-sportback-e-tron-performance-1",
+            "label": "Audi A6 Sportback e-tron - eHub VC168454"
+          },
+          {
+            "value": "offer-audi-a5-limousine-tfsi-stronic-150kw-3",
+            "label": "Audi A5 Limousine - eHub VC164129"
+          },
+          {
+            "value": "offer-audi-a5-limousine-tfsi-stronic-110kw-2",
+            "label": "Audi A5 Limousine - eHub VC166801"
+          },
+          {
+            "value": "offer-audi-a5-limousine-tfsi-stronic-110kw-1",
+            "label": "Audi A5 Limousine - eHub VC164123"
+          },
+          {
+            "value": "offer-audi-a5-avant-tfsi-stronic-150kw-1",
+            "label": "Audi A5 Avant - eHub VC164166"
+          },
+          {
+            "value": "offer-audi-a5-avant-tfsi-stronic-150kw",
+            "label": "Audi A5 Avant - eHub VC167933"
+          },
+          {
+            "value": "offer-audi-a3-sportback-sline-45-tfsi-e-stronic",
+            "label": "Audi A3 Sportback - eHub VC165804"
+          },
+          {
+            "value": "offer-audi-a3-sportback-sline-35-tfsi-stronic-2",
+            "label": "Audi A3 Sedan - eHub VC166468"
+          },
+          {
+            "value": "offer-audi-a1-sb-sline-35tfsi-stronic",
+            "label": "Audi A1 Sportback - eHub VC168141"
+          },
+          {
+            "value": "offer-audi-a1-sb-30tfsi-advance-stronic-5",
+            "label": "Audi A1 Sportback - eHub VC166929"
+          },
+          {
+            "value": "offer-audi-a1-sb-30tfsi-advance-stronic-4",
+            "label": "Audi A1 Sportback - eHub VC166928"
+          },
+          {
+            "value": "offer-audi-q8-etron-sb-55-sline-qtr",
+            "label": "Audi Q8 e-tron Sportback - eHub VC158201"
+          },
+          {
+            "value": "offer-audi-q7-sline-50tdi-quattro",
+            "label": "Audi Q7 - eHub VC164670"
+          },
+          {
+            "value": "offer-audi-q6-etron-suv-quattro",
+            "label": "Audi Q6 e-tron - eHub VC163075"
+          },
+          {
+            "value": "offer-audi-a1-sb-30tfsi-advance-stronic-3",
+            "label": "Audi A1 Sportback - eHub VC166927"
+          },
+          {
+            "value": "offer-audi-a5-limousine-tfsi-stronic-150kw",
+            "label": "Audi A5 Limousine - eHub VC164128"
+          },
+          {
+            "value": "offer-audi-a1-sb-30tfsi-advance-stronic-2",
+            "label": "Audi A1 Sportback - eHub VC168143"
+          }
+        ],
+        "addressParts": [],
+        "validation": {
+          "format": "UNKNOWN_FORMAT"
+        },
+        "identifier": "RADIO_GROUP",
+        "inputType": "STRING",
+        "componentType": "RADIO_GROUP"
+      },
+      {
+        "target": "koda_model_p1cjot",
+        "label": "Škoda model",
+        "showLabel": true,
+        "control": "radio",
+        "required": true,
+        "readOnly": false,
+        "hidden": true,
+        "stepId": "fb71218f-4d9e-4201-baf1-85daa7e62d0f",
+        "defaultValue": "",
+        "choices": [
+          {
+            "value": "skoda-fabia",
+            "label": "Škoda Fabia"
+          },
+          {
+            "value": "skoda-fabia-130",
+            "label": "Škoda Fabia 130"
+          },
+          {
+            "value": "skoda-octavia",
+            "label": "Škoda Octavia"
+          },
+          {
+            "value": "skoda-octavia-combi",
+            "label": "Škoda Octavia Combi"
+          },
+          {
+            "value": "skoda-octavia-rs",
+            "label": "Škoda Octavia RS"
+          },
+          {
+            "value": "skoda-elroq",
+            "label": "Škoda Elroq"
+          },
+          {
+            "value": "skoda-elroq-rs",
+            "label": "Škoda Elroq RS"
+          },
+          {
+            "value": "skoda-kamiq",
+            "label": "Škoda Kamiq"
+          },
+          {
+            "value": "skoda-karoq",
+            "label": "Škoda Karoq"
+          },
+          {
+            "value": "skoda-kodiaq",
+            "label": "Škoda Kodiaq"
+          },
+          {
+            "value": "skoda-kodiaq-rs",
+            "label": "Škoda Kodiaq RS"
+          },
+          {
+            "value": "skoda-enyaq",
+            "label": "Škoda Enyaq"
+          },
+          {
+            "value": "skoda-enyaq-rs",
+            "label": "Škoda Enyaq RS"
+          },
+          {
+            "value": "skoda-enyaq-coupe",
+            "label": "Škoda Enyaq Coupé"
+          },
+          {
+            "value": "skoda-enyaq-coupe-rs",
+            "label": "Škoda Enyaq Coupé RS"
+          },
+          {
+            "value": "offer-skoda-fabia-selection-1-0tsi-dsg-85kw-2",
+            "label": "Škoda Fabia - eHub VC167500"
+          },
+          {
+            "value": "offer-skoda-fabia-selection-1-0tsi-dsg-85kw-1",
+            "label": "Škoda Fabia - eHub VC167842"
+          },
+          {
+            "value": "offer-skoda-elroq-61",
+            "label": "Škoda Elroq - eHub VC166446"
+          },
+          {
+            "value": "offer-skoda-elroq-60",
+            "label": "Škoda Elroq - eHub VC169311"
+          }
+        ],
+        "addressParts": [],
+        "validation": {
+          "format": "UNKNOWN_FORMAT"
+        },
+        "identifier": "RADIO_GROUP",
+        "inputType": "STRING",
+        "componentType": "RADIO_GROUP"
+      },
+      {
+        "target": "cupra_model_wob1qi",
+        "label": "CUPRA model",
+        "showLabel": true,
+        "control": "radio",
+        "required": true,
+        "readOnly": false,
+        "hidden": true,
+        "stepId": "fb71218f-4d9e-4201-baf1-85daa7e62d0f",
+        "defaultValue": "",
+        "choices": [
+          {
+            "value": "cupra-raval",
+            "label": "CUPRA Raval"
+          },
+          {
+            "value": "cupra-tavascan",
+            "label": "CUPRA Tavascan"
+          },
+          {
+            "value": "cupra-terramar",
+            "label": "CUPRA Terramar"
+          },
+          {
+            "value": "cupra-born",
+            "label": "CUPRA Born"
+          },
+          {
+            "value": "cupra-leon",
+            "label": "CUPRA Leon"
+          },
+          {
+            "value": "cupra-formentor",
+            "label": "CUPRA Formentor"
+          },
+          {
+            "value": "offer-cupra-tavascan-endurance-286bhp-77kwh",
+            "label": "CUPRA Tavascan - eHub VC165102"
+          },
+          {
+            "value": "offer-cupra-born-high-231bhp-59kwh-1",
+            "label": "CUPRA Born - eHub VC168435"
+          },
+          {
+            "value": "offer-cupra-ateca-1-5-tsi-dsg-150hp",
+            "label": "CUPRA Born - eHub VC163896"
+          }
+        ],
+        "addressParts": [],
+        "validation": {
+          "format": "UNKNOWN_FORMAT"
+        },
+        "identifier": "RADIO_GROUP",
+        "inputType": "STRING",
+        "componentType": "RADIO_GROUP"
+      },
+      {
+        "target": "seat_model_5e8ldw",
+        "label": "SEAT model",
+        "showLabel": true,
+        "control": "radio",
+        "required": true,
+        "readOnly": false,
+        "hidden": true,
+        "stepId": "fb71218f-4d9e-4201-baf1-85daa7e62d0f",
+        "defaultValue": "",
+        "choices": [
+          {
+            "value": "seat-ibiza",
+            "label": "SEAT Ibiza"
+          },
+          {
+            "value": "seat-ibiza-van",
+            "label": "SEAT Ibiza Van"
+          },
+          {
+            "value": "seat-leon",
+            "label": "SEAT Leon"
+          },
+          {
+            "value": "seat-arona",
+            "label": "SEAT Arona"
+          },
+          {
+            "value": "offer-seat-1",
+            "label": "SEAT Arona - eHub VC169265"
+          },
+          {
+            "value": "offer-seat-arona-fr-1-0-tsi-115bhp-dsg-1",
+            "label": "SEAT Arona - eHub VC169261"
+          },
+          {
+            "value": "offer-seat-arona-fr-1-0-tsi-115bhp-dsg-3",
+            "label": "SEAT Arona - eHub VC169260"
+          },
+          {
+            "value": "offer-seat-leon-fr-1-5etsi-dsg-150bhp",
+            "label": "SEAT Leon - eHub VC167159"
+          },
+          {
+            "value": "offer-seat-ibiza-fr-1-0-tsi-115bhp-dsg-2",
+            "label": "SEAT Ibiza - eHub VC169241"
+          },
+          {
+            "value": "offer-seat-ibiza-style-1-0-tsi-115bhp-dsg-2",
+            "label": "SEAT Ibiza - eHub VC169233"
+          },
+          {
+            "value": "offer-seat-ibiza-style-1-0-tsi-115bhp-dsg",
+            "label": "SEAT Ibiza - eHub VC166670"
+          },
+          {
+            "value": "offer-seat-leon-nf-fr-1-5tsi-mhev-dsg",
+            "label": "SEAT Leon - eHub VC166659"
+          }
+        ],
+        "addressParts": [],
+        "validation": {
+          "format": "UNKNOWN_FORMAT"
+        },
+        "identifier": "RADIO_GROUP",
+        "inputType": "STRING",
+        "componentType": "RADIO_GROUP"
+      },
+      {
+        "target": "volkswagen_showroom_ul24x2",
+        "label": "Volkswagen showroom",
+        "showLabel": true,
+        "control": "radio",
+        "required": true,
+        "readOnly": false,
+        "hidden": true,
+        "stepId": "19705ff5-bcf3-4a2e-9fd9-f83c05a83497",
+        "defaultValue": "",
+        "choices": [
+          {
+            "value": "Nicosia - Strovolos showroom",
+            "label": "Nicosia - Strovolos showroom · 9 Megaron Str., 2032 Strovolos"
+          },
+          {
+            "value": "Limassol - Zakaki showroom",
+            "label": "Limassol - Zakaki showroom · 122 Franklin Roosevelt Ave., 3011 Zakaki"
+          },
+          {
+            "value": "Larnaca - Aradippou sales contacts",
+            "label": "Larnaca - Aradippou sales contacts · 2 Eleftherias Ave., 7101 Aradippou"
+          },
+          {
+            "value": "Paphos - Paphos offices",
+            "label": "Paphos - Paphos offices · 90 Mesogis Ave., 8280 Paphos"
+          },
+          {
+            "value": "Paralimni - Famagusta offices",
+            "label": "Paralimni - Famagusta offices · 71 Sotiras Ave., 5286 Paralimni"
+          }
+        ],
+        "addressParts": [],
+        "validation": {
+          "format": "UNKNOWN_FORMAT"
+        },
+        "identifier": "RADIO_GROUP",
+        "inputType": "STRING",
+        "componentType": "RADIO_GROUP"
+      },
+      {
+        "target": "audi_showroom_9cwfli",
+        "label": "Audi showroom",
+        "showLabel": true,
+        "control": "radio",
+        "required": true,
+        "readOnly": false,
+        "hidden": true,
+        "stepId": "19705ff5-bcf3-4a2e-9fd9-f83c05a83497",
+        "defaultValue": "",
+        "choices": [
+          {
+            "value": "Nicosia - Audi showroom",
+            "label": "Nicosia - Audi showroom · 9 Megaron Str., 2032 Strovolos"
+          },
+          {
+            "value": "Limassol - Audi showroom",
+            "label": "Limassol - Audi showroom · 37 Omonias Ave., 3052 Limassol"
+          },
+          {
+            "value": "Larnaca - Aradippou sales contacts",
+            "label": "Larnaca - Aradippou sales contacts · 2 Eleftherias Ave., 7101 Aradippou"
+          },
+          {
+            "value": "Paphos - Paphos offices",
+            "label": "Paphos - Paphos offices · 90 Mesogis Ave., 8280 Paphos"
+          },
+          {
+            "value": "Paralimni - Famagusta offices",
+            "label": "Paralimni - Famagusta offices · 71 Sotiras Ave., 5286 Paralimni"
+          }
+        ],
+        "addressParts": [],
+        "validation": {
+          "format": "UNKNOWN_FORMAT"
+        },
+        "identifier": "RADIO_GROUP",
+        "inputType": "STRING",
+        "componentType": "RADIO_GROUP"
+      },
+      {
+        "target": "koda_showroom_2e0od0",
+        "label": "Škoda showroom",
+        "showLabel": true,
+        "control": "radio",
+        "required": true,
+        "readOnly": false,
+        "hidden": true,
+        "stepId": "19705ff5-bcf3-4a2e-9fd9-f83c05a83497",
+        "defaultValue": "",
+        "choices": [
+          {
+            "value": "Nicosia - Strovolos showroom",
+            "label": "Nicosia - Strovolos showroom · 9 Megaron Str., 2032 Strovolos"
+          },
+          {
+            "value": "Limassol - Zakaki showroom",
+            "label": "Limassol - Zakaki showroom · 122 Franklin Roosevelt Ave., 3011 Zakaki"
+          },
+          {
+            "value": "Larnaca - Aradippou sales contacts",
+            "label": "Larnaca - Aradippou sales contacts · 2 Eleftherias Ave., 7101 Aradippou"
+          },
+          {
+            "value": "Paphos - Paphos offices",
+            "label": "Paphos - Paphos offices · 90 Mesogis Ave., 8280 Paphos"
+          },
+          {
+            "value": "Paralimni - Famagusta offices",
+            "label": "Paralimni - Famagusta offices · 71 Sotiras Ave., 5286 Paralimni"
+          }
+        ],
+        "addressParts": [],
+        "validation": {
+          "format": "UNKNOWN_FORMAT"
+        },
+        "identifier": "RADIO_GROUP",
+        "inputType": "STRING",
+        "componentType": "RADIO_GROUP"
+      },
+      {
+        "target": "cupra_showroom_083xtq",
+        "label": "CUPRA showroom",
+        "showLabel": true,
+        "control": "radio",
+        "required": true,
+        "readOnly": false,
+        "hidden": true,
+        "stepId": "19705ff5-bcf3-4a2e-9fd9-f83c05a83497",
+        "defaultValue": "",
+        "choices": [
+          {
+            "value": "Nicosia - Strovolos showroom",
+            "label": "Nicosia - Strovolos showroom · 9 Megaron Str., 2032 Strovolos"
+          }
+        ],
+        "addressParts": [],
+        "validation": {
+          "format": "UNKNOWN_FORMAT"
+        },
+        "identifier": "RADIO_GROUP",
+        "inputType": "STRING",
+        "componentType": "RADIO_GROUP"
+      },
+      {
+        "target": "seat_showroom_t6dgtv",
+        "label": "SEAT showroom",
+        "showLabel": true,
+        "control": "radio",
+        "required": true,
+        "readOnly": false,
+        "hidden": true,
+        "stepId": "19705ff5-bcf3-4a2e-9fd9-f83c05a83497",
+        "defaultValue": "",
+        "choices": [
+          {
+            "value": "Nicosia - Strovolos showroom",
+            "label": "Nicosia - Strovolos showroom · 9 Megaron Str., 2032 Strovolos"
+          },
+          {
+            "value": "Limassol - Zakaki showroom",
+            "label": "Limassol - Zakaki showroom · 122 Franklin Roosevelt Ave., 3011 Zakaki"
+          },
+          {
+            "value": "Larnaca - Aradippou sales contacts",
+            "label": "Larnaca - Aradippou sales contacts · 2 Eleftherias Ave., 7101 Aradippou"
+          },
+          {
+            "value": "Paphos - Paphos offices",
+            "label": "Paphos - Paphos offices · 90 Mesogis Ave., 8280 Paphos"
+          },
+          {
+            "value": "Paralimni - Famagusta offices",
+            "label": "Paralimni - Famagusta offices · 71 Sotiras Ave., 5286 Paralimni"
+          }
+        ],
+        "addressParts": [],
+        "validation": {
+          "format": "UNKNOWN_FORMAT"
+        },
+        "identifier": "RADIO_GROUP",
+        "inputType": "STRING",
+        "componentType": "RADIO_GROUP"
+      },
+      {
+        "target": "preferred_date_xzzjo0",
+        "label": "Preferred date",
+        "showLabel": true,
+        "control": "date",
+        "required": true,
+        "readOnly": false,
+        "hidden": false,
+        "stepId": "19705ff5-bcf3-4a2e-9fd9-f83c05a83497",
+        "defaultValue": "",
+        "choices": [],
+        "addressParts": [],
+        "validation": {
+          "format": "DATE",
+          "minDate": "2026-11-21",
+          "maxDate": "2027-02-18"
+        },
+        "identifier": "DATE_PICKER",
+        "inputType": "STRING",
+        "componentType": "DATE_PICKER"
+      },
+      {
+        "target": "time_of_day_h9eqvg",
+        "label": "Time of day",
+        "showLabel": true,
+        "control": "radio",
+        "required": true,
+        "readOnly": false,
+        "hidden": false,
+        "stepId": "19705ff5-bcf3-4a2e-9fd9-f83c05a83497",
+        "defaultValue": "",
+        "choices": [
+          {
+            "value": "Morning",
+            "label": "Morning"
+          },
+          {
+            "value": "Afternoon",
+            "label": "Afternoon"
+          },
+          {
+            "value": "I’m flexible",
+            "label": "I’m flexible"
+          }
+        ],
+        "addressParts": [],
+        "validation": {
+          "format": "UNKNOWN_FORMAT"
+        },
+        "identifier": "RADIO_GROUP",
+        "inputType": "STRING",
+        "componentType": "RADIO_GROUP"
+      },
+      {
+        "target": "your_name_v9erul",
+        "label": "Your name",
+        "showLabel": true,
+        "control": "text",
+        "required": true,
+        "readOnly": false,
+        "hidden": false,
+        "stepId": "6360333d-d912-407b-8a66-23922d4476e7",
+        "defaultValue": "",
+        "choices": [],
+        "addressParts": [],
+        "validation": {
+          "format": "UNKNOWN_FORMAT",
+          "minLength": 2,
+          "maxLength": 100
+        },
+        "identifier": "CONTACTS_FIRST_NAME",
+        "inputType": "STRING",
+        "componentType": "TEXT_INPUT"
+      },
+      {
+        "target": "email_address_owwcwn",
+        "label": "Email address",
+        "showLabel": true,
+        "control": "email",
+        "required": true,
+        "readOnly": false,
+        "hidden": false,
+        "stepId": "6360333d-d912-407b-8a66-23922d4476e7",
+        "defaultValue": "",
+        "choices": [],
+        "addressParts": [],
+        "validation": {
+          "format": "EMAIL"
+        },
+        "identifier": "CONTACTS_EMAIL",
+        "inputType": "STRING",
+        "componentType": "TEXT_INPUT"
+      },
+      {
+        "target": "preferred_contact_method_sxyvtk",
+        "label": "Preferred contact method",
+        "showLabel": true,
+        "control": "radio",
+        "required": true,
+        "readOnly": false,
+        "hidden": false,
+        "stepId": "6360333d-d912-407b-8a66-23922d4476e7",
+        "defaultValue": "",
+        "choices": [
+          {
+            "value": "Call me",
+            "label": "Call me"
+          },
+          {
+            "value": "Email me",
+            "label": "Email me"
+          }
+        ],
+        "addressParts": [],
+        "validation": {
+          "format": "UNKNOWN_FORMAT"
+        },
+        "identifier": "RADIO_GROUP",
+        "inputType": "STRING",
+        "componentType": "RADIO_GROUP"
+      },
+      {
+        "target": "phone_number_ci0d0u",
+        "label": "Phone number",
+        "showLabel": true,
+        "control": "phone",
+        "required": false,
+        "readOnly": false,
+        "hidden": false,
+        "stepId": "6360333d-d912-407b-8a66-23922d4476e7",
+        "defaultValue": "",
+        "choices": [],
+        "addressParts": [],
+        "validation": {
+          "format": "PHONE"
+        },
+        "phoneCountry": "CY",
+        "identifier": "CONTACTS_PHONE",
+        "inputType": "STRING",
+        "componentType": "PHONE_INPUT"
+      },
+      {
+        "target": "anything_you_d_like_to_ask_98884m",
+        "label": "Anything you’d like to ask?",
+        "showLabel": true,
+        "control": "textarea",
+        "required": false,
+        "readOnly": false,
+        "hidden": false,
+        "stepId": "6360333d-d912-407b-8a66-23922d4476e7",
+        "defaultValue": "",
+        "choices": [],
+        "addressParts": [],
+        "validation": {
+          "format": "UNKNOWN_FORMAT",
+          "maxLength": 1000
+        },
+        "identifier": "TEXT_AREA",
+        "inputType": "STRING",
+        "componentType": "TEXT_INPUT"
+      },
+      {
+        "target": "i_agree_to_be_contacted_about_this_enqui_93d7ay",
+        "label": "I agree to be contacted about this enquiry.",
+        "showLabel": true,
+        "control": "checkbox",
+        "required": true,
+        "readOnly": false,
+        "hidden": false,
+        "stepId": "6360333d-d912-407b-8a66-23922d4476e7",
+        "defaultValue": false,
+        "choices": [],
+        "addressParts": [],
+        "validation": {
+          "mustBeTrue": true
+        },
+        "identifier": "CHECKBOX",
+        "inputType": "BOOLEAN",
+        "componentType": "CHECKBOX"
+      },
+      {
+        "target": "page_or_vehicle_i36nfn",
+        "label": "Page or vehicle",
+        "showLabel": true,
+        "control": "text",
+        "required": false,
+        "readOnly": false,
+        "hidden": false,
+        "stepId": "6360333d-d912-407b-8a66-23922d4476e7",
+        "defaultValue": "",
+        "choices": [],
+        "addressParts": [],
+        "validation": {
+          "format": "UNKNOWN_FORMAT",
+          "maxLength": 500
+        },
+        "identifier": "TEXT_INPUT",
+        "inputType": "STRING",
+        "componentType": "TEXT_INPUT"
+      }
+    ],
+    "steps": [
+      {
+        "id": "fb71218f-4d9e-4201-baf1-85daa7e62d0f",
+        "name": "Your car",
+        "targets": [
+          "choose_your_brand_c2l19d",
+          "volkswagen_model_sr8aae",
+          "audi_model_t5kpdw",
+          "koda_model_p1cjot",
+          "cupra_model_wob1qi",
+          "seat_model_5e8ldw"
+        ]
+      },
+      {
+        "id": "19705ff5-bcf3-4a2e-9fd9-f83c05a83497",
+        "name": "Your visit",
+        "targets": [
+          "volkswagen_showroom_ul24x2",
+          "audi_showroom_9cwfli",
+          "koda_showroom_2e0od0",
+          "cupra_showroom_083xtq",
+          "seat_showroom_t6dgtv",
+          "preferred_date_xzzjo0",
+          "time_of_day_h9eqvg"
+        ]
+      },
+      {
+        "id": "6360333d-d912-407b-8a66-23922d4476e7",
+        "name": "Your details",
+        "targets": [
+          "your_name_v9erul",
+          "email_address_owwcwn",
+          "preferred_contact_method_sxyvtk",
+          "phone_number_ci0d0u",
+          "anything_you_d_like_to_ask_98884m",
+          "i_agree_to_be_contacted_about_this_enqui_93d7ay",
+          "page_or_vehicle_i36nfn"
+        ]
+      },
+      {
+        "id": "b13eb657-ef84-4cef-b6fe-3adba6ead73b",
+        "name": "Review",
+        "targets": []
+      }
+    ],
+    "rules": [
+      {
+        "id": "3a76f80a-b008-4396-89e5-36e6b6dcaae0",
+        "when": {
+          "and": [
+            {
+              "target": "choose_your_brand_c2l19d",
+              "operator": "EQUAL",
+              "value": "Volkswagen"
+            }
+          ]
+        },
+        "then": [
+          {
+            "target": "volkswagen_model_sr8aae",
+            "hidden": false
+          },
+          {
+            "target": "volkswagen_showroom_ul24x2",
+            "hidden": false
+          }
+        ]
+      },
+      {
+        "id": "9305f5a8-9a58-439e-858b-e3f54868cf7b",
+        "when": {
+          "and": [
+            {
+              "target": "choose_your_brand_c2l19d",
+              "operator": "EQUAL",
+              "value": "Audi"
+            }
+          ]
+        },
+        "then": [
+          {
+            "target": "audi_model_t5kpdw",
+            "hidden": false
+          },
+          {
+            "target": "audi_showroom_9cwfli",
+            "hidden": false
+          }
+        ]
+      },
+      {
+        "id": "7e43b8d4-b97b-4fd5-924e-c101961bdeeb",
+        "when": {
+          "and": [
+            {
+              "target": "choose_your_brand_c2l19d",
+              "operator": "EQUAL",
+              "value": "Škoda"
+            }
+          ]
+        },
+        "then": [
+          {
+            "target": "koda_model_p1cjot",
+            "hidden": false
+          },
+          {
+            "target": "koda_showroom_2e0od0",
+            "hidden": false
+          }
+        ]
+      },
+      {
+        "id": "7671ac17-2424-48cc-bec6-c7da5addbf3b",
+        "when": {
+          "and": [
+            {
+              "target": "choose_your_brand_c2l19d",
+              "operator": "EQUAL",
+              "value": "CUPRA"
+            }
+          ]
+        },
+        "then": [
+          {
+            "target": "cupra_model_wob1qi",
+            "hidden": false
+          },
+          {
+            "target": "cupra_showroom_083xtq",
+            "hidden": false
+          }
+        ]
+      },
+      {
+        "id": "820af90e-5680-472e-a6d3-bcffaa714b2a",
+        "when": {
+          "and": [
+            {
+              "target": "choose_your_brand_c2l19d",
+              "operator": "EQUAL",
+              "value": "SEAT"
+            }
+          ]
+        },
+        "then": [
+          {
+            "target": "seat_model_5e8ldw",
+            "hidden": false
+          },
+          {
+            "target": "seat_showroom_t6dgtv",
+            "hidden": false
+          }
+        ]
+      },
+      {
+        "id": "19dc4fcd-c4b7-47ea-b22c-794f02f7bd3d",
+        "when": {
+          "and": [
+            {
+              "target": "preferred_contact_method_sxyvtk",
+              "operator": "EQUAL",
+              "value": "Call me"
+            }
+          ]
+        },
+        "then": [
+          {
+            "target": "phone_number_ci0d0u",
+            "required": true
+          }
+        ]
+      },
+      {
+        "id": "3a76f80a-b008-4396-89e5-36e6b6dcaae0",
+        "when": {
+          "and": [
+            {
+              "target": "choose_your_brand_c2l19d",
+              "operator": "EQUAL",
+              "value": "Volkswagen"
+            }
+          ]
+        },
+        "then": [
+          {
+            "target": "volkswagen_model_sr8aae",
+            "hidden": false
+          },
+          {
+            "target": "volkswagen_showroom_ul24x2",
+            "hidden": false
+          }
+        ]
+      },
+      {
+        "id": "9305f5a8-9a58-439e-858b-e3f54868cf7b",
+        "when": {
+          "and": [
+            {
+              "target": "choose_your_brand_c2l19d",
+              "operator": "EQUAL",
+              "value": "Audi"
+            }
+          ]
+        },
+        "then": [
+          {
+            "target": "audi_model_t5kpdw",
+            "hidden": false
+          },
+          {
+            "target": "audi_showroom_9cwfli",
+            "hidden": false
+          }
+        ]
+      },
+      {
+        "id": "7e43b8d4-b97b-4fd5-924e-c101961bdeeb",
+        "when": {
+          "and": [
+            {
+              "target": "choose_your_brand_c2l19d",
+              "operator": "EQUAL",
+              "value": "Škoda"
+            }
+          ]
+        },
+        "then": [
+          {
+            "target": "koda_model_p1cjot",
+            "hidden": false
+          },
+          {
+            "target": "koda_showroom_2e0od0",
+            "hidden": false
+          }
+        ]
+      },
+      {
+        "id": "7671ac17-2424-48cc-bec6-c7da5addbf3b",
+        "when": {
+          "and": [
+            {
+              "target": "choose_your_brand_c2l19d",
+              "operator": "EQUAL",
+              "value": "CUPRA"
+            }
+          ]
+        },
+        "then": [
+          {
+            "target": "cupra_model_wob1qi",
+            "hidden": false
+          },
+          {
+            "target": "cupra_showroom_083xtq",
+            "hidden": false
+          }
+        ]
+      },
+      {
+        "id": "820af90e-5680-472e-a6d3-bcffaa714b2a",
+        "when": {
+          "and": [
+            {
+              "target": "choose_your_brand_c2l19d",
+              "operator": "EQUAL",
+              "value": "SEAT"
+            }
+          ]
+        },
+        "then": [
+          {
+            "target": "seat_model_5e8ldw",
+            "hidden": false
+          },
+          {
+            "target": "seat_showroom_t6dgtv",
+            "hidden": false
+          }
+        ]
+      },
+      {
+        "id": "19dc4fcd-c4b7-47ea-b22c-794f02f7bd3d",
+        "when": {
+          "and": [
+            {
+              "target": "preferred_contact_method_sxyvtk",
+              "operator": "EQUAL",
+              "value": "Call me"
+            }
+          ]
+        },
+        "then": [
+          {
+            "target": "phone_number_ci0d0u",
+            "required": true
+          }
+        ]
+      }
+    ],
+    "submitText": "Send my request",
+    "nextText": "Continue",
+    "previousText": "Back",
+    "enabled": true,
+    "disabledMessage": "",
+    "limits": {},
+    "requiredIndicator": "ASTERISK",
+    "requiredIndicatorBefore": false,
+    "success": {
+      "action": "THANK_YOU_MESSAGE",
+      "message": "Your test-drive request has been received. The Unicars team will confirm the vehicle, showroom, date and time. This is not yet a confirmed appointment."
+    }
+  },
+  "campaign": {
+    "id": "420d7954-de3c-4b19-a479-84c2b0e1b5e2",
+    "name": "Unicars - Offer enquiries",
+    "fields": [
+      {
+        "target": "i_would_like_to_bpw4hw",
+        "label": "I would like to",
+        "showLabel": true,
+        "control": "radio",
+        "required": true,
+        "readOnly": false,
+        "hidden": false,
+        "stepId": "f51103ae-1982-40d0-b334-3ffb94806993",
+        "defaultValue": "",
+        "choices": [
+          {
+            "value": "Ask about this offer",
+            "label": "Ask about this offer"
+          },
+          {
+            "value": "Request a test drive",
+            "label": "Request a test drive"
+          }
+        ],
+        "addressParts": [],
+        "validation": {
+          "format": "UNKNOWN_FORMAT"
+        },
+        "identifier": "RADIO_GROUP",
+        "inputType": "STRING",
+        "componentType": "RADIO_GROUP"
+      },
+      {
+        "target": "offer_qis9e4",
+        "label": "Offer",
+        "showLabel": true,
+        "control": "text",
+        "required": true,
+        "readOnly": false,
+        "hidden": false,
+        "stepId": "f51103ae-1982-40d0-b334-3ffb94806993",
+        "defaultValue": "",
+        "choices": [],
+        "addressParts": [],
+        "validation": {
+          "format": "UNKNOWN_FORMAT",
+          "maxLength": 300
+        },
+        "identifier": "TEXT_INPUT",
+        "inputType": "STRING",
+        "componentType": "TEXT_INPUT"
+      },
+      {
+        "target": "your_name_dtcb4u",
+        "label": "Your name",
+        "showLabel": true,
+        "control": "text",
+        "required": true,
+        "readOnly": false,
+        "hidden": false,
+        "stepId": "f51103ae-1982-40d0-b334-3ffb94806993",
+        "defaultValue": "",
+        "choices": [],
+        "addressParts": [],
+        "validation": {
+          "format": "UNKNOWN_FORMAT",
+          "minLength": 2,
+          "maxLength": 100
+        },
+        "identifier": "CONTACTS_FIRST_NAME",
+        "inputType": "STRING",
+        "componentType": "TEXT_INPUT"
+      },
+      {
+        "target": "email_address_v4zeje",
+        "label": "Email address",
+        "showLabel": true,
+        "control": "email",
+        "required": true,
+        "readOnly": false,
+        "hidden": false,
+        "stepId": "f51103ae-1982-40d0-b334-3ffb94806993",
+        "defaultValue": "",
+        "choices": [],
+        "addressParts": [],
+        "validation": {
+          "format": "EMAIL"
+        },
+        "identifier": "CONTACTS_EMAIL",
+        "inputType": "STRING",
+        "componentType": "TEXT_INPUT"
+      },
+      {
+        "target": "phone_number_rnqvd2",
+        "label": "Phone number",
+        "showLabel": true,
+        "control": "phone",
+        "required": false,
+        "readOnly": false,
+        "hidden": false,
+        "stepId": "f51103ae-1982-40d0-b334-3ffb94806993",
+        "defaultValue": "",
+        "choices": [],
+        "addressParts": [],
+        "validation": {
+          "format": "PHONE"
+        },
+        "phoneCountry": "CY",
+        "identifier": "CONTACTS_PHONE",
+        "inputType": "STRING",
+        "componentType": "PHONE_INPUT"
+      },
+      {
+        "target": "preferred_city_luzpmf",
+        "label": "Preferred city",
+        "showLabel": true,
+        "control": "select",
+        "required": false,
+        "readOnly": false,
+        "hidden": false,
+        "stepId": "f51103ae-1982-40d0-b334-3ffb94806993",
+        "defaultValue": "",
+        "choices": [
+          {
+            "value": "Nicosia",
+            "label": "Nicosia"
+          },
+          {
+            "value": "Limassol",
+            "label": "Limassol"
+          },
+          {
+            "value": "Larnaca",
+            "label": "Larnaca"
+          },
+          {
+            "value": "Paphos",
+            "label": "Paphos"
+          },
+          {
+            "value": "Paralimni",
+            "label": "Paralimni"
+          }
+        ],
+        "addressParts": [],
+        "validation": {
+          "format": "UNKNOWN_FORMAT"
+        },
+        "identifier": "DROPDOWN",
+        "inputType": "STRING",
+        "componentType": "DROPDOWN"
+      },
+      {
+        "target": "your_message_li1ltj",
+        "label": "Your message",
+        "showLabel": true,
+        "control": "textarea",
+        "required": false,
+        "readOnly": false,
+        "hidden": false,
+        "stepId": "f51103ae-1982-40d0-b334-3ffb94806993",
+        "defaultValue": "",
+        "choices": [],
+        "addressParts": [],
+        "validation": {
+          "format": "UNKNOWN_FORMAT",
+          "maxLength": 2000
+        },
+        "identifier": "TEXT_AREA",
+        "inputType": "STRING",
+        "componentType": "TEXT_INPUT"
+      },
+      {
+        "target": "i_agree_to_be_contacted_about_this_enqui_s0th88",
+        "label": "I agree to be contacted about this enquiry.",
+        "showLabel": true,
+        "control": "checkbox",
+        "required": true,
+        "readOnly": false,
+        "hidden": false,
+        "stepId": "f51103ae-1982-40d0-b334-3ffb94806993",
+        "defaultValue": false,
+        "choices": [],
+        "addressParts": [],
+        "validation": {
+          "mustBeTrue": true
+        },
+        "identifier": "CHECKBOX",
+        "inputType": "BOOLEAN",
+        "componentType": "CHECKBOX"
+      },
+      {
+        "target": "page_or_vehicle_uugtt3",
+        "label": "Page or vehicle",
+        "showLabel": true,
+        "control": "text",
+        "required": false,
+        "readOnly": false,
+        "hidden": false,
+        "stepId": "f51103ae-1982-40d0-b334-3ffb94806993",
+        "defaultValue": "",
+        "choices": [],
+        "addressParts": [],
+        "validation": {
+          "format": "UNKNOWN_FORMAT",
+          "maxLength": 500
+        },
+        "identifier": "TEXT_INPUT",
+        "inputType": "STRING",
+        "componentType": "TEXT_INPUT"
+      }
+    ],
+    "steps": [
+      {
+        "id": "f51103ae-1982-40d0-b334-3ffb94806993",
+        "name": "",
+        "targets": [
+          "i_would_like_to_bpw4hw",
+          "offer_qis9e4",
+          "your_name_dtcb4u",
+          "email_address_v4zeje",
+          "phone_number_rnqvd2",
+          "preferred_city_luzpmf",
+          "your_message_li1ltj",
+          "i_agree_to_be_contacted_about_this_enqui_s0th88",
+          "page_or_vehicle_uugtt3"
+        ]
+      }
+    ],
+    "rules": [],
+    "submitText": "Send enquiry",
+    "nextText": "",
+    "previousText": "",
+    "enabled": true,
+    "disabledMessage": "",
+    "limits": {},
+    "requiredIndicator": "ASTERISK",
+    "requiredIndicatorBefore": false,
+    "success": {
+      "action": "THANK_YOU_MESSAGE",
+      "message": "Your offer enquiry has been received. The team will contact you to confirm the vehicle, price, terms and availability."
+    }
+  },
+  "support": {
+    "id": "c8067e3c-5eac-4c36-8067-2ee7c8d5a17a",
+    "name": "Unicars - Sales & support requests",
+    "fields": [
+      {
+        "target": "request_type_5e905g",
+        "label": "Request type",
+        "showLabel": true,
+        "control": "select",
+        "required": true,
+        "readOnly": false,
+        "hidden": false,
+        "stepId": "4eb95392-435d-48b5-b9aa-f68ef8997481",
+        "defaultValue": "",
+        "choices": [
+          {
+            "value": "Vehicle quote",
+            "label": "Vehicle quote"
+          },
+          {
+            "value": "Service appointment",
+            "label": "Service appointment"
+          },
+          {
+            "value": "Parts enquiry",
+            "label": "Parts enquiry"
+          },
+          {
+            "value": "Warranty enquiry",
+            "label": "Warranty enquiry"
+          },
+          {
+            "value": "General enquiry",
+            "label": "General enquiry"
+          }
+        ],
+        "addressParts": [],
+        "validation": {
+          "format": "UNKNOWN_FORMAT"
+        },
+        "identifier": "DROPDOWN",
+        "inputType": "STRING",
+        "componentType": "DROPDOWN"
+      },
+      {
+        "target": "your_name_9hqwbr",
+        "label": "Your name",
+        "showLabel": true,
+        "control": "text",
+        "required": true,
+        "readOnly": false,
+        "hidden": false,
+        "stepId": "4eb95392-435d-48b5-b9aa-f68ef8997481",
+        "defaultValue": "",
+        "choices": [],
+        "addressParts": [],
+        "validation": {
+          "format": "UNKNOWN_FORMAT",
+          "minLength": 2,
+          "maxLength": 100
+        },
+        "identifier": "CONTACTS_FIRST_NAME",
+        "inputType": "STRING",
+        "componentType": "TEXT_INPUT"
+      },
+      {
+        "target": "email_address_21g7v9",
+        "label": "Email address",
+        "showLabel": true,
+        "control": "email",
+        "required": true,
+        "readOnly": false,
+        "hidden": false,
+        "stepId": "4eb95392-435d-48b5-b9aa-f68ef8997481",
+        "defaultValue": "",
+        "choices": [],
+        "addressParts": [],
+        "validation": {
+          "format": "EMAIL"
+        },
+        "identifier": "CONTACTS_EMAIL",
+        "inputType": "STRING",
+        "componentType": "TEXT_INPUT"
+      },
+      {
+        "target": "phone_number_qir23w",
+        "label": "Phone number",
+        "showLabel": true,
+        "control": "phone",
+        "required": false,
+        "readOnly": false,
+        "hidden": false,
+        "stepId": "4eb95392-435d-48b5-b9aa-f68ef8997481",
+        "defaultValue": "",
+        "choices": [],
+        "addressParts": [],
+        "validation": {
+          "format": "PHONE"
+        },
+        "phoneCountry": "CY",
+        "identifier": "CONTACTS_PHONE",
+        "inputType": "STRING",
+        "componentType": "PHONE_INPUT"
+      },
+      {
+        "target": "preferred_city_4ucspe",
+        "label": "Preferred city",
+        "showLabel": true,
+        "control": "select",
+        "required": false,
+        "readOnly": false,
+        "hidden": false,
+        "stepId": "4eb95392-435d-48b5-b9aa-f68ef8997481",
+        "defaultValue": "",
+        "choices": [
+          {
+            "value": "Nicosia",
+            "label": "Nicosia"
+          },
+          {
+            "value": "Limassol",
+            "label": "Limassol"
+          },
+          {
+            "value": "Larnaca",
+            "label": "Larnaca"
+          },
+          {
+            "value": "Paphos",
+            "label": "Paphos"
+          },
+          {
+            "value": "Paralimni",
+            "label": "Paralimni"
+          }
+        ],
+        "addressParts": [],
+        "validation": {
+          "format": "UNKNOWN_FORMAT"
+        },
+        "identifier": "DROPDOWN",
+        "inputType": "STRING",
+        "componentType": "DROPDOWN"
+      },
+      {
+        "target": "vehicle_or_registration_04vls3",
+        "label": "Vehicle or registration",
+        "showLabel": true,
+        "control": "text",
+        "required": false,
+        "readOnly": false,
+        "hidden": false,
+        "stepId": "4eb95392-435d-48b5-b9aa-f68ef8997481",
+        "defaultValue": "",
+        "choices": [],
+        "addressParts": [],
+        "validation": {
+          "format": "UNKNOWN_FORMAT",
+          "maxLength": 150
+        },
+        "identifier": "TEXT_INPUT",
+        "inputType": "STRING",
+        "componentType": "TEXT_INPUT"
+      },
+      {
+        "target": "your_message_pqp7sy",
+        "label": "Your message",
+        "showLabel": true,
+        "control": "textarea",
+        "required": true,
+        "readOnly": false,
+        "hidden": false,
+        "stepId": "4eb95392-435d-48b5-b9aa-f68ef8997481",
+        "defaultValue": "",
+        "choices": [],
+        "addressParts": [],
+        "validation": {
+          "format": "UNKNOWN_FORMAT",
+          "maxLength": 3000
+        },
+        "identifier": "TEXT_AREA",
+        "inputType": "STRING",
+        "componentType": "TEXT_INPUT"
+      },
+      {
+        "target": "i_agree_to_be_contacted_about_this_enqui_ghnjsc",
+        "label": "I agree to be contacted about this enquiry.",
+        "showLabel": true,
+        "control": "checkbox",
+        "required": true,
+        "readOnly": false,
+        "hidden": false,
+        "stepId": "4eb95392-435d-48b5-b9aa-f68ef8997481",
+        "defaultValue": false,
+        "choices": [],
+        "addressParts": [],
+        "validation": {
+          "mustBeTrue": true
+        },
+        "identifier": "CHECKBOX",
+        "inputType": "BOOLEAN",
+        "componentType": "CHECKBOX"
+      },
+      {
+        "target": "page_or_vehicle_wblp72",
+        "label": "Page or vehicle",
+        "showLabel": true,
+        "control": "text",
+        "required": false,
+        "readOnly": false,
+        "hidden": false,
+        "stepId": "4eb95392-435d-48b5-b9aa-f68ef8997481",
+        "defaultValue": "",
+        "choices": [],
+        "addressParts": [],
+        "validation": {
+          "format": "UNKNOWN_FORMAT",
+          "maxLength": 500
+        },
+        "identifier": "TEXT_INPUT",
+        "inputType": "STRING",
+        "componentType": "TEXT_INPUT"
+      }
+    ],
+    "steps": [
+      {
+        "id": "4eb95392-435d-48b5-b9aa-f68ef8997481",
+        "name": "",
+        "targets": [
+          "request_type_5e905g",
+          "your_name_9hqwbr",
+          "email_address_21g7v9",
+          "phone_number_qir23w",
+          "preferred_city_4ucspe",
+          "vehicle_or_registration_04vls3",
+          "your_message_pqp7sy",
+          "i_agree_to_be_contacted_about_this_enqui_ghnjsc",
+          "page_or_vehicle_wblp72"
+        ]
+      }
+    ],
+    "rules": [],
+    "submitText": "Send request",
+    "nextText": "",
+    "previousText": "",
+    "enabled": true,
+    "disabledMessage": "",
+    "limits": {},
+    "requiredIndicator": "ASTERISK",
+    "requiredIndicatorBefore": false,
+    "success": {
+      "action": "THANK_YOU_MESSAGE",
+      "message": "Your request has been received. The Unicars team will contact you to discuss the next step. Requested appointments need confirmation."
+    }
+  },
+  "newsletter": {
+    "id": "362e649a-6bd7-4b4c-ade4-0c62b77c5c20",
+    "name": "Unicars - Newsletter signups",
+    "fields": [
+      {
+        "target": "email_address_k5ucnu",
+        "label": "Email address",
+        "showLabel": true,
+        "control": "email",
+        "required": true,
+        "readOnly": false,
+        "hidden": false,
+        "stepId": "8f5c2ab6-c5af-4064-88b9-499fca454f9d",
+        "defaultValue": "",
+        "choices": [],
+        "addressParts": [],
+        "validation": {
+          "format": "EMAIL"
+        },
+        "identifier": "CONTACTS_EMAIL",
+        "inputType": "STRING",
+        "componentType": "TEXT_INPUT"
+      },
+      {
+        "target": "i_would_like_to_receive_unicars_news_and_af3w0g",
+        "label": "I would like to receive Unicars news and offers by email.",
+        "showLabel": true,
+        "control": "checkbox",
+        "required": true,
+        "readOnly": false,
+        "hidden": false,
+        "stepId": "8f5c2ab6-c5af-4064-88b9-499fca454f9d",
+        "defaultValue": false,
+        "choices": [],
+        "addressParts": [],
+        "validation": {
+          "mustBeTrue": true
+        },
+        "identifier": "CHECKBOX",
+        "inputType": "BOOLEAN",
+        "componentType": "CHECKBOX"
+      }
+    ],
+    "steps": [
+      {
+        "id": "8f5c2ab6-c5af-4064-88b9-499fca454f9d",
+        "name": "",
+        "targets": [
+          "email_address_k5ucnu",
+          "i_would_like_to_receive_unicars_news_and_af3w0g"
+        ]
+      }
+    ],
+    "rules": [],
+    "submitText": "Subscribe",
+    "nextText": "",
+    "previousText": "",
+    "enabled": true,
+    "disabledMessage": "",
+    "limits": {},
+    "requiredIndicator": "ASTERISK",
+    "requiredIndicatorBefore": false,
+    "success": {
+      "action": "THANK_YOU_MESSAGE",
+      "message": "Thank you. Your subscription request has been received."
+    }
+  },
+  "feedback": {
+    "id": "d48d3645-0772-4dce-bd63-0df0c1458b8b",
+    "name": "Unicars - Website feedback",
+    "fields": [
+      {
+        "target": "your_name_3vqja2",
+        "label": "Your name",
+        "showLabel": true,
+        "control": "text",
+        "required": false,
+        "readOnly": false,
+        "hidden": false,
+        "stepId": "2cf313b8-eafb-4a73-9f67-4e7b09ec1ed4",
+        "defaultValue": "",
+        "choices": [],
+        "addressParts": [],
+        "validation": {
+          "format": "UNKNOWN_FORMAT",
+          "maxLength": 100
+        },
+        "identifier": "TEXT_INPUT",
+        "inputType": "STRING",
+        "componentType": "TEXT_INPUT"
+      },
+      {
+        "target": "email_address_aermha",
+        "label": "Email address",
+        "showLabel": true,
+        "control": "email",
+        "required": false,
+        "readOnly": false,
+        "hidden": false,
+        "stepId": "2cf313b8-eafb-4a73-9f67-4e7b09ec1ed4",
+        "defaultValue": "",
+        "choices": [],
+        "addressParts": [],
+        "validation": {
+          "format": "EMAIL"
+        },
+        "identifier": "CONTACTS_EMAIL",
+        "inputType": "STRING",
+        "componentType": "TEXT_INPUT"
+      },
+      {
+        "target": "your_feedback_icqyrn",
+        "label": "Your feedback",
+        "showLabel": true,
+        "control": "textarea",
+        "required": true,
+        "readOnly": false,
+        "hidden": false,
+        "stepId": "2cf313b8-eafb-4a73-9f67-4e7b09ec1ed4",
+        "defaultValue": "",
+        "choices": [],
+        "addressParts": [],
+        "validation": {
+          "format": "UNKNOWN_FORMAT",
+          "maxLength": 3000
+        },
+        "identifier": "TEXT_AREA",
+        "inputType": "STRING",
+        "componentType": "TEXT_INPUT"
+      },
+      {
+        "target": "page_or_vehicle_uv6cqk",
+        "label": "Page or vehicle",
+        "showLabel": true,
+        "control": "text",
+        "required": false,
+        "readOnly": false,
+        "hidden": false,
+        "stepId": "2cf313b8-eafb-4a73-9f67-4e7b09ec1ed4",
+        "defaultValue": "",
+        "choices": [],
+        "addressParts": [],
+        "validation": {
+          "format": "UNKNOWN_FORMAT",
+          "maxLength": 500
+        },
+        "identifier": "TEXT_INPUT",
+        "inputType": "STRING",
+        "componentType": "TEXT_INPUT"
+      }
+    ],
+    "steps": [
+      {
+        "id": "2cf313b8-eafb-4a73-9f67-4e7b09ec1ed4",
+        "name": "",
+        "targets": [
+          "your_name_3vqja2",
+          "email_address_aermha",
+          "your_feedback_icqyrn",
+          "page_or_vehicle_uv6cqk"
+        ]
+      }
+    ],
+    "rules": [],
+    "submitText": "Send feedback",
+    "nextText": "",
+    "previousText": "",
+    "enabled": true,
+    "disabledMessage": "",
+    "limits": {},
+    "requiredIndicator": "ASTERISK",
+    "requiredIndicatorBefore": false,
+    "success": {
+      "action": "THANK_YOU_MESSAGE",
+      "message": "Thank you. Your feedback has been received."
+    }
+  }
+}
