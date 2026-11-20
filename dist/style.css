@@ -9,3 +9,4 @@
 @media(max-width:600px){.mobile-action svg{display:none}.mobile-action .button{font-size:12px;min-width:0;white-space:nowrap}.mobile-action .button:only-child{font-size:14px}}
 
 .mega .mega-summary .button.primary{background:var(--blue);color:white;border-color:var(--blue);padding:12px 14px;justify-content:center}.mega .mega-summary .button.primary:hover{background:#0048b9}
+#requestForm{position:relative;padding:38px}#requestForm>#dialogDescription{color:var(--muted)}@media(max-width:600px){#requestForm{padding:34px 24px}}
