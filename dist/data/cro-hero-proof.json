@@ -1,0 +1,50 @@
+{
+  "authorised_importer": {
+    "source": "https://www.unicars.com/en/brands_new.php",
+    "brands": [
+      "Volkswagen",
+      "Audi",
+      "\u0160koda",
+      "CUPRA",
+      "SEAT"
+    ],
+    "checked_on": "2026-11-16"
+  },
+  "google_rating": {
+    "score": 4.3,
+    "maximum": 5,
+    "review_count": 41,
+    "source": "Client-supplied Google listing screenshot",
+    "scope": "One Google business listing, not an aggregate across Unicars locations",
+    "live": false,
+    "publication_requirement": "Confirm the exact Google business profile and refresh its score and count before client launch."
+  },
+  "reviewer_photographs": {
+    "included": false,
+    "visual_fallback": "Illustrative stock portrait placeholders, not actual customer portraits or testimonials. Visible caption removed at client request for this prototype.",
+    "delivery": "External Pexels CDN thumbnails; workspace download restricted.",
+    "sources": [
+      {
+        "photographer": "SHVETS production",
+        "url": "https://www.pexels.com/photo/close-up-shot-of-a-man-smiling-7191768/",
+        "license": "Pexels License"
+      },
+      {
+        "photographer": "Kevin Birchfield",
+        "url": "https://www.pexels.com/photo/portrait-of-a-smiling-man-7400021/",
+        "license": "Pexels License"
+      },
+      {
+        "photographer": "Alexander Mass",
+        "url": "https://www.pexels.com/photo/portrait-of-a-smiling-woman-in-soft-lighting-41005078/",
+        "license": "Pexels License"
+      }
+    ]
+  },
+  "market_rank": {
+    "included": false,
+    "reason": "No evidence supplied for a number-one or best-dealer ranking.",
+    "hero_copy": "Your best choice for cars in Cyprus",
+    "copy_intent": "Brand positioning, not an independently verified ranking or award."
+  }
+}

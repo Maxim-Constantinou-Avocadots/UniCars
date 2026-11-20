@@ -1,0 +1,392 @@
+[
+  {
+    "id": "volkswagen-golf",
+    "source": "https://www.unicars.com/gr/images/newgolfout1.jpg",
+    "sha256": "bcb77b66aa148567469801677f34c85fb8417d1c687f6fddbc2cc16eb14f87bf",
+    "checked": "2026-11-20"
+  },
+  {
+    "id": "volkswagen-golf-performance-gti-r",
+    "source": "https://www.unicars.com/gr/images/golfr2024.png",
+    "sha256": "7191d567b3f12a2a9c2c2cd123975dd4a4704e65b4e10c067d0e766b45f3465d",
+    "checked": "2026-11-20"
+  },
+  {
+    "id": "volkswagen-polo",
+    "source": "https://www.unicars.com/gr/images/newpolo.jpg",
+    "sha256": "104590a05d686cd6393d7e7bc11be500b93881a098f0430db01f9c68980bf347",
+    "checked": "2026-11-20"
+  },
+  {
+    "id": "volkswagen-id-polo",
+    "source": "https://www.unicars.com/gr/images/id-polo.png",
+    "sha256": "cae87a6ad7273c8874472f4ec3d7e9112997ac45963acc23eb60af4fd1aa2544",
+    "checked": "2026-11-20"
+  },
+  {
+    "id": "volkswagen-id-3-neo",
+    "source": "https://www.unicars.com/gr/images/newid3out.jpg",
+    "sha256": "f4128e7634b98b07a3f5d95c4aaae6274988348f015c775eda4b340bacd364ff",
+    "checked": "2026-11-20"
+  },
+  {
+    "id": "volkswagen-id-4",
+    "source": "https://www.unicars.com/gr/u4a/id4/id4out.jpg",
+    "sha256": "e522b9a5b1401538b881474029cb778f9841267121d6a4bb3602f6ea26ea2d16",
+    "checked": "2026-11-20"
+  },
+  {
+    "id": "volkswagen-id-5",
+    "source": "https://www.unicars.com/gr/u4a/id5/id5out.jpg",
+    "sha256": "670d5fc79387105d6edd725b6637a3616b497e413867ef6e8fdc3318b383e79b",
+    "checked": "2026-11-20"
+  },
+  {
+    "id": "volkswagen-id-7",
+    "source": "https://www.unicars.com/gr/images/id7.webp",
+    "sha256": "2838bcf948d09caa2896180f3c3b1326719cd88db7aa1830a17d7f9bf11049f9",
+    "checked": "2026-11-20"
+  },
+  {
+    "id": "volkswagen-t-cross",
+    "source": "https://www.unicars.com/gr/docs/img/tcross.png",
+    "sha256": "57ed1a9de51581a8634c9c25233df86e05797543a870991058af31dee4a5df2a",
+    "checked": "2026-11-20"
+  },
+  {
+    "id": "volkswagen-taigo",
+    "source": "https://www.unicars.com/gr/u4a/taigo/taigoout.jpg",
+    "sha256": "bff7e767ebce815dfd8b1278c98ac4130688cde5a16be957e64f327f5de8f49f",
+    "checked": "2026-11-20"
+  },
+  {
+    "id": "volkswagen-t-roc",
+    "source": "https://www.unicars.com/gr/u4a/newtroc/trocout.jpg",
+    "sha256": "a9343c4d643178aea0b6fb5eed1b778b81baed5c1fe61eeeade6ac67ab3f2e3e",
+    "checked": "2026-11-20"
+  },
+  {
+    "id": "volkswagen-t-roc-cabrio",
+    "source": "https://www.unicars.com/gr/images/troc_cabrio.jpg",
+    "sha256": "fdf2c4f77a9cfaf5bf11e7d87063b157ea559cdcc8820686f4708f3889d06866",
+    "checked": "2026-11-20"
+  },
+  {
+    "id": "volkswagen-tiguan",
+    "source": "https://www.unicars.com/gr/images/tiguan2024.jpg",
+    "sha256": "60dd27d60df0ee225f84727d7fbb8fab095d66c2775880921cbda19bc3a08272",
+    "checked": "2026-11-20"
+  },
+  {
+    "id": "volkswagen-tayron",
+    "source": "https://www.unicars.com/gr/images/tayron.png",
+    "sha256": "ca58ccf0b8ca9540af98a18a650b0407edff43b1632d47293af9844a4bebf44c",
+    "checked": "2026-11-20"
+  },
+  {
+    "id": "audi-a3-sedan",
+    "source": "https://www.unicars.com/gr/u4a/a3sedan/a3sedan.png",
+    "sha256": "796c2307d5a90d2cecaac51e3b634b096518af43d2c64a3b66da616b6cf83405",
+    "checked": "2026-11-20"
+  },
+  {
+    "id": "audi-a3-sportback",
+    "source": "https://www.unicars.com/gr/u4a/a3/a3sb.png",
+    "sha256": "1aa11406711b3e2556de874148f0ddf6bdc097209f13f6992f94fcdb53927830",
+    "checked": "2026-11-20"
+  },
+  {
+    "id": "audi-a5-limousine",
+    "source": "https://www.unicars.com/gr/docs/img/a5limousine.jpg",
+    "sha256": "54848edb96ccc5dd277448838ee23a613c7abecebef2363e9c4d0a593076777f",
+    "checked": "2026-11-20"
+  },
+  {
+    "id": "audi-a5-avant",
+    "source": "https://www.unicars.com/gr/docs/img/a5avant.jpg",
+    "sha256": "2d7cc685676317ec9c7147cb6c748ef055fccdc33223ec14bf92cfe697c21ede",
+    "checked": "2026-11-20"
+  },
+  {
+    "id": "audi-a6-e-tron-sportback",
+    "source": "https://www.unicars.com/gr/docs/img/a6etronsb.jpg",
+    "sha256": "1445779ae90cf9b94a5a7b613ff6a37fa13080cf92a48ebee63c6d33348ba92c",
+    "checked": "2026-11-20"
+  },
+  {
+    "id": "audi-a6-e-tron-avant",
+    "source": "https://www.unicars.com/gr/docs/img/a6avant.png",
+    "sha256": "930e417e2c75660dbad8c8135d7ab048be3b047363668eca427ac471c030cf3a",
+    "checked": "2026-11-20"
+  },
+  {
+    "id": "audi-e-tron-gt",
+    "source": "https://www.unicars.com/gr/docs/img/etrongt.jpg",
+    "sha256": "b9b8d3e893555fb5167a56b48cd6caa1910558c1497d97519f545f8cfc842b96",
+    "checked": "2026-11-20"
+  },
+  {
+    "id": "audi-q3",
+    "source": "https://www.unicars.com/gr/u4a/q3.jpg",
+    "sha256": "d0ce2dc4598a106a85fbd6731c91653a46ba36c2cbab5b95166b607b7ecb2ac6",
+    "checked": "2026-11-20"
+  },
+  {
+    "id": "audi-q3-sportback",
+    "source": "https://www.unicars.com/gr/images/q3sbnew.jpg",
+    "sha256": "0c5df7bf828ef53f2160dd0feca9ff144442a13dfe07c82b07632c628063dd1c",
+    "checked": "2026-11-20"
+  },
+  {
+    "id": "audi-q4-e-tron",
+    "source": "https://www.unicars.com/gr/u4a/q4/q4out.jpg",
+    "sha256": "6e674406d3b463001923b60bcd3eb42775fe85f6cf73eb8501b4f68cdded6123",
+    "checked": "2026-11-20"
+  },
+  {
+    "id": "audi-q4-e-tron-sportback",
+    "source": "https://www.unicars.com/gr/u4a/q4sb/q4sbout.jpg",
+    "sha256": "8fb4360ff6d9c0ebb2f03eac10596be815ad02a88ed8785e312ccf970596baf4",
+    "checked": "2026-11-20"
+  },
+  {
+    "id": "audi-q5",
+    "source": "https://www.unicars.com/gr/images/q5.jpeg",
+    "sha256": "5599aff18c294334c99fd8f66672375e244fd6f10403c096528e639b7157d74b",
+    "checked": "2026-11-20"
+  },
+  {
+    "id": "audi-q5-sportback",
+    "source": "https://www.unicars.com/gr/u4a/q5sb/q5sb.png",
+    "sha256": "940c6b8befc2b31a89f3044bd8729cb0cea32c9ef73c1c0b95082886305f3819",
+    "checked": "2026-11-20"
+  },
+  {
+    "id": "audi-q6-e-tron",
+    "source": "https://www.unicars.com/gr/docs/img/q6.png",
+    "sha256": "f6a8e3937f13b71108f03e7db8a2c4ef3bfc296568d85175710c2586dcbd582d",
+    "checked": "2026-11-20"
+  },
+  {
+    "id": "audi-q6-sportback-e-tron",
+    "source": "https://www.unicars.com/gr/images/q6sb.png",
+    "sha256": "97871f9f8438790c617a74213a152d89a2c1c16aa65a1e2ba5d510072da69916",
+    "checked": "2026-11-20"
+  },
+  {
+    "id": "audi-q7",
+    "source": "https://www.unicars.com/gr/docs/img/q7.png",
+    "sha256": "6a45fce707915d4925bbbf1f5610a27043b7e7b634a1e3d4a70a188db760f09a",
+    "checked": "2026-11-20"
+  },
+  {
+    "id": "audi-q8",
+    "source": "https://www.unicars.com/gr/images/q82024.jpg",
+    "sha256": "8d448ef7cd29ba5a10658fabe0568309c84cc7c747b1d5958f38362aa663bcda",
+    "checked": "2026-11-20"
+  },
+  {
+    "id": "audi-rsq8",
+    "source": "https://www.unicars.com/gr/docs/img/rsq8.png",
+    "sha256": "99e98265b58e0025c8f258fc373890b4fb42116af6f931099fa2f96bc9e32d3b",
+    "checked": "2026-11-20"
+  },
+  {
+    "id": "seat-ibiza",
+    "source": "https://www.unicars.com/gr/images/newibiza.jpg",
+    "sha256": "ade5866277ed8912579483708cf04cf837263a226804d6600a8a58d654d9c41c",
+    "checked": "2026-11-20"
+  },
+  {
+    "id": "seat-ibiza-van",
+    "source": "https://www.unicars.com/gr/docs/img/ibiza.png",
+    "sha256": "8d95b59a9d580d88ac508f81508e9b094e65e8430ee13af0c90a58158c94f546",
+    "checked": "2026-11-20"
+  },
+  {
+    "id": "seat-leon",
+    "source": "https://www.unicars.com/gr/u4a/newleon/leonout.jpg",
+    "sha256": "b2125a80296a33ddf5a54c2ef51e2c40b64fc9d7c9747bccda16e67aa3782795",
+    "checked": "2026-11-20"
+  },
+  {
+    "id": "seat-arona",
+    "source": "https://www.unicars.com/gr/docs/img/arona.png",
+    "sha256": "a77ce7cd892f494057ba10cdd50bedee6230a553e6e54ff2a9a2867eaef4641b",
+    "checked": "2026-11-20"
+  },
+  {
+    "id": "cupra-raval",
+    "source": "https://www.unicars.com/gr/images/cupra-raval.webp",
+    "sha256": "eecf657e95c15c623df4db5fe40ea192bddb4d5ba5c97fbecfb13ba2e0a6de34",
+    "checked": "2026-11-20"
+  },
+  {
+    "id": "cupra-tavascan",
+    "source": "https://www.unicars.com/gr/u4a/cupra-tavascan/cupra-tavascan.jpg",
+    "sha256": "46981da87a5fe2ff1a00439d919247a11ebb54227e76cc2dc98ef5401fed3e8e",
+    "checked": "2026-11-20"
+  },
+  {
+    "id": "cupra-terramar",
+    "source": "https://www.unicars.com/gr/u4a/cupra-terramar/terramar.jpg",
+    "sha256": "1f41f299ae13864866e105a95f9cf5f951da9deabc90cec1c5726051d1cc3db9",
+    "checked": "2026-11-20"
+  },
+  {
+    "id": "cupra-born",
+    "source": "https://www.unicars.com/gr/u4a/born/bornout.jpg",
+    "sha256": "93a1578a466be5e1ebe957f2016b42c455a46fdce7476d0f1bc7f38674cce62a",
+    "checked": "2026-11-20"
+  },
+  {
+    "id": "cupra-leon",
+    "source": "https://www.unicars.com/gr/images/cupraleonout.jpg",
+    "sha256": "47acc1dbbe98992fecbe29b8ba61aa8c6ce4f6260b053cde2fe69c3538bc91d2",
+    "checked": "2026-11-20"
+  },
+  {
+    "id": "cupra-formentor",
+    "source": "https://www.unicars.com/gr/images/formentor2024.jpg",
+    "sha256": "d7f0876074573755d7e92484601f491846886b542bde35a60e4fd1d1c46e8195",
+    "checked": "2026-11-20"
+  },
+  {
+    "id": "skoda-fabia",
+    "source": "https://www.unicars.com/gr/u4a/newfabia/fabiaout.jpg",
+    "sha256": "01bcd8c73641e455902ba8c3830265c4bc44c60eaa8a4d2292c190a355510417",
+    "checked": "2026-11-20"
+  },
+  {
+    "id": "skoda-fabia-130",
+    "source": "https://www.unicars.com/gr/images/fabia130.jpg",
+    "sha256": "c89f649c7c790d5e128e9dc77053b0c2810ada67c2a18d02e81e74d57e963949",
+    "checked": "2026-11-20"
+  },
+  {
+    "id": "skoda-octavia",
+    "source": "https://www.unicars.com/gr/images/octavia2024.jpg",
+    "sha256": "12a99152349aea95c3b982041f77b68c21a55b2c73be1ce6197ac1332092b8ae",
+    "checked": "2026-11-20"
+  },
+  {
+    "id": "skoda-octavia-combi",
+    "source": "https://www.unicars.com/gr/images/octavia-combi.jpg",
+    "sha256": "f415570921337555161ed3f0d04b2b8bb8ef214a299ed6bb8dd025dad2d4495c",
+    "checked": "2026-11-20"
+  },
+  {
+    "id": "skoda-octavia-rs",
+    "source": "https://www.unicars.com/gr/images/octavia-rs.jpg",
+    "sha256": "a5269b95c3a5d2ceef9587627f098ae831e9b4ce63302e059f5e25046e63e960",
+    "checked": "2026-11-20"
+  },
+  {
+    "id": "skoda-elroq",
+    "source": "https://www.unicars.com/gr/images/elroq.jpg",
+    "sha256": "a6bfed6b2a7d5d8d15c8b208b78d26b982bcb2675be27880b7130462b247ee98",
+    "checked": "2026-11-20"
+  },
+  {
+    "id": "skoda-elroq-rs",
+    "source": "https://www.unicars.com/gr/images/elroqrs.jpg",
+    "sha256": "c70b4ee6bbeb4f66427d6605b0b5831327084de70b70c5ba50f969de9402c499",
+    "checked": "2026-11-20"
+  },
+  {
+    "id": "skoda-kamiq",
+    "source": "https://www.unicars.com/gr/docs/img/kamiq.png",
+    "sha256": "c7c53bb43f8de71260608d7b53cfe46d29a59028dd9c03743d75183d38ceabf7",
+    "checked": "2026-11-20"
+  },
+  {
+    "id": "skoda-karoq",
+    "source": "https://www.unicars.com/gr/u4a/newkaroq/newkaroqout.jpg",
+    "sha256": "fc76041c5f4c119d017e22f07a2c5925a00e1fdc2f4605378544a88b2378c614",
+    "checked": "2026-11-20"
+  },
+  {
+    "id": "skoda-kodiaq",
+    "source": "https://www.unicars.com/gr/images/newkod.jpg",
+    "sha256": "374ea2e29a53bdb3572a90b7890eb4909ac7ba0c64115bc8f734f445f24bd56f",
+    "checked": "2026-11-20"
+  },
+  {
+    "id": "skoda-kodiaq-rs",
+    "source": "https://www.unicars.com/gr/images/kodiaqrs.png",
+    "sha256": "a62aea6111d180c108c0afb166055ea8fe2a48e0c26f1eb042d9696b88254141",
+    "checked": "2026-11-20"
+  },
+  {
+    "id": "skoda-enyaq",
+    "source": "https://www.unicars.com/gr/images/enyaq.webp",
+    "sha256": "59a37c71e4b84f5aabd8e3ac6b068ac083785d53c2758014a322891c5ca8ece8",
+    "checked": "2026-11-20"
+  },
+  {
+    "id": "skoda-enyaq-rs",
+    "source": "https://www.unicars.com/gr/images/enyaqrs.webp",
+    "sha256": "85a322374770b00517fd7af66d42fb941e9899df8ae97d1e1c30b09faad1fdbd",
+    "checked": "2026-11-20"
+  },
+  {
+    "id": "skoda-enyaq-coupe",
+    "source": "https://www.unicars.com/gr/images/enyaqcoupe.webp",
+    "sha256": "758949a93ad9a844365ca783c5aa419d79fe57c959e52fda07d35509ae968506",
+    "checked": "2026-11-20"
+  },
+  {
+    "id": "skoda-enyaq-coupe-rs",
+    "source": "https://www.unicars.com/gr/images/enyaqcoupers.webp",
+    "sha256": "4873950dce977aaca2242036213e63e65120fe08d9f171c4bbf8ab39f88f858b",
+    "checked": "2026-11-20"
+  },
+  {
+    "id": "volkswagen-id-buzz",
+    "source": "https://www.unicars.com/gr/images/idbuzz.png",
+    "sha256": "c97fc82c38dd19796d1211831cc02c5358cff12ae95cdb194aa7974836b95052",
+    "checked": "2026-11-20"
+  },
+  {
+    "id": "id-buzz-cargo",
+    "source": "https://www.unicars.com/gr/images/idbuzz_cargo.jpg",
+    "sha256": "ed772b5e57b1c4adcf4f83c852b3cb673df545b465fba412cf73ebc4d0826135",
+    "checked": "2026-11-20"
+  },
+  {
+    "id": "volkswagen-amarok",
+    "source": "https://www.unicars.com/gr/docs/img/amarok.jpg",
+    "sha256": "c1234b77ffc3862fc8c29fd353cb94c6a64df5c37fa664de5d28d55c8e49fadf",
+    "checked": "2026-11-20"
+  },
+  {
+    "id": "volkswagen-caddy-maxi-cargo",
+    "source": "https://www.unicars.com/gr/docs/img/caddymaxicargo.jpg",
+    "sha256": "8e583d9e442f91e6a967956a0f3146df897c193bc6945b030814cdbf86717fa9",
+    "checked": "2026-11-20"
+  },
+  {
+    "id": "volkswagen-caddy-passenger",
+    "source": "https://www.unicars.com/gr/docs/img/caddypassenger.jpg",
+    "sha256": "e9fdc20a8d6dd0a03b80755d09a5c7ae0e69061daf3ecb6ee0bfb0e000f8de09",
+    "checked": "2026-11-20"
+  },
+  {
+    "id": "volkswagen-t7-multivan",
+    "source": "https://www.unicars.com/gr/docs/img/t7multivan.jpg",
+    "sha256": "42c19e6ae151e04d2138c47f92a475b41abd99869fbc11e4083196c34840f1a3",
+    "checked": "2026-11-20"
+  },
+  {
+    "id": "volkswagen-caddy",
+    "source": "https://www.unicars.com/gr/docs/img/caddy.png",
+    "sha256": "2b3e7249bef9a48c46368710f7c6014aa2119fbde4be922c592168e980a0414a",
+    "checked": "2026-11-20"
+  },
+  {
+    "id": "volkswagen-crafter",
+    "source": "https://www.unicars.com/gr/images/crafter.jpg",
+    "sha256": "4da5ef40809f2f7d0654c37c444715844f586b893e7b2e87f413e84ad4100eca",
+    "checked": "2026-11-20"
+  }
+]

@@ -1,0 +1,53 @@
+/* One geometry for every button; selection controls retain their own meaning. */
+:root{--button-radius:var(--radius-surface);--button-icon-radius:var(--radius-inset);--button-height:56px;--button-icon-size:38px}
+button{border-radius:var(--button-radius)!important}
+.action-button{--button-icon-bg:#edf3fa;--button-icon-line:#dce5ef;--button-icon-color:#0058df;display:inline-flex!important;align-items:center!important;justify-content:space-between;gap:18px!important;min-height:var(--button-height)!important;padding:8px 8px 8px 18px!important;border-radius:var(--button-radius)!important;text-decoration:none!important;line-height:1.35;transition:background-color .2s,border-color .2s,color .2s,opacity .2s}
+.action-icon{display:inline-flex!important;align-items:center!important;justify-content:center!important;flex:0 0 var(--button-icon-size)!important;width:var(--button-icon-size)!important;height:var(--button-icon-size)!important;padding:0!important;margin:0!important;border:1px solid var(--button-icon-line)!important;border-radius:var(--button-icon-radius)!important;background:var(--button-icon-bg)!important;color:var(--button-icon-color)!important;line-height:1!important;transition:background-color .2s,border-color .2s,color .2s;pointer-events:none}
+.action-icon>svg{display:block!important;width:18px!important;height:18px!important;padding:0!important;margin:0!important;border:0!important;border-radius:0!important;background:none!important;color:inherit!important;fill:none;stroke:currentColor;stroke-width:1.7;stroke-linecap:round;stroke-linejoin:round;opacity:1!important;flex:0 0 18px!important}
+.action-icon[data-direction=back]>svg{transform:rotate(180deg)}
+:is(.button.primary,.home-btn.blue,.smart-submit,.smart-card-link,.mobile-priority,.mobile-hub-action,.mobile-banner-cta,.photo-cta,.text-button.light,.finder-story .home-text-link).action-button{--button-icon-bg:rgb(255 255 255 / 12%);--button-icon-line:rgb(255 255 255 / 24%);--button-icon-color:#fff}
+:is(.button.primary,.home-btn.blue,.smart-submit,.smart-card-link,.mobile-priority,.mobile-hub-action,.mobile-banner-cta,.photo-cta,.text-button.light,.finder-story .home-text-link).action-button:hover{--button-icon-bg:#fff;--button-icon-line:#fff;--button-icon-color:#0058df}
+.header .header-cta.action-button{min-height:50px!important;height:50px!important;--button-icon-size:34px;padding:7px 7px 7px 16px!important;gap:14px!important;border-radius:var(--radius-surface)!important;font-size:14px!important;line-height:1.2;white-space:nowrap}
+.header .header-cta-arrow.action-icon svg{transform:none}
+.action-button:focus-visible{outline:3px solid #0058df!important;outline-offset:4px!important}
+:is(.photo-cta,.mobile-banner-cta,.text-button.light,.finder-story .home-text-link):focus-visible{outline-color:white!important}
+.action-button:active:not(:disabled){filter:brightness(.94)}
+button:disabled,.action-button[aria-disabled=true]{opacity:.45;cursor:not-allowed}
+.action-button:disabled .action-icon{--button-icon-bg:transparent;--button-icon-line:currentColor}
+/* A menu chevron signals disclosure; it is not a call-to-action icon. */
+.mega .menu-arrow{border-radius:var(--button-icon-radius)!important}
+.mega .brand-overview-button,.mobile-menu .mobile-all-brands,.compare .hero-version-link{border-radius:var(--button-radius)!important}
+.finder-brand-choice>span,.finder-budget-choices span{border-radius:var(--button-radius)!important}
+.campaign-controls button,.electric-tabs button,.faq-switch button,.smart-examples button{border-radius:var(--button-radius)!important;min-height:44px}
+/* Image taps and pagination dots aren't text action buttons. */
+.poster-button{border-radius:0!important}
+.smart-gallery-dots button{border-radius:50%!important}
+.action-button.smart-card-link,.action-button.campaign-view,.campaign-navigation .action-button,.action-button.mobile-back{--button-height:50px;--button-icon-size:32px;gap:12px!important;padding-left:14px!important}
+.mobile-back .action-icon>svg,.campaign-navigation button:first-child .action-icon>svg{transform:rotate(180deg)}
+.mobile-menu .mobile-banner-cta.action-button,.mobile-menu .mobile-hub-action.action-button{justify-content:space-between}
+.smart-data-links .action-button{font-size:12px;--button-height:48px;--button-icon-size:30px;gap:12px!important;padding-left:14px!important}
+.finder-results .action-button{--button-height:72px}
+.finder-results .action-icon{flex-direction:row!important;align-items:center!important}
+@media(max-width:700px){
+ .action-button{--button-height:54px;--button-icon-size:36px;gap:12px!important;font-size:14px}
+ .smart-cinematic .action-button.smart-submit{font-size:13px;--button-height:50px;--button-icon-size:32px;padding-left:12px!important;gap:10px!important}
+ .action-button.smart-card-link,.action-button.campaign-view,.campaign-navigation .action-button,.action-button.mobile-back{--button-height:48px;--button-icon-size:30px}
+ .smart-data-links .action-button{--button-height:48px;--button-icon-size:30px}
+}
+@media(prefers-reduced-motion:reduce){.action-button,.action-icon{transition:none!important}}
+
+.mobile-task-icon{border-radius:var(--button-icon-radius)!important}
+.action-button .action-icon{box-sizing:border-box}
+
+.header .header-cta .action-icon>svg{width:16px!important;height:16px!important;flex-basis:16px!important}
+
+/* eHub is a highlighted inventory destination; the leaf is decorative. */
+.mega .mega-group a.ehub-nav-button,.mobile-menu a.ehub-nav-button{display:flex!important;justify-content:space-between;gap:16px!important;background:rgb(47 155 103 / 9%);color:#195c40;border:1px solid #bbdfcb;backdrop-filter:blur(12px) saturate(115%);-webkit-backdrop-filter:blur(12px) saturate(115%);box-shadow:inset 0 1px 0 rgb(255 255 255 / 80%);--button-icon-bg:rgb(255 255 255 / 75%);--button-icon-line:#c8e3d4;--button-icon-color:#246b4a}
+.mega .mega-group a.ehub-nav-button small,.mobile-menu a.ehub-nav-button small{color:#48715b}
+.mega .mega-group a.ehub-nav-button:hover,.mobile-menu a.ehub-nav-button:hover{background:rgb(47 155 103 / 14%);border-color:#93caae;color:#164e37;--button-icon-bg:#fff;--button-icon-line:#aed7bf;--button-icon-color:#195c40}
+.mega .mega-group a.ehub-nav-button:active,.mobile-menu a.ehub-nav-button:active{background:rgb(47 155 103 / 20%);border-color:#78b997}
+.ehub-nav-button:focus-visible{outline-color:#176e48!important}
+
+.ehub-nav-button .action-icon>svg{transform:none!important}
+
+@media(prefers-reduced-transparency:reduce){.mega .mega-group a.ehub-nav-button,.mobile-menu a.ehub-nav-button{backdrop-filter:none;-webkit-backdrop-filter:none;background:#edf6f0}.mega .mega-group a.ehub-nav-button:hover,.mobile-menu a.ehub-nav-button:hover{background:#e1f0e7}}

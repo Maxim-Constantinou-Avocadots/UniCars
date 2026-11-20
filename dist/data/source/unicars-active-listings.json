@@ -1,0 +1,330 @@
+{
+  "checked": "2026-11-20",
+  "models": [
+    {
+      "name": "Volkswagen Golf",
+      "pdf": "https://www.unicars.com/gr/docs/pl/newgolf.pdf",
+      "image": "https://www.unicars.com/gr/images/newgolfout1.jpg"
+    },
+    {
+      "name": "Volkswagen Golf Performance (GTI & R)",
+      "pdf": "https://www.unicars.com/gr/docs/pl/golfgti.pdf",
+      "image": "https://www.unicars.com/gr/images/golfr2024.png"
+    },
+    {
+      "name": "Volkswagen Polo",
+      "pdf": "https://www.unicars.com/gr/docs/pl/newpolo.pdf",
+      "image": "https://www.unicars.com/gr/images/newpolo.jpg"
+    },
+    {
+      "name": "Volkswagen ID. Polo",
+      "pdf": "https://www.unicars.com/gr/docs/pl/id-polo.pdf",
+      "image": "https://www.unicars.com/gr/images/id-polo.png"
+    },
+    {
+      "name": "Volkswagen ID. 3 Neo",
+      "pdf": "https://www.unicars.com/gr/docs/pl/id3neo.pdf",
+      "image": "https://www.unicars.com/gr/images/newid3out.jpg"
+    },
+    {
+      "name": "Volkswagen ID. 4",
+      "pdf": "https://www.unicars.com/gr/docs/pl/id4.pdf",
+      "image": "https://www.unicars.com/gr/u4a/id4/id4out.jpg"
+    },
+    {
+      "name": "Volkswagen ID. 5",
+      "pdf": "https://www.unicars.com/gr/docs/pl/id5.pdf",
+      "image": "https://www.unicars.com/gr/u4a/id5/id5out.jpg"
+    },
+    {
+      "name": "Volkswagen ID. 7",
+      "pdf": "https://www.unicars.com/gr/docs/pl/id7.pdf",
+      "image": "https://www.unicars.com/gr/images/id7.webp"
+    },
+    {
+      "name": "Volkswagen T-Cross",
+      "pdf": "https://www.unicars.com/gr/docs/pl/t-cross.pdf",
+      "image": "https://www.unicars.com/gr/docs/img/tcross.png"
+    },
+    {
+      "name": "Volkswagen Taigo",
+      "pdf": "https://www.unicars.com/gr/docs/pl/taigo.pdf",
+      "image": "https://www.unicars.com/gr/u4a/taigo/taigoout.jpg"
+    },
+    {
+      "name": "Volkswagen T-Roc",
+      "pdf": "https://www.unicars.com/gr/docs/pl/t-roc.pdf",
+      "image": "https://www.unicars.com/gr/u4a/newtroc/trocout.jpg"
+    },
+    {
+      "name": "Volkswagen T-Roc Cabrio",
+      "pdf": "https://www.unicars.com/gr/docs/pl/troc_cabrio.pdf",
+      "image": "https://www.unicars.com/gr/images/troc_cabrio.jpg"
+    },
+    {
+      "name": "Volkswagen Tiguan",
+      "pdf": "https://www.unicars.com/gr/docs/pl/tiguan.pdf",
+      "image": "https://www.unicars.com/gr/images/tiguan2024.jpg"
+    },
+    {
+      "name": "Volkswagen Tayron",
+      "pdf": "https://www.unicars.com/gr/docs/pl/tayron.pdf",
+      "image": "https://www.unicars.com/gr/images/tayron.png"
+    },
+    {
+      "name": "Audi A3 Sedan",
+      "pdf": "https://www.unicars.com/gr/docs/pl/a3sedan.pdf",
+      "image": "https://www.unicars.com/gr/u4a/a3sedan/a3sedan.png"
+    },
+    {
+      "name": "Audi A3 Sportback",
+      "pdf": "https://www.unicars.com/gr/docs/pl/a3sb.pdf",
+      "image": "https://www.unicars.com/gr/u4a/a3/a3sb.png"
+    },
+    {
+      "name": "Audi A5 Limousine",
+      "pdf": "https://www.unicars.com/gr/docs/pl/a5limousine.pdf",
+      "image": "https://www.unicars.com/gr/docs/img/a5limousine.jpg"
+    },
+    {
+      "name": "Audi A5 Avant",
+      "pdf": "https://www.unicars.com/gr/docs/pl/a5avant.pdf",
+      "image": "https://www.unicars.com/gr/docs/img/a5avant.jpg"
+    },
+    {
+      "name": "Audi A6 e-tron Sportback",
+      "pdf": "https://www.unicars.com/gr/docs/pl/a6etronsportback.pdf",
+      "image": "https://www.unicars.com/gr/docs/img/a6etronsb.jpg"
+    },
+    {
+      "name": "Audi A6 e-tron Avant",
+      "pdf": "https://www.unicars.com/gr/docs/pl/a6etronavant.pdf",
+      "image": "https://www.unicars.com/gr/docs/img/a6avant.png"
+    },
+    {
+      "name": "Audi e-tron GT",
+      "pdf": "https://www.unicars.com/gr/docs/pl/etrongt.pdf",
+      "image": "https://www.unicars.com/gr/docs/img/etrongt.jpg"
+    },
+    {
+      "name": "Audi Q3",
+      "pdf": "https://www.unicars.com/gr/docs/pl/q3.pdf",
+      "image": "https://www.unicars.com/gr/u4a/q3.jpg"
+    },
+    {
+      "name": "Audi Q3 Sportback",
+      "pdf": "https://www.unicars.com/gr/docs/pl/q3_sb.pdf",
+      "image": "https://www.unicars.com/gr/images/q3sbnew.jpg"
+    },
+    {
+      "name": "Audi Q4 e-tron",
+      "pdf": "https://www.unicars.com/gr/docs/pl/q4.pdf",
+      "image": "https://www.unicars.com/gr/u4a/q4/q4out.jpg"
+    },
+    {
+      "name": "Audi Q4 e-tron Sportback",
+      "pdf": "https://www.unicars.com/gr/docs/pl/q4sb.pdf",
+      "image": "https://www.unicars.com/gr/u4a/q4sb/q4sbout.jpg"
+    },
+    {
+      "name": "Audi Q5",
+      "pdf": "https://www.unicars.com/gr/docs/pl/q5.pdf",
+      "image": "https://www.unicars.com/gr/images/q5.jpeg"
+    },
+    {
+      "name": "Audi Q5 Sportback",
+      "pdf": "https://www.unicars.com/gr/docs/pl/q5sb.pdf",
+      "image": "https://www.unicars.com/gr/u4a/q5sb/q5sb.png"
+    },
+    {
+      "name": "Audi Q6 e-tron",
+      "pdf": "https://www.unicars.com/gr/docs/pl/q6.pdf",
+      "image": "https://www.unicars.com/gr/docs/img/q6.png"
+    },
+    {
+      "name": "Audi Q6 Sportback e-tron",
+      "pdf": "https://www.unicars.com/gr/docs/pl/q6sb.pdf",
+      "image": "https://www.unicars.com/gr/images/q6sb.png"
+    },
+    {
+      "name": "Audi Q7",
+      "pdf": "https://www.unicars.com/gr/docs/pl/q7.pdf",
+      "image": "https://www.unicars.com/gr/docs/img/q7.png"
+    },
+    {
+      "name": "Audi Q8",
+      "pdf": "https://www.unicars.com/gr/docs/pl/q8.pdf",
+      "image": "https://www.unicars.com/gr/images/q82024.jpg"
+    },
+    {
+      "name": "Audi RSQ8",
+      "pdf": "https://www.unicars.com/gr/docs/pl/rsq8.pdf",
+      "image": "https://www.unicars.com/gr/docs/img/rsq8.png"
+    },
+    {
+      "name": "SEAT Ibiza",
+      "pdf": "https://www.unicars.com/gr/docs/pl/ibiza.pdf",
+      "image": "https://www.unicars.com/gr/images/newibiza.jpg"
+    },
+    {
+      "name": "SEAT Ibiza Van",
+      "pdf": "https://www.unicars.com/gr/docs/pl/ibiza-van.pdf",
+      "image": "https://www.unicars.com/gr/docs/img/ibiza.png"
+    },
+    {
+      "name": "SEAT Leon",
+      "pdf": "https://www.unicars.com/gr/docs/pl/newleon.pdf",
+      "image": "https://www.unicars.com/gr/u4a/newleon/leonout.jpg"
+    },
+    {
+      "name": "SEAT Arona",
+      "pdf": "https://www.unicars.com/gr/docs/pl/arona.pdf",
+      "image": "https://www.unicars.com/gr/docs/img/arona.png"
+    },
+    {
+      "name": "CUPRA Raval",
+      "pdf": "https://www.unicars.com/gr/docs/pl/raval.pdf",
+      "image": "https://www.unicars.com/gr/images/cupra-raval.webp"
+    },
+    {
+      "name": "CUPRA Tavascan",
+      "pdf": "https://www.unicars.com/gr/docs/pl/tavascan.pdf",
+      "image": "https://www.unicars.com/gr/u4a/cupra-tavascan/cupra-tavascan.jpg"
+    },
+    {
+      "name": "CUPRA Terramar",
+      "pdf": "https://www.unicars.com/gr/docs/pl/cupra-terramar.pdf",
+      "image": "https://www.unicars.com/gr/u4a/cupra-terramar/terramar.jpg"
+    },
+    {
+      "name": "CUPRA Born",
+      "pdf": "https://www.unicars.com/gr/docs/pl/cupra_born.pdf",
+      "image": "https://www.unicars.com/gr/u4a/born/bornout.jpg"
+    },
+    {
+      "name": "CUPRA Leon",
+      "pdf": "https://www.unicars.com/gr/docs/pl/cupra_leon.pdf",
+      "image": "https://www.unicars.com/gr/images/cupraleonout.jpg"
+    },
+    {
+      "name": "CUPRA Formentor",
+      "pdf": "https://www.unicars.com/gr/docs/pl/cupra-formentor.pdf",
+      "image": "https://www.unicars.com/gr/images/formentor2024.jpg"
+    },
+    {
+      "name": "Skoda Fabia",
+      "pdf": "https://www.unicars.com/gr/docs/pl/fabia.pdf",
+      "image": "https://www.unicars.com/gr/u4a/newfabia/fabiaout.jpg"
+    },
+    {
+      "name": "Skoda Fabia 130",
+      "pdf": "https://www.unicars.com/gr/docs/pl/fabia130.pdf",
+      "image": "https://www.unicars.com/gr/images/fabia130.jpg"
+    },
+    {
+      "name": "Skoda Octavia",
+      "pdf": "https://www.unicars.com/gr/docs/pl/skoda-octavia.pdf",
+      "image": "https://www.unicars.com/gr/images/octavia2024.jpg"
+    },
+    {
+      "name": "Skoda Octavia Combi",
+      "pdf": "https://www.unicars.com/gr/docs/pl/skoda-octavia-combi.pdf",
+      "image": "https://www.unicars.com/gr/images/octavia-combi.jpg"
+    },
+    {
+      "name": "Skoda Octavia RS",
+      "pdf": "https://www.unicars.com/gr/docs/pl/skoda-octavia-rs.pdf",
+      "image": "https://www.unicars.com/gr/images/octavia-rs.jpg"
+    },
+    {
+      "name": "Skoda Elroq",
+      "pdf": "https://www.unicars.com/gr/docs/pl/elroq.pdf",
+      "image": "https://www.unicars.com/gr/images/elroq.jpg"
+    },
+    {
+      "name": "Skoda Elroq RS",
+      "pdf": "https://www.unicars.com/gr/docs/pl/elroqrs.pdf",
+      "image": "https://www.unicars.com/gr/images/elroqrs.jpg"
+    },
+    {
+      "name": "Skoda Kamiq",
+      "pdf": "https://www.unicars.com/gr/docs/pl/kamiq.pdf",
+      "image": "https://www.unicars.com/gr/docs/img/kamiq.png"
+    },
+    {
+      "name": "Skoda Karoq",
+      "pdf": "https://www.unicars.com/gr/docs/pl/newkaroq.pdf",
+      "image": "https://www.unicars.com/gr/u4a/newkaroq/newkaroqout.jpg"
+    },
+    {
+      "name": "Skoda Kodiaq",
+      "pdf": "https://www.unicars.com/gr/docs/pl/kodiaq.pdf",
+      "image": "https://www.unicars.com/gr/images/newkod.jpg"
+    },
+    {
+      "name": "Skoda Kodiaq RS",
+      "pdf": "https://www.unicars.com/gr/docs/pl/kodiaqrs.pdf",
+      "image": "https://www.unicars.com/gr/images/kodiaqrs.png"
+    },
+    {
+      "name": "Skoda Enyaq",
+      "pdf": "https://www.unicars.com/gr/docs/pl/enyaq.pdf",
+      "image": "https://www.unicars.com/gr/images/enyaq.webp"
+    },
+    {
+      "name": "Skoda Enyaq RS",
+      "pdf": "https://www.unicars.com/gr/docs/pl/enyaqrs.pdf",
+      "image": "https://www.unicars.com/gr/images/enyaqrs.webp"
+    },
+    {
+      "name": "Skoda Enyaq Coupe",
+      "pdf": "https://www.unicars.com/gr/docs/pl/enyaqcoupe.pdf",
+      "image": "https://www.unicars.com/gr/images/enyaqcoupe.webp"
+    },
+    {
+      "name": "Skoda Enyaq Coupe RS",
+      "pdf": "https://www.unicars.com/gr/docs/pl/enyaqrs.pdf",
+      "image": "https://www.unicars.com/gr/images/enyaqcoupers.webp"
+    },
+    {
+      "name": "Volkswagen ID Buzz",
+      "pdf": "https://www.unicars.com/gr/docs/pl/idbuzz.pdf",
+      "image": "https://www.unicars.com/gr/images/idbuzz.png"
+    },
+    {
+      "name": "ID. Buzz Cargo",
+      "pdf": "https://www.unicars.com/gr/docs/pl/idbuzz_cargo.pdf",
+      "image": "https://www.unicars.com/gr/images/idbuzz_cargo.jpg"
+    },
+    {
+      "name": "Volkswagen Amarok",
+      "pdf": "https://www.unicars.com/gr/docs/pl/amarok.pdf",
+      "image": "https://www.unicars.com/gr/docs/img/amarok.jpg"
+    },
+    {
+      "name": "Volkswagen Caddy Maxi Cargo",
+      "pdf": "https://www.unicars.com/gr/docs/pl/caddymaxicargo.pdf",
+      "image": "https://www.unicars.com/gr/docs/img/caddymaxicargo.jpg"
+    },
+    {
+      "name": "Volkswagen Caddy Passenger",
+      "pdf": "https://www.unicars.com/gr/docs/pl/caddypassenger.pdf",
+      "image": "https://www.unicars.com/gr/docs/img/caddypassenger.jpg"
+    },
+    {
+      "name": "Volkswagen T7 Multivan",
+      "pdf": "https://www.unicars.com/gr/docs/pl/t7multivan.pdf",
+      "image": "https://www.unicars.com/gr/docs/img/t7multivan.jpg"
+    },
+    {
+      "name": "Volkswagen Caddy",
+      "pdf": "https://www.unicars.com/gr/docs/pl/caddy.pdf",
+      "image": "https://www.unicars.com/gr/docs/img/caddy.png"
+    },
+    {
+      "name": "Volkswagen Crafter",
+      "pdf": "https://www.unicars.com/gr/docs/pl/crafter.pdf",
+      "image": "https://www.unicars.com/gr/images/crafter.jpg"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "source": "https://www.unicars.com/gr/docs/pl/a1.pdf",
+    "document": "documents/price-lists/a1.pdf",
+    "pages": 6,
+    "sha256": "468d3ee78648d5ee9e730ca1547d411aef160449c4f471b5edce05202c17a1ac"
+  },
+  {
+    "source": "https://www.unicars.com/gr/docs/pl/a1_cc.pdf",
+    "document": "documents/price-lists/a1_cc.pdf",
+    "pages": 5,
+    "sha256": "aa3778ee998b71ba0262b7683fe045e903ed69148731fdb6eb7e41f43e74e0db"
+  },
+  {
+    "source": "https://www.unicars.com/gr/docs/pl/id32024.pdf",
+    "document": "documents/price-lists/id32024.pdf",
+    "pages": 6,
+    "sha256": "9cca8c0b92fff69dbfb394b4c9a1c3c0c114fcb07a8c7b299ed1cd731dca108b"
+  },
+  {
+    "source": "https://www.unicars.com/gr/docs/pl/q2.pdf",
+    "document": "documents/price-lists/q2.pdf",
+    "pages": 7,
+    "sha256": "d12ad6bd9d9f1b3356dd5c729718b2da2542e867079984c812356c01c0892043"
+  }
+]

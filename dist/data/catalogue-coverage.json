@@ -1,0 +1,106 @@
+{
+  "checked": "2026-11-20",
+  "sources": [
+    {
+      "name": "Unicars model range",
+      "url": "https://www.unicars.com/gr/pricelists.php",
+      "models": 65,
+      "versions": 303,
+      "documents": 64
+    },
+    {
+      "name": "Unicars eHub",
+      "url": "https://www.ehub.unicars.com.cy/",
+      "listings": 54,
+      "pagesFetched": 2,
+      "images": 97
+    }
+  ],
+  "modelCount": 65,
+  "modelVersionCount": 303,
+  "ehubListingCount": 54,
+  "searchRecords": 357,
+  "uniquePdfDocuments": 68,
+  "documentPages": 505,
+  "campaigns": 16,
+  "unknownPowertrainRows": [
+    {
+      "id": "audi-a3-sedan-version-7",
+      "model": "Audi S3 Sedan",
+      "trim": "S3 Sedan Stronic quattro Automatic 333 PS Sline",
+      "source": "https://www.unicars.com/gr/docs/pl/a3sedan.pdf"
+    },
+    {
+      "id": "audi-a3-sportback-version-11",
+      "model": "Audi S3 Sportback",
+      "trim": "S3 Sportback Stronic quattro Automatic 333 PS",
+      "source": "https://www.unicars.com/gr/docs/pl/a3sb.pdf"
+    },
+    {
+      "id": "audi-a5-limousine-version-8",
+      "model": "Audi S5 Limousine",
+      "trim": "S5 Limousine 367 PS",
+      "source": "https://www.unicars.com/gr/docs/pl/a5limousine.pdf"
+    },
+    {
+      "id": "audi-a5-avant-version-8",
+      "model": "Audi S5 Avant",
+      "trim": "S5 Avant 367 PS",
+      "source": "https://www.unicars.com/gr/docs/pl/a5avant.pdf"
+    },
+    {
+      "id": "audi-q5-version-7",
+      "model": "Audi SQ5",
+      "trim": "SQ5 SUV 367 PS",
+      "source": "https://www.unicars.com/gr/docs/pl/q5.pdf"
+    },
+    {
+      "id": "audi-q5-sportback-version-6",
+      "model": "Audi SQ5 Sportback",
+      "trim": "SQ5 Sportback 367 PS",
+      "source": "https://www.unicars.com/gr/docs/pl/q5sb.pdf"
+    },
+    {
+      "id": "audi-q7-version-9",
+      "model": "Audi SQ7",
+      "trim": "SQ7 507 PS Sline",
+      "source": "https://www.unicars.com/gr/docs/pl/q7.pdf"
+    },
+    {
+      "id": "audi-rsq8-version-1",
+      "model": "Audi RS Q8",
+      "trim": "RS Q8 Automatic 600 PS",
+      "source": "https://www.unicars.com/gr/docs/pl/rsq8.pdf"
+    },
+    {
+      "id": "audi-rsq8-version-2",
+      "model": "Audi RS Q8",
+      "trim": "RS Q8 Performance 640 PS",
+      "source": "https://www.unicars.com/gr/docs/pl/rsq8.pdf"
+    }
+  ],
+  "warnings": [
+    {
+      "type": "future_document_date",
+      "model": "Škoda Kodiaq RS",
+      "detail": "The original PDF states July 2027. This date and price require confirmation."
+    },
+    {
+      "type": "retired_route",
+      "url": "https://www.unicars.com/gr/automotion/index.php",
+      "detail": "The homepage links to a retired route that returned HTTP 404."
+    },
+    {
+      "type": "legacy_redirect",
+      "url": "https://www.unicars.com/gr/unicars4all.php",
+      "detail": "The legacy virtual-showroom URL redirected to the main homepage; it did not supply an additional model catalogue."
+    }
+  ],
+  "limitations": [
+    "Public source snapshot; not a live inventory connection.",
+    "Unavailable or unverified specifications are left unstated.",
+    "Exact source technical/equipment documents remain available; ambiguous table fields are not inferred."
+  ],
+  "searchModelFamilies": 82,
+  "modelImagesRefreshed": 65
+}

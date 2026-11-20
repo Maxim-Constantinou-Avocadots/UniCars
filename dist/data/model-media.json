@@ -1,0 +1,1791 @@
+{
+  "Golf": {
+    "baseline": {
+      "price": 27500,
+      "trim": "Life 1.5 eTSI 116 PS",
+      "powertrain": "mild_hybrid",
+      "source": "https://www.unicars.com/gr/docs/pl/newgolf.pdf",
+      "sourceIssued": "November 2026"
+    },
+    "images": [
+      {
+        "src": "assets/vehicles/golf.jpg",
+        "alt": "Volkswagen Golf exterior model view",
+        "fit": "contain",
+        "caption": "Model image · equipment varies",
+        "source": "https://www.unicars.com/en/pricelists.php",
+        "credit": "Unicars / respective manufacturer"
+      },
+      {
+        "src": "assets/vehicles/golf-view-2.jpg",
+        "alt": "Volkswagen Golf eHybrid",
+        "fit": "cover",
+        "caption": "eHybrid interior · equipment varies",
+        "source": "https://www.volkswagen-newsroom.com/en/images/detail/volkswagen-golf-ehybrid-80803",
+        "imageSource": "https://uploads.vw-mms.de/system/production/images/vwn/080/803/images_file_en/3f79f554099fed8b1b3de26034b4f4d0ecc0e12e/DB2024AU00111_web_804.jpg?1736327958",
+        "credit": "Volkswagen AG"
+      }
+    ]
+  },
+  "T-Roc": {
+    "baseline": {
+      "price": 33500,
+      "trim": "Life 1.5 eTSI 150 PS",
+      "powertrain": "mild_hybrid",
+      "source": "https://www.unicars.com/gr/docs/pl/t-roc.pdf",
+      "sourceIssued": "May 2026"
+    },
+    "images": [
+      {
+        "src": "assets/vehicles/troc.jpg",
+        "alt": "Volkswagen T-Roc exterior model view",
+        "fit": "contain",
+        "caption": "Model image · equipment varies",
+        "source": "https://www.unicars.com/en/pricelists.php",
+        "credit": "Unicars / respective manufacturer"
+      },
+      {
+        "src": "assets/vehicles/troc-view-2.jpg",
+        "alt": "The new Volkswagen T-Roc",
+        "fit": "cover",
+        "caption": "Model range · equipment varies",
+        "source": "https://www.volkswagen-newsroom.com/en/the-new-t-roc-international-media-drive-19983/interior-and-controls-19987",
+        "imageSource": "https://uploads.vw-mms.de/system/production/images/vwn/086/647/images_file_en/4db05b06d2a85c11c133dee22186b7ac4d9f9be7/DB2025AU00929_web_1600.jpg?1763637719",
+        "credit": "Volkswagen AG"
+      }
+    ]
+  },
+  "Tiguan": {
+    "baseline": {
+      "price": 35900,
+      "trim": "Life 1.5 eTSI 160 PS",
+      "powertrain": "mild_hybrid",
+      "source": "https://www.unicars.com/gr/docs/pl/tiguan.pdf",
+      "sourceIssued": "November 2026"
+    },
+    "images": [
+      {
+        "src": "assets/vehicles/tiguan.jpg",
+        "alt": "Volkswagen Tiguan exterior model view",
+        "fit": "contain",
+        "caption": "Model image · equipment varies",
+        "source": "https://www.unicars.com/en/pricelists.php",
+        "credit": "Unicars / respective manufacturer"
+      },
+      {
+        "src": "assets/vehicles/tiguan-view-2.jpg",
+        "alt": "Volkswagen Tiguan",
+        "fit": "cover",
+        "caption": "Model range · equipment varies",
+        "source": "https://www.volkswagen-newsroom.com/en/press-releases/volkswagen-celebrates-world-premiere-of-the-all-new-tiguan-17652",
+        "imageSource": "https://uploads.vw-mms.de/system/production/images/vwn/079/991/images/52826b3f7c3ede64b306f1f8cad70ab7f7582d1d/DB2023AU01066_web_804.jpg?1736331434",
+        "credit": "Volkswagen AG"
+      }
+    ]
+  },
+  "Raval": {
+    "baseline": {
+      "price": 30900,
+      "trim": "Plus 37 kWh",
+      "powertrain": "electric",
+      "source": "https://www.unicars.com/gr/docs/pl/raval.pdf",
+      "sourceIssued": "September 2026"
+    },
+    "images": [
+      {
+        "src": "assets/vehicles/raval.webp",
+        "alt": "CUPRA Raval exterior model view",
+        "fit": "contain",
+        "caption": "Model image · equipment varies",
+        "source": "https://www.unicars.com/en/pricelists.php",
+        "credit": "Unicars / respective manufacturer"
+      },
+      {
+        "src": "assets/vehicles/raval-view-2.jpg",
+        "alt": "CUPRA Raval VZ interior showcasing the features of the Light & Sound Pack.",
+        "fit": "cover",
+        "caption": "VZ shown · optional equipment",
+        "source": "https://www.cupraofficial.com.cy/cars/raval-cw",
+        "imageSource": "https://www.cupraofficial.com.cy/content/dam/public/cupra-website/cars/cw-raval/horizontal-scroll/cupra-raval-vz-light-and-sound-pack.jpg/_jcr_content/renditions/noretina.jpeg",
+        "credit": "CUPRA"
+      },
+      {
+        "src": "assets/vehicles/raval-view-3.jpg",
+        "alt": "CUPRA Raval VZ in manganese mat driving. The car integrates features that support semi-autonomous drive, such as travel assist 3.0, predictive acc and front traffic alert.",
+        "fit": "cover",
+        "caption": "VZ shown · optional equipment",
+        "source": "https://www.cupraofficial.com.cy/cars/raval-cw",
+        "imageSource": "https://www.cupraofficial.com.cy/content/dam/public/cupra-website/cars/cw-raval/specs-cards/cupra-raval-vz-manganesse-mat-semi-autonomous-drive.jpg/_jcr_content/renditions/noretina.jpeg",
+        "credit": "CUPRA"
+      }
+    ]
+  },
+  "Terramar": {
+    "baseline": {
+      "price": 36500,
+      "trim": "1.5 eTSI 160 PS DSG",
+      "powertrain": "mild_hybrid",
+      "source": "https://www.unicars.com/gr/docs/pl/cupra-terramar.pdf",
+      "sourceIssued": "October 2026"
+    },
+    "images": [
+      {
+        "src": "assets/vehicles/terramar.jpg",
+        "alt": "CUPRA Terramar exterior model view",
+        "fit": "contain",
+        "caption": "Model image · equipment varies",
+        "source": "https://www.unicars.com/en/pricelists.php",
+        "credit": "Unicars / respective manufacturer"
+      },
+      {
+        "src": "assets/vehicles/terramar-view-2.jpg",
+        "alt": "New CUPRA Terramar interior with infotainment system 12.9 inch, steering wheel paddles and copper accent dashboard.",
+        "fit": "cover",
+        "caption": "Model range · equipment varies",
+        "source": "https://www.cupraofficial.com.cy/cars/terramar",
+        "imageSource": "https://www.cupraofficial.com.cy/content/dam/public/cupra-website/cars/terramar-new/horitzontal-scroll-cards/cupra-terramar-interior-infotainment-system-steering-wheel-copper-dashboard.jpg",
+        "credit": "CUPRA"
+      }
+    ]
+  },
+  "Ibiza": {
+    "baseline": {
+      "price": 19500,
+      "trim": "Style 1.0 EcoTSI 115 PS DSG",
+      "powertrain": "petrol",
+      "source": "https://www.unicars.com/gr/docs/pl/ibiza.pdf",
+      "sourceIssued": "October 2026"
+    },
+    "images": [
+      {
+        "src": "assets/vehicles/ibiza.jpg",
+        "alt": "SEAT Ibiza exterior model view",
+        "fit": "contain",
+        "caption": "Model image · equipment varies",
+        "source": "https://www.unicars.com/en/pricelists.php",
+        "credit": "Unicars / respective manufacturer"
+      },
+      {
+        "src": "assets/vehicles/ibiza-view-2.jpg",
+        "alt": "Seat ibiza interior details including the embossed standard seats for fr in nuance black. ",
+        "fit": "cover",
+        "caption": "Model range · equipment varies",
+        "source": "https://www.seat.com/carworlds/ibiza/ibiza-style",
+        "imageSource": "https://www.seat.com/content/dam/public/seat-website/carworlds/ibiza-2025/slider-cards/seat-ibiza-pa-fr-upholstery-aurora.jpg",
+        "credit": "SEAT"
+      }
+    ]
+  },
+  "Q3": {
+    "baseline": {
+      "price": 40000,
+      "trim": "SUV Advance TFSI 150 PS S tronic",
+      "powertrain": "mild_hybrid",
+      "source": "https://www.unicars.com/gr/docs/pl/q3.pdf",
+      "sourceIssued": "September 2026"
+    },
+    "images": [
+      {
+        "src": "assets/vehicles/q3.jpg",
+        "alt": "Audi Q3 exterior model view",
+        "fit": "contain",
+        "caption": "Model image · equipment varies",
+        "source": "https://www.unicars.com/en/pricelists.php",
+        "credit": "Unicars / respective manufacturer"
+      },
+      {
+        "src": "assets/vehicles/q3-view-2.jpg",
+        "alt": "Audi Q3 rear exterior view",
+        "fit": "cover",
+        "caption": "Model range · equipment varies",
+        "source": "https://www.audi-mediacenter.com/de/fotos/detail/charakter-trifft-kulisse-der-neue-audi-q3-in-schottland-128808",
+        "imageSource": "https://uploads.audi.com/system/production/media/128808/images/e730c6f7005051583a5ee4d122a11c11764f9831/A251608_web_2880.jpg?1758810982",
+        "credit": "Audi AG"
+      }
+    ]
+  },
+  "Kamiq": {
+    "baseline": {
+      "price": 21500,
+      "trim": "Essence 1.0 TSI 116 PS DSG",
+      "powertrain": "petrol",
+      "source": "https://www.unicars.com/gr/docs/pl/kamiq.pdf",
+      "sourceIssued": "February 2026"
+    },
+    "images": [
+      {
+        "src": "assets/vehicles/kamiq.png",
+        "alt": "Škoda Kamiq exterior model view",
+        "fit": "contain",
+        "caption": "Model image · equipment varies",
+        "source": "https://www.unicars.com/en/pricelists.php",
+        "credit": "Unicars / respective manufacturer"
+      },
+      {
+        "src": "assets/vehicles/kamiq-view-2.jpg",
+        "alt": "Škoda Kamiq interior",
+        "fit": "cover",
+        "caption": "Interior · equipment varies",
+        "source": "https://www.skoda-storyboard.com/en/press-kits/skoda-scala-and-skoda-kamiq-media-launch-press-kit/interior-six-design-selections-sustainable-materials-and-8-inch-digital-display-as-standard/",
+        "imageSource": "https://cdn.skoda-storyboard.com/2024/02/52_Skoda_Kamiq_interior_0c91dd02-768x512.jpg",
+        "credit": "Škoda Auto / Škoda Storyboard"
+      }
+    ]
+  },
+  "Octavia": {
+    "baseline": {
+      "price": 27300,
+      "trim": "Selection 1.5 TSI m-HEV 150 PS DSG",
+      "powertrain": "mild_hybrid",
+      "source": "https://www.unicars.com/gr/docs/pl/skoda-octavia.pdf",
+      "sourceIssued": "October 2026"
+    },
+    "images": [
+      {
+        "src": "assets/vehicles/octavia.jpg",
+        "alt": "Škoda Octavia exterior model view",
+        "fit": "contain",
+        "caption": "Model image · equipment varies",
+        "source": "https://www.unicars.com/en/pricelists.php",
+        "credit": "Unicars / respective manufacturer"
+      },
+      {
+        "src": "assets/vehicles/octavia-view-2.jpg",
+        "alt": "Škoda Octavia interior",
+        "fit": "cover",
+        "caption": "Interior · equipment varies",
+        "source": "https://www.skoda-storyboard.com/en/skoda-octavia-media-launch-press-kit/interior-improved-infotainment-equipment-and-additional-sustainable-materials/attachment/103_skoda_octavia_interior_5ec80bb5/",
+        "imageSource": "https://cdn.skoda-storyboard.com/2024/05/103_Skoda_Octavia_Interior_5ec80bb5-768x512.jpg",
+        "credit": "Škoda Auto / Škoda Storyboard"
+      }
+    ]
+  },
+  "Elroq": {
+    "baseline": {
+      "price": 37900,
+      "trim": "50 125 kW",
+      "powertrain": "electric",
+      "source": "https://www.unicars.com/gr/docs/pl/elroq.pdf",
+      "sourceIssued": "October 2025"
+    },
+    "images": [
+      {
+        "src": "assets/vehicles/elroq.jpg",
+        "alt": "Škoda Elroq exterior model view",
+        "fit": "contain",
+        "caption": "Model image · equipment varies",
+        "source": "https://www.unicars.com/en/pricelists.php",
+        "credit": "Unicars / respective manufacturer"
+      },
+      {
+        "src": "assets/vehicles/elroq-view-2.jpg",
+        "alt": "Škoda Elroq interior",
+        "fit": "cover",
+        "caption": "Interior · equipment varies",
+        "source": "https://www.skoda-storyboard.com/?attachment_id=384952",
+        "imageSource": "https://cdn.skoda-storyboard.com/2024/09/ELQ_018_FINAL_no_model_64798171-768x576.jpg",
+        "credit": "Škoda Auto / Škoda Storyboard"
+      }
+    ]
+  },
+  "Volkswagen Golf": {
+    "baseline": {
+      "price": 27500,
+      "trim": "Golf 1.5 eTSI DSG 116 PS Life",
+      "powertrain": "mild_hybrid",
+      "source": "https://www.unicars.com/gr/docs/pl/newgolf.pdf",
+      "sourceIssued": "November 2026"
+    },
+    "images": [
+      {
+        "src": "assets/range/volkswagen-golf.webp",
+        "alt": "Volkswagen Golf exterior model image",
+        "fit": "contain",
+        "caption": "Model image · equipment varies"
+      },
+      {
+        "src": "assets/vehicles/golf-view-2.jpg",
+        "alt": "Volkswagen Golf eHybrid",
+        "fit": "cover",
+        "caption": "eHybrid interior · equipment varies"
+      }
+    ]
+  },
+  "Volkswagen Golf GTI & R": {
+    "baseline": {
+      "price": 42000,
+      "trim": "Golf GTI 2.0 TSI DSG 265 PS",
+      "powertrain": "petrol",
+      "source": "https://www.unicars.com/gr/docs/pl/golfgti.pdf",
+      "sourceIssued": "November 2026"
+    },
+    "images": [
+      {
+        "src": "assets/range/volkswagen-golf-performance-gti-r.webp",
+        "alt": "Volkswagen Golf GTI & R exterior model image",
+        "fit": "contain",
+        "caption": "Model image · equipment varies"
+      }
+    ]
+  },
+  "Volkswagen Polo": {
+    "baseline": {
+      "price": 21500,
+      "trim": "Polo 1.0 TSI Manual 95 PS Life",
+      "powertrain": "petrol",
+      "source": "https://www.unicars.com/gr/docs/pl/newpolo.pdf",
+      "sourceIssued": "August 2026"
+    },
+    "images": [
+      {
+        "src": "assets/range/volkswagen-polo.webp",
+        "alt": "Volkswagen Polo exterior model image",
+        "fit": "contain",
+        "caption": "Model image · equipment varies"
+      }
+    ]
+  },
+  "Volkswagen ID. Polo": {
+    "baseline": {
+      "price": 26900,
+      "trim": "ID. Polo 37kWh 37 323 85 116",
+      "powertrain": "electric",
+      "source": "https://www.unicars.com/gr/docs/pl/id-polo.pdf",
+      "sourceIssued": "November 2026"
+    },
+    "images": [
+      {
+        "src": "assets/range/volkswagen-id-polo.webp",
+        "alt": "Volkswagen ID. Polo exterior model image",
+        "fit": "contain",
+        "caption": "Model image · equipment varies"
+      }
+    ]
+  },
+  "Volkswagen ID.3 Neo": {
+    "baseline": {
+      "price": 38000,
+      "trim": "ID.3 Neo 50kWh 50 416 125 170 Life",
+      "powertrain": "electric",
+      "source": "https://www.unicars.com/gr/docs/pl/id3neo.pdf",
+      "sourceIssued": "October 2026"
+    },
+    "images": [
+      {
+        "src": "assets/range/volkswagen-id-3-neo.webp",
+        "alt": "Volkswagen ID.3 Neo exterior model image",
+        "fit": "contain",
+        "caption": "Model image · equipment varies"
+      }
+    ]
+  },
+  "Volkswagen ID.4": {
+    "baseline": {
+      "price": 39900,
+      "trim": "ID. 4 PURE 58 140 190 438",
+      "powertrain": "electric",
+      "source": "https://www.unicars.com/gr/docs/pl/id4.pdf",
+      "sourceIssued": "August 2026"
+    },
+    "images": [
+      {
+        "src": "assets/range/volkswagen-id-4.webp",
+        "alt": "Volkswagen ID.4 exterior model image",
+        "fit": "contain",
+        "caption": "Model image · equipment varies"
+      }
+    ]
+  },
+  "Volkswagen ID.5": {
+    "baseline": {
+      "price": 46900,
+      "trim": "ID. 5 PURE 52 125 170 370",
+      "powertrain": "electric",
+      "source": "https://www.unicars.com/gr/docs/pl/id5.pdf",
+      "sourceIssued": "July 2025"
+    },
+    "images": [
+      {
+        "src": "assets/range/volkswagen-id-5.webp",
+        "alt": "Volkswagen ID.5 exterior model image",
+        "fit": "contain",
+        "caption": "Model image · equipment varies"
+      }
+    ]
+  },
+  "Volkswagen ID.7": {
+    "baseline": {
+      "price": 55000,
+      "trim": "ID. 7 PRO 77 210 286 618",
+      "powertrain": "electric",
+      "source": "https://www.unicars.com/gr/docs/pl/id7.pdf",
+      "sourceIssued": "April 2025"
+    },
+    "images": [
+      {
+        "src": "assets/range/volkswagen-id-7.webp",
+        "alt": "Volkswagen ID.7 exterior model image",
+        "fit": "contain",
+        "caption": "Model image · equipment varies"
+      }
+    ]
+  },
+  "Volkswagen T-Cross": {
+    "baseline": {
+      "price": 21900,
+      "trim": "T-Cross 1.0TSI Manual 95 PS Life",
+      "powertrain": "petrol",
+      "source": "https://www.unicars.com/gr/docs/pl/t-cross.pdf",
+      "sourceIssued": "October 2026"
+    },
+    "images": [
+      {
+        "src": "assets/range/volkswagen-t-cross.webp",
+        "alt": "Volkswagen T-Cross exterior model image",
+        "fit": "contain",
+        "caption": "Model image · equipment varies"
+      }
+    ]
+  },
+  "Volkswagen Taigo": {
+    "baseline": {
+      "price": 20400,
+      "trim": "Taigo 1.0 TSI Manual 95 PS Life",
+      "powertrain": "petrol",
+      "source": "https://www.unicars.com/gr/docs/pl/taigo.pdf",
+      "sourceIssued": "July 2026"
+    },
+    "images": [
+      {
+        "src": "assets/range/volkswagen-taigo.webp",
+        "alt": "Volkswagen Taigo exterior model image",
+        "fit": "contain",
+        "caption": "Model image · equipment varies"
+      }
+    ]
+  },
+  "Volkswagen T-Roc": {
+    "baseline": {
+      "price": 33500,
+      "trim": "T-Roc 1.5 eTSI DSG 150 PS Life",
+      "powertrain": "mild_hybrid",
+      "source": "https://www.unicars.com/gr/docs/pl/t-roc.pdf",
+      "sourceIssued": "May 2026"
+    },
+    "images": [
+      {
+        "src": "assets/range/volkswagen-t-roc.webp",
+        "alt": "Volkswagen T-Roc exterior model image",
+        "fit": "contain",
+        "caption": "Model image · equipment varies"
+      },
+      {
+        "src": "assets/vehicles/troc-view-2.jpg",
+        "alt": "The new Volkswagen T-Roc",
+        "fit": "cover",
+        "caption": "Model range · equipment varies"
+      }
+    ]
+  },
+  "Volkswagen T-Roc Cabrio": {
+    "baseline": {
+      "price": 39500,
+      "trim": "T Roc Cabriolet 1.5 TSI DSG 150 PS Style",
+      "powertrain": "petrol",
+      "source": "https://www.unicars.com/gr/docs/pl/troc_cabrio.pdf",
+      "sourceIssued": "December 2025"
+    },
+    "images": [
+      {
+        "src": "assets/range/volkswagen-t-roc-cabrio.webp",
+        "alt": "Volkswagen T-Roc Cabrio exterior model image",
+        "fit": "contain",
+        "caption": "Model image · equipment varies"
+      }
+    ]
+  },
+  "Volkswagen Tiguan": {
+    "baseline": {
+      "price": 35900,
+      "trim": "Tiguan 1.5 eTSI DSG 160 PS Life",
+      "powertrain": "mild_hybrid",
+      "source": "https://www.unicars.com/gr/docs/pl/tiguan.pdf",
+      "sourceIssued": "November 2026"
+    },
+    "images": [
+      {
+        "src": "assets/range/volkswagen-tiguan.webp",
+        "alt": "Volkswagen Tiguan exterior model image",
+        "fit": "contain",
+        "caption": "Model image · equipment varies"
+      },
+      {
+        "src": "assets/vehicles/tiguan-view-2.jpg",
+        "alt": "Volkswagen Tiguan",
+        "fit": "cover",
+        "caption": "Model range · equipment varies"
+      }
+    ]
+  },
+  "Volkswagen Tayron": {
+    "baseline": {
+      "price": 38300,
+      "trim": "Tayron 1.5 eTSI DSG 150 PS Life",
+      "powertrain": "mild_hybrid",
+      "source": "https://www.unicars.com/gr/docs/pl/tayron.pdf",
+      "sourceIssued": "August 2026"
+    },
+    "images": [
+      {
+        "src": "assets/range/volkswagen-tayron.webp",
+        "alt": "Volkswagen Tayron exterior model image",
+        "fit": "contain",
+        "caption": "Model image · equipment varies"
+      }
+    ]
+  },
+  "Audi A3 Sedan": {
+    "baseline": {
+      "price": 33500,
+      "trim": "A3 Sedan 35TFSI Stronic mHEV Automatic 150 PS",
+      "powertrain": "mild_hybrid",
+      "source": "https://www.unicars.com/gr/docs/pl/a3sedan.pdf",
+      "sourceIssued": "February 2026"
+    },
+    "images": [
+      {
+        "src": "assets/range/audi-a3-sedan.webp",
+        "alt": "Audi A3 Sedan exterior model image",
+        "fit": "contain",
+        "caption": "Model image · equipment varies"
+      }
+    ]
+  },
+  "Audi A3 Sportback": {
+    "baseline": {
+      "price": 29500,
+      "trim": "A3 Sportback 30TFSI Stronic mHEV Automatic 116 PS",
+      "powertrain": "mild_hybrid",
+      "source": "https://www.unicars.com/gr/docs/pl/a3sb.pdf",
+      "sourceIssued": "January 2026"
+    },
+    "images": [
+      {
+        "src": "assets/range/audi-a3-sportback.webp",
+        "alt": "Audi A3 Sportback exterior model image",
+        "fit": "contain",
+        "caption": "Model image · equipment varies"
+      }
+    ]
+  },
+  "Audi A5 Limousine": {
+    "baseline": {
+      "price": 44500,
+      "trim": "A5 Limousine TFSI Stronic 110 kw Automatic 150 PS",
+      "powertrain": "petrol",
+      "source": "https://www.unicars.com/gr/docs/pl/a5limousine.pdf",
+      "sourceIssued": "March 2026"
+    },
+    "images": [
+      {
+        "src": "assets/range/audi-a5-limousine.webp",
+        "alt": "Audi A5 Limousine exterior model image",
+        "fit": "contain",
+        "caption": "Model image · equipment varies"
+      }
+    ]
+  },
+  "Audi A5 Avant": {
+    "baseline": {
+      "price": 45500,
+      "trim": "A5 Avant TFSI Stronic 110 kw Automatic 150 PS",
+      "powertrain": "petrol",
+      "source": "https://www.unicars.com/gr/docs/pl/a5avant.pdf",
+      "sourceIssued": "April 2026"
+    },
+    "images": [
+      {
+        "src": "assets/range/audi-a5-avant.webp",
+        "alt": "Audi A5 Avant exterior model image",
+        "fit": "contain",
+        "caption": "Model image · equipment varies"
+      }
+    ]
+  },
+  "Audi A6 e-tron Sportback": {
+    "baseline": {
+      "price": 67000,
+      "trim": "A6 Sportback e-tron 627 210",
+      "powertrain": "electric",
+      "source": "https://www.unicars.com/gr/docs/pl/a6etronsportback.pdf",
+      "sourceIssued": "May 2025"
+    },
+    "images": [
+      {
+        "src": "assets/range/audi-a6-e-tron-sportback.webp",
+        "alt": "Audi A6 e-tron Sportback exterior model image",
+        "fit": "contain",
+        "caption": "Model image · equipment varies"
+      }
+    ]
+  },
+  "Audi A6 e-tron Avant": {
+    "baseline": {
+      "price": 69000,
+      "trim": "A6 Avant e-tron 627 210",
+      "powertrain": "electric",
+      "source": "https://www.unicars.com/gr/docs/pl/a6etronavant.pdf",
+      "sourceIssued": "May 2025"
+    },
+    "images": [
+      {
+        "src": "assets/range/audi-a6-e-tron-avant.webp",
+        "alt": "Audi A6 e-tron Avant exterior model image",
+        "fit": "contain",
+        "caption": "Model image · equipment varies"
+      }
+    ]
+  },
+  "Audi e-tron GT": {
+    "baseline": {
+      "price": 129000,
+      "trim": "S e-tron GT 97 435 (500) 609",
+      "powertrain": "electric",
+      "source": "https://www.unicars.com/gr/docs/pl/etrongt.pdf",
+      "sourceIssued": "July 2024"
+    },
+    "images": [
+      {
+        "src": "assets/range/audi-e-tron-gt.webp",
+        "alt": "Audi e-tron GT exterior model image",
+        "fit": "contain",
+        "caption": "Model image · equipment varies"
+      }
+    ]
+  },
+  "Audi Q3": {
+    "baseline": {
+      "price": 40000,
+      "trim": "Q3 SUV Advance TFSI Stronic 110 kw Automatic 150 PS",
+      "powertrain": "mild_hybrid",
+      "source": "https://www.unicars.com/gr/docs/pl/q3.pdf",
+      "sourceIssued": "September 2026"
+    },
+    "images": [
+      {
+        "src": "assets/range/audi-q3.webp",
+        "alt": "Audi Q3 exterior model image",
+        "fit": "contain",
+        "caption": "Model image · equipment varies"
+      },
+      {
+        "src": "assets/vehicles/q3-view-2.jpg",
+        "alt": "Audi Q3 rear exterior view",
+        "fit": "cover",
+        "caption": "Model range · equipment varies"
+      }
+    ]
+  },
+  "Audi Q3 Sportback": {
+    "baseline": {
+      "price": 40500,
+      "trim": "Q3 Sportback Advance TFSI Stronic 110 kw Automatic 150 PS",
+      "powertrain": "mild_hybrid",
+      "source": "https://www.unicars.com/gr/docs/pl/q3_sb.pdf",
+      "sourceIssued": "September 2026"
+    },
+    "images": [
+      {
+        "src": "assets/range/audi-q3-sportback.webp",
+        "alt": "Audi Q3 Sportback exterior model image",
+        "fit": "contain",
+        "caption": "Model image · equipment varies"
+      }
+    ]
+  },
+  "Audi Q4 e-tron": {
+    "baseline": {
+      "price": 51500,
+      "trim": "Q4 SUV e-tron 150kw 59 150 440",
+      "powertrain": "electric",
+      "source": "https://www.unicars.com/gr/docs/pl/q4.pdf",
+      "sourceIssued": "November 2026"
+    },
+    "images": [
+      {
+        "src": "assets/range/audi-q4-e-tron.webp",
+        "alt": "Audi Q4 e-tron exterior model image",
+        "fit": "contain",
+        "caption": "Model image · equipment varies"
+      }
+    ]
+  },
+  "Audi Q4 e-tron Sportback": {
+    "baseline": {
+      "price": 53500,
+      "trim": "Q4 Sportback e-tron 150kw 59 150 440",
+      "powertrain": "electric",
+      "source": "https://www.unicars.com/gr/docs/pl/q4sb.pdf",
+      "sourceIssued": "November 2026"
+    },
+    "images": [
+      {
+        "src": "assets/range/audi-q4-e-tron-sportback.webp",
+        "alt": "Audi Q4 e-tron Sportback exterior model image",
+        "fit": "contain",
+        "caption": "Model image · equipment varies"
+      }
+    ]
+  },
+  "Audi Q5": {
+    "baseline": {
+      "price": 58500,
+      "trim": "Q5 SUV TFSI Stronic 150 kw Automatic 204 PS",
+      "powertrain": "mild_hybrid",
+      "source": "https://www.unicars.com/gr/docs/pl/q5.pdf",
+      "sourceIssued": "Sep 2026"
+    },
+    "images": [
+      {
+        "src": "assets/range/audi-q5.webp",
+        "alt": "Audi Q5 exterior model image",
+        "fit": "contain",
+        "caption": "Model image · equipment varies"
+      }
+    ]
+  },
+  "Audi Q5 Sportback": {
+    "baseline": {
+      "price": 61000,
+      "trim": "Q5 Sportback TFSI Stronic 150 kw Automatic 204 PS",
+      "powertrain": "mild_hybrid",
+      "source": "https://www.unicars.com/gr/docs/pl/q5sb.pdf",
+      "sourceIssued": "Sep 2026"
+    },
+    "images": [
+      {
+        "src": "assets/range/audi-q5-sportback.webp",
+        "alt": "Audi Q5 Sportback exterior model image",
+        "fit": "contain",
+        "caption": "Model image · equipment varies"
+      }
+    ]
+  },
+  "Audi Q6 e-tron": {
+    "baseline": {
+      "price": 68000,
+      "trim": "Q6 SUV e-tron 83 185 545",
+      "powertrain": "electric",
+      "source": "https://www.unicars.com/gr/docs/pl/q6.pdf",
+      "sourceIssued": "June 2026"
+    },
+    "images": [
+      {
+        "src": "assets/range/audi-q6-e-tron.webp",
+        "alt": "Audi Q6 e-tron exterior model image",
+        "fit": "contain",
+        "caption": "Model image · equipment varies"
+      }
+    ]
+  },
+  "Audi Q6 Sportback e-tron": {
+    "baseline": {
+      "price": 70900,
+      "trim": "Q6 Sportback e-tron 83 185 545",
+      "powertrain": "electric",
+      "source": "https://www.unicars.com/gr/docs/pl/q6sb.pdf",
+      "sourceIssued": "June 2026"
+    },
+    "images": [
+      {
+        "src": "assets/range/audi-q6-sportback-e-tron.webp",
+        "alt": "Audi Q6 Sportback e-tron exterior model image",
+        "fit": "contain",
+        "caption": "Model image · equipment varies"
+      }
+    ]
+  },
+  "Audi Q7": {
+    "baseline": {
+      "price": 72000,
+      "trim": "Q7 45TDI quattro tiptronic MHEV Automatic 231 PS",
+      "powertrain": "mild_hybrid",
+      "source": "https://www.unicars.com/gr/docs/pl/q7.pdf",
+      "sourceIssued": "March 2024"
+    },
+    "images": [
+      {
+        "src": "assets/range/audi-q7.webp",
+        "alt": "Audi Q7 exterior model image",
+        "fit": "contain",
+        "caption": "Model image · equipment varies"
+      }
+    ]
+  },
+  "Audi Q8": {
+    "baseline": {
+      "price": 79500,
+      "trim": "Q8 SUV TDI quattro tiptronic (170 kW) MHEV Automatic 231 PS",
+      "powertrain": "mild_hybrid",
+      "source": "https://www.unicars.com/gr/docs/pl/q8.pdf",
+      "sourceIssued": "June 2026"
+    },
+    "images": [
+      {
+        "src": "assets/range/audi-q8.webp",
+        "alt": "Audi Q8 exterior model image",
+        "fit": "contain",
+        "caption": "Model image · equipment varies"
+      }
+    ]
+  },
+  "Audi RS Q8": {
+    "baseline": {
+      "price": 142000,
+      "trim": "RS Q8 Automatic 600 PS",
+      "powertrain": "petrol",
+      "source": "https://www.unicars.com/gr/docs/pl/rsq8.pdf",
+      "sourceIssued": "July 2024"
+    },
+    "images": [
+      {
+        "src": "assets/range/audi-rsq8.webp",
+        "alt": "Audi RS Q8 exterior model image",
+        "fit": "contain",
+        "caption": "Model image · equipment varies"
+      }
+    ]
+  },
+  "SEAT Ibiza": {
+    "baseline": {
+      "price": 19500,
+      "trim": "1.0L EcoTSI 115ps Automatic Style",
+      "powertrain": "petrol",
+      "source": "https://www.unicars.com/gr/docs/pl/ibiza.pdf",
+      "sourceIssued": "October 2026"
+    },
+    "images": [
+      {
+        "src": "assets/range/seat-ibiza.webp",
+        "alt": "SEAT Ibiza exterior model image",
+        "fit": "contain",
+        "caption": "Model image · equipment varies"
+      },
+      {
+        "src": "assets/vehicles/ibiza-view-2.jpg",
+        "alt": "Seat ibiza interior details including the embossed standard seats for fr in nuance black. ",
+        "fit": "cover",
+        "caption": "Model range · equipment varies"
+      }
+    ]
+  },
+  "SEAT Ibiza Van": {
+    "baseline": {
+      "price": 18500,
+      "trim": "1.0L EcoTSI 95ps Manual",
+      "powertrain": "petrol",
+      "source": "https://www.unicars.com/gr/docs/pl/ibiza-van.pdf",
+      "sourceIssued": "October 2026"
+    },
+    "images": [
+      {
+        "src": "assets/range/seat-ibiza-van.webp",
+        "alt": "SEAT Ibiza Van exterior model image",
+        "fit": "contain",
+        "caption": "Model image · equipment varies"
+      }
+    ]
+  },
+  "SEAT Leon": {
+    "baseline": {
+      "price": 24900,
+      "trim": "1.5L eTSI 115ps DSG Style",
+      "powertrain": "mild_hybrid",
+      "source": "https://www.unicars.com/gr/docs/pl/newleon.pdf",
+      "sourceIssued": "September 2025"
+    },
+    "images": [
+      {
+        "src": "assets/range/seat-leon.webp",
+        "alt": "SEAT Leon exterior model image",
+        "fit": "contain",
+        "caption": "Model image · equipment varies"
+      }
+    ]
+  },
+  "SEAT Arona": {
+    "baseline": {
+      "price": 20500,
+      "trim": "1.0L EcoTSI 115ps Automatic Style",
+      "powertrain": "petrol",
+      "source": "https://www.unicars.com/gr/docs/pl/arona.pdf",
+      "sourceIssued": "October 2026"
+    },
+    "images": [
+      {
+        "src": "assets/range/seat-arona.webp",
+        "alt": "SEAT Arona exterior model image",
+        "fit": "contain",
+        "caption": "Model image · equipment varies"
+      }
+    ]
+  },
+  "CUPRA Raval": {
+    "baseline": {
+      "price": 30900,
+      "trim": "RAVAL Plus 37 (kWh) 135bhp* 328km",
+      "powertrain": "electric",
+      "source": "https://www.unicars.com/gr/docs/pl/raval.pdf",
+      "sourceIssued": "September 2026"
+    },
+    "images": [
+      {
+        "src": "assets/range/cupra-raval.webp",
+        "alt": "CUPRA Raval exterior model image",
+        "fit": "contain",
+        "caption": "Model image · equipment varies"
+      },
+      {
+        "src": "assets/vehicles/raval-view-2.jpg",
+        "alt": "CUPRA Raval VZ interior showcasing the features of the Light & Sound Pack.",
+        "fit": "cover",
+        "caption": "VZ shown · optional equipment"
+      },
+      {
+        "src": "assets/vehicles/raval-view-3.jpg",
+        "alt": "CUPRA Raval VZ in manganese mat driving. The car integrates features that support semi-autonomous drive, such as travel assist 3.0, predictive acc and front traffic alert.",
+        "fit": "cover",
+        "caption": "VZ shown · optional equipment"
+      }
+    ]
+  },
+  "CUPRA Tavascan": {
+    "baseline": {
+      "price": 51000,
+      "trim": "77kWh 286bhp* 568km RWD",
+      "powertrain": "electric",
+      "source": "https://www.unicars.com/gr/docs/pl/tavascan.pdf",
+      "sourceIssued": "April 2025"
+    },
+    "images": [
+      {
+        "src": "assets/range/cupra-tavascan.webp",
+        "alt": "CUPRA Tavascan exterior model image",
+        "fit": "contain",
+        "caption": "Model image · equipment varies"
+      }
+    ]
+  },
+  "CUPRA Terramar": {
+    "baseline": {
+      "price": 36500,
+      "trim": "1.5L eTSI 160ps DSG TERRAMAR",
+      "powertrain": "mild_hybrid",
+      "source": "https://www.unicars.com/gr/docs/pl/cupra-terramar.pdf",
+      "sourceIssued": "October 2026"
+    },
+    "images": [
+      {
+        "src": "assets/range/cupra-terramar.webp",
+        "alt": "CUPRA Terramar exterior model image",
+        "fit": "contain",
+        "caption": "Model image · equipment varies"
+      },
+      {
+        "src": "assets/vehicles/terramar-view-2.jpg",
+        "alt": "New CUPRA Terramar interior with infotainment system 12.9 inch, steering wheel paddles and copper accent dashboard.",
+        "fit": "cover",
+        "caption": "Model range · equipment varies"
+      }
+    ]
+  },
+  "CUPRA Born": {
+    "baseline": {
+      "price": 45200,
+      "trim": "59kWh 231bhp* 427km",
+      "powertrain": "electric",
+      "source": "https://www.unicars.com/gr/docs/pl/cupra_born.pdf",
+      "sourceIssued": "October 2025"
+    },
+    "images": [
+      {
+        "src": "assets/range/cupra-born.webp",
+        "alt": "CUPRA Born exterior model image",
+        "fit": "contain",
+        "caption": "Model image · equipment varies"
+      }
+    ]
+  },
+  "CUPRA Leon": {
+    "baseline": {
+      "price": 31900,
+      "trim": "1.5L eTSI 150ps DSG LEON",
+      "powertrain": "mild_hybrid",
+      "source": "https://www.unicars.com/gr/docs/pl/cupra_leon.pdf",
+      "sourceIssued": "July 2026"
+    },
+    "images": [
+      {
+        "src": "assets/range/cupra-leon.webp",
+        "alt": "CUPRA Leon exterior model image",
+        "fit": "contain",
+        "caption": "Model image · equipment varies"
+      }
+    ]
+  },
+  "CUPRA Formentor": {
+    "baseline": {
+      "price": 34400,
+      "trim": "1.5L eTSI 160ps DSG FORMENTOR",
+      "powertrain": "mild_hybrid",
+      "source": "https://www.unicars.com/gr/docs/pl/cupra-formentor.pdf",
+      "sourceIssued": "October 2026"
+    },
+    "images": [
+      {
+        "src": "assets/range/cupra-formentor.webp",
+        "alt": "CUPRA Formentor exterior model image",
+        "fit": "contain",
+        "caption": "Model image · equipment varies"
+      }
+    ]
+  },
+  "Škoda Fabia": {
+    "baseline": {
+      "price": 19300,
+      "trim": "FABIA 1.0L TSI Manual 95 PS SELECTION",
+      "powertrain": "petrol",
+      "source": "https://www.unicars.com/gr/docs/pl/fabia.pdf",
+      "sourceIssued": "March 2026"
+    },
+    "images": [
+      {
+        "src": "assets/range/skoda-fabia.webp",
+        "alt": "Škoda Fabia exterior model image",
+        "fit": "contain",
+        "caption": "Model image · equipment varies"
+      }
+    ]
+  },
+  "Škoda Fabia 130": {
+    "baseline": {
+      "price": 29500,
+      "trim": "FABIA 1.5L TSI DSG 174 PS",
+      "powertrain": "petrol",
+      "source": "https://www.unicars.com/gr/docs/pl/fabia130.pdf",
+      "sourceIssued": "January 2026"
+    },
+    "images": [
+      {
+        "src": "assets/range/skoda-fabia-130.webp",
+        "alt": "Škoda Fabia 130 exterior model image",
+        "fit": "contain",
+        "caption": "Model image · equipment varies"
+      }
+    ]
+  },
+  "Škoda Octavia": {
+    "baseline": {
+      "price": 27300,
+      "trim": "OCTAVIA 1.5 TSI m-HEV DSG 150 PS Selection",
+      "powertrain": "mild_hybrid",
+      "source": "https://www.unicars.com/gr/docs/pl/skoda-octavia.pdf",
+      "sourceIssued": "October 2026"
+    },
+    "images": [
+      {
+        "src": "assets/range/skoda-octavia.webp",
+        "alt": "Škoda Octavia exterior model image",
+        "fit": "contain",
+        "caption": "Model image · equipment varies"
+      },
+      {
+        "src": "assets/vehicles/octavia-view-2.jpg",
+        "alt": "Škoda Octavia interior",
+        "fit": "cover",
+        "caption": "Interior · equipment varies"
+      }
+    ]
+  },
+  "Škoda Octavia Combi": {
+    "baseline": {
+      "price": 29300,
+      "trim": "OCTAVIA Combi 1.5 TSI m-HEV DSG 150 PS Selection",
+      "powertrain": "mild_hybrid",
+      "source": "https://www.unicars.com/gr/docs/pl/skoda-octavia-combi.pdf",
+      "sourceIssued": "October 2026"
+    },
+    "images": [
+      {
+        "src": "assets/range/skoda-octavia-combi.webp",
+        "alt": "Škoda Octavia Combi exterior model image",
+        "fit": "contain",
+        "caption": "Model image · equipment varies"
+      }
+    ]
+  },
+  "Škoda Octavia RS": {
+    "baseline": {
+      "price": 38500,
+      "trim": "OCTAVIA 2.0 TSI DSG",
+      "powertrain": "petrol",
+      "source": "https://www.unicars.com/gr/docs/pl/skoda-octavia-rs.pdf",
+      "sourceIssued": "October 2026"
+    },
+    "images": [
+      {
+        "src": "assets/range/skoda-octavia-rs.webp",
+        "alt": "Škoda Octavia RS exterior model image",
+        "fit": "contain",
+        "caption": "Model image · equipment varies"
+      }
+    ]
+  },
+  "Škoda Elroq": {
+    "baseline": {
+      "price": 37900,
+      "trim": "ELROQ 50 125 SPORTLINE",
+      "powertrain": "electric",
+      "source": "https://www.unicars.com/gr/docs/pl/elroq.pdf",
+      "sourceIssued": "October 2025"
+    },
+    "images": [
+      {
+        "src": "assets/range/skoda-elroq.webp",
+        "alt": "Škoda Elroq exterior model image",
+        "fit": "contain",
+        "caption": "Model image · equipment varies"
+      },
+      {
+        "src": "assets/vehicles/elroq-view-2.jpg",
+        "alt": "Škoda Elroq interior",
+        "fit": "cover",
+        "caption": "Interior · equipment varies"
+      }
+    ]
+  },
+  "Škoda Elroq RS": {
+    "baseline": {
+      "price": 56000,
+      "trim": "ELROQ 85 250",
+      "powertrain": "electric",
+      "source": "https://www.unicars.com/gr/docs/pl/elroqrs.pdf",
+      "sourceIssued": "October 2025"
+    },
+    "images": [
+      {
+        "src": "assets/range/skoda-elroq-rs.webp",
+        "alt": "Škoda Elroq RS exterior model image",
+        "fit": "contain",
+        "caption": "Model image · equipment varies"
+      }
+    ]
+  },
+  "Škoda Kamiq": {
+    "baseline": {
+      "price": 21500,
+      "trim": "Kamiq 1.0L TSI DSG 116 PS Essence",
+      "powertrain": "petrol",
+      "source": "https://www.unicars.com/gr/docs/pl/kamiq.pdf",
+      "sourceIssued": "February 2026"
+    },
+    "images": [
+      {
+        "src": "assets/range/skoda-kamiq.webp",
+        "alt": "Škoda Kamiq exterior model image",
+        "fit": "contain",
+        "caption": "Model image · equipment varies"
+      },
+      {
+        "src": "assets/vehicles/kamiq-view-2.jpg",
+        "alt": "Škoda Kamiq interior",
+        "fit": "cover",
+        "caption": "Interior · equipment varies"
+      }
+    ]
+  },
+  "Škoda Karoq": {
+    "baseline": {
+      "price": 29900,
+      "trim": "KAROQ 1.5L TSI DSG 150 PS Selection",
+      "powertrain": "petrol",
+      "source": "https://www.unicars.com/gr/docs/pl/newkaroq.pdf",
+      "sourceIssued": "April 2026"
+    },
+    "images": [
+      {
+        "src": "assets/range/skoda-karoq.webp",
+        "alt": "Škoda Karoq exterior model image",
+        "fit": "contain",
+        "caption": "Model image · equipment varies"
+      }
+    ]
+  },
+  "Škoda Kodiaq": {
+    "baseline": {
+      "price": 36500,
+      "trim": "KODIAQ 1.5 TSI m-HEV (7-speed DSG) 150 PS Selection",
+      "powertrain": "mild_hybrid",
+      "source": "https://www.unicars.com/gr/docs/pl/kodiaq.pdf",
+      "sourceIssued": "July 2026"
+    },
+    "images": [
+      {
+        "src": "assets/range/skoda-kodiaq.webp",
+        "alt": "Škoda Kodiaq exterior model image",
+        "fit": "contain",
+        "caption": "Model image · equipment varies"
+      }
+    ]
+  },
+  "Škoda Kodiaq RS": {
+    "baseline": {
+      "price": 55500,
+      "trim": "KODIAQ 2.0 TSI (7-speed DSG 4x4) 265 PS",
+      "powertrain": "petrol",
+      "source": "https://www.unicars.com/gr/docs/pl/kodiaqrs.pdf",
+      "sourceIssued": "July 2027"
+    },
+    "images": [
+      {
+        "src": "assets/range/skoda-kodiaq-rs.webp",
+        "alt": "Škoda Kodiaq RS exterior model image",
+        "fit": "contain",
+        "caption": "Model image · equipment varies"
+      }
+    ]
+  },
+  "Škoda Enyaq": {
+    "baseline": {
+      "price": 47500,
+      "trim": "Enyaq 60 150 Sportline",
+      "powertrain": "electric",
+      "source": "https://www.unicars.com/gr/docs/pl/enyaq.pdf",
+      "sourceIssued": "October 2025"
+    },
+    "images": [
+      {
+        "src": "assets/range/skoda-enyaq.webp",
+        "alt": "Škoda Enyaq exterior model image",
+        "fit": "contain",
+        "caption": "Model image · equipment varies"
+      }
+    ]
+  },
+  "Škoda Enyaq RS": {
+    "baseline": {
+      "price": 62500,
+      "trim": "Enyaq RS 250",
+      "powertrain": "electric",
+      "source": "https://www.unicars.com/gr/docs/pl/enyaqrs.pdf",
+      "sourceIssued": "December 2025"
+    },
+    "images": [
+      {
+        "src": "assets/range/skoda-enyaq-rs.webp",
+        "alt": "Škoda Enyaq RS exterior model image",
+        "fit": "contain",
+        "caption": "Model image · equipment varies"
+      }
+    ]
+  },
+  "Škoda Enyaq Coupé": {
+    "baseline": {
+      "price": 50000,
+      "trim": "Enyaq Coupe 60 150",
+      "powertrain": "electric",
+      "source": "https://www.unicars.com/gr/docs/pl/enyaqcoupe.pdf",
+      "sourceIssued": "December 2025"
+    },
+    "images": [
+      {
+        "src": "assets/range/skoda-enyaq-coupe.webp",
+        "alt": "Škoda Enyaq Coupé exterior model image",
+        "fit": "contain",
+        "caption": "Model image · equipment varies"
+      }
+    ]
+  },
+  "Škoda Enyaq Coupé RS": {
+    "baseline": {
+      "price": 65000,
+      "trim": "Enyaq Coupe RS 250",
+      "powertrain": "electric",
+      "source": "https://www.unicars.com/gr/docs/pl/enyaqrs.pdf",
+      "sourceIssued": "December 2025"
+    },
+    "images": [
+      {
+        "src": "assets/range/skoda-enyaq-coupe-rs.webp",
+        "alt": "Škoda Enyaq Coupé RS exterior model image",
+        "fit": "contain",
+        "caption": "Model image · equipment varies"
+      }
+    ]
+  },
+  "Volkswagen ID. Buzz": {
+    "baseline": {
+      "price": 53500,
+      "trim": "ID BUZZ Pro NWB 79 459 210 286",
+      "powertrain": "electric",
+      "source": "https://www.unicars.com/gr/docs/pl/idbuzz.pdf",
+      "sourceIssued": "November 2025"
+    },
+    "images": [
+      {
+        "src": "assets/range/volkswagen-id-buzz.webp",
+        "alt": "Volkswagen ID. Buzz exterior model image",
+        "fit": "contain",
+        "caption": "Model image · equipment varies"
+      }
+    ]
+  },
+  "Volkswagen ID. Buzz Cargo": {
+    "baseline": {
+      "price": 51500,
+      "trim": "ID BUZZ PURE 59 330 125 170",
+      "powertrain": "electric",
+      "source": "https://www.unicars.com/gr/docs/pl/idbuzz_cargo.pdf",
+      "sourceIssued": "November 2025"
+    },
+    "images": [
+      {
+        "src": "assets/range/id-buzz-cargo.webp",
+        "alt": "Volkswagen ID. Buzz Cargo exterior model image",
+        "fit": "contain",
+        "caption": "Model image · equipment varies"
+      }
+    ]
+  },
+  "Volkswagen Amarok": {
+    "baseline": {
+      "price": 52000,
+      "trim": "Amarok 3.0 TDI Automatic 4M 240 PS Style",
+      "powertrain": "diesel",
+      "source": "https://www.unicars.com/gr/docs/pl/amarok.pdf",
+      "sourceIssued": "March 2026"
+    },
+    "images": [
+      {
+        "src": "assets/range/volkswagen-amarok.webp",
+        "alt": "Volkswagen Amarok exterior model image",
+        "fit": "contain",
+        "caption": "Model image · equipment varies"
+      }
+    ]
+  },
+  "Volkswagen Caddy Maxi Cargo": {
+    "baseline": {
+      "price": 25900,
+      "trim": "VW Caddy Maxi 1.5 TSI 114 PS",
+      "powertrain": "petrol",
+      "source": "https://www.unicars.com/gr/docs/pl/caddymaxicargo.pdf",
+      "sourceIssued": "February 2024"
+    },
+    "images": [
+      {
+        "src": "assets/range/volkswagen-caddy-maxi-cargo.webp",
+        "alt": "Volkswagen Caddy Maxi Cargo exterior model image",
+        "fit": "contain",
+        "caption": "Model image · equipment varies"
+      }
+    ]
+  },
+  "Volkswagen Caddy Passenger": {
+    "baseline": {
+      "price": 37000,
+      "trim": "VW Caddy 1.5 TSI DSG 114 PS",
+      "powertrain": "petrol",
+      "source": "https://www.unicars.com/gr/docs/pl/caddypassenger.pdf",
+      "sourceIssued": "February 2024"
+    },
+    "images": [
+      {
+        "src": "assets/range/volkswagen-caddy-passenger.webp",
+        "alt": "Volkswagen Caddy Passenger exterior model image",
+        "fit": "contain",
+        "caption": "Model image · equipment varies"
+      }
+    ]
+  },
+  "Volkswagen T7 Multivan": {
+    "baseline": {
+      "price": 52000,
+      "trim": "T7 Multivan 2.0TDI DSG Medium wheel-Base 150 PS",
+      "powertrain": "diesel",
+      "source": "https://www.unicars.com/gr/docs/pl/t7multivan.pdf",
+      "sourceIssued": "December 2023"
+    },
+    "images": [
+      {
+        "src": "assets/range/volkswagen-t7-multivan.webp",
+        "alt": "Volkswagen T7 Multivan exterior model image",
+        "fit": "contain",
+        "caption": "Model image · equipment varies"
+      }
+    ]
+  },
+  "Volkswagen Caddy Cargo": {
+    "baseline": {
+      "price": 25700,
+      "trim": "VW Caddy 1.5 TSI 116 PS",
+      "powertrain": "petrol",
+      "source": "https://www.unicars.com/gr/docs/pl/caddy.pdf",
+      "sourceIssued": "October 2025"
+    },
+    "images": [
+      {
+        "src": "assets/range/volkswagen-caddy.webp",
+        "alt": "Volkswagen Caddy Cargo exterior model image",
+        "fit": "contain",
+        "caption": "Model image · equipment varies"
+      }
+    ]
+  },
+  "Volkswagen Crafter": {
+    "baseline": {
+      "price": 36900,
+      "trim": "Crafter 35 2.0TDI Manual 140 PS",
+      "powertrain": "diesel",
+      "source": "https://www.unicars.com/gr/docs/pl/crafter.pdf",
+      "sourceIssued": "October 2025"
+    },
+    "images": [
+      {
+        "src": "assets/range/volkswagen-crafter.webp",
+        "alt": "Volkswagen Crafter exterior model image",
+        "fit": "contain",
+        "caption": "Model image · equipment varies"
+      }
+    ]
+  },
+  "Volkswagen Golf GTE": {
+    "baseline": {
+      "price": 42500,
+      "trim": "Golf GTE DSG 272 PS",
+      "powertrain": "plug_in_hybrid",
+      "source": "https://www.unicars.com/gr/docs/pl/newgolf.pdf",
+      "sourceIssued": "November 2026"
+    },
+    "images": [
+      {
+        "src": "assets/range/volkswagen-golf.webp",
+        "alt": "Volkswagen Golf exterior model image",
+        "fit": "contain",
+        "caption": "Golf model-family image · selected version may differ"
+      },
+      {
+        "src": "assets/vehicles/golf-view-2.jpg",
+        "alt": "Volkswagen Golf eHybrid",
+        "fit": "cover",
+        "caption": "Golf model-family image · selected version may differ"
+      }
+    ]
+  },
+  "Volkswagen Golf GTI": {
+    "baseline": {
+      "price": 42000,
+      "trim": "Golf GTI 2.0 TSI DSG 265 PS",
+      "powertrain": "petrol",
+      "source": "https://www.unicars.com/gr/docs/pl/golfgti.pdf",
+      "sourceIssued": "November 2026"
+    },
+    "images": [
+      {
+        "src": "assets/range/volkswagen-golf-performance-gti-r.webp",
+        "alt": "Volkswagen Golf GTI & R exterior model image",
+        "fit": "contain",
+        "caption": "Golf GTI & R model-family image · selected version may differ"
+      }
+    ]
+  },
+  "Volkswagen Golf GTI Clubsport": {
+    "baseline": {
+      "price": 48500,
+      "trim": "Golf GTI Clubsport 2.0 TSI DSG 300 PS",
+      "powertrain": "petrol",
+      "source": "https://www.unicars.com/gr/docs/pl/golfgti.pdf",
+      "sourceIssued": "November 2026"
+    },
+    "images": [
+      {
+        "src": "assets/range/volkswagen-golf-performance-gti-r.webp",
+        "alt": "Volkswagen Golf GTI & R exterior model image",
+        "fit": "contain",
+        "caption": "Golf GTI & R model-family image · selected version may differ"
+      }
+    ]
+  },
+  "Volkswagen Golf R": {
+    "baseline": {
+      "price": 57500,
+      "trim": "Golf R 2.0 TSI 4Motion DSG 325 PS",
+      "powertrain": "petrol",
+      "source": "https://www.unicars.com/gr/docs/pl/golfgti.pdf",
+      "sourceIssued": "November 2026"
+    },
+    "images": [
+      {
+        "src": "assets/range/volkswagen-golf-performance-gti-r.webp",
+        "alt": "Volkswagen Golf GTI & R exterior model image",
+        "fit": "contain",
+        "caption": "Golf GTI & R model-family image · selected version may differ"
+      }
+    ]
+  },
+  "Audi S3 Sedan": {
+    "baseline": {
+      "price": 63000,
+      "trim": "S3 Sedan Stronic quattro Automatic 333 PS Sline",
+      "powertrain": "unknown",
+      "source": "https://www.unicars.com/gr/docs/pl/a3sedan.pdf",
+      "sourceIssued": "February 2026"
+    },
+    "images": [
+      {
+        "src": "assets/range/audi-a3-sedan.webp",
+        "alt": "Audi A3 Sedan exterior model image",
+        "fit": "contain",
+        "caption": "A3 Sedan model-family image · selected version may differ"
+      }
+    ]
+  },
+  "Audi S3 Sportback": {
+    "baseline": {
+      "price": 62000,
+      "trim": "S3 Sportback Stronic quattro Automatic 333 PS",
+      "powertrain": "unknown",
+      "source": "https://www.unicars.com/gr/docs/pl/a3sb.pdf",
+      "sourceIssued": "January 2026"
+    },
+    "images": [
+      {
+        "src": "assets/range/audi-a3-sportback.webp",
+        "alt": "Audi A3 Sportback exterior model image",
+        "fit": "contain",
+        "caption": "A3 Sportback model-family image · selected version may differ"
+      }
+    ]
+  },
+  "Audi S5 Limousine": {
+    "baseline": {
+      "price": 87000,
+      "trim": "S5 Limousine 367 PS",
+      "powertrain": "unknown",
+      "source": "https://www.unicars.com/gr/docs/pl/a5limousine.pdf",
+      "sourceIssued": "March 2026"
+    },
+    "images": [
+      {
+        "src": "assets/range/audi-a5-limousine.webp",
+        "alt": "Audi A5 Limousine exterior model image",
+        "fit": "contain",
+        "caption": "A5 Limousine model-family image · selected version may differ"
+      }
+    ]
+  },
+  "Audi S5 Avant": {
+    "baseline": {
+      "price": 88000,
+      "trim": "S5 Avant 367 PS",
+      "powertrain": "unknown",
+      "source": "https://www.unicars.com/gr/docs/pl/a5avant.pdf",
+      "sourceIssued": "April 2026"
+    },
+    "images": [
+      {
+        "src": "assets/range/audi-a5-avant.webp",
+        "alt": "Audi A5 Avant exterior model image",
+        "fit": "contain",
+        "caption": "A5 Avant model-family image · selected version may differ"
+      }
+    ]
+  },
+  "Audi S6 Sportback e-tron": {
+    "baseline": {
+      "price": 102000,
+      "trim": "S6 Sportback e-tron 675 405",
+      "powertrain": "electric",
+      "source": "https://www.unicars.com/gr/docs/pl/a6etronsportback.pdf",
+      "sourceIssued": "May 2025"
+    },
+    "images": [
+      {
+        "src": "assets/range/audi-a6-e-tron-sportback.webp",
+        "alt": "Audi A6 e-tron Sportback exterior model image",
+        "fit": "contain",
+        "caption": "A6 e-tron Sportback model-family image · selected version may differ"
+      }
+    ]
+  },
+  "Audi S6 Avant e-tron": {
+    "baseline": {
+      "price": 104000,
+      "trim": "S6 Avant e-tron 675 405",
+      "powertrain": "electric",
+      "source": "https://www.unicars.com/gr/docs/pl/a6etronavant.pdf",
+      "sourceIssued": "May 2025"
+    },
+    "images": [
+      {
+        "src": "assets/range/audi-a6-e-tron-avant.webp",
+        "alt": "Audi A6 e-tron Avant exterior model image",
+        "fit": "contain",
+        "caption": "A6 e-tron Avant model-family image · selected version may differ"
+      }
+    ]
+  },
+  "Audi S e-tron GT": {
+    "baseline": {
+      "price": 129000,
+      "trim": "S e-tron GT 97 435 (500) 609",
+      "powertrain": "electric",
+      "source": "https://www.unicars.com/gr/docs/pl/etrongt.pdf",
+      "sourceIssued": "July 2024"
+    },
+    "images": [
+      {
+        "src": "assets/range/audi-e-tron-gt.webp",
+        "alt": "Audi e-tron GT exterior model image",
+        "fit": "contain",
+        "caption": "e-tron GT model-family image · selected version may differ"
+      }
+    ]
+  },
+  "Audi RS e-tron GT": {
+    "baseline": {
+      "price": 155000,
+      "trim": "RS e-tron GT 97 500 (630) 598",
+      "powertrain": "electric",
+      "source": "https://www.unicars.com/gr/docs/pl/etrongt.pdf",
+      "sourceIssued": "July 2024"
+    },
+    "images": [
+      {
+        "src": "assets/range/audi-e-tron-gt.webp",
+        "alt": "Audi e-tron GT exterior model image",
+        "fit": "contain",
+        "caption": "e-tron GT model-family image · selected version may differ"
+      }
+    ]
+  },
+  "Audi SQ5": {
+    "baseline": {
+      "price": 98000,
+      "trim": "SQ5 SUV 367 PS",
+      "powertrain": "unknown",
+      "source": "https://www.unicars.com/gr/docs/pl/q5.pdf",
+      "sourceIssued": "Sep 2026"
+    },
+    "images": [
+      {
+        "src": "assets/range/audi-q5.webp",
+        "alt": "Audi Q5 exterior model image",
+        "fit": "contain",
+        "caption": "Q5 model-family image · selected version may differ"
+      }
+    ]
+  },
+  "Audi SQ5 Sportback": {
+    "baseline": {
+      "price": 100500,
+      "trim": "SQ5 Sportback 367 PS",
+      "powertrain": "unknown",
+      "source": "https://www.unicars.com/gr/docs/pl/q5sb.pdf",
+      "sourceIssued": "Sep 2026"
+    },
+    "images": [
+      {
+        "src": "assets/range/audi-q5-sportback.webp",
+        "alt": "Audi Q5 Sportback exterior model image",
+        "fit": "contain",
+        "caption": "Q5 Sportback model-family image · selected version may differ"
+      }
+    ]
+  },
+  "Audi SQ6 e-tron": {
+    "baseline": {
+      "price": 99000,
+      "trim": "SQ6 SUV e-tron 100 360 592",
+      "powertrain": "electric",
+      "source": "https://www.unicars.com/gr/docs/pl/q6.pdf",
+      "sourceIssued": "June 2026"
+    },
+    "images": [
+      {
+        "src": "assets/range/audi-q6-e-tron.webp",
+        "alt": "Audi Q6 e-tron exterior model image",
+        "fit": "contain",
+        "caption": "Q6 e-tron model-family image · selected version may differ"
+      }
+    ]
+  },
+  "Audi SQ6 Sportback e-tron": {
+    "baseline": {
+      "price": 101900,
+      "trim": "SQ6 Sportback e-tron 100 360 592",
+      "powertrain": "electric",
+      "source": "https://www.unicars.com/gr/docs/pl/q6sb.pdf",
+      "sourceIssued": "June 2026"
+    },
+    "images": [
+      {
+        "src": "assets/range/audi-q6-sportback-e-tron.webp",
+        "alt": "Audi Q6 Sportback e-tron exterior model image",
+        "fit": "contain",
+        "caption": "Q6 Sportback e-tron model-family image · selected version may differ"
+      }
+    ]
+  },
+  "Audi SQ7": {
+    "baseline": {
+      "price": 113000,
+      "trim": "SQ7 507 PS Sline",
+      "powertrain": "unknown",
+      "source": "https://www.unicars.com/gr/docs/pl/q7.pdf",
+      "sourceIssued": "March 2024"
+    },
+    "images": [
+      {
+        "src": "assets/range/audi-q7.webp",
+        "alt": "Audi Q7 exterior model image",
+        "fit": "contain",
+        "caption": "Q7 model-family image · selected version may differ"
+      }
+    ]
+  },
+  "Audi SQ8": {
+    "baseline": {
+      "price": 118000,
+      "trim": "SQ8 SUV TFSI (373 kW) 507 PS",
+      "powertrain": "petrol",
+      "source": "https://www.unicars.com/gr/docs/pl/q8.pdf",
+      "sourceIssued": "June 2026"
+    },
+    "images": [
+      {
+        "src": "assets/range/audi-q8.webp",
+        "alt": "Audi Q8 exterior model image",
+        "fit": "contain",
+        "caption": "Q8 model-family image · selected version may differ"
+      }
+    ]
+  },
+  "Škoda Octavia Combi RS": {
+    "baseline": {
+      "price": 40500,
+      "trim": "OCTAVIA COMBI 2.0 TSI DSG",
+      "powertrain": "petrol",
+      "source": "https://www.unicars.com/gr/docs/pl/skoda-octavia-rs.pdf",
+      "sourceIssued": "October 2026"
+    },
+    "images": [
+      {
+        "src": "assets/range/skoda-octavia-rs.webp",
+        "alt": "Škoda Octavia RS exterior model image",
+        "fit": "contain",
+        "caption": "Octavia RS model-family image · selected version may differ"
+      }
+    ]
+  }
+}

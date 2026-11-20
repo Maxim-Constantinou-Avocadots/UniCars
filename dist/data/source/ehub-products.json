@@ -1,0 +1,3609 @@
+{
+  "checked": "2026-11-20",
+  "pagesFetched": 2,
+  "products": [
+    {
+      "id": 10964088652113,
+      "title": "VW T Roc Cabrio Style 1.5TSI DSG",
+      "handle": "vw-t-roc-cabrio-style-1-5tsi-dsg-1",
+      "body_html": "<p>VW T Roc Cabrio Style 1.5TSI DSG</p>\n<h5>Color</h5>\n<p>Pure White/ Black</p>\n<h5>Equipment</h5>\n<p><span>For more details about our standard equipment please use the link below</span><span style=\"font-size: 0.875rem;\">.</span></p>\n<ul>\n<li><a href=\"https://www.unicars.com/gr/docs/pl/troc_cabrio.pdf\">Standard Equipment</a></li>\n</ul>\n<h5>Additional Equipment</h5>\n<p class=\"my-0\">The additional equipment is included in the price.</p>\n<ul>\n<li>Keyless locking and starting system Keyless Access without SAFELOCK <br>\n</li>\n<li>Rear view camera system </li>\n</ul>\n<h5>Technical Specification</h5>\n<ul>\n<li>Fuel Type: Petrol</li>\n<li>Engine capacity: 1498cc</li>\n<li>Output: 110kw / 150bhp</li>\n<li>Transmision Type: DSG</li>\n<li>Combined CO2: 145g/km</li>\n<li>Combined Consumption: 6,4 l/100km</li>\n</ul>\n<!---->",
+      "published_at": "2026-07-24T11:53:51+03:00",
+      "created_at": "2026-07-23T10:26:56+03:00",
+      "updated_at": "2026-11-20T10:48:32+02:00",
+      "vendor": "VW",
+      "product_type": "T ROC",
+      "tags": [
+        "new",
+        "troc"
+      ],
+      "variants": [
+        {
+          "id": 54391743381841,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "36500.00",
+          "grams": 0,
+          "compare_at_price": "40330.00",
+          "position": 2,
+          "product_id": 10964088652113,
+          "created_at": "2026-07-23T10:26:56+03:00",
+          "updated_at": "2026-11-20T10:48:32+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 84043547509073,
+          "created_at": "2026-07-24T11:16:06+03:00",
+          "position": 1,
+          "updated_at": "2026-07-24T11:16:10+03:00",
+          "product_id": 10964088652113,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0844/8691/4385/files/TROCCABRIOPureWhiteBlack1.webp?v=1784880970",
+          "width": 1024,
+          "height": 1024
+        },
+        {
+          "id": 84043547541841,
+          "created_at": "2026-07-24T11:16:06+03:00",
+          "position": 2,
+          "updated_at": "2026-07-24T11:16:10+03:00",
+          "product_id": 10964088652113,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0844/8691/4385/files/TROCCABRIOPureWhiteBlack2.webp?v=1784880970",
+          "width": 1024,
+          "height": 1024
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10964085473617,
+      "title": "VW T Roc Cabrio Style 1.5TSI DSG",
+      "handle": "vw-t-roc-cabrio-style-1-5tsi-dsg",
+      "body_html": "<p>VVW T Roc Cabrio Style 1.5TSI DSG</p>\n<h5>Color</h5>\n<p>Smoky Gray Metallic/ Black</p>\n<h5>Equipment</h5>\n<p><span>For more details about our standard equipment please use the link below</span><span style=\"font-size: 0.875rem;\">.</span></p>\n<ul>\n<li><a href=\"https://www.unicars.com/gr/docs/pl/troc_cabrio.pdf\">Standard Equipment</a></li>\n</ul>\n<h5>Additional Equipment</h5>\n<p class=\"my-0\">The additional equipment is included in the price.</p>\n<ul>\n<li>Keyless locking and starting system Keyless Access without SAFELOCK <br>\n</li>\n<li>Rear view camera system </li>\n</ul>\n<h5>Technical Specification</h5>\n<ul>\n<li>Fuel Type: Petrol</li>\n<li>Engine capacity: 1498cc</li>\n<li>Output: 110kw / 150bhp</li>\n<li>Transmision Type: DSG</li>\n<li>Combined CO2: 145g/km</li>\n<li>Combined Consumption: 6,4 l/100km</li>\n</ul>\n<!---->",
+      "published_at": "2026-07-24T11:53:13+03:00",
+      "created_at": "2026-07-23T10:22:07+03:00",
+      "updated_at": "2026-11-20T10:48:32+02:00",
+      "vendor": "VW",
+      "product_type": "T ROC",
+      "tags": [
+        "new",
+        "troc"
+      ],
+      "variants": [
+        {
+          "id": 54391730405713,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "VC168678",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "37000.00",
+          "grams": 0,
+          "compare_at_price": "40980.00",
+          "position": 2,
+          "product_id": 10964085473617,
+          "created_at": "2026-07-23T10:22:07+03:00",
+          "updated_at": "2026-11-20T10:48:32+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 84043522212177,
+          "created_at": "2026-07-24T11:14:37+03:00",
+          "position": 1,
+          "updated_at": "2026-07-24T11:14:41+03:00",
+          "product_id": 10964085473617,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0844/8691/4385/files/TROCCabrioSmokyGrayMetallicBlack1.webp?v=1784880881",
+          "width": 1024,
+          "height": 1024
+        },
+        {
+          "id": 84043522244945,
+          "created_at": "2026-07-24T11:14:37+03:00",
+          "position": 2,
+          "updated_at": "2026-07-24T11:14:41+03:00",
+          "product_id": 10964085473617,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0844/8691/4385/files/TROCCabrioSmokyGrayMetallicBlack2.webp?v=1784880881",
+          "width": 1024,
+          "height": 1024
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10964080787793,
+      "title": "VW Tiguan Rline 2.0 TSI DSG 150kw 4MOTION",
+      "handle": "vw-tiguan-rline-2-0-tsi-dsg-150kw-4motion",
+      "body_html": "<p>VW Tiguan Rline 2.0 TSI DSG 150kw 4MOTION</p>\n<h5>Color</h5>\n<p>Grenadillblack met.</p>\n<h5>Equipment</h5>\n<p><span>For more details about our standard equipment please use the link below</span><span style=\"font-size: 0.875rem;\">.</span></p>\n<ul>\n<li><a href=\"https://www.unicars.com/gr/docs/pl/tiguan.pdf\" rel=\"noopener\" target=\"_blank\">Standard Equipment</a></li>\n</ul>\n<h5>Additional Equipment</h5>\n<p class=\"my-0\">The additional equipment is included in the price.</p>\n<ul>\n<li>Technology package Premium light, smart offer <br>\n</li>\n<li>\"York\" 8.5J x 20, Black, Volkswagen R, tires 255/40 R20 <br>\n</li>\n<li>Styling package \"Black Style\" <br>\n</li>\n</ul>\n<h5><span style=\"font-size: 0.875rem;\">Technical Information</span></h5>\n<ul>\n<li>Fuel Type: Petrol</li>\n<li>Engine capacity: 1984cc</li>\n<li>Output:150kw / 204bhp</li>\n<li>Transmision Type: DSG</li>\n<li>Combined CO2:  175g/km</li>\n<li>Combined Consumption:  7.7 l/100km</li>\n</ul>\n<!---->",
+      "published_at": "2026-07-24T11:52:12+03:00",
+      "created_at": "2026-07-23T10:13:46+03:00",
+      "updated_at": "2026-11-20T10:48:32+02:00",
+      "vendor": "VW",
+      "product_type": "TIGUAN",
+      "tags": [
+        "new",
+        "tiguan"
+      ],
+      "variants": [
+        {
+          "id": 54391695212881,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "VC170584",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "46000.00",
+          "grams": 0,
+          "compare_at_price": "52810.00",
+          "position": 2,
+          "product_id": 10964080787793,
+          "created_at": "2026-07-23T10:13:47+03:00",
+          "updated_at": "2026-11-20T10:48:32+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 82696090714449,
+          "created_at": "2026-05-26T10:52:52+03:00",
+          "position": 1,
+          "updated_at": "2026-05-26T10:52:56+03:00",
+          "product_id": 10964080787793,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0844/8691/4385/files/VWGrenadillblackmet.TiguanRline1.5eTSIDSGVC166899a.webp?v=1779781976",
+          "width": 1024,
+          "height": 1024
+        },
+        {
+          "id": 82696090747217,
+          "created_at": "2026-05-26T10:52:52+03:00",
+          "position": 2,
+          "updated_at": "2026-05-26T10:52:56+03:00",
+          "product_id": 10964080787793,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0844/8691/4385/files/VWGrenadillblackmet.TiguanRline1.5eTSIDSGVC166899b.webp?v=1779781976",
+          "width": 1024,
+          "height": 1024
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10964075086161,
+      "title": "VW Tiguan Rline 1.5 eTSI DSG",
+      "handle": "vw-tiguan-rline-1-5-etsi-dsg-2",
+      "body_html": "<p>VW Tiguan Rline 1.5 eTSI DSG</p>\n<h5>Color</h5>\n<p>Onyx White Mother of Pearl Effect</p>\n<h5>Equipment</h5>\n<p><span>For more details about our standard equipment please use the link below</span><span style=\"font-size: 0.875rem;\">.</span></p>\n<ul>\n<li><a rel=\"noopener\" href=\"https://www.unicars.com/gr/docs/pl/tiguan.pdf\" target=\"_blank\">Standard Equipment</a></li>\n</ul>\n<h5>Additional Equipment</h5>\n<p class=\"my-0\">The additional equipment is included in the price.</p>\n<ul>\n<li>\"Leeds\" 8.5J x 20, Black/Gray, diamond-turned, Volkswagen R, AirStop- tires 255/40 R20 </li>\n<li>Technology package Premium light, smart offer</li>\n<li>Special Edition </li>\n</ul>\n<h5><span style=\"font-size: 0.875rem;\">Technical Information</span></h5>\n<ul>\n<li>Fuel Type: Petrol</li>\n<li>Engine capacity: 1498cc</li>\n<li>Output:110kw / 150bhp</li>\n<li>Transmision Type: DSG</li>\n<li>Combined CO2:  140g/km</li>\n<li>Combined Consumption:  6,2 l/100km</li>\n</ul>\n<!---->",
+      "published_at": "2026-07-24T11:48:48+03:00",
+      "created_at": "2026-07-23T10:04:23+03:00",
+      "updated_at": "2026-11-20T10:48:32+02:00",
+      "vendor": "VW",
+      "product_type": "TIGUAN",
+      "tags": [
+        "new",
+        "tiguan"
+      ],
+      "variants": [
+        {
+          "id": 54391675814225,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "VC170228",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "40000.00",
+          "grams": 0,
+          "compare_at_price": "46270.00",
+          "position": 2,
+          "product_id": 10964075086161,
+          "created_at": "2026-07-23T10:04:24+03:00",
+          "updated_at": "2026-11-20T10:48:32+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 82695198703953,
+          "created_at": "2026-05-26T10:23:59+03:00",
+          "position": 1,
+          "updated_at": "2026-05-26T10:24:03+03:00",
+          "product_id": 10964075086161,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0844/8691/4385/files/VWPureWhiteTiguanRline1.5TSIDSGVC162287b_b2948bd3-77ba-410b-be0b-a42d0a0699b8.webp?v=1779780243",
+          "width": 1024,
+          "height": 1024
+        },
+        {
+          "id": 82695198736721,
+          "created_at": "2026-05-26T10:23:59+03:00",
+          "position": 2,
+          "updated_at": "2026-05-26T10:24:03+03:00",
+          "product_id": 10964075086161,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0844/8691/4385/files/VWPureWhiteTiguanRline1.5TSIDSGVC162287a_a135b855-b647-4f61-a54b-6076a5556904.webp?v=1779780243",
+          "width": 1024,
+          "height": 1024
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10964071448913,
+      "title": "VW Tiguan Life 1.5eTSI DSG",
+      "handle": "vw-tiguan-life-1-5etsi-dsg-2",
+      "body_html": "<p>VW Tiguan Life 1.5eTSI DSG<br></p>\n<h5>Color</h5>\n<p>Oyster Silver Metalic</p>\n<h5>Equipment</h5>\n<p><span>For more details about our standard equipment please use the link below</span><span style=\"font-size: 0.875rem;\">.</span></p>\n<ul>\n<li><a href=\"https://www.unicars.com/gr/docs/pl/tiguan.pdf\" rel=\"noopener\" target=\"_blank\">Standard Equipment</a></li>\n</ul>\n<h5>Additional Equipment</h5>\n<p class=\"my-0\">The additional equipment is included in the price.</p>\n<ul>\n<li>Styling package <br>\n</li>\n<li>IQ.DRIVE Technology package <br>\n</li>\n<li>LED Plus headlamps <br>\n</li>\n<li>Winter Convenience package <br>\n</li>\n<li>Special edition <br>\n</li>\n</ul>\n<h5><span style=\"font-size: 0.875rem;\">Technical Information</span></h5>\n<ul>\n<li>Fuel Type: Petrol</li>\n<li>Engine capacity: 1498cc</li>\n<li>Output:110kw / 150bhp</li>\n<li>Transmision Type: DSG</li>\n<li>Combined CO2:  140g/km</li>\n<li>Combined Consumption:  6,2 l/100km</li>\n</ul>\n<!---->",
+      "published_at": "2026-07-24T11:47:07+03:00",
+      "created_at": "2026-07-23T09:59:41+03:00",
+      "updated_at": "2026-11-20T10:48:32+02:00",
+      "vendor": "VW",
+      "product_type": "TIGUAN",
+      "tags": [
+        "new",
+        "tiguan"
+      ],
+      "variants": [
+        {
+          "id": 54391665426769,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "VC170571",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "34500.00",
+          "grams": 0,
+          "compare_at_price": "41490.00",
+          "position": 2,
+          "product_id": 10964071448913,
+          "created_at": "2026-07-23T09:59:41+03:00",
+          "updated_at": "2026-11-20T10:48:32+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 82696800567633,
+          "created_at": "2026-05-26T11:14:09+03:00",
+          "position": 1,
+          "updated_at": "2026-05-26T11:14:13+03:00",
+          "product_id": 10964071448913,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0844/8691/4385/files/VWOysterSilverMetalicTiguanLife1.5eTSIDSGVC166031a_19670498-6e4b-4d9b-b54c-29253101cdac.webp?v=1779783253",
+          "width": 1024,
+          "height": 1024
+        },
+        {
+          "id": 82696800600401,
+          "created_at": "2026-05-26T11:14:09+03:00",
+          "position": 2,
+          "updated_at": "2026-05-26T11:14:13+03:00",
+          "product_id": 10964071448913,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0844/8691/4385/files/VWOysterSilverMetalicTiguanLife1.5eTSIDSGVC166031b_fd01cab2-15e9-412b-a2d7-298ccad2bafc.webp?v=1779783253",
+          "width": 1024,
+          "height": 1024
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10964069908817,
+      "title": "VW Tiguan Life 1.5eTSI DSG",
+      "handle": "vw-tiguan-life-1-5etsi-dsg-1",
+      "body_html": "<p>VW Tiguan Life 1.5eTSI DSG<br></p>\n<h5>Color</h5>\n<p>Grenadillblack met.</p>\n<h5>Equipment</h5>\n<p><span>For more details about our standard equipment please use the link below</span><span style=\"font-size: 0.875rem;\">.</span></p>\n<ul>\n<li><a href=\"https://www.unicars.com/gr/docs/pl/tiguan.pdf\" rel=\"noopener\" target=\"_blank\">Standard Equipment</a></li>\n</ul>\n<h5>Additional Equipment</h5>\n<p class=\"my-0\">The additional equipment is included in the price.</p>\n<ul>\n<li>Life Plus Package<br>\n</li>\n<li>Styling package <br>\n</li>\n<li>Comfort package <br>\n</li>\n<li>\"Napoli\" 7.5J x 18, Black, diamond-turned, tires 235/55 R18 <br>\n</li>\n<li>LED Plus headlamps <br><br>\n</li>\n</ul>\n<h5><span style=\"font-size: 0.875rem;\">Technical Information</span></h5>\n<ul>\n<li>Fuel Type: Petrol</li>\n<li>Engine capacity: 1498cc</li>\n<li>Output:110kw / 150bhp</li>\n<li>Transmision Type: DSG</li>\n<li>Combined CO2:  140g/km</li>\n<li>Combined Consumption:  6,2 l/100km</li>\n</ul>\n<!---->",
+      "published_at": "2026-07-24T11:38:24+03:00",
+      "created_at": "2026-07-23T09:56:48+03:00",
+      "updated_at": "2026-11-20T10:48:32+02:00",
+      "vendor": "VW",
+      "product_type": "TIGUAN",
+      "tags": [
+        "new",
+        "tiguan"
+      ],
+      "variants": [
+        {
+          "id": 54391662936401,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "VC170569",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "34500.00",
+          "grams": 0,
+          "compare_at_price": "41490.00",
+          "position": 2,
+          "product_id": 10964069908817,
+          "created_at": "2026-07-23T09:56:49+03:00",
+          "updated_at": "2026-11-20T10:48:32+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 84043469390161,
+          "created_at": "2026-07-24T11:11:22+03:00",
+          "position": 1,
+          "updated_at": "2026-07-24T11:11:26+03:00",
+          "product_id": 10964069908817,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0844/8691/4385/files/TiguanGrenadillblackmet2.webp?v=1784880686",
+          "width": 1024,
+          "height": 1024
+        },
+        {
+          "id": 84043469422929,
+          "created_at": "2026-07-24T11:11:22+03:00",
+          "position": 2,
+          "updated_at": "2026-07-24T11:11:25+03:00",
+          "product_id": 10964069908817,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0844/8691/4385/files/TiguanGrenadillblackmet1.webp?v=1784880685",
+          "width": 1024,
+          "height": 1024
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10964052607313,
+      "title": "VW Golf Life 1.5TSI ehybrid DSG 110kw",
+      "handle": "vw-golf-life-1-5tsi-ehybrid-dsg-110kw",
+      "body_html": "<p>VW Golf Life 1.5TSI ehybrid DSG 110kw</p>\n<h5>Color</h5>\n<p>Grenadilla Black Metallic</p>\n<h5>Equipment</h5>\n<p><span>For more details about our standard equipment please use the link below</span><span style=\"font-size: 0.875rem;\">.</span></p>\n<ul>\n<li><a rel=\"noopener\" href=\"https://www.unicars.com/gr/docs/pl/newgolf.pdf\" target=\"_blank\">Standard Equipment</a></li>\n</ul>\n<h5>Additional Equipment</h5>\n<p class=\"my-0\">The additional equipment is included in the price.</p>\n<ul>\n<li>Lane keeping system Lane Assist <br>\n</li>\n<li>Features on demand: high beam control Light Assist <br>\n</li>\n<li>Rear view camera system <br>\n</li>\n<li>Life Plus package PHEV<br>\n</li>\n<li>Parking and Convenience package for DQ (without SAFELOCK) with Intelligent Park Assist <br>\n</li>\n<li>Lights &amp; Vision package incl. high-beam control Light Assist <br>\n</li>\n<li>Privacy glass for rear side windows and rear window <br><br>\n</li>\n</ul>\n<h5>Technical Information</h5>\n<ul>\n<li>Fuel Type: Plug in-Hybrid</li>\n<li>Engine capacity: 1498cc</li>\n<li>Output: 110kw / 150bhp</li>\n<li>System Performance: 150 Kw</li>\n<li>Electric Range : 132-142 Km</li>\n<li>Transmision Type: DSG</li>\n<li>Combined CO2: 9-6 g/km</li>\n<li>Combined Consumption: 15,7–14,7 kWh/100 km plus 0,40,3 l/100km<br>\n</li>\n</ul>\n<!---->",
+      "published_at": "2026-07-24T11:35:23+03:00",
+      "created_at": "2026-07-23T09:26:35+03:00",
+      "updated_at": "2026-11-20T10:48:32+02:00",
+      "vendor": "VW",
+      "product_type": "GOLF",
+      "tags": [
+        "new"
+      ],
+      "variants": [
+        {
+          "id": 54391619191121,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "VC165432",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "30000.00",
+          "grams": 0,
+          "compare_at_price": "41120.00",
+          "position": 2,
+          "product_id": 10964052607313,
+          "created_at": "2026-07-23T09:26:35+03:00",
+          "updated_at": "2026-11-20T10:48:32+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 84043387076945,
+          "created_at": "2026-07-24T11:08:52+03:00",
+          "position": 1,
+          "updated_at": "2026-07-24T11:08:56+03:00",
+          "product_id": 10964052607313,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0844/8691/4385/files/GolfGrenadillaBlackMetallic1.webp?v=1784880536",
+          "width": 1024,
+          "height": 1024
+        },
+        {
+          "id": 84043387109713,
+          "created_at": "2026-07-24T11:08:52+03:00",
+          "position": 2,
+          "updated_at": "2026-07-24T11:08:56+03:00",
+          "product_id": 10964052607313,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0844/8691/4385/files/GrenadillaBlackMetallic2.webp?v=1784880536",
+          "width": 1024,
+          "height": 1024
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10964046807377,
+      "title": "VW Golf Life 1.5TSI ehybrid DSG 110kw",
+      "handle": "vw-golf-life-ehybrid-dsg-110kw-1",
+      "body_html": "<p>VW Golf Life 1.5TSI ehybrid DSG 110kw</p>\n<h5>Color</h5>\n<p>Anemone Blue Metallic</p>\n<h5>Equipment</h5>\n<p><span>For more details about our standard equipment please use the link below</span><span style=\"font-size: 0.875rem;\">.</span></p>\n<ul>\n<li><a rel=\"noopener\" href=\"https://www.unicars.com/gr/docs/pl/newgolf.pdf\" target=\"_blank\">Standard Equipment</a></li>\n</ul>\n<h5>Additional Equipment</h5>\n<p class=\"my-0\">The additional equipment is included in the price.</p>\n<ul>\n<li>Privacy glass for rear side windows and rear window <br>Rear view camera system <br>\n</li>\n<li>Parking and Convenience package for DQ (without SAFELOCK) with Intelligent Park Assist <br>\n</li>\n<li>Lights &amp; Vision package incl. high-beam control Light Assist <br>\n</li>\n</ul>\n<h5>Technical Information</h5>\n<ul>\n<li>Fuel Type: Plug in-Hybrid</li>\n<li>Engine capacity: 1498cc</li>\n<li>Output: 110kw / 150bhp</li>\n<li>System Performance: 150 Kw</li>\n<li>Electric Range : 132-142 Km</li>\n<li>Transmision Type: DSG</li>\n<li>Combined CO2: 9-6 g/km</li>\n<li>Combined Consumption: 15,7–14,7 kWh/100 km plus 0,40,3 l/100km<br>\n</li>\n</ul>\n<!---->",
+      "published_at": "2026-07-24T11:33:50+03:00",
+      "created_at": "2026-07-23T09:13:39+03:00",
+      "updated_at": "2026-11-20T10:48:32+02:00",
+      "vendor": "VW",
+      "product_type": "GOLF",
+      "tags": [
+        "new"
+      ],
+      "variants": [
+        {
+          "id": 54391595434321,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "VC164971",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "30000.00",
+          "grams": 0,
+          "compare_at_price": "41120.00",
+          "position": 2,
+          "product_id": 10964046807377,
+          "created_at": "2026-07-23T09:13:39+03:00",
+          "updated_at": "2026-11-20T10:48:32+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 83276371984721,
+          "created_at": "2026-06-17T15:54:03+03:00",
+          "position": 1,
+          "updated_at": "2026-06-17T15:54:31+03:00",
+          "product_id": 10964046807377,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0844/8691/4385/files/Anemone_Blue_Metallic.webp?v=1781700871",
+          "width": 1024,
+          "height": 1024
+        },
+        {
+          "id": 83276372017489,
+          "created_at": "2026-06-17T15:54:03+03:00",
+          "position": 2,
+          "updated_at": "2026-06-17T15:54:48+03:00",
+          "product_id": 10964046807377,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0844/8691/4385/files/Anemone_Blue_Metallic2.webp?v=1781700888",
+          "width": 1024,
+          "height": 1024
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10964041072977,
+      "title": "Audi Q8 55TFSI quattro",
+      "handle": "audi-q8-60tfsie-quattro",
+      "body_html": "<p>Audi Q8 55TFSI quattro</p>\n<h5>Color </h5>\n<p>Ascari Blue Metalic</p>\n<h5>Equipment</h5>\n<p><span>For more details about our standard equipment please use the link below</span><span style=\"font-size: 0.875rem;\">.</span></p>\n<ul>\n<li><a href=\"https://www.unicars.com/gr/docs/pl/q8.pdf\">Standard Equipment</a></li>\n</ul>\n<h5>Additional Equipment</h5>\n<p class=\"my-0\">The additional equipment is included in the price.</p>\n<ul>\n<li>Black Appearance package <br>\n</li>\n<li>City assistance package <br>\n</li>\n<li>Comfort key with sensor-controlled luggage comp. release incl. electric luggage compartment cover <br>\n</li>\n<li>\"S line\" exterior package <br>\n</li>\n<li>Power seats in front including memory feature for the driver seat <br>\n</li>\n<li>Matrix LED headlamps and LED rear combination lamps <br>\n</li>\n<li>Sports seats Plus in front <br>\n</li>\n<li>Dark-tinted heat-reflecting glass <br>\n</li>\n<li>S line Sports package <br>\n</li>\n<li>adaptive air suspension <br>\n</li>\n<li>Leather-wrapped multi-function steering wheel, 3-spoke, with shift paddles and steering wheel heating 3-Speichen <br>\n</li>\n<li>Black roof rails <br>\n</li>\n<li>Seat heaters in front <br>\n</li>\n<li>Black Appearance package Plus<br>\n</li>\n<li>Decorative inserts in matte brushed aluminum with linear structure in Silver AL Orthogon <br>\n</li>\n<li>Exterior mirror housings in Black <br>\n</li>\n<li>4-zone climate control system <br>\n</li>\n<li>Audi phone box <br>\n</li>\n<li>Audi Sport wheels, 10-spoke Y-style, Black Metallic, 10.0J x 22, 285/40 R22 tires Q8 PA <br>\n</li>\n<li>LTE support for Audi phone box <br>\n</li>\n<li>Glossy Black operating buttons with haptic feedback and aluminum Look interior <br>\n</li>\n<li>Power latching for the doors <br>\n</li>\n<li>Head-up display <br>\n</li>\n<li>Valcona leather with embossed S logo and diamond stitching </li>\n</ul>\n<h5>Technical Specification</h5>\n<ul>\n<li>Fuel Type: Petrol</li>\n<li>Engine capacity: 2967cc</li>\n<li>Output: 210kw / 340bhp</li>\n<li>Transmision Type: Stronic</li>\n<li>Combined CO2: 230-258 g/km</li>\n<li>Combined Consumption: 10,1–11,4/100km<span></span>\n</li>\n</ul>\n<!---->",
+      "published_at": "2026-07-24T11:29:25+03:00",
+      "created_at": "2026-07-23T08:47:50+03:00",
+      "updated_at": "2026-11-20T10:48:32+02:00",
+      "vendor": "AUDI",
+      "product_type": "Q8 PA",
+      "tags": [
+        "test-drive-car"
+      ],
+      "variants": [
+        {
+          "id": 54391571546449,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "VC164542",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "84000.00",
+          "grams": 0,
+          "compare_at_price": "109600.00",
+          "position": 2,
+          "product_id": 10964041072977,
+          "created_at": "2026-07-23T08:47:50+03:00",
+          "updated_at": "2026-11-20T10:48:32+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 84043117560145,
+          "created_at": "2026-07-24T10:57:11+03:00",
+          "position": 1,
+          "updated_at": "2026-07-24T10:57:13+03:00",
+          "product_id": 10964041072977,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0844/8691/4385/files/Q8AscariBlueMetalic1.webp?v=1784879833",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "id": 84043117592913,
+          "created_at": "2026-07-24T10:57:11+03:00",
+          "position": 2,
+          "updated_at": "2026-07-24T10:57:13+03:00",
+          "product_id": 10964041072977,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0844/8691/4385/files/Q8AscariBlueMetalic2.webp?v=1784879833",
+          "width": 1920,
+          "height": 1080
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10963001704785,
+      "title": "Audi Q6 etron SUV quattro",
+      "handle": "audi-q6-etron-suv-quattro-1",
+      "body_html": "<p>Audi Q6 etron SUV quattro</p>\n<h5>Color</h5>\n<p>Plasma Blue Metallic</p>\n<h5>Equipment</h5>\n<p><span>For more details about our standard equipment please use the link below</span><span style=\"font-size: 0.875rem;\">.</span></p>\n<ul>\n<li><a href=\"https://www.unicars.com/gr/docs/pl/q6.pdf\">Standard Equipment</a></li>\n</ul>\n<h5>Additional Equipment</h5>\n<p class=\"my-0\">The additional equipment is included in the price.</p>\n<ul>\n<li>Double-spoke leather-wrapped multi-function steering wheel with shift paddles rund, Paddel <br>\n</li>\n<li>Audi Sport wheels, 10-spoke trapezoidal style, Metallic Black, diamond-turned, 8.5J!10.0J x 20, 255/50!285/45 R20 tires ET35 vo ET39 hi (9W7) Audi Sport GmbH  <br>\n</li>\n<li>Audi connect navigation &amp; infotainment <br>\n</li>\n<li>Charging system \"compact\" <br>\n</li>\n<li>Tech <br>\n</li>\n<li>Interior with standard seats in Black leather/leatherette combination <br>\n</li>\n<li>Drive and Park Assist package with surround view camera <br><span style=\"font-size: 0.875rem;\">  </span>\n</li>\n</ul>\n<h5>Technical Specification</h5>\n<ul>\n<li>Electric Vehicle<br>\n</li>\n<li>Output: 340kw / 462bhp</li>\n<li>Electric Combined Consumption WLPT: 19.3 -16.3 /kwh/100km</li>\n<li>Electric Range (WLPT): 542 –642km</li>\n<li>Net Battery Capacity:  94.9kwh</li>\n</ul>\n<!---->",
+      "published_at": "2026-07-24T10:32:14+03:00",
+      "created_at": "2026-07-22T16:57:30+03:00",
+      "updated_at": "2026-11-20T10:48:32+02:00",
+      "vendor": "AUDI",
+      "product_type": "Q4 E-tron",
+      "tags": [
+        "test-drive-car"
+      ],
+      "variants": [
+        {
+          "id": 54387871777105,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "VC163081",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "67000.00",
+          "grams": 0,
+          "compare_at_price": "89570.00",
+          "position": 2,
+          "product_id": 10963001704785,
+          "created_at": "2026-07-22T16:57:31+03:00",
+          "updated_at": "2026-11-20T10:48:32+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 84029435674961,
+          "created_at": "2026-07-23T16:37:34+03:00",
+          "position": 1,
+          "updated_at": "2026-07-23T16:37:36+03:00",
+          "product_id": 10963001704785,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0844/8691/4385/files/Q6etronPlasmaBlueMetallic1.webp?v=1784813856",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "id": 84029435707729,
+          "created_at": "2026-07-23T16:37:34+03:00",
+          "position": 2,
+          "updated_at": "2026-07-23T16:37:36+03:00",
+          "product_id": 10963001704785,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0844/8691/4385/files/Q6etronPlasmaBlueMetallic2.webp?v=1784813856",
+          "width": 1920,
+          "height": 1080
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10962817974609,
+      "title": "Audi Q2 35TFSI Advance Stronic",
+      "handle": "audi-q2-35tfsi-advance-stronic-1",
+      "body_html": "<p>Audi Q2 35TFSI Advance Stronic</p>\n<h5>Color</h5>\n<p>Navarra Blue Metallic</p>\n<h5>Equipment</h5>\n<p><span>For more details about our standard equipment please use the link below</span><span style=\"font-size: 0.875rem;\">.</span></p>\n<ul>\n<li><a href=\"https://www.unicars.com/gr/docs/pl/q2.pdf\">Standard Equipment</a></li>\n</ul>\n<h5>Additional Equipment</h5>\n<p class=\"my-0\">The additional equipment is included in the price.</p>\n<ul>\n<li>With multifunction camera <br>\n</li>\n<li>LED rear combination lamps <br>\n</li>\n<li>Audi virtual cockpit Plus <br>\n</li>\n<li>Rear view camera system <br>\n</li>\n<li>Convenient Pack<br>\n</li>\n<li>Fabric \"Puls\"/leather combination Leder Milano und Stoff <br>\n</li>\n<li>Audi Sport wheels, 5-double-spoke trapezoidal style, Black, diam.-turned, 7.0J x 18, 215/50 R18 tires ET40 Audi Sport GmbH <br>\n</li>\n<li>Black Appearance package Plus<br>\n</li>\n<li>Side blades in body color  <br>\n</li>\n<li>Dark-tinted heat-reflecting glass <br>\n</li>\n<li>S line interior </li>\n</ul>\n<h5>Technical Specification</h5>\n<ul>\n<li>Fuel Type: Petrol</li>\n<li>Engine capacity: 1498cc</li>\n<li>Output: 110kw / 150bhp</li>\n<li>Transmision Type: Stronic</li>\n<li>Combined CO2: 135 g/km</li>\n<li>Combined Consumption: 6,0 l/100km</li>\n</ul>\n<!---->",
+      "published_at": "2026-07-24T10:15:34+03:00",
+      "created_at": "2026-07-22T15:02:44+03:00",
+      "updated_at": "2026-11-20T10:48:32+02:00",
+      "vendor": "AUDI",
+      "product_type": "Q2 PI",
+      "tags": [
+        "test-drive-car"
+      ],
+      "variants": [
+        {
+          "id": 54386806489425,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "VC164028",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "32000.00",
+          "grams": 0,
+          "compare_at_price": "40530.00",
+          "position": 2,
+          "product_id": 10962817974609,
+          "created_at": "2026-07-22T15:02:44+03:00",
+          "updated_at": "2026-11-20T10:48:32+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 84029231235409,
+          "created_at": "2026-07-23T16:25:00+03:00",
+          "position": 1,
+          "updated_at": "2026-07-23T16:25:03+03:00",
+          "product_id": 10962817974609,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0844/8691/4385/files/Q2NavarraBlueMetallic.jpg?v=1784813103",
+          "width": 1376,
+          "height": 691
+        },
+        {
+          "id": 84029231202641,
+          "created_at": "2026-07-23T16:25:00+03:00",
+          "position": 2,
+          "updated_at": "2026-07-23T16:25:03+03:00",
+          "product_id": 10962817974609,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0844/8691/4385/files/Q2NavarraBlueMetallic2.jpg?v=1784813103",
+          "width": 1376,
+          "height": 690
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10962738708817,
+      "title": "Audi A6 Sportback e-tron Performance",
+      "handle": "audi-a6-sportback-e-tron-performance-1",
+      "body_html": "<p>Audi A6 Sportback e-tron Performance</p>\n<h5>Color</h5>\n<p>Magnet Gray </p>\n<h5>Equipment</h5>\n<p><span>For more details about our standard equipment please use the link below</span><span style=\"font-size: 0.875rem;\">.</span></p>\n<ul>\n<li><a href=\"https://www.unicars.com/gr/docs/pl/a6etronsportback.pdf\" target=\"_blank\">Standard Equipment</a></li>\n</ul>\n<h5><br></h5>\n<h5>Additional Equipment</h5>\n<p>The additional equipment is included in the price.</p>\n<ul>\n<li>Front cross-traffic assist <br>\n</li>\n<li>Audi Sport wheels, 5-spoke tripod, Black Metallic, gloss turned finish, 8.0J!9.0J x 20, 235/45!265/40 R20 tires <br>\n</li>\n<li>Inlays, matt brushed aluminum with linear embossing, Anthracite Aluminium matt<br>\n</li>\n<li>Rear occupant detection <br>\n</li>\n<li>Exterior package, Black <br>\n</li>\n<li>Tech plus <br>\n</li>\n<li>interior S with sport seats in Dinamica microfiber/leather combination, Black <br>\n</li>\n<li>S line exterior <br>\n</li>\n<li>Sun protection glass, tinted <br>\n</li>\n<li>Phone compartment with inductive charging function and antenna coupler for mobile communications <br>\n</li>\n<li>LTE support for Audi phone box EU + RDW1 <br>\n</li>\n<li>Adaptive cruise assist plus ACA4.0 mit connected HD Karte <br>\n</li>\n<li>Sport leather steering wheel, 3-spoke, flat top and bottom with multifunction and shift paddles </li>\n</ul>\n<h5><br></h5>\n<h5>Technical Specification</h5>\n<ul>\n<li>Electric Vehicle<br>\n</li>\n<li>Output: 270kw / 367bhp</li>\n<li>Electric Combined Consumption WLPT: 15.9 -14.0 /kwh/100km</li>\n<li>Electric Range (WLPT): 673 -756km</li>\n<li>Net Battery Capacity: 94,9 kwh<br><br>\n</li>\n</ul>\n<!---->",
+      "published_at": "2026-07-24T10:13:32+03:00",
+      "created_at": "2026-07-22T14:32:00+03:00",
+      "updated_at": "2026-11-20T10:48:32+02:00",
+      "vendor": "AUDI",
+      "product_type": "A1 SB",
+      "tags": [
+        "new"
+      ],
+      "variants": [
+        {
+          "id": 54386446926161,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "VC168454",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "65000.00",
+          "grams": 0,
+          "compare_at_price": "87960.00",
+          "position": 2,
+          "product_id": 10962738708817,
+          "created_at": "2026-07-22T14:32:01+03:00",
+          "updated_at": "2026-11-20T10:48:32+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 84029177102673,
+          "created_at": "2026-07-23T16:22:13+03:00",
+          "position": 1,
+          "updated_at": "2026-07-23T16:22:17+03:00",
+          "product_id": 10962738708817,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0844/8691/4385/files/A6EtronMagnetGray.jpg?v=1784812937",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "id": 84029177069905,
+          "created_at": "2026-07-23T16:22:13+03:00",
+          "position": 2,
+          "updated_at": "2026-07-23T16:22:17+03:00",
+          "product_id": 10962738708817,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0844/8691/4385/files/A6EtronMagnetGray1.jpg?v=1784812937",
+          "width": 1920,
+          "height": 1080
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10962705678673,
+      "title": "Audi A5 Limousine TFSI quattro Stronic 150kw",
+      "handle": "audi-a5-limousine-tfsi-stronic-150kw-3",
+      "body_html": "<p>Audi A5 Limousine TFSI quattro Stronic 150kw</p>\n<h5>Color</h5>\n<p>Horizon Blue Metalic</p>\n<h5>Equipment</h5>\n<p><span>For more details about our standard equipment please use the link below</span><span style=\"font-size: 0.875rem;\">.</span></p>\n<ul>\n<li style=\"list-style-type: none;\">\n<ul>\n<li><a href=\"https://www.unicars.com/gr/docs/pl/a5limousine.pdf\">Standard Equipment</a></li>\n</ul>\n</li>\n</ul>\n<h5>Additional Equipment</h5>\n<p>The additional equipment is included in the price.</p>\n<ul>\n<li>S sport suspension <br>\n</li>\n<li>Wheels, 5-twin-V-spoke, Graphite Gray, gloss turned finish, 8.0J x 19, 245/40 R19 tires ET 44 Design 7 <br>\n</li>\n<li>Inlays, matt brushed aluminum with linear embossing, Anthracite Alu Ortogon <br>\n</li>\n<li>Rear occupant detection <br>\n</li>\n<li>Lane departure warning with emergency assist <br>\n</li>\n<li>Side assist and exit warning, rear cross-traffic assist and rear turn assist <br>\n</li>\n<li>MMI experience plus MMI experience plus <br>\n</li>\n<li>Audi sound system Standard-/ Audi-Sound <br>\n</li>\n<li>Audi phone box <br>\n</li>\n<li>Park assist plus Parken Basis mit IPA Basis <br>\n</li>\n<li>LTE support for Audi phone box <br>\n</li>\n<li>Audi connect navigation &amp; infotainment c. Infotainment Basis- und Plus-Paket <br>\n</li>\n<li>Audi Application Store and smartphone interface Connectivity Paket <br>\n</li>\n<li>Audi connect emergency call &amp; service with Audi connect remote &amp; control <br>\n</li>\n<li>Traffic sign-based speed limiter <br>\n</li>\n<li>Exterior package, Black <br>\n</li>\n<li>Tech plus <br>\n</li>\n<li>Interior S with sport seats plus in leather, Black <br>\n</li>\n<li>S line exterior <br>\n</li>\n<li>Sun protection glass, tinted <br>\n</li>\n<li>Ambient lighting package plus mehrfarbig</li>\n</ul>\n<h5>Technical Specification</h5>\n<ul>\n<li>Fuel Type: Petrol</li>\n<li>Engine capacity: 1984cc</li>\n<li>Output: 150kw / 204bhp</li>\n<li>Transmision Type: Stronic</li>\n<li>Combined CO2:  158 –176 g/km</li>\n<li>Combined Consumption: 6,9 –7,7<span> l/100 km</span>\n</li>\n</ul>\n<!---->",
+      "published_at": "2026-07-24T10:09:16+03:00",
+      "created_at": "2026-07-22T14:20:44+03:00",
+      "updated_at": "2026-11-20T10:48:32+02:00",
+      "vendor": "AUDI",
+      "product_type": "A5",
+      "tags": [
+        "new"
+      ],
+      "variants": [
+        {
+          "id": 54386350883153,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "VC164129",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "56000.00",
+          "grams": 0,
+          "compare_at_price": "70030.00",
+          "position": 2,
+          "product_id": 10962705678673,
+          "created_at": "2026-07-22T14:20:44+03:00",
+          "updated_at": "2026-11-20T10:48:32+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 84029041082705,
+          "created_at": "2026-07-23T16:14:48+03:00",
+          "position": 1,
+          "updated_at": "2026-07-23T16:14:52+03:00",
+          "product_id": 10962705678673,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0844/8691/4385/files/A5LimHorizonBlueMetalic1.jpg?v=1784812492",
+          "width": 1376,
+          "height": 689
+        },
+        {
+          "id": 84029041115473,
+          "created_at": "2026-07-23T16:14:48+03:00",
+          "position": 2,
+          "updated_at": "2026-07-23T16:14:51+03:00",
+          "product_id": 10962705678673,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0844/8691/4385/files/A5LimHorizonBlueMetalic2.jpg?v=1784812491",
+          "width": 1374,
+          "height": 690
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10962656952657,
+      "title": "Audi A5 Limousine TFSI Stronic 150kw",
+      "handle": "audi-a5-limousine-tfsi-stronic-110kw-2",
+      "body_html": "<p>Audi A5 Limousine TFSI Stronic 150kw<br></p>\n<h5>Color</h5>\n<p>Horizon Blue Metalic</p>\n<h5>Equipment</h5>\n<p><span>For more details about our standard equipment please use the link below</span><span style=\"font-size: 0.875rem;\">.</span></p>\n<ul>\n<li style=\"list-style-type: none;\">\n<ul>\n<li><a href=\"https://www.unicars.com/gr/docs/pl/a5limousine.pdf\">Standard Equipment</a></li>\n</ul>\n</li>\n</ul>\n<h5>Additional Equipment</h5>\n<p>The additional equipment is included in the price.</p>\n<ul>\n<li>Rear occupant detection <br>\n</li>\n<li>Inlays, Matt Brushed Aluminum, Silver Alu matt <br>\n</li>\n<li>Lane departure warning with emergency assist <br>\n</li>\n<li>Side assist and exit warning, rear cross-traffic assist and rear turn assist <br>\n</li>\n<li>Wheels, 5-arm aero, Black, gloss turned finish, 8.0J x 18, 235/45 R18 tires ET 40 Design 4 <br>\n</li>\n<li>Tech plus <br>\n</li>\n<li>Interior with standard seats in leather/artificial leather combination, Black <br>\n</li>\n<li>Ambient lighting package plus </li>\n</ul>\n<h5>Technical Specification</h5>\n<ul>\n<li>Fuel Type: Petrol</li>\n<li>Engine capacity: 1984cc</li>\n<li>Output: 150kw / 204bhp</li>\n<li>Transmision Type: Stronic</li>\n<li>Combined CO2:  150 –171 g/km</li>\n<li>Combined Consumption: 6,6 –7,5<span> l/100 km</span>\n</li>\n</ul>\n<!---->",
+      "published_at": "2026-07-24T10:05:51+03:00",
+      "created_at": "2026-07-22T14:09:34+03:00",
+      "updated_at": "2026-11-20T10:48:32+02:00",
+      "vendor": "AUDI",
+      "product_type": "A5",
+      "tags": [
+        "test-drive-car"
+      ],
+      "variants": [
+        {
+          "id": 54386192089425,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "VC166801",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "46000.00",
+          "grams": 0,
+          "compare_at_price": "57790.00",
+          "position": 2,
+          "product_id": 10962656952657,
+          "created_at": "2026-07-22T14:09:34+03:00",
+          "updated_at": "2026-11-20T10:48:32+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 84029041082705,
+          "created_at": "2026-07-23T16:14:48+03:00",
+          "position": 1,
+          "updated_at": "2026-07-23T16:14:52+03:00",
+          "product_id": 10962656952657,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0844/8691/4385/files/A5LimHorizonBlueMetalic1.jpg?v=1784812492",
+          "width": 1376,
+          "height": 689
+        },
+        {
+          "id": 84029041115473,
+          "created_at": "2026-07-23T16:14:48+03:00",
+          "position": 2,
+          "updated_at": "2026-07-23T16:14:51+03:00",
+          "product_id": 10962656952657,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0844/8691/4385/files/A5LimHorizonBlueMetalic2.jpg?v=1784812491",
+          "width": 1374,
+          "height": 690
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10962534105425,
+      "title": "Audi A5 Limousine TFSI Stronic 110KW",
+      "handle": "audi-a5-limousine-tfsi-stronic-110kw-1",
+      "body_html": "<p>Audi A5 Limousine TFSI Stronic 110KW</p>\n<h5>Color</h5>\n<p>Ascari Blue Metalic</p>\n<h5>Equipment</h5>\n<p><span>For more details about our standard equipment please use the link below</span><span style=\"font-size: 0.875rem;\">.</span></p>\n<ul>\n<li style=\"list-style-type: none;\">\n<ul>\n<li><a href=\"https://www.unicars.com/gr/docs/pl/a5limousine.pdf\">Standard Equipment</a></li>\n</ul>\n</li>\n</ul>\n<h5>Additional Equipment</h5>\n<p>The additional equipment is included in the price.</p>\n<ul>\n<li>S sport suspension <br>\n</li>\n<li>Wheels, 5-twin-V-spoke, Graphite Gray, gloss turned finish, 8.0J x 19, 245/40 R19 tires ET 44 Design 7 <br>\n</li>\n<li>Inlays, matt brushed aluminum with linear embossing, Anthracite Alu Ortogon <br>\n</li>\n<li>Rear occupant detection <br>\n</li>\n<li>Lane departure warning with emergency assist <br>\n</li>\n<li>Side assist and exit warning, rear cross-traffic assist and rear turn assist <br>\n</li>\n<li>MMI experience plus MMI experience plus <br>\n</li>\n<li>Audi sound system Standard-/ Audi-Sound <br>\n</li>\n<li>Phone compartment with inductive charging function <br>\n</li>\n<li>Park assist plus Parken Basis mit IPA Basis <br>\n</li>\n<li>Audi connect navigation &amp; infotainment c. Infotainment Basis- und Plus-<br>\n</li>\n<li>Audi Application Store and smartphone interface Connectivity Paket<br>\n</li>\n<li>Audi connect emergency call &amp; service with Audi connect remote &amp; control <br>\n</li>\n<li>Traffic sign-based speed limiter <br>\n</li>\n<li>edition one with accents, Magnesium Gray<br>\n</li>\n<li>Tech plus <br>\n</li>\n<li>Interior S with sport seats plus in leather, Black <br>\n</li>\n<li>S line exterior <br>\n</li>\n<li>Sun protection glass, tinted <br>\n</li>\n<li>Ambient lighting package plus </li>\n</ul>\n<h5>Technical Specification</h5>\n<ul>\n<li>Fuel Type: Petrol</li>\n<li>Engine capacity: 1984cc</li>\n<li>Output: 110kw / 150bhp</li>\n<li>Transmision Type: Stronic</li>\n<li>Combined CO2:  150 –171 g/km</li>\n<li>Combined Consumption: 6,6 –7,5<span> l/100 km</span>\n</li>\n</ul>\n<!---->",
+      "published_at": "2026-07-24T10:03:07+03:00",
+      "created_at": "2026-07-22T12:58:30+03:00",
+      "updated_at": "2026-11-20T10:48:32+02:00",
+      "vendor": "AUDI",
+      "product_type": "A5",
+      "tags": [
+        "new"
+      ],
+      "variants": [
+        {
+          "id": 54385841504593,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "VC164123",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "50000.00",
+          "grams": 0,
+          "compare_at_price": "61870.00",
+          "position": 2,
+          "product_id": 10962534105425,
+          "created_at": "2026-07-22T12:58:31+03:00",
+          "updated_at": "2026-11-20T10:48:32+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 84028996550993,
+          "created_at": "2026-07-23T16:11:46+03:00",
+          "position": 1,
+          "updated_at": "2026-07-23T16:11:49+03:00",
+          "product_id": 10962534105425,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0844/8691/4385/files/A5LimAscariBlueMetalic1.jpg?v=1784812309",
+          "width": 1376,
+          "height": 689
+        },
+        {
+          "id": 84028996583761,
+          "created_at": "2026-07-23T16:11:46+03:00",
+          "position": 2,
+          "updated_at": "2026-07-23T16:11:49+03:00",
+          "product_id": 10962534105425,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0844/8691/4385/files/A5LimAscariBlueMetalic2.jpg?v=1784812309",
+          "width": 1377,
+          "height": 688
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10962504352081,
+      "title": "Audi A5 Avant TFSI Stronic 150kw",
+      "handle": "audi-a5-avant-tfsi-stronic-150kw-1",
+      "body_html": "<p>Audi A5 Avant TFSI Stronic 150kw</p>\n<h5>Color</h5>\n<p>Mythos Black Metalic</p>\n<h5>Equipment</h5>\n<p><span>For more details about our standard equipment please use the link below</span><span style=\"font-size: 0.875rem;\">.</span></p>\n<ul>\n<li style=\"list-style-type: none;\">\n<ul>\n<li><a href=\"https://www.unicars.com/gr/docs/pl/a5avant.pdf\">Standard Equipment</a></li>\n</ul>\n</li>\n</ul>\n<h5>Additional Equipment</h5>\n<p>The additional equipment is included in the price.</p>\n<ul>\n<li>Rear occupant detection <br>\n</li>\n<li>Inlays, Matt Brushed Aluminum, Silver Alu matt <br>\n</li>\n<li>Lane departure warning with emergency assist <br>\n</li>\n<li>Side assist and exit warning, rear cross-traffic assist and rear turn assist <br>\n</li>\n<li>MMI experience plus MMI experience plus <br>\n</li>\n<li>Audi sound system Standard-/ Audi-Sound <br>\n</li>\n<li>Phone compartment with inductive charging function <br>\n</li>\n<li>Wheels, 5-twin-spoke, 8.0J x 18, 235/45 R18 tires ET 40 Design 3 <br>\n</li>\n<li>Park assist plus Parken Basis mit IPA Basis <br>\n</li>\n<li>Audi connect navigation &amp; infotainment c. Infotainment Basis- und Plus-Paket <br>\n</li>\n<li>Audi Application Store and smartphone interface Connectivity Paket <br>\n</li>\n<li>Audi connect emergency call &amp; service with Audi connect remote &amp; control <br>\n</li>\n<li>Traffic sign-based speed limiter <br>\n</li>\n<li>Tech plus <br>\n</li>\n<li>Interior with standard seats in leather/artificial leather combination, Beige <br>advanced exterior <br>\n</li>\n<li>Ambient lighting package plus mehrfarbig <br> </li>\n</ul>\n<h5>Technical Specification</h5>\n<ul>\n<li>Fuel Type: Petrol</li>\n<li>Engine capacity: 1984cc</li>\n<li>Output: 150kw / 204bhp</li>\n<li>Transmision Type: Stronic</li>\n<li>Combined CO2:  154 – 174 g/km</li>\n<li>Combined Consumption: 6,8 – 7,6<span> l/100 km</span><br>\n</li>\n</ul>\n<!---->",
+      "published_at": "2026-07-24T09:59:23+03:00",
+      "created_at": "2026-07-22T12:38:16+03:00",
+      "updated_at": "2026-11-20T10:48:32+02:00",
+      "vendor": "AUDI",
+      "product_type": "A5",
+      "tags": [
+        "new"
+      ],
+      "variants": [
+        {
+          "id": 54385717313873,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "VC164166",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "47000.00",
+          "grams": 0,
+          "compare_at_price": "60200.00",
+          "position": 2,
+          "product_id": 10962504352081,
+          "created_at": "2026-07-22T12:38:17+03:00",
+          "updated_at": "2026-11-20T10:48:32+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 84028922954065,
+          "created_at": "2026-07-23T16:08:20+03:00",
+          "position": 1,
+          "updated_at": "2026-07-23T16:08:23+03:00",
+          "product_id": 10962504352081,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0844/8691/4385/files/A5MythosBlackMetalic1.jpg?v=1784812103",
+          "width": 1373,
+          "height": 688
+        },
+        {
+          "id": 84028922986833,
+          "created_at": "2026-07-23T16:08:20+03:00",
+          "position": 2,
+          "updated_at": "2026-07-23T16:08:23+03:00",
+          "product_id": 10962504352081,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0844/8691/4385/files/A5MythosBlackMetalic2.jpg?v=1784812103",
+          "width": 1374,
+          "height": 689
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10962277499217,
+      "title": "Audi A5 Avant TFSI Stronic 150kw",
+      "handle": "audi-a5-avant-tfsi-stronic-150kw",
+      "body_html": "<p>Audi A5 Avant TFSI Stronic 150kw</p>\n<h5>Color</h5>\n<p>Firmanent Blue Metalic</p>\n<h5>Equipment</h5>\n<p><span>For more details about our standard equipment please use the link below</span><span style=\"font-size: 0.875rem;\">.</span></p>\n<ul>\n<li style=\"list-style-type: none;\">\n<ul>\n<li><a href=\"https://www.unicars.com/gr/docs/pl/a5avant.pdf\">Standard Equipment</a></li>\n</ul>\n</li>\n</ul>\n<h5>Additional Equipment</h5>\n<p>The additional equipment is included in the price.</p>\n<ul>\n<li>Seat heating, front <br>\n</li>\n<li>Swerve assist and front turn assist <br>\n</li>\n<li>Front emergency brake assist <br>\n</li>\n<li>Camera-based traffic sign recognition <br>\n</li>\n<li>Front cross-traffic assist <br>\n</li>\n<li>edition one with accents, Magnesium Gray <br>\n</li>\n<li>Tech plus <br>\n</li>\n<li>Interior S with sport seats in Dinamica microfiber/leather combination, Black <br>\n</li>\n<li>S line exterior <br>\n</li>\n<li>Interior trims in vanadium look <br>\n</li>\n<li>Sun protection glass, tinted <br>\n</li>\n<li>Ambient lighting package plus <br>\n</li>\n<li>Audi Sport wheels, multi-spoke S, Black Metallic, gloss turned finish, 8.5J x 20,</li>\n<li>245/35 R20 tires ET 46 Design 10, Audi Sport GmbH <br>Inlays, matt brushed aluminum with linear embossing, Anthracite Alu Ortogon <br>\n</li>\n<li>Rear occupant detection <br>\n</li>\n<li>Lane departure warning with emergency assist <br>\n</li>\n<li>Side assist and exit warning, rear cross-traffic assist and rear turn assist <br>\n</li>\n<li>Convenience key without Safelock <br>\n</li>\n<li>Front seats, electrically adjustable <br>\n</li>\n<li>S sport suspension </li>\n</ul>\n<h5>Technical Specification</h5>\n<ul>\n<li>Fuel Type: Petrol</li>\n<li>Engine capacity: 1984cc</li>\n<li>Output: 150kw / 204bhp</li>\n<li>Transmision Type: Stronic</li>\n<li>Combined CO2:  154 – 174 g/km</li>\n<li>Combined Consumption: 6,8 – 7,6<span> l/100 km</span><br>\n</li>\n</ul>\n<!---->",
+      "published_at": "2026-07-24T09:55:03+03:00",
+      "created_at": "2026-07-22T08:49:13+03:00",
+      "updated_at": "2026-11-20T10:48:32+02:00",
+      "vendor": "AUDI",
+      "product_type": "A5",
+      "tags": [
+        "80anniversary",
+        "new"
+      ],
+      "variants": [
+        {
+          "id": 54384518037841,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "VC167933",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "53000.00",
+          "grams": 0,
+          "compare_at_price": "69140.00",
+          "position": 2,
+          "product_id": 10962277499217,
+          "created_at": "2026-07-22T08:49:14+03:00",
+          "updated_at": "2026-11-20T10:48:32+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 84028859154769,
+          "created_at": "2026-07-23T16:04:07+03:00",
+          "position": 1,
+          "updated_at": "2026-07-23T16:04:10+03:00",
+          "product_id": 10962277499217,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0844/8691/4385/files/A5FirmanentBlueMetalic1.jpg?v=1784811850",
+          "width": 1375,
+          "height": 688
+        },
+        {
+          "id": 84028859187537,
+          "created_at": "2026-07-23T16:04:07+03:00",
+          "position": 2,
+          "updated_at": "2026-07-23T16:04:10+03:00",
+          "product_id": 10962277499217,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0844/8691/4385/files/A5FirmanentBlueMetalic2.jpg?v=1784811850",
+          "width": 1377,
+          "height": 687
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10961017176401,
+      "title": "Audi A3 Sportback Sline 45 TFSI e Stronic",
+      "handle": "audi-a3-sportback-sline-45-tfsi-e-stronic",
+      "body_html": "<p>Audi A3 Sportback Sline 45 TFSI e Stronic<br></p>\n<h5>Color</h5>\n<p>District Green Metallic</p>\n<h5>Equipment</h5>\n<p><span>For more details about our standard equipment please use the link below</span><span style=\"font-size: 0.875rem;\">.</span></p>\n<ul>\n<li><a rel=\"noopener\" href=\"https://www.unicars.com/gr/docs/pl/a3sb.pdf\" target=\"_blank\">Standard Equipment</a></li>\n</ul>\n<h5><br></h5>\n<h5>Additional Equipment</h5>\n<p>The additional equipment is included in the price.</p>\n<ul>\n<li>Interior S with sport seats in Dinamica microfiber/artificial leather combination, Black <br>\n</li>\n<li>LED headlights and LED rear lights with dynamic turn signal in rear <br>Infotainment package connectivity <br>\n</li>\n<li>Wheels, 5-Y-spoke, Graphite Gray, gloss turned finish, 8.0J x 18, 225/40 R18 tires <br>\n</li>\n<li>Audi sound system <br>\n</li>\n<li>Audi phone box <br>\n</li>\n<li>Audi connect navigation &amp; infotainment plus --connected Infotainment Plus-Paket-</li>\n<li>Audi Application Store and smartphone interface Asterix <br>\n</li>\n<li>Convenience key without Safelock <br>\n</li>\n<li>Inlay, Carbon Atlas, Structure Carbon Atlas Struktur mit Lack Nawaro Lavagrau </li>\n</ul>\n<h5><br></h5>\n<h5>Technical Specification</h5>\n<ul>\n<li>Fuel Type: Plug in-Hybrid<br>\n</li>\n<li>Engine capacity: 1498cc</li>\n<li>Output: 130kw / 177bhp</li>\n<li>System Performance: 200 Kw</li>\n<li>Electric Range : 124 –135 Km</li>\n<li>Transmision Type: Stronic</li>\n<li>Combined CO2: 28 –33g/km</li>\n<li>Combined Consumption: 1,2 –1,5 l/100km</li>\n</ul>\n<!---->",
+      "published_at": "2026-07-24T09:51:22+03:00",
+      "created_at": "2026-07-21T16:27:53+03:00",
+      "updated_at": "2026-11-20T10:48:32+02:00",
+      "vendor": "AUDI",
+      "product_type": "A3 SB",
+      "tags": [
+        "test-drive-car"
+      ],
+      "variants": [
+        {
+          "id": 54380729631057,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "VC165804",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "45000.00",
+          "grams": 0,
+          "compare_at_price": "57620.00",
+          "position": 2,
+          "product_id": 10961017176401,
+          "created_at": "2026-07-21T16:27:53+03:00",
+          "updated_at": "2026-11-20T10:48:32+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 84028707144017,
+          "created_at": "2026-07-23T15:53:27+03:00",
+          "position": 1,
+          "updated_at": "2026-07-23T15:53:29+03:00",
+          "product_id": 10961017176401,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0844/8691/4385/files/A3SBDistrictGreenMetallic1.jpg?v=1784811209",
+          "width": 1377,
+          "height": 690
+        },
+        {
+          "id": 84028707176785,
+          "created_at": "2026-07-23T15:53:27+03:00",
+          "position": 2,
+          "updated_at": "2026-07-23T15:53:29+03:00",
+          "product_id": 10961017176401,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0844/8691/4385/files/A3SBDistrictGreenMetallic2.jpg?v=1784811209",
+          "width": 1374,
+          "height": 688
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10960960553297,
+      "title": "Audi A3 Sedan 35TFSI Sline Stronic",
+      "handle": "audi-a3-sportback-sline-35-tfsi-stronic-2",
+      "body_html": "<p>Audi Audi A3 Sedan 35TFSI Sline Stronic</p>\n<h5>Color</h5>\n<p>Mythos Black Metallic</p>\n<h5>Equipment</h5>\n<p><span>For more details about our standard equipment please use the link below</span><span style=\"font-size: 0.875rem;\">.</span></p>\n<ul>\n<li><a href=\"https://www.unicars.com/gr/docs/pl/a3sedan.pdf\" rel=\"noopener\" target=\"_blank\">Standard Equipment</a></li>\n</ul>\n<h5><br></h5>\n<h5>Additional Equipment</h5>\n<p>The additional equipment is included in the price.</p>\n<ul>\n<li>Sound actuator for interior drive sound<br>\n</li>\n<li>Sport suspension for 19-inch wheels<br>\n</li>\n<li>Audi Sport wheels,multi-spoke S design, Anthracite Black, gloss turned finish, 8.0J x 19, 235/35 R19 tires <br>\n</li>\n<li>Black Styling package plus <br>\n</li>\n<li>Inlay, Aluminum Spectrum, Dark Alu Spektrum dunkel mit Lack Nawaro Lavagrau <br>\n</li>\n<li>Dynamic package <br>\n</li>\n<li>Interior S with sport seats in Dinamica microfiber/artificial leather combination, Black <br>\n</li>\n<li>Matrix LED headlights, LED rear lights and headlight cleaning system <br>\n</li>\n<li>Climate Control package plus <br>\n</li>\n<li>Sun protection glass, tinted <br><br>\n</li>\n</ul>\n<h5><br></h5>\n<h5>Technical Specification</h5>\n<ul>\n<li>Fuel Type: Petrol</li>\n<li>Engine capacity: 1498cc</li>\n<li>Output: 110kw / 150bhp</li>\n<li>Transmision Type: Stronic</li>\n<li>Combined CO2: 117 –128g/km</li>\n<li>Combined Consumption: 5,1 –5,6 l/100km<br>\n</li>\n</ul>\n<!---->",
+      "published_at": "2026-07-24T09:38:38+03:00",
+      "created_at": "2026-07-21T15:58:28+03:00",
+      "updated_at": "2026-11-20T10:48:32+02:00",
+      "vendor": "AUDI",
+      "product_type": "A3 SB",
+      "tags": [
+        "new"
+      ],
+      "variants": [
+        {
+          "id": 54380572344657,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "VC166468",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "38500.00",
+          "grams": 0,
+          "compare_at_price": "47150.00",
+          "position": 2,
+          "product_id": 10960960553297,
+          "created_at": "2026-07-21T15:58:28+03:00",
+          "updated_at": "2026-11-20T10:48:32+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 84028608446801,
+          "created_at": "2026-07-23T15:46:57+03:00",
+          "position": 1,
+          "updated_at": "2026-07-23T15:47:00+03:00",
+          "product_id": 10960960553297,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0844/8691/4385/files/A3SEMythosBlackMetallic.jpg?v=1784810820",
+          "width": 1375,
+          "height": 690
+        },
+        {
+          "id": 84028611952977,
+          "created_at": "2026-07-23T15:47:15+03:00",
+          "position": 2,
+          "updated_at": "2026-07-23T15:47:18+03:00",
+          "product_id": 10960960553297,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0844/8691/4385/files/A3_SE_Mythos_Black_Metallic_2.jpg?v=1784810838",
+          "width": 1378,
+          "height": 691
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10960763552081,
+      "title": "Audi A1 SB Sline 35TFSI Stronic",
+      "handle": "audi-a1-sb-sline-35tfsi-stronic",
+      "body_html": "<p>Audi A1 SB Sline 35TFSI Stronic</p>\n<h5>Color</h5>\n<p>Arrow Gray Pearlescent / Myth Black Metallic  </p>\n<h5>Equipment</h5>\n<p><span>For more details about our standard equipment please use the link below</span><span style=\"font-size: 0.875rem;\">.</span></p>\n<ul>\n<li style=\"list-style-type: none;\">\n<ul>\n<li><a href=\"https://www.unicars.com/gr/docs/pl/a1_cc.pdf\">Standard Equipment</a></li>\n</ul>\n</li>\n</ul>\n<h5>Additional Equipment</h5>\n<p>The additional equipment is included in the price.</p>\n<ul>\n<li>Sport seats, front <br>\n</li>\n<li>Smartphone interface (-Elektrische Schnittstelle ohne AUX-IN- ) <br>\n</li>\n<li>Audi phone box light <br>\n</li>\n<li>Wheels, 5-V-spoke, Graphite Gray, gloss turned finish, 7.5J x 17, 215/45 R17 tires  </li>\n<li>Inlays, Polygon Structure, fine paint finish, Slate Gray <br>\n</li>\n<li>Contrast package 2 <br>\n</li>\n<li>Accent surfaces, diamond paint finish, Silver Gray  </li>\n</ul>\n<h5>Technical Specification</h5>\n<ul>\n<li>Fuel Type: Petrol</li>\n<li>Engine capacity: 1498cc</li>\n<li>Output: 110kw / 150bhp</li>\n<li>Transmision Type: Stronic</li>\n<li>Combined CO2: 134 -140 g/km</li>\n<li>Combined Consumption: 5,9 –6,2 l/100km<span></span>\n</li>\n</ul>\n<!---->",
+      "published_at": "2026-07-24T09:12:15+03:00",
+      "created_at": "2026-07-21T15:10:15+03:00",
+      "updated_at": "2026-11-20T10:48:32+02:00",
+      "vendor": "AUDI",
+      "product_type": "A1 CITY CA",
+      "tags": [
+        "new"
+      ],
+      "variants": [
+        {
+          "id": 54380006441297,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "VC168141",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "31000.00",
+          "grams": 0,
+          "compare_at_price": "34850.00",
+          "position": 2,
+          "product_id": 10960763552081,
+          "created_at": "2026-07-21T15:10:15+03:00",
+          "updated_at": "2026-11-20T10:48:32+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 84028354363729,
+          "created_at": "2026-07-23T15:31:16+03:00",
+          "position": 1,
+          "updated_at": "2026-07-23T15:31:18+03:00",
+          "product_id": 10960763552081,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0844/8691/4385/files/A1ArrowGrayPearlescent-MythBlackMetallic1.jpg?v=1784809878",
+          "width": 1376,
+          "height": 688
+        },
+        {
+          "id": 84028354396497,
+          "created_at": "2026-07-23T15:31:16+03:00",
+          "position": 2,
+          "updated_at": "2026-07-23T15:31:18+03:00",
+          "product_id": 10960763552081,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0844/8691/4385/files/A1ArrowGrayPearlescent-MythBlackMetallic2.jpg?v=1784809878",
+          "width": 1378,
+          "height": 687
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10957791461713,
+      "title": "Audi A1 SB 30TFSI Advance Stronic",
+      "handle": "audi-a1-sb-30tfsi-advance-stronic-5",
+      "body_html": "<p>Audi A1 SB 30TFSI Advance Stronic</p>\n<h5>Color</h5>\n<p>District Green Metallic/Myth Black Metallic</p>\n<h5>Equipment</h5>\n<p><span>For more details about our standard equipment please use the link below</span><span style=\"font-size: 0.875rem;\">.</span></p>\n<ul>\n<li>\n<a rel=\"noopener\" href=\"https://www.unicars.com/gr/docs/pl/tiguan.pdf\" target=\"_blank\"></a><a href=\"https://www.unicars.com/gr/docs/pl/a1_cc.pdf\" rel=\"noopener\" target=\"_blank\">Standard Equipment</a>\n</li>\n</ul>\n<h5>Additional Equipment</h5>\n<p class=\"my-0\">The additional equipment is included in the price.</p>\n<ul>\n<li class=\"my-0\">Adaptive cruise control <br>\n</li>\n<li class=\"my-0\">Sports seats in front <br>\n</li>\n<li class=\"my-0\">Camera-based road sign recognition <br>\n</li>\n<li class=\"my-0\">Audi smartphone interface <br>\n</li>\n<li class=\"my-0\">Accent surfaces in Silver Gray diamond paint  <br>\n</li>\n<li class=\"my-0\">Dark-tinted heat-reflecting glass <br>\n</li>\n<li class=\"my-0\">Auto-dimming interior rearview mirror <br>\n</li>\n<li class=\"my-0\">Black Appearance package Plus <br>\n</li>\n<li class=\"my-0\">Decorative inserts in polygon structure, Slate Gray fine paint  <br>\n</li>\n<li class=\"my-0\">Contrast package 2 <br>\n</li>\n<li class=\"my-0\">Roof dome in contrasting color<br>\n</li>\n<li class=\"my-0\">Parking aid Plus <br>\n</li>\n<li class=\"my-0\">Wheels, 5-spoke style with Black plastic inserts, 7.5J x 17, 215/45 R17 tires --A1NF Design 5  <br>\n</li>\n<li class=\"my-0\">Audi connect Navigation &amp; Infotainment Plus Connected Infotainment Plus-Paket <br>\n</li>\n<li class=\"my-0\">Rear view camera system <br><br>\n</li>\n</ul>\n<h5>Technical Specification</h5>\n<ul>\n<li>Fuel Type: Petrol</li>\n<li>Engine capacity: 999cc</li>\n<li>Output: 85kw / 116bhp</li>\n<li>Transmision Type: Stronic</li>\n<li>Combined CO2: 135 -141g/km</li>\n<li>Combined Consumption: 5,9 -6,2 l/100km<span></span>\n</li>\n</ul>\n<!---->",
+      "published_at": "2026-07-24T09:08:59+03:00",
+      "created_at": "2026-07-20T16:24:39+03:00",
+      "updated_at": "2026-11-20T10:48:32+02:00",
+      "vendor": "AUDI",
+      "product_type": "A1 ALLSTREET",
+      "tags": [
+        "80anniversary",
+        "new"
+      ],
+      "variants": [
+        {
+          "id": 54369137983825,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "VC166929",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "29900.00",
+          "grams": 0,
+          "compare_at_price": "32990.00",
+          "position": 2,
+          "product_id": 10957791461713,
+          "created_at": "2026-07-20T16:24:39+03:00",
+          "updated_at": "2026-11-20T10:48:32+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 84028314911057,
+          "created_at": "2026-07-23T15:28:27+03:00",
+          "position": 1,
+          "updated_at": "2026-07-23T15:28:30+03:00",
+          "product_id": 10957791461713,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0844/8691/4385/files/A1DistrictGreenMetallic-MythBlackMetallic1.jpg?v=1784809710",
+          "width": 1375,
+          "height": 688
+        },
+        {
+          "id": 84028314943825,
+          "created_at": "2026-07-23T15:28:27+03:00",
+          "position": 2,
+          "updated_at": "2026-07-23T15:28:30+03:00",
+          "product_id": 10957791461713,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0844/8691/4385/files/A1DistrictGreenMetallic-MythBlackMetallic2.jpg?v=1784809710",
+          "width": 1376,
+          "height": 688
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10957787136337,
+      "title": "Audi A1 SB 30TFSI Advance Stronic",
+      "handle": "audi-a1-sb-30tfsi-advance-stronic-4",
+      "body_html": "<p>Audi A1 SB 30TFSI Advance Stronic</p>\n<h5>Color</h5>\n<p>Progressive Red Metallic/Myth Black Metallic</p>\n<h5>Equipment</h5>\n<p><span>For more details about our standard equipment please use the link below</span><span style=\"font-size: 0.875rem;\">.</span></p>\n<ul>\n<li>\n<a rel=\"noopener\" href=\"https://www.unicars.com/gr/docs/pl/tiguan.pdf\" target=\"_blank\"></a><a href=\"https://www.unicars.com/gr/docs/pl/a1_cc.pdf\" rel=\"noopener\" target=\"_blank\">Standard Equipment</a>\n</li>\n</ul>\n<h5>Additional Equipment</h5>\n<p class=\"my-0\">The additional equipment is included in the price.</p>\n<ul>\n<li class=\"my-0\">Adaptive cruise control <br>\n</li>\n<li class=\"my-0\">Sports seats in front <br>\n</li>\n<li class=\"my-0\">Camera-based road sign recognition <br>\n</li>\n<li class=\"my-0\">Audi smartphone interface <br>\n</li>\n<li class=\"my-0\">Internal control code <br>\n</li>\n<li class=\"my-0\">Accent surfaces in Silver Gray diamond paint <br>\n</li>\n<li class=\"my-0\">Dark-tinted heat-reflecting glass <br>\n</li>\n<li class=\"my-0\">Auto-dimming interior rearview mirror <br>\n</li>\n<li class=\"my-0\">Black Appearance package Plus Schwarz, Typzeichen in schwarz hochglanz<br>\n</li>\n<li class=\"my-0\">Decorative inserts in polygon structure, Slate Gray fine paint  <br>\n</li>\n<li class=\"my-0\">Contrast package 2 <br>\n</li>\n<li class=\"my-0\">Roof dome in contrasting color<br>\n</li>\n<li class=\"my-0\">Parking aid Plus <br>\n</li>\n<li class=\"my-0\">Wheels, 5-spoke style with Black plastic inserts, 7.5J x 17, 215/45 R17 tires --A1NF Design 5  <br>\n</li>\n<li class=\"my-0\">Audi connect Navigation &amp; Infotainment Plus Connected Infotainment Plus <br>\n</li>\n<li class=\"my-0\">Rear view camera system <br><br>\n</li>\n</ul>\n<h5>Technical Specification</h5>\n<ul>\n<li>Fuel Type: Petrol</li>\n<li>Engine capacity: 999cc</li>\n<li>Output: 85kw / 116bhp</li>\n<li>Transmision Type: Stronic</li>\n<li>Combined CO2: 135 -141g/km</li>\n<li>Combined Consumption: 5,9 -6,2 l/100km<span></span>\n</li>\n</ul>\n<!---->",
+      "published_at": "2026-07-24T09:06:06+03:00",
+      "created_at": "2026-07-20T16:16:40+03:00",
+      "updated_at": "2026-11-20T10:48:32+02:00",
+      "vendor": "AUDI",
+      "product_type": "A1 ALLSTREET",
+      "tags": [
+        "new"
+      ],
+      "variants": [
+        {
+          "id": 54369103970641,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "VC166928",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "29000.00",
+          "grams": 0,
+          "compare_at_price": "32990.00",
+          "position": 2,
+          "product_id": 10957787136337,
+          "created_at": "2026-07-20T16:16:40+03:00",
+          "updated_at": "2026-11-20T10:48:32+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 84028236562769,
+          "created_at": "2026-07-23T15:24:02+03:00",
+          "position": 1,
+          "updated_at": "2026-07-23T15:24:05+03:00",
+          "product_id": 10957787136337,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0844/8691/4385/files/A1ProgressiveRedMetallic-MythBlackMetallic.jpg?v=1784809445",
+          "width": 1375,
+          "height": 682
+        },
+        {
+          "id": 84028236530001,
+          "created_at": "2026-07-23T15:24:02+03:00",
+          "position": 2,
+          "updated_at": "2026-07-23T15:24:05+03:00",
+          "product_id": 10957787136337,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0844/8691/4385/files/A1ProgressiveRedMetallic-MythBlackMetallic2.jpg?v=1784809445",
+          "width": 1375,
+          "height": 689
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10885163516241,
+      "title": "VW ID.5 PRO",
+      "handle": "vw-id-5-pro",
+      "body_html": "<p>VW ID 5 PRO</p>\n<h5>Color</h5>\n<p>Glacier White Metallic</p>\n<h5>Equipment</h5>\n<p>For more details about our standard equipment please use the link below.</p>\n<p><a href=\"https://www.unicars.com/gr/docs/pl/id5.pdf\" title=\"Standard Equipment\" rel=\"noopener\" target=\"_blank\">Standard Equipment</a></p>\n<h5>Additional Equipment</h5>\n<p>The additional equipment is included in the price.</p>\n<ul>\n<li>Styling package <br>\n</li>\n<li>\"Drammen\" 8J x 20 in front, 9J x 20 in rear, Black, diamond-turned, tires 235/50 R20 front, tires 255/45 R20 rear <br>\n</li>\n<li>Premium Package<br>\n</li>\n<li>Interior package<br>\n</li>\n<li>Easy Open &amp; Close - sensor controlled luggage compartment opening and closing with remote unlocking </li>\n</ul>\n<h5>Technical Information</h5>\n<ul>\n<li>Electric Vehicle</li>\n<li>Output: 210kw / 286bhp<br>\n</li>\n<li>Electric Combined Consumption WLPT: 15.7 /kwh/100km<br>\n</li>\n<li>Electric Range (WLPT): 558km<br>\n</li>\n<li>Net Battery Capacity: 77kwh</li>\n</ul>",
+      "published_at": "2026-06-19T09:27:32+03:00",
+      "created_at": "2026-06-17T09:09:09+03:00",
+      "updated_at": "2026-11-20T10:48:32+02:00",
+      "vendor": "VW",
+      "product_type": "ID",
+      "tags": [
+        "ID",
+        "ID 5",
+        "new"
+      ],
+      "variants": [
+        {
+          "id": 54084377444689,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "VC168415",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "44000.00",
+          "grams": 0,
+          "compare_at_price": "59690.00",
+          "position": 1,
+          "product_id": 10885163516241,
+          "created_at": "2026-06-17T09:09:09+03:00",
+          "updated_at": "2026-11-20T10:48:32+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 70381931266385,
+          "created_at": "2025-04-10T14:48:46+03:00",
+          "position": 1,
+          "updated_at": "2025-04-10T14:48:49+03:00",
+          "product_id": 10885163516241,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0844/8691/4385/files/VWID.5Pro2YA1GlacierWhiteMetallicBlackfront1.webp?v=1744285729",
+          "width": 1024,
+          "height": 1024
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10884430725457,
+      "title": "VW ID.4 PRO 4MOTION",
+      "handle": "vw-id-4-pro-1",
+      "body_html": "<p>VW ID.4 PRO 4MOTION</p>\n<h5>Color</h5>\n<p>Blue Dusk Metallic</p>\n<h5>Equipment</h5>\n<p><span>For more details about our standard equipment please use the link below</span><span style=\"font-size: 0.875rem;\">.</span></p>\n<ul>\n<li><a href=\"https://www.unicars.com/gr/docs/pl/id4.pdf\">Standard Equipment</a></li>\n</ul>\n<h5>Additional Equipment</h5>\n<p class=\"my-0\">The additional equipment is included in the price.</p>\n<ul>\n<li>Premium Package<br>\n</li>\n<li>Interior package<br>\n</li>\n<li>Steering of price reduction<br>\n</li>\n<li>Styling package <br>\n</li>\n<li>\"Hamar\" 8J x 19, Black, diamond-turned, tires 235/55 R19 in front/ 255/50 R19 in rear <br>\n</li>\n<li>Easy Open &amp; Close - sensor controlled luggage compartment opening and closing with remote unlocking  </li>\n</ul>\n<h5>Technical Information</h5>\n<ul>\n<li>Electric Vehicle<br>\n</li>\n<li>Output: 210kw / 286bhp</li>\n<li>Electric Combined Consumption WLPT: 16.4 /kwh/100km</li>\n<li>Electric Range (WLPT): 534km</li>\n<li>Net Battery Capacity: 77kwh</li>\n</ul>\n<!---->",
+      "published_at": "2026-06-19T09:14:15+03:00",
+      "created_at": "2026-06-16T16:35:18+03:00",
+      "updated_at": "2026-11-20T10:48:32+02:00",
+      "vendor": "VW",
+      "product_type": "ID 4",
+      "tags": [
+        "ID",
+        "ID 4",
+        "new"
+      ],
+      "variants": [
+        {
+          "id": 54080686555473,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "VC168412",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "45000.00",
+          "grams": 0,
+          "compare_at_price": "58500.00",
+          "position": 1,
+          "product_id": 10884430725457,
+          "created_at": "2026-06-16T16:35:18+03:00",
+          "updated_at": "2026-11-20T10:48:32+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 73981415063889,
+          "created_at": "2025-07-22T16:00:05+03:00",
+          "position": 1,
+          "updated_at": "2025-08-01T22:48:12+03:00",
+          "product_id": 10884430725457,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0844/8691/4385/files/ba3f8445694f40628495b5ecc7c696fc_caf6b3aa-def2-4527-997a-9b7fef78b798.webp?v=1754077692",
+          "width": 800,
+          "height": 800
+        },
+        {
+          "id": 73981415096657,
+          "created_at": "2025-07-22T16:00:05+03:00",
+          "position": 2,
+          "updated_at": "2025-08-01T22:48:10+03:00",
+          "product_id": 10884430725457,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0844/8691/4385/files/2c7799ef71034fcbb65187aba3516572_1b0a055a-6fa0-4cce-a0fa-550baf748255.webp?v=1754077690",
+          "width": 800,
+          "height": 800
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10884416602449,
+      "title": "VW ID. 3 PA PRO",
+      "handle": "vw-id-3-pa-pro-3",
+      "body_html": "<p>VW ID. 3 PA PRO</p>\n<h5>Color</h5>\n<p>Scale Silver Metallic/Black </p>\n<h5>Equipment</h5>\n<p><span>For more details about our standard equipment please use the link below</span><span style=\"font-size: 0.875rem;\">.</span></p>\n<ul>\n<li><a href=\"https://www.unicars.com/gr/docs/pl/id32024.pdf\">Standard Equipment</a></li>\n</ul>\n<h5>Additional Equipment</h5>\n<p class=\"my-0\">The additional equipment is included in the price.</p>\n<ul>\n<li>High-beam control Light Assist <br>\n</li>\n<li>4 alloy wheels \"East Derry\" 7.5J x 18, Black, diamond-turned surface<br>\n</li>\n<li>Convenience package<br>\n</li>\n<li>Exterior package <br>\n</li>\n<li>Illuminated molding between headlamps and illuminated door handle recesses<br>\n</li>\n<li>PRO and PRO S Package<br>\n</li>\n<li>Assistance package </li>\n</ul>\n<h5>Technical Information</h5>\n<ul>\n<li>Electric Vehicle<br>\n</li>\n<li>Output: 150kw / 204bhp</li>\n<li>Electric Combined Consumption WLPT:  15.3 /kwh/100km</li>\n<li>Electric Range (WLPT):  434km</li>\n<li>Net Battery Capacity:  59kwh</li>\n</ul>\n<!---->",
+      "published_at": "2026-06-19T09:09:02+03:00",
+      "created_at": "2026-06-16T16:29:09+03:00",
+      "updated_at": "2026-11-20T10:48:32+02:00",
+      "vendor": "VW",
+      "product_type": "ID 3",
+      "tags": [
+        "ID",
+        "ID 3",
+        "new"
+      ],
+      "variants": [
+        {
+          "id": 54080635404625,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "VC168402",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "30000.00",
+          "grams": 0,
+          "compare_at_price": "49340.00",
+          "position": 1,
+          "product_id": 10884416602449,
+          "created_at": "2026-06-16T16:29:09+03:00",
+          "updated_at": "2026-11-20T10:48:32+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 70380276810065,
+          "created_at": "2025-04-10T14:05:24+03:00",
+          "position": 1,
+          "updated_at": "2025-08-01T19:58:12+03:00",
+          "product_id": 10884416602449,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0844/8691/4385/files/VWID.3PAPRO1TA1ScaleGreyBlackfront2.webp?v=1754067492",
+          "width": 1024,
+          "height": 1024
+        },
+        {
+          "id": 70380276023633,
+          "created_at": "2025-04-10T14:05:24+03:00",
+          "position": 2,
+          "updated_at": "2025-08-01T19:58:12+03:00",
+          "product_id": 10884416602449,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0844/8691/4385/files/VWID.3PAPRO1TA1ScaleGreyBlackfront1.webp?v=1754067492",
+          "width": 1024,
+          "height": 1024
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10816183304529,
+      "title": "SEAT ARONA FR 1.0 TSI 115BHP DSG",
+      "handle": "seat-1",
+      "body_html": "<p>SEAT ARONA FR 1.0 TSI 115BHP DSG<br><br></p>\n<h5>Color</h5>\n<p>Glacial White Metallic / Manhattan Grey Roof &amp; Exterior Mirror covers</p>\n<h5>Equipment</h5>\n<p><span>For more details about our standard equipment please use the link below</span><span style=\"font-size: 0.875rem;\">.</span></p>\n<p><a href=\"https://www.unicars.com/gr/docs/pl/arona.pdf\">Standard Equipment</a><a href=\"https://www.unicars.com/gr/docs/pl/id4.pdf\"></a></p>\n<h5>Additional Equipment</h5>\n<p class=\"my-0\">The additional equipment is included in the price.</p>\n<ul>\n<li>FR Package 2<br>\n</li>\n<li>Safe &amp; Driving package M <br>\n</li>\n<li>PLA (Park Assist)<br>\n</li>\n<li>Bucket Seats<br>\n</li>\n<li>18-inch alloy wheels \"Performance\" </li>\n</ul>\n<h5>Technical Information</h5>\n<ul>\n<li><span>Fuel Type: Petrol</span></li>\n<li><span>Engine capacity: 999cc</span></li>\n<li><span>Output: 85 kw / 115 bhp</span></li>\n<li><span>Transmision Type: DSG</span></li>\n<li><span>Combined CO2: 126 - 139 g/km</span></li>\n<li>\n<span>Combined Consumption: 5,5 – 5,9 l/100km</span><br>\n</li>\n</ul>\n<!---->",
+      "published_at": "2026-05-27T11:50:18+03:00",
+      "created_at": "2026-05-19T16:26:38+03:00",
+      "updated_at": "2026-11-20T10:48:32+02:00",
+      "vendor": "SEAT",
+      "product_type": "ARONA",
+      "tags": [
+        "80anniversary",
+        "test-drive-car"
+      ],
+      "variants": [
+        {
+          "id": 53814506815825,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "VC169265",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "21800.00",
+          "grams": 0,
+          "compare_at_price": "25150.00",
+          "position": 2,
+          "product_id": 10816183304529,
+          "created_at": "2026-05-19T16:26:38+03:00",
+          "updated_at": "2026-11-20T10:48:32+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 82707225968977,
+          "created_at": "2026-05-26T16:48:58+03:00",
+          "position": 1,
+          "updated_at": "2026-05-26T16:49:01+03:00",
+          "product_id": 10816183304529,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0844/8691/4385/files/image_2_61880e3e-c0f2-4abd-94fb-4e3505fa14d0.webp?v=1779803341",
+          "width": 1024,
+          "height": 1024
+        },
+        {
+          "id": 82707226001745,
+          "created_at": "2026-05-26T16:48:58+03:00",
+          "position": 2,
+          "updated_at": "2026-05-26T16:49:01+03:00",
+          "product_id": 10816183304529,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0844/8691/4385/files/image_3_c193bf2f-4632-4b10-bb0b-8fea41303356.webp?v=1779803341",
+          "width": 1024,
+          "height": 1024
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10816225804625,
+      "title": "SEAT ARONA FR 1.0 TSI 115BHP DSG",
+      "handle": "seat-arona-fr-1-0-tsi-115bhp-dsg-1",
+      "body_html": "<p>SEAT ARONA FR 1.0 TSI 115BHP DSG<br><br></p>\n<h5>Color</h5>\n<p>Glacial White Metallic / Midnight Black Roof &amp; Exterior Mirror covers</p>\n<h5>Equipment</h5>\n<p><span>For more details about our standard equipment please use the link below</span><span style=\"font-size: 0.875rem;\">.</span></p>\n<p><a href=\"https://www.unicars.com/gr/docs/pl/arona.pdf\">Standard Equipment</a><a href=\"https://www.unicars.com/gr/docs/pl/id4.pdf\"></a></p>\n<h5>Additional Equipment</h5>\n<p class=\"my-0\">The additional equipment is included in the price.</p>\n<ul>\n<li>FR Package<br>\n</li>\n<li>Safe &amp; Driving package M <br>\n</li>\n<li>PLA (Park Assist)<br>\n</li>\n<li>Bucket Seats<br>\n</li>\n</ul>\n<h5>Technical Information</h5>\n<ul>\n<li><span>Fuel Type: Petrol</span></li>\n<li><span>Engine capacity: 999cc</span></li>\n<li><span>Output:  85 kw / 115 bhp</span></li>\n<li><span>Transmision Type: DSG</span></li>\n<li><span>Combined CO2: 126 - 139 g/km</span></li>\n<li>\n<span>Combined Consumption: 5,5 – 5,9 l/100km</span><br>\n</li>\n</ul>\n<!---->",
+      "published_at": "2026-05-27T11:42:01+03:00",
+      "created_at": "2026-05-19T16:44:50+03:00",
+      "updated_at": "2026-11-20T10:48:32+02:00",
+      "vendor": "SEAT",
+      "product_type": "ARONA",
+      "tags": [
+        "80anniversary",
+        "test-drive-car"
+      ],
+      "variants": [
+        {
+          "id": 53814605840721,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "VC169261",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "21500.00",
+          "grams": 0,
+          "compare_at_price": "24550.00",
+          "position": 2,
+          "product_id": 10816225804625,
+          "created_at": "2026-05-19T16:44:50+03:00",
+          "updated_at": "2026-11-20T10:48:32+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 82707212665169,
+          "created_at": "2026-05-26T16:48:08+03:00",
+          "position": 1,
+          "updated_at": "2026-05-26T16:48:11+03:00",
+          "product_id": 10816225804625,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0844/8691/4385/files/image_2.webp?v=1779803291",
+          "width": 1024,
+          "height": 1024
+        },
+        {
+          "id": 82707212697937,
+          "created_at": "2026-05-26T16:48:08+03:00",
+          "position": 2,
+          "updated_at": "2026-05-26T16:48:12+03:00",
+          "product_id": 10816225804625,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0844/8691/4385/files/image_3.webp?v=1779803292",
+          "width": 1024,
+          "height": 1024
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10816245793105,
+      "title": "SEAT ARONA FR 1.0 TSI 115BHP DSG",
+      "handle": "seat-arona-fr-1-0-tsi-115bhp-dsg-3",
+      "body_html": "<p>SEAT ARONA FR 1.0 TSI 115BHP DSG<br><br></p>\n<h5>Color</h5>\n<p>Fiord Blue / Midnight Black Roof &amp; Exterior Mirror covers</p>\n<h5>Equipment</h5>\n<p><span>For more details about our standard equipment please use the link below</span><span style=\"font-size: 0.875rem;\">.</span></p>\n<p><a href=\"https://www.unicars.com/gr/docs/pl/arona.pdf\">Standard Equipment</a><a href=\"https://www.unicars.com/gr/docs/pl/id4.pdf\"></a></p>\n<h5>Additional Equipment</h5>\n<p class=\"my-0\">The additional equipment is included in the price.</p>\n<ul>\n<li>Safe &amp; Driving package M <br>\n</li>\n<li>PLA (Park Assist)<br>\n</li>\n<li>Bucket Seats</li>\n</ul>\n<h5>Technical Information</h5>\n<ul>\n<li><span>Fuel Type: Petrol</span></li>\n<li><span>Engine capacity: 999cc</span></li>\n<li><span>Output:  85 kw / 115 bhp</span></li>\n<li><span>Transmision Type: DSG</span></li>\n<li><span>Combined CO2: 126 - 139 g/km</span></li>\n<li>\n<span>Combined Consumption: 5,5 – 5,9 l/100km</span><br>\n</li>\n</ul>\n<!---->",
+      "published_at": "2026-05-27T11:40:05+03:00",
+      "created_at": "2026-05-19T16:53:03+03:00",
+      "updated_at": "2026-11-20T10:48:32+02:00",
+      "vendor": "SEAT",
+      "product_type": "ARONA",
+      "tags": [
+        "80anniversary",
+        "test-drive-car"
+      ],
+      "variants": [
+        {
+          "id": 53814646505809,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "VC169260",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "20900.00",
+          "grams": 0,
+          "compare_at_price": "23350.00",
+          "position": 2,
+          "product_id": 10816245793105,
+          "created_at": "2026-05-19T16:53:03+03:00",
+          "updated_at": "2026-11-20T10:48:32+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 82707157942609,
+          "created_at": "2026-05-26T16:45:35+03:00",
+          "position": 1,
+          "updated_at": "2026-05-26T16:45:39+03:00",
+          "product_id": 10816245793105,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0844/8691/4385/files/image_5a7b7589-8580-4155-98dc-ca6497852a73.webp?v=1779803139",
+          "width": 1024,
+          "height": 1024
+        },
+        {
+          "id": 82707157975377,
+          "created_at": "2026-05-26T16:45:35+03:00",
+          "position": 2,
+          "updated_at": "2026-05-26T16:45:38+03:00",
+          "product_id": 10816245793105,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0844/8691/4385/files/image_1_506521f1-df8c-4421-8759-50c833122260.webp?v=1779803138",
+          "width": 1024,
+          "height": 1024
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10817675559249,
+      "title": "VW Tayron Rline 1.5 eTSI DSG",
+      "handle": "vw-tayron-elegance-1-5-etsi-dsg-copy",
+      "body_html": "<p>VW Tayron Rline 1.5 eTSI DSG</p>\n<h5>Color</h5>\n<p>Pure White</p>\n<h5>Equipment</h5>\n<p><span>For more details about our standard equipment please use the link below</span><span style=\"font-size: 0.875rem;\">.</span></p>\n<ul>\n<li><a rel=\"noopener\" href=\"https://www.unicars.com/gr/docs/pl/tayron.pdf\" target=\"_blank\">Standard Equipment</a></li>\n</ul>\n<h5>Additional Equipment</h5>\n<p class=\"my-0\">The additional equipment is included in the price.</p>\n<ul>\n<li>Infotainment package \"Discover Pro Max\" <br>\n</li>\n<li>Assistance package IQ.DRIVE <br>\n</li>\n<li>7-Seater package: 2 single seats in 3rd row of seats <br>\n</li>\n<li>\"Leeds\" 8.5J x 20, Black/Gray, diamond-turned, Volkswagen R, tires 255/40 R20 <br>\n</li>\n<li>IQ.LIGHT - HD matrix headlamps <br>\n</li>\n<li>Driver seat with adjustment of seat travel, height, seat a/ backrest angle, thigh support longitudinally sliding <br><br>\n</li>\n</ul>\n<h5>Technical Specification</h5>\n<ul>\n<li>Fuel Type: Petrol</li>\n<li>Engine capacity: 1498cc</li>\n<li>Output: 110kw / 150bhp</li>\n<li>Transmision Type: DSG</li>\n<li>Combined CO2: 142 g/km</li>\n<li>Combined Consumption: 6,2 l/100km</li>\n</ul>\n<!---->",
+      "published_at": "2026-05-27T08:17:59+03:00",
+      "created_at": "2026-05-20T12:13:53+03:00",
+      "updated_at": "2026-11-20T10:48:32+02:00",
+      "vendor": "VW",
+      "product_type": "TAYRON",
+      "tags": [
+        "80anniversary",
+        "test-drive-car"
+      ],
+      "variants": [
+        {
+          "id": 53820587049297,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "VC164414",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "42000.00",
+          "grams": 0,
+          "compare_at_price": "48700.00",
+          "position": 1,
+          "product_id": 10817675559249,
+          "created_at": "2026-05-20T12:13:53+03:00",
+          "updated_at": "2026-11-20T10:48:32+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 82707300876625,
+          "created_at": "2026-05-26T16:53:55+03:00",
+          "position": 1,
+          "updated_at": "2026-05-26T16:53:59+03:00",
+          "product_id": 10817675559249,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0844/8691/4385/files/VWPureWhiteTayronRline1.5eTSIDSGVC164414a.webp?v=1779803639",
+          "width": 1024,
+          "height": 1024
+        },
+        {
+          "id": 82707300909393,
+          "created_at": "2026-05-26T16:53:55+03:00",
+          "position": 2,
+          "updated_at": "2026-05-26T16:53:59+03:00",
+          "product_id": 10817675559249,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0844/8691/4385/files/VWPureWhiteTayronRline1.5eTSIDSGVC164414b.webp?v=1779803639",
+          "width": 1024,
+          "height": 1024
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10817646526801,
+      "title": "VW Tayron Elegance 1.5 eTSI DSG",
+      "handle": "vw-tayron-elegance-1-5-etsi-dsg",
+      "body_html": "<p>VW Tayron Elegance 1.5 eTSI DSG</p>\n<h5>Color</h5>\n<p>Dolphin Gray Metallic</p>\n<h5>Equipment</h5>\n<p><span>For more details about our standard equipment please use the link below</span><span style=\"font-size: 0.875rem;\">.</span></p>\n<ul>\n<li><a href=\"https://www.unicars.com/gr/docs/pl/tayron.pdf\" rel=\"noopener\" target=\"_blank\">Standard Equipment</a></li>\n</ul>\n<h5>Additional Equipment</h5>\n<p class=\"my-0\">The additional equipment is included in the price.</p>\n<ul>\n<li>Memory feature for Park Assist <br>\n</li>\n<li>Assistance package IQ.DRIVE <br>\n</li>\n<li>7-Seater package: 2 single seats in 3rd row of seats <br>\n</li>\n<li>\"Catania\" 7.5J x 19, Black, diamond-turned, tires 235/50 R19, low rolling resistance <br>\n</li>\n<li>Folding trailer hitch, with electric release; incl. trailer maneuvering system Trailer Assist </li>\n</ul>\n<h5>Technical Specification</h5>\n<ul>\n<li>Fuel Type: Petrol</li>\n<li>Engine capacity: 1498cc</li>\n<li>Output: 110kw / 150bhp</li>\n<li>Transmision Type: DSG</li>\n<li>Combined CO2: 142 g/km</li>\n<li>Combined Consumption: 6,2 l/100km</li>\n</ul>\n<!---->",
+      "published_at": "2026-05-26T12:03:35+03:00",
+      "created_at": "2026-05-20T12:00:13+03:00",
+      "updated_at": "2026-11-20T10:48:32+02:00",
+      "vendor": "VW",
+      "product_type": "TAYRON",
+      "tags": [
+        "80anniversary",
+        "test-drive-car"
+      ],
+      "variants": [
+        {
+          "id": 53820318024017,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "VC164415",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "40000.00",
+          "grams": 0,
+          "compare_at_price": "45830.00",
+          "position": 1,
+          "product_id": 10817646526801,
+          "created_at": "2026-05-20T12:00:13+03:00",
+          "updated_at": "2026-11-20T10:48:32+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 82696870199633,
+          "created_at": "2026-05-26T11:17:20+03:00",
+          "position": 1,
+          "updated_at": "2026-05-26T11:17:28+03:00",
+          "product_id": 10817646526801,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0844/8691/4385/files/VWDolphinGrayMetallicTayronElegance1.5eTSIDSGVC164415a.webp?v=1779783448",
+          "width": 1024,
+          "height": 1024
+        },
+        {
+          "id": 82696870232401,
+          "created_at": "2026-05-26T11:17:20+03:00",
+          "position": 2,
+          "updated_at": "2026-05-26T11:17:24+03:00",
+          "product_id": 10817646526801,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0844/8691/4385/files/VWDolphinGrayMetallicTayronElegance1.5eTSIDSGVC164415.webp?v=1779783444",
+          "width": 1024,
+          "height": 1024
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10817623818577,
+      "title": "VW Taigo Life 1.0 85KW",
+      "handle": "vw-taigo-life-1-0tsi-95ps-2",
+      "body_html": "<p>VW Taigo Life 1.0 85KW</p>\n<h5>Color</h5>\n<p>Pure White </p>\n<h5>Equipment</h5>\n<p><span>For more details about our standard equipment please use the link below</span><span style=\"font-size: 0.875rem;\">.</span></p>\n<ul>\n<li><a rel=\"noopener\" href=\"https://www.unicars.com/gr/docs/pl/taigo.pdf\" target=\"_blank\">Standard Equipment</a></li>\n</ul>\n<h5>Additional Equipment</h5>\n<p class=\"my-0\">The additional equipment is included in the price.</p>\n<ul>\n<li>Dynamic Road Sign Display </li>\n<li>IQ.LIGHT - LED matrix headlamps <br>\n</li>\n<li>Plus Edition Package<br>\n</li>\n<li>Lights &amp; Vision package <br>\n</li>\n<li>Keyless locking and starting system Keyless Access without SAFELOCK <br>\n</li>\n<li>Privacy glass for rear side windows and rear window <br>\n</li>\n</ul>\n<h5>Technical Information</h5>\n<ul>\n<li>Fuel Type: Petrol</li>\n<li>Engine capacity: 999cc</li>\n<li>Output: 85kw / 116bhp</li>\n<li>Transmision Type: Manual</li>\n<li>Combined CO2:  124 g/km</li>\n<li>Combined Consumption:  5,4 l/100km</li>\n</ul>\n<!---->",
+      "published_at": "2026-05-26T11:56:37+03:00",
+      "created_at": "2026-05-20T11:29:43+03:00",
+      "updated_at": "2026-11-20T10:48:32+02:00",
+      "vendor": "VW",
+      "product_type": "TAIGO",
+      "tags": [
+        "80anniversary",
+        "new"
+      ],
+      "variants": [
+        {
+          "id": 53820195504465,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "VC165878",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "19900.00",
+          "grams": 0,
+          "compare_at_price": "25100.00",
+          "position": 2,
+          "product_id": 10817623818577,
+          "created_at": "2026-05-20T11:29:43+03:00",
+          "updated_at": "2026-11-20T10:48:32+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 82675746079057,
+          "created_at": "2026-05-25T16:50:15+03:00",
+          "position": 1,
+          "updated_at": "2026-05-25T16:50:19+03:00",
+          "product_id": 10817623818577,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0844/8691/4385/files/VWPureWhiteTaigoLife1.085KWVC165878b.webp?v=1779717019",
+          "width": 1024,
+          "height": 1024
+        },
+        {
+          "id": 82675746111825,
+          "created_at": "2026-05-25T16:50:15+03:00",
+          "position": 2,
+          "updated_at": "2026-05-25T16:50:20+03:00",
+          "product_id": 10817623818577,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0844/8691/4385/files/VWPureWhiteTaigoLife1.085KWVC165878.webp?v=1779717020",
+          "width": 1024,
+          "height": 1024
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10817554809169,
+      "title": "VW ID. 3 PA PRO",
+      "handle": "vw-id-3-pa-pro-2",
+      "body_html": "<p>VW ID. 3 PA PRO</p>\n<h5>Color</h5>\n<p>Costa Azul/Black</p>\n<h5>Equipment</h5>\n<p><span>For more details about our standard equipment please use the link below</span><span style=\"font-size: 0.875rem;\">.</span></p>\n<ul>\n<li><a href=\"https://www.unicars.com/gr/docs/pl/id32024.pdf\">Standard Equipment</a></li>\n</ul>\n<h5>Additional Equipment</h5>\n<p class=\"my-0\">The additional equipment is included in the price.</p>\n<ul>\n<li>NEW PA 7.5J x 19<br>\n</li>\n<li>Comfort package<br>\n</li>\n<li>Exterior package Plus<br>\n</li>\n<li>Assistance package <br>\n</li>\n</ul>\n<h5>Technical Information</h5>\n<ul>\n<li>Electric Vehicle<br>\n</li>\n<li>Output: 150kw / 204bhp</li>\n<li>Electric Combined Consumption WLPT:  15.3 /kwh/100km</li>\n<li>Electric Range (WLPT):  434km</li>\n<li>Net Battery Capacity:  59kwh</li>\n</ul>\n<!---->",
+      "published_at": "2026-05-26T11:51:23+03:00",
+      "created_at": "2026-05-20T10:23:00+03:00",
+      "updated_at": "2026-11-20T10:48:32+02:00",
+      "vendor": "VW",
+      "product_type": "ID 3",
+      "tags": [
+        "80anniversary",
+        "ID",
+        "ID 3",
+        "test-drive-car"
+      ],
+      "variants": [
+        {
+          "id": 53819555610961,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "VC158491",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "29000.00",
+          "grams": 0,
+          "compare_at_price": "51870.00",
+          "position": 1,
+          "product_id": 10817554809169,
+          "created_at": "2026-05-20T10:23:00+03:00",
+          "updated_at": "2026-11-20T10:48:32+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 70379614503249,
+          "created_at": "2025-04-10T13:57:21+03:00",
+          "position": 1,
+          "updated_at": "2025-08-01T19:58:13+03:00",
+          "product_id": 10817554809169,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0844/8691/4385/files/VWID.3PAPROC2A1MoonstoneGreyBlackfront1.webp?v=1754067493",
+          "width": 1024,
+          "height": 1024
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10815948980561,
+      "title": "CUPRA TAVASCAN ENDURANCE 286BHP 77kWh",
+      "handle": "cupra-tavascan-endurance-286bhp-77kwh",
+      "body_html": "<p>CUPRA TAVASCAN ENDURANCE 286BHP 77kWh</p>\n<h5>Color</h5>\n<p>Atacama Desert Metallic</p>\n<h5>Equipment</h5>\n<p><span>For more details about our standard equipment please use the link below</span><span style=\"font-size: 0.875rem;\">.</span></p>\n<ul>\n<li><a href=\"https://www.unicars.com/gr/docs/pl/tavascan.pdf\" rel=\"noopener\" target=\"_blank\">Standard Equipment</a></li>\n</ul>\n<h5>Additional Equipment</h5>\n<p class=\"my-0\">The additional equipment is included in the price.</p>\n<ul>\n<li>Styling package \"Drive Pack\" (version 4)  </li>\n</ul>\n<h5>Technical Information</h5>\n<ul>\n<li>Electric Vehicle<br>\n</li>\n<li>Output: 210kw / 286bhp</li>\n<li>Electric Combined Consumption WLPT: 15,2–16,0 /kwh/100km</li>\n<li>Electric Range (WLPT): 568 -542km</li>\n<li>Net Battery Capacity: 77kwh</li>\n</ul>\n<!---->",
+      "published_at": "2026-05-26T11:13:41+03:00",
+      "created_at": "2026-05-19T14:39:39+03:00",
+      "updated_at": "2026-11-20T10:48:32+02:00",
+      "vendor": "CUPRA",
+      "product_type": "TAVASCAN",
+      "tags": [
+        "80anniversary",
+        "test-drive-car"
+      ],
+      "variants": [
+        {
+          "id": 53813817737553,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "VC165102",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "43000.00",
+          "grams": 0,
+          "compare_at_price": "53000.00",
+          "position": 1,
+          "product_id": 10815948980561,
+          "created_at": "2026-05-19T14:39:39+03:00",
+          "updated_at": "2026-11-20T10:48:32+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 82693224759633,
+          "created_at": "2026-05-26T08:54:19+03:00",
+          "position": 1,
+          "updated_at": "2026-05-26T08:54:23+03:00",
+          "product_id": 10815948980561,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0844/8691/4385/files/CUPRAAtacamaDesertMetallicTAVASCANENDURANCE286BHP77kWhVC165102b_72d3f0f7-45e7-4f23-b7fa-54dc41a0d00d.webp?v=1779774863",
+          "width": 1024,
+          "height": 1024
+        },
+        {
+          "id": 82693224792401,
+          "created_at": "2026-05-26T08:54:19+03:00",
+          "position": 2,
+          "updated_at": "2026-05-26T08:54:23+03:00",
+          "product_id": 10815948980561,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0844/8691/4385/files/CUPRAAtacamaDesertMetallicTAVASCANENDURANCE286BHP77kWhVC165102a_776f2089-b592-442a-b089-f776995fd939.webp?v=1779774863",
+          "width": 1024,
+          "height": 1024
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10815860801873,
+      "title": "CUPRA BORN HIGH 231BHP 59kWh",
+      "handle": "cupra-born-high-231bhp-59kwh-1",
+      "body_html": "<p><span>CUPRA BORN HIGH 231BHP 59kWh</span></p>\n<h5>Color</h5>\n<p>Vapor Grey Special Paint</p>\n<h5>Equipment</h5>\n<p><span>For more details about our standard equipment please use the link below</span><span style=\"font-size: 0.875rem;\">.</span></p>\n<ul>\n<li><a href=\"https://www.unicars.com/gr/docs/pl/cupra_born.pdf\">Standard Equipment</a></li>\n</ul>\n<h5>Additional Equipment</h5>\n<p class=\"my-0\">The additional equipment is included in the price.</p>\n<ul>\n<li>19-inch alloy wheels \"Typhoon\" 31/2, machined, Glossy Black with Copper elements<br>\n</li>\n</ul>\n<h5>Technical Information</h5>\n<ul>\n<li>Electric Vehicle</li>\n<li>Output: 170kw / 231bhp</li>\n<li>Electric Combined Consumption WLPT: 15,6-18,2 /kwh/100km</li>\n<li>Electric Range (WLPT): Up to 432km</li>\n<li>Net Battery Capacity: 59kwh</li>\n</ul>\n<!---->",
+      "published_at": "2026-05-26T11:10:11+03:00",
+      "created_at": "2026-05-19T14:09:55+03:00",
+      "updated_at": "2026-11-20T10:48:32+02:00",
+      "vendor": "CUPRA",
+      "product_type": "BORN",
+      "tags": [
+        "80anniversary",
+        "electric",
+        "test-drive-car"
+      ],
+      "variants": [
+        {
+          "id": 53813608022353,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "VC168435",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "32000.00",
+          "grams": 0,
+          "compare_at_price": "46200.00",
+          "position": 1,
+          "product_id": 10815860801873,
+          "created_at": "2026-05-19T14:09:56+03:00",
+          "updated_at": "2026-11-20T10:48:32+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 82694412435793,
+          "created_at": "2026-05-26T09:58:14+03:00",
+          "position": 1,
+          "updated_at": "2026-05-26T09:58:18+03:00",
+          "product_id": 10815860801873,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0844/8691/4385/files/CUPRAVaporGreySpecialPaintCUPRABORNHIGH231BHP59kWhVC168435b.webp?v=1779778698",
+          "width": 1024,
+          "height": 1024
+        },
+        {
+          "id": 82694412468561,
+          "created_at": "2026-05-26T09:58:14+03:00",
+          "position": 2,
+          "updated_at": "2026-05-26T09:58:18+03:00",
+          "product_id": 10815860801873,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0844/8691/4385/files/CUPRAVaporGreySpecialPaintCUPRABORNHIGH231BHP59kWhVC168435a.webp?v=1779778698",
+          "width": 1024,
+          "height": 1024
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10817493041489,
+      "title": "SEAT LEON FR 1.5eTSI DSG 150BHP",
+      "handle": "seat-leon-fr-1-5etsi-dsg-150bhp",
+      "body_html": "<p>SEAT LEON FR 1.5eTSI DSG 150BHP</p>\n<h5>Color</h5>\n<p>Magnetic Tech Metallic</p>\n<h5>Equipment</h5>\n<p><span>For more details about our standard equipment please use the link below</span><span style=\"font-size: 0.875rem;\">.</span></p>\n<ul>\n<li><a href=\"https://www.unicars.com/gr/docs/pl/newleon.pdf\">Standard Equipment</a></li>\n</ul>\n<h5>Additional Equipment</h5>\n<p class=\"my-0\">The additional equipment is included in the price.</p>\n<ul>\n<li>FR Package 2<br>\n</li>\n<li>Rear view camera system <br>\n</li>\n<li>18 Performance 30/6 Machined Alloy wheels in Cosmo Grey<br>\n</li>\n<li>Safe &amp; Driving package M (in combination with 10.4-inch radio) </li>\n</ul>\n<h5>Technical Information</h5>\n<ul>\n<li><span>Fuel Type: Petrol</span></li>\n<li><span>Engine capacity: 1498cc</span></li>\n<li><span>Output: 110kw / 150bhp</span></li>\n<li><span>Transmision Type: DSG</span></li>\n<li><span>Combined CO2: 127 g/km</span></li>\n<li>\n<span>Combined Consumption: 5,6 l/100km</span><br>\n</li>\n</ul>\n<!---->",
+      "published_at": "2026-05-26T11:07:31+03:00",
+      "created_at": "2026-05-20T09:19:38+03:00",
+      "updated_at": "2026-11-20T10:48:32+02:00",
+      "vendor": "SEAT",
+      "product_type": "LEON",
+      "tags": [
+        "80anniversary",
+        "test-drive-car"
+      ],
+      "variants": [
+        {
+          "id": 53818954449233,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "VC167159",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "25000.00",
+          "grams": 0,
+          "compare_at_price": "29750.00",
+          "position": 1,
+          "product_id": 10817493041489,
+          "created_at": "2026-05-20T09:19:38+03:00",
+          "updated_at": "2026-11-20T10:48:32+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 82675001459025,
+          "created_at": "2026-05-25T16:06:59+03:00",
+          "position": 1,
+          "updated_at": "2026-05-25T16:07:03+03:00",
+          "product_id": 10817493041489,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0844/8691/4385/files/SEATMagneticTechMetallicLEONFR1.5eTSIDSG150BHPVC167159a.webp?v=1779714423",
+          "width": 1024,
+          "height": 1024
+        },
+        {
+          "id": 82675001491793,
+          "created_at": "2026-05-25T16:06:59+03:00",
+          "position": 2,
+          "updated_at": "2026-05-25T16:07:02+03:00",
+          "product_id": 10817493041489,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0844/8691/4385/files/SEATMagneticTechMetallicLEONFR1.5eTSIDSG150BHPVC167159b.webp?v=1779714422",
+          "width": 1024,
+          "height": 1024
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10817490551121,
+      "title": "SEAT IBIZA FR 1.0 TSI 115BHP DSG",
+      "handle": "seat-ibiza-fr-1-0-tsi-115bhp-dsg-2",
+      "body_html": "<p>SEAT IBIZA FR 1.0 TSI 115BHP DSG<br><br></p>\n<h5>Color</h5>\n<p>Glacial White Metallic</p>\n<h5>Equipment</h5>\n<p><span>For more details about our standard equipment please use the link below</span><span style=\"font-size: 0.875rem;\">.</span></p>\n<p><a href=\"https://www.unicars.com/gr/docs/pl/ibiza.pdf\">Standard Equipment</a><a href=\"https://www.unicars.com/gr/docs/pl/id4.pdf\"></a></p>\n<h5>Additional Equipment</h5>\n<p class=\"my-0\">The additional equipment is included in the price.</p>\n<ul>\n<li>FR Package<br>\n</li>\n<li>Safe &amp; Driving package M <br>\n</li>\n<li>Bucket Seat</li>\n</ul>\n<h5>Technical Information</h5>\n<ul>\n<li><span>Fuel Type: Petrol</span></li>\n<li><span>Engine capacity: 999cc</span></li>\n<li><span>Output:  85 kw / 115 bhp</span></li>\n<li><span>Transmision Type: DSG</span></li>\n<li><span>Combined CO2: 117 - 131 g/km</span></li>\n<li>\n<span>Combined Consumption: 5,2 – 5,8 l/100km</span><br>\n</li>\n</ul>\n<!---->",
+      "published_at": "2026-05-26T11:04:31+03:00",
+      "created_at": "2026-05-20T09:15:12+03:00",
+      "updated_at": "2026-11-20T10:48:32+02:00",
+      "vendor": "SEAT",
+      "product_type": "IBIZA",
+      "tags": [
+        "80anniversary",
+        "test-drive-car"
+      ],
+      "variants": [
+        {
+          "id": 53818925252945,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "VC169241",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "20300.00",
+          "grams": 0,
+          "compare_at_price": "23300.00",
+          "position": 2,
+          "product_id": 10817490551121,
+          "created_at": "2026-05-20T09:15:13+03:00",
+          "updated_at": "2026-11-20T10:48:32+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 82674980487505,
+          "created_at": "2026-05-25T16:05:49+03:00",
+          "position": 1,
+          "updated_at": "2026-05-25T16:05:53+03:00",
+          "product_id": 10817490551121,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0844/8691/4385/files/SEATGlacialWhiteMetallicIBIZAFR1.0TSI115BHPDSGVC169241a.webp?v=1779714353",
+          "width": 1024,
+          "height": 1024
+        },
+        {
+          "id": 82674980520273,
+          "created_at": "2026-05-25T16:05:49+03:00",
+          "position": 2,
+          "updated_at": "2026-05-25T16:05:53+03:00",
+          "product_id": 10817490551121,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0844/8691/4385/files/SEATGlacialWhiteMetallicIBIZAFR1.0TSI115BHPDSGVC169241b.webp?v=1779714353",
+          "width": 1024,
+          "height": 1024
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10817485832529,
+      "title": "SEAT IBIZA STYLE 1.0 TSI 115BHP DSG",
+      "handle": "seat-ibiza-style-1-0-tsi-115bhp-dsg-2",
+      "body_html": "<p>SEAT IBIZA STYLE 1.0 TSI 115BHP DSG<br><br></p>\n<h5>Color</h5>\n<p>Midnight Black Metallic</p>\n<h5>Equipment</h5>\n<p><span>For more details about our standard equipment please use the link below</span><span style=\"font-size: 0.875rem;\">.</span></p>\n<p><a href=\"https://www.unicars.com/gr/docs/pl/ibiza.pdf\">Standard Equipment</a><a href=\"https://www.unicars.com/gr/docs/pl/id4.pdf\"></a></p>\n<h5>Additional Equipment</h5>\n<p class=\"my-0\">The additional equipment is included in the price.</p>\n<ul>\n<li>Style Package<br>\n</li>\n<li>Safe &amp; Driving package M <br>\n</li>\n<li>Vision Pack Plus </li>\n</ul>\n<h5>Technical Information</h5>\n<ul>\n<li><span>Fuel Type: Petrol</span></li>\n<li><span>Engine capacity: 999cc</span></li>\n<li><span>Output:  85 kw / 115 bhp</span></li>\n<li><span>Transmision Type: DSG</span></li>\n<li><span>Combined CO2: 117 - 131 g/km</span></li>\n<li>\n<span>Combined Consumption: 5,2 – 5,8 l/100km</span><br>\n</li>\n</ul>\n<!---->",
+      "published_at": "2026-05-26T10:46:42+03:00",
+      "created_at": "2026-05-20T09:02:17+03:00",
+      "updated_at": "2026-11-20T10:48:32+02:00",
+      "vendor": "SEAT",
+      "product_type": "IBIZA",
+      "tags": [
+        "80anniversary",
+        "test-drive-car"
+      ],
+      "variants": [
+        {
+          "id": 53818897891665,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "VC169233",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "19300.00",
+          "grams": 0,
+          "compare_at_price": "21450.00",
+          "position": 2,
+          "product_id": 10817485832529,
+          "created_at": "2026-05-20T09:02:17+03:00",
+          "updated_at": "2026-11-20T10:48:32+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 82675013124433,
+          "created_at": "2026-05-25T16:07:28+03:00",
+          "position": 1,
+          "updated_at": "2026-05-25T16:07:35+03:00",
+          "product_id": 10817485832529,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0844/8691/4385/files/SEATMidnightBlackMetallicIBIZASTYLE1.0TSI115BHPDSGVC169233b.webp?v=1779714455",
+          "width": 1024,
+          "height": 1024
+        },
+        {
+          "id": 82675013157201,
+          "created_at": "2026-05-25T16:07:28+03:00",
+          "position": 2,
+          "updated_at": "2026-05-25T16:07:32+03:00",
+          "product_id": 10817485832529,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0844/8691/4385/files/SEATMidnightBlackMetallicIBIZASTYLE1.0TSI115BHPDSGVC169233a.webp?v=1779714452",
+          "width": 1024,
+          "height": 1024
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10817483800913,
+      "title": "SEAT IBIZA STYLE 1.0 TSI 115BHP DSG",
+      "handle": "seat-ibiza-style-1-0-tsi-115bhp-dsg",
+      "body_html": "<p>SEAT IBIZA STYLE 1.0 TSI 115BHP DSG<br><br></p>\n<h5>Color</h5>\n<p>Fiord Blue</p>\n<h5>Equipment</h5>\n<p><span>For more details about our standard equipment please use the link below</span><span style=\"font-size: 0.875rem;\">.</span></p>\n<p><a href=\"https://www.unicars.com/gr/docs/pl/ibiza.pdf\">Standard Equipment</a><a href=\"https://www.unicars.com/gr/docs/pl/id4.pdf\"></a></p>\n<h5>Additional Equipment</h5>\n<p class=\"my-0\">The additional equipment is included in the price.</p>\n<ul>\n<li>Urban Package<br>\n</li>\n<li>Vent package in Neutral Gray <br>\n</li>\n<li>Safe &amp; Driving package M (in combination with \"Media System\") <br>\n</li>\n<li>16-inch alloy wheels \"Design\" 20/3, machined, Nuclear Gray <br>\n</li>\n<li>Vision package: parking steering assist. with park distance control in front and rear using ultrasonic sensors <br>\n</li>\n</ul>\n<h5>Technical Information</h5>\n<ul>\n<li><span>Fuel Type: Petrol</span></li>\n<li><span>Engine capacity: 999cc</span></li>\n<li><span>Output:  85 kw / 115 bhp</span></li>\n<li><span>Transmision Type: DSG</span></li>\n<li><span>Combined CO2: 117 - 131 g/km</span></li>\n<li>\n<span>Combined Consumption: 5,2 – 5,8 l/100km</span><br>\n</li>\n</ul>\n<!---->",
+      "published_at": "2026-05-26T10:44:30+03:00",
+      "created_at": "2026-05-20T08:53:39+03:00",
+      "updated_at": "2026-11-20T10:48:32+02:00",
+      "vendor": "SEAT",
+      "product_type": "IBIZA",
+      "tags": [
+        "80anniversary",
+        "test-drive-car"
+      ],
+      "variants": [
+        {
+          "id": 53818889109841,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "VC166670",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "17000.00",
+          "grams": 0,
+          "compare_at_price": "21950.00",
+          "position": 2,
+          "product_id": 10817483800913,
+          "created_at": "2026-05-20T08:53:40+03:00",
+          "updated_at": "2026-11-20T10:48:32+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 82674953093457,
+          "created_at": "2026-05-25T16:04:16+03:00",
+          "position": 1,
+          "updated_at": "2026-05-25T16:04:20+03:00",
+          "product_id": 10817483800913,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0844/8691/4385/files/SEATFiordBlueIBIZASTYLE1.0TSI115BHPDSGVC166670a.webp?v=1779714260",
+          "width": 1024,
+          "height": 1024
+        },
+        {
+          "id": 82674957877585,
+          "created_at": "2026-05-25T16:04:25+03:00",
+          "position": 2,
+          "updated_at": "2026-05-25T16:04:29+03:00",
+          "product_id": 10817483800913,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0844/8691/4385/files/SEATFiordBlueIBIZASTYLE1.0TSI115BHPDSGVC166670b.webp?v=1779714269",
+          "width": 1024,
+          "height": 1024
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10787464806737,
+      "title": "SKODA FABIA SELECTION 1.0TSI DSG 85KW",
+      "handle": "skoda-fabia-selection-1-0tsi-dsg-85kw-2",
+      "body_html": "<p>SKODA <span>FABIA SELECTION 1.0TSI DSG 85KW</span></p>\n<h5>Color</h5>\n<p>Velvet red metallic</p>\n<h5>Equipment</h5>\n<p><span>For more details about our standard equipment please use the link below</span><span style=\"font-size: 0.875rem;\">.</span></p>\n<ul>\n<li><a href=\"https://www.unicars.com/gr/docs/pl/fabia.pdf\">Standard Equipment</a></li>\n</ul>\n<h5>Additional Equipment</h5>\n<ul>\n<li>Climatronic-Electric air-condition with combi-filter, humidity sensor (in holder of el. dimming rear view mirror) <br>\n</li>\n<li>Alloy wheels \"PROXIMA\" silver 6J x 16\" incl. SUPER ROWI <br>\n</li>\n<li>FRONT ASSIST with ACC <br>\n</li>\n<li>Selection Plus Package</li>\n</ul>\n<h5>Technical Specification</h5>\n<ul>\n<li>Fuel Type: Petrol</li>\n<li>Engine capacity: 999cc</li>\n<li>Output: 85kw / 116bhp</li>\n<li>Transmision Type: DSG</li>\n<li>Combined CO2: 119 g/km</li>\n<li>Combined Consumption: 5,2 l/100km<br>\n</li>\n</ul>\n<!---->",
+      "published_at": "2026-05-26T09:43:43+03:00",
+      "created_at": "2026-05-06T15:40:52+03:00",
+      "updated_at": "2026-11-20T10:48:32+02:00",
+      "vendor": "Skoda",
+      "product_type": "FABIA",
+      "tags": [
+        "80anniversary",
+        "AUTOMATIC",
+        "new"
+      ],
+      "variants": [
+        {
+          "id": 53702934397265,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "VC167500",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "20000.00",
+          "grams": 0,
+          "compare_at_price": "22780.00",
+          "position": 1,
+          "product_id": 10787464806737,
+          "created_at": "2026-05-06T15:40:53+03:00",
+          "updated_at": "2026-11-20T10:48:32+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 82590111236433,
+          "created_at": "2026-05-21T14:54:09+03:00",
+          "position": 1,
+          "updated_at": "2026-05-21T14:54:13+03:00",
+          "product_id": 10787464806737,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0844/8691/4385/files/SKODAVelvetredmetallicFABIASELECTION1.0TSIDSG85KWVC167500.webp?v=1779364453",
+          "width": 1024,
+          "height": 1024
+        },
+        {
+          "id": 82590111269201,
+          "created_at": "2026-05-21T14:54:09+03:00",
+          "position": 2,
+          "updated_at": "2026-05-21T14:54:13+03:00",
+          "product_id": 10787464806737,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0844/8691/4385/files/SKODAVelvetredmetallicFABIASELECTION1.0TSIDSG85KWVC167500b.webp?v=1779364453",
+          "width": 1024,
+          "height": 1024
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10787457171793,
+      "title": "SKODA FABIA SELECTION 1.0TSI DSG 85KW",
+      "handle": "skoda-fabia-selection-1-0tsi-dsg-85kw-1",
+      "body_html": "<p>SKODA <span>FABIA SELECTION 1.0TSI DSG 85KW</span></p>\n<h5>Color</h5>\n<p>Graphite grey metallic</p>\n<h5>Equipment</h5>\n<p><span>For more details about our standard equipment please use the link below</span><span style=\"font-size: 0.875rem;\">.</span></p>\n<ul>\n<li><a href=\"https://www.unicars.com/gr/docs/pl/fabia.pdf\">Standard Equipment</a></li>\n</ul>\n<h5>Additional Equipment</h5>\n<ul>\n<li>Climatronic-Electric air-condition with combi-filter, humidity sensor (in holder of el. dimming rear view mirror) <br>\n</li>\n<li>Alloy wheels \"PROXIMA\" silver 6J x 16\" incl. SUPER ROWI <br>\n</li>\n<li>FRONT ASSIST with ACC <br>\n</li>\n<li>Selection Plus Package</li>\n</ul>\n<h5>Technical Specification</h5>\n<ul>\n<li>Fuel Type: Petrol</li>\n<li>Engine capacity: 999cc</li>\n<li>Output: 85kw / 116bhp</li>\n<li>Transmision Type: DSG</li>\n<li>Combined CO2: 119 g/km</li>\n<li>Combined Consumption: 5,2 l/100km<br>\n</li>\n</ul>\n<!---->",
+      "published_at": "2026-05-26T09:41:36+03:00",
+      "created_at": "2026-05-06T15:37:56+03:00",
+      "updated_at": "2026-11-20T10:48:32+02:00",
+      "vendor": "Skoda",
+      "product_type": "FABIA",
+      "tags": [
+        "80anniversary",
+        "AUTOMATIC",
+        "new"
+      ],
+      "variants": [
+        {
+          "id": 53702915883345,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "VC167842",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "20000.00",
+          "grams": 0,
+          "compare_at_price": "22780.00",
+          "position": 1,
+          "product_id": 10787457171793,
+          "created_at": "2026-05-06T15:37:56+03:00",
+          "updated_at": "2026-11-20T10:48:32+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 82590904451409,
+          "created_at": "2026-05-21T15:34:03+03:00",
+          "position": 1,
+          "updated_at": "2026-05-21T15:34:07+03:00",
+          "product_id": 10787457171793,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0844/8691/4385/files/SKODAGraphitegreymetallicFABIASELECTION1.0TSIDSG85KWVC167841.webp?v=1779366847",
+          "width": 1024,
+          "height": 1024
+        },
+        {
+          "id": 82590904484177,
+          "created_at": "2026-05-21T15:34:03+03:00",
+          "position": 2,
+          "updated_at": "2026-05-21T15:34:07+03:00",
+          "product_id": 10787457171793,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0844/8691/4385/files/SKODAGraphitegreymetallicFABIASELECTION1.0TSIDSG85KWvc167841b.webp?v=1779366847",
+          "width": 1024,
+          "height": 1024
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10787446620497,
+      "title": "SKODA ELROQ 60",
+      "handle": "skoda-elroq-61",
+      "body_html": "<p>SKODA ELROQ 60</p>\n<h5>Color</h5>\n<p>Velvet Red Metallic</p>\n<h5>Equipment</h5>\n<p><span>For more details about our standard equipment please use the link below</span><span style=\"font-size: 0.875rem;\">.</span></p>\n<ul>\n<li><a href=\"https://www.unicars.com/gr/docs/pl/elroq.pdf\">Standard Equipment</a></li>\n</ul>\n<h5>Additional Equipment</h5>\n<p class=\"my-0\">The additional equipment is included in the price.</p>\n<ul>\n<li>Alloy wheels \"REGULUS\" 8J x 19\" Anthracit,Metalic,Brushed Tires 235/55 R19 </li>\n</ul>\n<h5>Technical Specification</h5>\n<ul>\n<li>Electric Vehicle<br>\n</li>\n<li>Output: 150kw / 204 bhp</li>\n<li>Electric Combined Consumption WLPT: 15.8 /kwh/100km</li>\n<li>Electric Range (WLPT): Up to 426km</li>\n<li>Net Battery Capacity: 59kwh<br>\n</li>\n</ul>\n<!----><!---->",
+      "published_at": "2026-05-26T09:38:44+03:00",
+      "created_at": "2026-05-06T15:33:50+03:00",
+      "updated_at": "2026-11-20T10:48:32+02:00",
+      "vendor": "Skoda",
+      "product_type": "ELROQ",
+      "tags": [
+        "80anniversary",
+        "test-drive-car"
+      ],
+      "variants": [
+        {
+          "id": 53702886752593,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "VC166446",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "34000.00",
+          "grams": 0,
+          "compare_at_price": "43900.00",
+          "position": 1,
+          "product_id": 10787446620497,
+          "created_at": "2026-05-06T15:33:50+03:00",
+          "updated_at": "2026-11-20T10:48:32+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 82671150137681,
+          "created_at": "2026-05-25T12:08:11+03:00",
+          "position": 1,
+          "updated_at": "2026-05-25T12:08:15+03:00",
+          "product_id": 10787446620497,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0844/8691/4385/files/SKODAVelvetRedMetallicELROQ60b.webp?v=1779700095",
+          "width": 1024,
+          "height": 1024
+        },
+        {
+          "id": 82671150170449,
+          "created_at": "2026-05-25T12:08:11+03:00",
+          "position": 2,
+          "updated_at": "2026-05-25T12:08:15+03:00",
+          "product_id": 10787446620497,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0844/8691/4385/files/SKODAVelvetRedMetallicELROQ60a.webp?v=1779700095",
+          "width": 1024,
+          "height": 1024
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10787433120081,
+      "title": "SKODA ELROQ 60",
+      "handle": "skoda-elroq-60",
+      "body_html": "<p>SKODA ELROQ 60</p>\n<h5>Color</h5>\n<p>Smokey Diamond Silver Metallic</p>\n<h5>Equipment</h5>\n<p><span>For more details about our standard equipment please use the link below</span><span style=\"font-size: 0.875rem;\">.</span></p>\n<ul>\n<li><a href=\"https://www.unicars.com/gr/docs/pl/elroq.pdf\">Standard Equipment</a></li>\n</ul>\n<h5>Additional Equipment</h5>\n<p class=\"my-0\">The additional equipment is included in the price.</p>\n<ul>\n<li>Alloy Wheels \"VEGA\" Silver Metallic, lacquered, 8J x 20\", 4 pcs <br>\n</li>\n<li>Desingpackage Lodge </li>\n<li>CLEVER </li>\n</ul>\n<h5>Technical Specification</h5>\n<ul>\n<li>Electric Vehicle<br>\n</li>\n<li>Output: 150kw / 204bhp</li>\n<li>Electric Combined Consumption WLPT: 15.8 /kwh/100km</li>\n<li>Electric Range (WLPT): Up to 426km</li>\n<li>Net Battery Capacity: 59kwh<br>\n</li>\n</ul>\n<!----><!---->",
+      "published_at": "2026-05-26T09:37:14+03:00",
+      "created_at": "2026-05-06T15:28:51+03:00",
+      "updated_at": "2026-11-20T10:48:32+02:00",
+      "vendor": "Skoda",
+      "product_type": "ELROQ",
+      "tags": [
+        "80anniversary",
+        "new"
+      ],
+      "variants": [
+        {
+          "id": 53702865453393,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "VC169311",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "45000.00",
+          "grams": 0,
+          "compare_at_price": "50450.00",
+          "position": 1,
+          "product_id": 10787433120081,
+          "created_at": "2026-05-06T15:28:51+03:00",
+          "updated_at": "2026-11-20T10:48:32+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 82671131132241,
+          "created_at": "2026-05-25T12:07:27+03:00",
+          "position": 1,
+          "updated_at": "2026-05-25T12:07:31+03:00",
+          "product_id": 10787433120081,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0844/8691/4385/files/SKODAGraphiteGreyMetallicELROQ60a.webp?v=1779700051",
+          "width": 1024,
+          "height": 1024
+        },
+        {
+          "id": 82671131165009,
+          "created_at": "2026-05-25T12:07:27+03:00",
+          "position": 2,
+          "updated_at": "2026-05-25T12:07:30+03:00",
+          "product_id": 10787433120081,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0844/8691/4385/files/SKODAGraphiteGreyMetallicELROQ60b.webp?v=1779700050",
+          "width": 1024,
+          "height": 1024
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10820179132753,
+      "title": "Audi Q8 etron SB 55 Sline qtr",
+      "handle": "audi-q8-etron-sb-55-sline-qtr",
+      "body_html": "<p>Audi Q8 etron SB 55 Sline qtr</p>\n<h5>Color</h5>\n<p>Magnet Gray</p>\n<h5>Equipment</h5>\n<p><span>For more details about our standard equipment please use the link below</span><span style=\"font-size: 0.875rem;\">.</span></p>\n<ul>\n<li>Standard Equipment</li>\n</ul>\n<h5>Additional Equipment</h5>\n<p class=\"my-0\">The additional equipment is included in the price.</p>\n<ul>\n<li>Electric steering wheel adjustment<br>\n</li>\n<li>Black roof rails<br>\n</li>\n<li>Seat heaters in front<br>\n</li>\n<li>Auto-dimming interior rearview mirror, frameless<br>\n</li>\n<li>Black Styling package<br>\n</li>\n<li>Decorative inserts in Volcano Gray Natural Fine Grain Ash <br>\n</li>\n<li>Black exterior mirror housings<br>\n</li>\n<li>Headliner in Black fabric schwarz<br>\n</li>\n<li>Exterior mirrors, power-adjustable, heated and power-folding, auto-dimming, with memory feature<br>\n</li>\n<li>Household plug type G (UK) for the e-tron charging system<br>\n</li>\n<li>Industrial plug CEE 32 A, 400 V, long and straight, for the e-tron charging system Mode 3 charging cable for public charging 22 kW (AC)<br>\n</li>\n<li>Upper part of dashboard and lower interior elements in leatherette</li>\n<li>Audi pre sense basic<br>\n</li>\n<li>Park assist with parking aid plus<br>\n</li>\n<li>4-zone climate control system<br>\n</li>\n<li>Audi sound system<br>\n</li>\n<li>Audi phone box<br>\n</li>\n<li>Wheels, 5-arm dynamic style, Graphite Gray, diamond-turned, 9.0J x 20, 255/50 R20 tires ET38 Effizienz Option 2<br>\n</li>\n<li>Comfort stationary air conditioning<br>\n</li>\n<li>Glossy Black operating buttons with haptic feedback and aluminum Look interior</li>\n<li>Audi connect Navigation &amp; Infotainment Infotainment Basis und Plus Paket<br>\n</li>\n<li>Smartphone interface Smartphone Integration ASI<br>\n</li>\n<li>Second charging access<br>\n</li>\n<li>Rear view camera system<br>\n</li>\n<li>On-board charger up to 22 kW (AC) ca.22kW<br>\n</li>\n<li>Head-up display<br>\n</li>\n<li>Dinamica microfiber/leather combination Perlnappa und Microfaservlies glatt<br>\n</li>\n<li>Wall bracket <br>\n</li>\n<li>e-tron charging system connect up to 22 kW<br>\n</li>\n<li>Brake calipers painted in Red (18-inch)<br>\n</li>\n<li>Tour assistance package<br>\n</li>\n<li>Comfort key in combination with anti-theft alarm system<br>\n</li>\n<li>Child Safety package<br>\n</li>\n<li>Power seats in front including memory feature for the driver seat<br>\n</li>\n<li>Matrix LED headlamps and LED rear combination lamps<br>\n</li>\n<li>Sports seats in front<br>\n</li>\n<li>Storage and Luggage Compartment package<br>\n</li>\n<li>Dark-tinted heat-reflecting glass<br>\n</li>\n<li>Ambient Lighting package plus<br>\n</li>\n<li>Acoustic glass for door and side windows <br><br>\n</li>\n</ul>\n<h5>Technical Specification</h5>\n<ul>\n<li>Electric Vehicle<br>\n</li>\n<li>Output: 300kw / 408bhp</li>\n<li>Electric Combined Consumption WLPT: 19,9 -24,1 /kwh/100km</li>\n<li>Electric Range (WLPT): Up to 600km</li>\n<li>Net Battery Capacity: 106kwh<br>\n</li>\n<li>Year 2023</li>\n<li>Starting Warranty Date: 24/04/2023<br>\n</li>\n</ul>\n<!---->",
+      "published_at": "2026-05-21T17:08:04+03:00",
+      "created_at": "2026-05-21T16:52:13+03:00",
+      "updated_at": "2026-11-20T10:48:32+02:00",
+      "vendor": "Audi Approve Plus",
+      "product_type": "Q8 ETRON",
+      "tags": [
+        "Audiapproveplus",
+        "Demo"
+      ],
+      "variants": [
+        {
+          "id": 53830101631313,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "VC158201",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "70000.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 2,
+          "product_id": 10820179132753,
+          "created_at": "2026-05-21T16:52:14+03:00",
+          "updated_at": "2026-11-20T10:48:32+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 82592260260177,
+          "created_at": "2026-05-21T17:07:53+03:00",
+          "position": 1,
+          "updated_at": "2026-05-21T17:07:56+03:00",
+          "product_id": 10820179132753,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0844/8691/4385/files/VC158201.jpg?v=1779372476",
+          "width": 976,
+          "height": 531
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10820163895633,
+      "title": "Audi Q7 Sline 50TDI quattro",
+      "handle": "audi-q7-sline-50tdi-quattro",
+      "body_html": "<p>Audi Q7 Sline 50TDI quattro</p>\n<h5>Color </h5>\n<p>Waitomo Blue Metalic</p>\n<h5>Equipment</h5>\n<ul>\n<li><a href=\"https://www.unicars.com/gr/docs/pl/q7.pdf\">Standard Equipment</a></li>\n</ul>\n<h5>Additional Equipment</h5>\n<p>The additional equipment is included in the price.</p>\n<ul>\n<li>Black Appearance package <br>\n</li>\n<li>Assistance package Plus with park assist plus <br>\n</li>\n<li>3rd row of seats <br>\n</li>\n<li>Power seats in front including memory feature for the driver seat <br>\n</li>\n<li>HD Matrix LED headlamps with Audi laser light, LED rear combination lamps and headlamp washer system <br>\n</li>\n<li>Dark-tinted heat-reflecting glass <br>\n</li>\n<li>S line Sports package <br>\n</li>\n<li>Red colored seams, Audi Sport GmbH <br>\n</li>\n<li>Panoramic glass roof Panoramadach <br>\n</li>\n<li>Rail system with fixation set und Fixierset <br>\n</li>\n<li>Seat heaters in front and rear <br>\n</li>\n<li>Black Appearance package Plus <br>\n</li>\n<li>Decorative inserts in Matte Brushed Aluminum Aluminium <br>\n</li>\n<li>Exterior mirrors, power-adjustable, heated and power-folding, auto-dimming, with memory feature <br>\n</li>\n<li>Upper part of dashboard in leather and lower part of dashboard in leatherette LP3,I-Tafel <br>\n</li>\n<li>Bang &amp; Olufsen premium sound system with 3D sound --BOSE-- <br>\n</li>\n<li>Audi Sport wheels, multi-spoke style (S style), Black Metallic, diam.-turn., 10.0J x 22, 285/35 R22 tires ET26 Q7 PA2 Audi Sport GmbH <br>\n</li>\n<li>Dinamica microfiber </li>\n</ul>\n<h5>Technical Specification</h5>\n<ul>\n<li>Fuel Type: Diesel</li>\n<li>Engine capacity: 2967cc</li>\n<li>Output: 210kw / 286bhp</li>\n<li>Transmision Type: Stronic</li>\n<li>Combined CO2: 204 g/km</li>\n<li>Combined Consumption: 7,8/100km</li>\n<li>Year 2025</li>\n<li>Starting Warranty Date:  07/11/2025<span></span>\n</li>\n</ul>\n<!---->",
+      "published_at": "2026-05-21T16:51:21+03:00",
+      "created_at": "2026-05-21T16:42:09+03:00",
+      "updated_at": "2026-11-20T10:48:32+02:00",
+      "vendor": "Audi Approve Plus",
+      "product_type": "Q7",
+      "tags": [
+        "Audiapproveplus",
+        "Demo"
+      ],
+      "variants": [
+        {
+          "id": 53830013485393,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "VC164670",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "82000.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 2,
+          "product_id": 10820163895633,
+          "created_at": "2026-05-21T16:42:10+03:00",
+          "updated_at": "2026-11-20T10:48:32+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 82591921504593,
+          "created_at": "2026-05-21T16:50:45+03:00",
+          "position": 1,
+          "updated_at": "2026-05-21T16:50:48+03:00",
+          "product_id": 10820163895633,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0844/8691/4385/files/VC164670.jpg?v=1779371448",
+          "width": 922,
+          "height": 525
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10820150690129,
+      "title": "Audi Q6 etron SUV quattro",
+      "handle": "audi-q6-etron-suv-quattro",
+      "body_html": "<p>Audi Q6 etron SUV quattro</p>\n<h5>Color</h5>\n<p><span style=\"font-size: 0.875rem;\">Ascari Blue Metallic</span></p>\n<h5>Equipment</h5>\n<p><span>For more details about our standard equipment please use the link below</span><span style=\"font-size: 0.875rem;\">.</span></p>\n<ul>\n<li><a href=\"https://www.unicars.com/gr/docs/pl/q6.pdf\">Standard Equipment</a></li>\n</ul>\n<h5>Additional Equipment</h5>\n<p class=\"my-0\">The additional equipment is included in the price.</p>\n<ul>\n<li><span style=\"font-size: 0.875rem;\">Wheels, 5-arm structure, Graphite Gray, gloss turned finish, 8.5J!10.0J x 20, 255/50!285/45 R20 tires ET40 Design 5 S-Basis/S-Line - ET35 vo ET39 h<br></span></li>\n<li><span style=\"font-size: 0.875rem;\">Comfort package with Anti-Theft package <br></span></li>\n<li><span style=\"font-size: 0.875rem;\">Interior S with sport seats in leather/artificial leather combination, Gray <br></span></li>\n<li><span style=\"font-size: 0.875rem;\">S line exterior <br></span></li>\n<li>\n<span style=\"font-size: 0.875rem;\">MMI experience pro <br></span><span style=\"font-size: 0.875rem;\">  </span>\n</li>\n</ul>\n<h5>Technical Specification</h5>\n<ul>\n<li>Electric Vehicle<br>\n</li>\n<li>Output: 185kw / 252bhp</li>\n<li>Electric Combined Consumption WLPT: 18.6 -16.0 /kwh/100km</li>\n<li>Electric Range (WLPT): 458 -533km</li>\n<li>Net Battery Capacity: 83kwh<br>\n</li>\n<li>Year 2024</li>\n<li>Starting Warranty Date: 29/10/2024</li>\n</ul>\n<!---->",
+      "published_at": "2026-05-21T16:39:56+03:00",
+      "created_at": "2026-05-21T16:32:31+03:00",
+      "updated_at": "2026-11-20T10:48:32+02:00",
+      "vendor": "Audi Approve Plus",
+      "product_type": "Q4 E-tron",
+      "tags": [
+        "Audiapproveplus",
+        "Demo"
+      ],
+      "variants": [
+        {
+          "id": 53829970854225,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "VC163075",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "68000.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 2,
+          "product_id": 10820150690129,
+          "created_at": "2026-05-21T16:32:31+03:00",
+          "updated_at": "2026-11-20T10:48:32+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 82591796756817,
+          "created_at": "2026-05-21T16:40:12+03:00",
+          "position": 1,
+          "updated_at": "2026-05-21T16:40:15+03:00",
+          "product_id": 10820150690129,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0844/8691/4385/files/VC163075.jpg?v=1779370815",
+          "width": 973,
+          "height": 520
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10819438838097,
+      "title": "Audi A1 SB 30TFSI Advance Stronic",
+      "handle": "audi-a1-sb-30tfsi-advance-stronic-3",
+      "body_html": "<p>Audi A1 SB 30TFSI Advance Stronic</p>\n<h5>Color</h5>\n<p>Arrow Gray Pearlescent/Myth Black Metallic   </p>\n<h5>Equipment</h5>\n<p><span>For more details about our standard equipment please use the link below</span><span style=\"font-size: 0.875rem;\">.</span></p>\n<ul>\n<li><a rel=\"noopener\" href=\"https://www.unicars.com/gr/docs/pl/a1.pdf\" target=\"_blank\">Standard Equipment</a></li>\n</ul>\n<h5><br></h5>\n<h5>Additional Equipment</h5>\n<p>The additional equipment is included in the price.</p>\n<ul>\n<li>Adaptive cruise control <br>\n</li>\n<li>Sports seats in front <br>\n</li>\n<li>Camera-based road sign recognition <br>\n</li>\n<li>Audi smartphone interface (-Elektrische Schnittstelle ohne AUX-IN- ) <br>\n</li>\n<li>Internal control code <br>\n</li>\n<li>Without engine power/technology nameplate <br>\n</li>\n<li>Dark-tinted heat-reflecting glass <br>\n</li>\n<li>Auto-dimming interior rearview mirror <br>\n</li>\n<li>Black Appearance package Plus Schwarz, Typzeichen in schwarz hochglanz<br>\n</li>\n<li>Decorative inserts in polygon structure, Slate Gray fine paint <br>\n</li>\n<li>Contrast package 2 <br>\n</li>\n<li>Roof dome in contrasting <br>\n</li>\n<li>Parking aid Plus <br>\n</li>\n<li>Wheels, 5-spoke style with Black plastic inserts, 7.5J x 17, 215/45 R17 tires --A1NF</li>\n<li>Design 5 <br>\n</li>\n<li>Audi connect Remote &amp; Control (for MMI Navigation plus) <br>\n</li>\n<li>Audi connect Navigation &amp; Infotainment Plus Connected Infotainment Plus-Paket <br>\n</li>\n<li>Rear view camera system <br>\n</li>\n<li>Accent surfaces in Silver Gray diamond paint </li>\n</ul>\n<h5></h5>\n<h5>Technical Specification</h5>\n<ul>\n<li>Fuel Type: Petrol</li>\n<li>Engine capacity: 999cc</li>\n<li>Output: 85kw / 110bhp</li>\n<li>Transmision Type: Stronic</li>\n<li>Combined CO2: 129g/km</li>\n<li>Combined Consumption: 5,7 l/100km</li>\n<li>Year 2025</li>\n<li>Starting Warranty Date: 23/7/2025<br>\n</li>\n</ul>\n<!---->",
+      "published_at": "2026-05-21T15:24:35+03:00",
+      "created_at": "2026-05-21T12:04:09+03:00",
+      "updated_at": "2026-11-20T10:48:32+02:00",
+      "vendor": "Audi Approve Plus",
+      "product_type": "A1 SB",
+      "tags": [
+        "Audiapproveplus",
+        "Demo"
+      ],
+      "variants": [
+        {
+          "id": 53827801743697,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "VC166927",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "29000.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 2,
+          "product_id": 10819438838097,
+          "created_at": "2026-05-21T12:04:09+03:00",
+          "updated_at": "2026-11-20T10:48:32+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 82587270709585,
+          "created_at": "2026-05-21T12:19:07+03:00",
+          "position": 1,
+          "updated_at": "2026-05-21T12:19:09+03:00",
+          "product_id": 10819438838097,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0844/8691/4385/files/VC166927.jpg?v=1779355149",
+          "width": 924,
+          "height": 515
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10819360719185,
+      "title": "Audi A5 Limousine TFSI Stronic 150kw",
+      "handle": "audi-a5-limousine-tfsi-stronic-150kw",
+      "body_html": "<p>Audi A5 Limousine TFSI Stronic 150kw<br></p>\n<h5>Color</h5>\n<p>Magnet Grey </p>\n<h5>Equipment</h5>\n<p><span>For more details about our standard equipment please use the link below</span><span style=\"font-size: 0.875rem;\">.</span></p>\n<ul>\n<li style=\"list-style-type: none;\">\n<ul>\n<li><a href=\"https://www.unicars.com/gr/docs/pl/a5limousine.pdf\">Standard Equipment</a></li>\n</ul>\n</li>\n</ul>\n<h5>Additional Equipment</h5>\n<p>The additional equipment is included in the price.</p>\n<ul>\n<li>S sport suspension <br>\n</li>\n<li>Digital key <br>\n</li>\n<li>Convenience key without Safelock <br>\n</li>\n<li>Inlays, matt brushed aluminum with linear embossing, Anthracite Alu Ortogon <br>\n</li>\n<li>Rear occupant detection <br>\n</li>\n<li>Lane departure warning with emergency assist <br>\n</li>\n<li>Side assist and exit warning, rear cross-traffic assist and rear turn assist <br>\n</li>\n<li>Audi phone box <br>\n</li>\n<li>Audi Sport wheels, multi-spoke S, Black Metallic, gloss turned finish, 8.5J x 20, 245/35 R20 tires ET 46 Design 10, Audi Sport GmbH <br>\n</li>\n<li>Tech plus <br>\n</li>\n<li>S line exterior <br>\n</li>\n<li>Ambient lighting package plus mehrfarbig <br>\n</li>\n<li>Interior S with sport seats in Dinamica microfiber/leather comb., Black, color. stitching in Red, Audi Sport GmbH <br>\n</li>\n</ul>\n<h5>Technical Specification</h5>\n<ul>\n<li>Fuel Type: Petrol</li>\n<li>Engine capacity: 1984cc</li>\n<li>Output: 150kw / 204bhp</li>\n<li>Transmision Type: Stronic</li>\n<li>Combined CO2:  151 –171 g/km</li>\n<li>Combined Consumption: 6,6 –7,5<span> l/100 km</span><br>\n</li>\n</ul>\n<!---->",
+      "published_at": "2026-05-21T11:52:09+03:00",
+      "created_at": "2026-05-21T10:32:48+03:00",
+      "updated_at": "2026-11-20T10:48:32+02:00",
+      "vendor": "AUDI",
+      "product_type": "A5",
+      "tags": [
+        "80anniversary",
+        "test-drive-car"
+      ],
+      "variants": [
+        {
+          "id": 53827255861585,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "VC164128",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "54000.00",
+          "grams": 0,
+          "compare_at_price": "68640.00",
+          "position": 2,
+          "product_id": 10819360719185,
+          "created_at": "2026-05-21T10:32:48+03:00",
+          "updated_at": "2026-11-20T10:48:32+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 82586900169041,
+          "created_at": "2026-05-21T11:51:52+03:00",
+          "position": 1,
+          "updated_at": "2026-05-21T11:51:55+03:00",
+          "product_id": 10819360719185,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0844/8691/4385/files/VC164128.png?v=1779353515",
+          "width": 798,
+          "height": 399
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10819340861777,
+      "title": "Audi A1 SB 30TFSI Advance Stronic",
+      "handle": "audi-a1-sb-30tfsi-advance-stronic-2",
+      "body_html": "<p>Audi A1 SB 30TFSI Advance Stronic<br></p>\n<h5>Color</h5>\n<p>Arrow Gray Pearlescent / Myth Black Metallic</p>\n<h5>Equipment</h5>\n<p><span>For more details about our standard equipment please use the link below</span><span style=\"font-size: 0.875rem;\">.</span></p>\n<ul>\n<li><a href=\"https://www.unicars.com/gr/docs/pl/a1.pdf\" target=\"_blank\" rel=\"noopener\">Standard Equipment</a></li>\n</ul>\n<h5>Additional Equipment</h5>\n<p class=\"my-0\">The additional equipment is included in the price.</p>\n<ul>\n<li class=\"my-0\">Adaptive cruise control <br>\n</li>\n<li class=\"my-0\">Sport seats, front <br>\n</li>\n<li class=\"my-0\">Smartphone interface <br>\n</li>\n<li class=\"my-0\">Audi phone box light <br>\n</li>\n<li class=\"my-0\">Inlays, Polygon Structure, fine paint finish, Slate Gray <br>\n</li>\n<li class=\"my-0\">Contrast package 2  <br>\n</li>\n<li class=\"my-0\">Accent surfaces, diamond paint finish, Silver Gray</li>\n</ul>\n<h5>Technical Specification</h5>\n<ul>\n<li>Fuel Type: Petrol</li>\n<li>Engine capacity: 999cc</li>\n<li>Output: 85kw / 110bhp</li>\n<li>Transmision Type: Stronic</li>\n<li>Combined CO2: 129g/km</li>\n<li>Combined Consumption: 5,7 l/100km<span></span>\n</li>\n</ul>\n<!---->",
+      "published_at": "2026-05-21T11:50:32+03:00",
+      "created_at": "2026-05-21T10:05:43+03:00",
+      "updated_at": "2026-11-20T10:48:32+02:00",
+      "vendor": "AUDI",
+      "product_type": "A1 SB",
+      "tags": [
+        "80anniversary",
+        "new"
+      ],
+      "variants": [
+        {
+          "id": 53827155362129,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "VC168143",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "27500.00",
+          "grams": 0,
+          "compare_at_price": "30100.00",
+          "position": 2,
+          "product_id": 10819340861777,
+          "created_at": "2026-05-21T10:05:43+03:00",
+          "updated_at": "2026-11-20T10:48:32+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 82586877133137,
+          "created_at": "2026-05-21T11:50:04+03:00",
+          "position": 1,
+          "updated_at": "2026-05-21T11:50:08+03:00",
+          "product_id": 10819340861777,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0844/8691/4385/files/VC168143.png?v=1779353408",
+          "width": 766,
+          "height": 398
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10467303850321,
+      "title": "SEAT LEON FR 1.5eTSI DSG 150BHP",
+      "handle": "seat-leon-nf-fr-1-5tsi-mhev-dsg",
+      "body_html": "<p>SEAT LEON FR 1.5eTSI DSG 150BHP</p>\n<h5>Color</h5>\n<p>Magnetic Tech Metallic</p>\n<h5>Equipment</h5>\n<p><span>For more details about our standard equipment please use the link below</span><span style=\"font-size: 0.875rem;\">.</span></p>\n<ul>\n<li><a href=\"https://www.unicars.com/gr/docs/pl/newleon.pdf\">Standard Equipment</a></li>\n</ul>\n<h5>Additional Equipment</h5>\n<p class=\"my-0\">The additional equipment is included in the price.</p>\n<ul>\n<li>Black Cloth Seats<br>\n</li>\n<li>FR Package<br>\n</li>\n<li>Rear view camera system <br>\n</li>\n<li>Safe &amp; Driving package M (for 12.9-inch navigation system) <br>\n</li>\n<li>SEAT Connect Plus - 3 years <br>\n</li>\n<li>12.9-inch navigation system Plus <br>\n</li>\n</ul>\n<h5>Technical Information</h5>\n<ul>\n<li><span>Fuel Type: Petrol</span></li>\n<li><span>Engine capacity: 1498cc</span></li>\n<li><span>Output: 110kw / 150bhp</span></li>\n<li><span>Transmision Type: DSG</span></li>\n<li><span>Combined CO2: 127 g/km</span></li>\n<li>\n<span>Combined Consumption: 5,6 l/100km</span><br>\n</li>\n</ul>\n<!---->",
+      "published_at": "2026-02-10T11:59:11+02:00",
+      "created_at": "2025-11-10T15:03:40+02:00",
+      "updated_at": "2026-11-20T10:48:32+02:00",
+      "vendor": "SEAT",
+      "product_type": "LEON",
+      "tags": [
+        "80anniversary",
+        "new"
+      ],
+      "variants": [
+        {
+          "id": 52315873444177,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "VC166659",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "24900.00",
+          "grams": 0,
+          "compare_at_price": "29750.00",
+          "position": 1,
+          "product_id": 10467303850321,
+          "created_at": "2025-11-10T15:03:40+02:00",
+          "updated_at": "2026-11-20T10:48:32+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 70301042606417,
+          "created_at": "2025-04-08T16:01:20+03:00",
+          "position": 1,
+          "updated_at": "2025-08-21T08:29:14+03:00",
+          "product_id": 10467303850321,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0844/8691/4385/files/SEATLeonfront2.jpg?v=1755754154",
+          "width": 1024,
+          "height": 1024
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10463850103121,
+      "title": "VW GOLF LIFE ehybrid DSG 110kw",
+      "handle": "vw-golf-life-ehybrid-dsg-110kw",
+      "body_html": "<p>VW GOLF LIFE E- hybrid DSG 110kw    </p>\n<h5>Color</h5>\n<p><span>Pure White</span></p>\n<h5>Equipment</h5>\n<p><span>For more details about our standard equipment please use the link below</span><span style=\"font-size: 0.875rem;\">.</span></p>\n<ul>\n<li><a href=\"https://www.unicars.com/gr/docs/pl/newgolf.pdf\" rel=\"noopener\" target=\"_blank\">Standard Equipment</a></li>\n</ul>\n<h5>Additional Equipment</h5>\n<p class=\"my-0\">The additional equipment is included in the price.</p>\n<ul>\n<li>Life Plus package PHEV<br>\n</li>\n<li>Parking and Convenience package for DQ (without SAFELOCK) with Intelligent Park Assist <br>\n</li>\n<li>Lights &amp; Vision package incl. high-beam control Light Assist <br>\n</li>\n<li>Rear view camera system <br>\n</li>\n<li>Soul/Soul/Black/Storm Gray<br>\n</li>\n<li>Privacy glass for rear side windows and rear window <br>\n</li>\n</ul>\n<h5>Technical Information</h5>\n<ul>\n<li>Fuel Type: Plug in-Hybrid</li>\n<li>Engine capacity: 1498cc</li>\n<li>Output: 110kw / 150bhp</li>\n<li>System Performance: 150 Kw</li>\n<li>Electric Range : 132-142 Km</li>\n<li>Transmision Type: DSG</li>\n<li>Combined CO2: 9-6 g/km</li>\n<li>Combined Consumption: 15,7–14,7 kWh/100 km plus 0,40,3 l/100km<br>\n</li>\n</ul>\n<!---->",
+      "published_at": "2025-11-28T09:28:17+02:00",
+      "created_at": "2025-11-08T09:55:46+02:00",
+      "updated_at": "2026-11-20T10:48:32+02:00",
+      "vendor": "VW",
+      "product_type": "GOLF",
+      "tags": [
+        "80anniversary",
+        "test-drive-car"
+      ],
+      "variants": [
+        {
+          "id": 52304615801169,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "VC165433",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "29000.00",
+          "grams": 0,
+          "compare_at_price": "40570.00",
+          "position": 2,
+          "product_id": 10463850103121,
+          "created_at": "2025-11-08T09:55:46+02:00",
+          "updated_at": "2026-11-20T10:48:32+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 70377940320593,
+          "created_at": "2025-04-10T13:08:56+03:00",
+          "position": 1,
+          "updated_at": "2025-04-10T13:09:19+03:00",
+          "product_id": 10463850103121,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0844/8691/4385/files/VWGolfStyle1.5TSIeDSG110kwPureWhite0Q0Qfront2_08da9bfa-ee3b-49fb-8cb2-36dc0b922135.webp?v=1744279759",
+          "width": 1024,
+          "height": 1024
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10463833981265,
+      "title": "VW GOLF LIFE ehybrid DSG 110kw",
+      "handle": "vw-golf-life-ehybrid-dsg-110kw-2",
+      "body_html": "<p>VW GOLF LIFE E- hybrid DSG 110kw    </p>\n<h5>Color</h5>\n<p><span>Pure White</span></p>\n<h5>Equipment</h5>\n<p><span>For more details about our standard equipment please use the link below</span><span style=\"font-size: 0.875rem;\">.</span></p>\n<ul>\n<li><a href=\"https://www.unicars.com/gr/docs/pl/newgolf.pdf\" rel=\"noopener\" target=\"_blank\">Standard Equipment</a></li>\n</ul>\n<h5>Additional Equipment</h5>\n<p class=\"my-0\">The additional equipment is included in the price.</p>\n<ul>\n<li>Privacy glass for rear side windows and rear window <br>\n</li>\n<li>Rear view camera system<br>\n</li>\n<li>Parking and Convenience package for DQ (without SAFELOCK) with Intelligent Park Assist <br>\n</li>\n<li>Lights &amp; Vision package incl. high-beam control Light Assist <br>\n</li>\n</ul>\n<h5>Technical Information</h5>\n<ul>\n<li>Fuel Type: Plug in-Hybrid</li>\n<li>Engine capacity: 1498cc</li>\n<li>Output: 110kw / 150bhp</li>\n<li>System Performance: 150 Kw</li>\n<li>Electric Range : 132-142 Km</li>\n<li>Transmision Type: DSG</li>\n<li>Combined CO2: 9-6 g/km</li>\n<li>Combined Consumption: 15,7–14,7 kWh/100 km plus 0,40,3 l/100km</li>\n</ul>\n<!---->",
+      "published_at": "2025-11-28T09:27:30+02:00",
+      "created_at": "2025-11-08T09:44:07+02:00",
+      "updated_at": "2026-11-20T10:48:32+02:00",
+      "vendor": "VW",
+      "product_type": "GOLF",
+      "tags": [
+        "80anniversary",
+        "test-drive-car"
+      ],
+      "variants": [
+        {
+          "id": 52304576676177,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "VC164970",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "29000.00",
+          "grams": 0,
+          "compare_at_price": "40570.00",
+          "position": 2,
+          "product_id": 10463833981265,
+          "created_at": "2025-11-08T09:44:07+02:00",
+          "updated_at": "2026-11-20T10:48:32+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 70377940320593,
+          "created_at": "2025-04-10T13:08:56+03:00",
+          "position": 1,
+          "updated_at": "2025-04-10T13:09:19+03:00",
+          "product_id": 10463833981265,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0844/8691/4385/files/VWGolfStyle1.5TSIeDSG110kwPureWhite0Q0Qfront2_08da9bfa-ee3b-49fb-8cb2-36dc0b922135.webp?v=1744279759",
+          "width": 1024,
+          "height": 1024
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10066850546001,
+      "title": "CUPRA BORN HIGH 231BHP 59kWh",
+      "handle": "cupra-ateca-1-5-tsi-dsg-150hp",
+      "body_html": "<p><span>CUPRA BORN HIGH 231BHP 59kWh</span></p>\n<h5>Color</h5>\n<p><span>Aurora Blue Special Metallic</span></p>\n<h5>Equipment</h5>\n<p><span>For more details about our standard equipment please use the link below</span><span style=\"font-size: 0.875rem;\">.</span></p>\n<ul>\n<li><a href=\"https://www.unicars.com/gr/docs/pl/cupra_born.pdf\">Standard Equipment</a></li>\n</ul>\n<h5>Additional Equipment</h5>\n<p class=\"my-0\">The additional equipment is included in the price.</p>\n<ul>\n<li>19-inch alloy wheels \"Typhoon\" 31/2, machined, Glossy Black with Copper elements</li>\n<li>Navigation System</li>\n</ul>\n<h5>Technical Information</h5>\n<ul>\n<li>Electric Vehicle</li>\n<li>Output: 170kw / 231bhp</li>\n<li>Electric Combined Consumption WLPT: 15,6-18,2 /kwh/100km</li>\n<li>Electric Range (WLPT): Up to 432km</li>\n<li>Net Battery Capacity: 59kwh</li>\n</ul>\n<!---->",
+      "published_at": "2025-07-31T12:17:42+03:00",
+      "created_at": "2025-04-07T11:14:18+03:00",
+      "updated_at": "2026-11-20T10:48:32+02:00",
+      "vendor": "CUPRA",
+      "product_type": "BORN",
+      "tags": [
+        "80anniversary",
+        "electric",
+        "test-drive-car"
+      ],
+      "variants": [
+        {
+          "id": 50909462004049,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "VC163896",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "33000.00",
+          "grams": 0,
+          "compare_at_price": "47100.00",
+          "position": 1,
+          "product_id": 10066850546001,
+          "created_at": "2025-04-07T11:14:18+03:00",
+          "updated_at": "2026-11-20T10:48:32+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 70260701593937,
+          "created_at": "2025-04-07T15:07:32+03:00",
+          "position": 1,
+          "updated_at": "2025-08-21T08:29:26+03:00",
+          "product_id": 10066850546001,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0844/8691/4385/files/CUPRABORNFront1.webp?v=1755754166",
+          "width": 1024,
+          "height": 1024
+        },
+        {
+          "id": 70260701561169,
+          "created_at": "2025-04-07T15:07:32+03:00",
+          "position": 2,
+          "updated_at": "2025-08-21T08:29:27+03:00",
+          "product_id": 10066850546001,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0844/8691/4385/files/CUPRABORNFront2.webp?v=1755754167",
+          "width": 1024,
+          "height": 1024
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10067242910033,
+      "title": "VW ID BUZZ Cargo 150KW 77kWh",
+      "handle": "vw-id-3",
+      "body_html": "<p>VW ID BUZZ Cargo 150KW 77kWh</p>\n<h5>Color</h5>\n<p><span>Candy White</span></p>\n<h5>Equipment</h5>\n<p><span>For more details about our standard equipment please use the link below</span><span style=\"font-size: 0.875rem;\">.</span></p>\n<ul>\n<li><a href=\"https://www.unicars.com/gr/docs/pl/idbuzz_cargo.pdf\">Standard Equipment</a></li>\n</ul>\n<h5>Additional Equipment</h5>\n<p class=\"my-0\">The additional equipment is included in the price.</p>\n<ul>\n<li class=\"my-0\"><br></li>\n</ul>\n<h5>Technical Specification</h5>\n<ul>\n<li>Electric Vehicle<br>\n</li>\n<li>Output: 210kw / 286bhp</li>\n<li>Electric Combined Consumption WLPT: 20.7 /kwh/100km</li>\n<li>Electric Range (WLPT): 420km</li>\n<li>Net Battery Capacity: 79kwh<br>\n</li>\n</ul>\n<!---->",
+      "published_at": "2025-04-17T12:49:52+03:00",
+      "created_at": "2025-04-07T16:00:44+03:00",
+      "updated_at": "2026-11-20T10:48:32+02:00",
+      "vendor": "VW",
+      "product_type": "ID",
+      "tags": [
+        "80anniversary",
+        "ID",
+        "ID Buzz",
+        "test-drive-car"
+      ],
+      "variants": [
+        {
+          "id": 50910876664145,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "VC160574",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "50000.00",
+          "grams": 0,
+          "compare_at_price": "56500.00",
+          "position": 1,
+          "product_id": 10067242910033,
+          "created_at": "2025-04-07T16:00:44+03:00",
+          "updated_at": "2026-11-20T10:48:32+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 70382689124689,
+          "created_at": "2025-04-10T15:18:53+03:00",
+          "position": 1,
+          "updated_at": "2025-08-01T19:58:10+03:00",
+          "product_id": 10067242910033,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0844/8691/4385/files/VWIDBUZZCargo150KW77kWhB4B4CandyWhitefront1.webp?v=1754067490",
+          "width": 1024,
+          "height": 1024
+        },
+        {
+          "id": 70382688764241,
+          "created_at": "2025-04-10T15:18:53+03:00",
+          "position": 2,
+          "updated_at": "2025-08-01T19:58:10+03:00",
+          "product_id": 10067242910033,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0844/8691/4385/files/VWIDBUZZCargo150KW77kWhB4B4CandyWhitefront2.webp?v=1754067490",
+          "width": 1024,
+          "height": 1024
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10067209847121,
+      "title": "VW Taigo Life 1.0TSI 70kw",
+      "handle": "vw-taigo-life-1-0tsi-95ps-dsg1",
+      "body_html": "<p>VW <span>Taigo Life 1.0TSI 70kw</span></p>\n<h5>Color</h5>\n<p><span>Deep Black Perle</span></p>\n<h5>Equipment</h5>\n<p><span>For more details about our standard equipment please use the link below</span><span style=\"font-size: 0.875rem;\">.</span></p>\n<ul>\n<li><a href=\"https://www.unicars.com/gr/docs/pl/taigo.pdf\">Standard Equipment</a></li>\n</ul>\n<h5>Additional Equipment</h5>\n<p class=\"my-0\">The additional equipment is included in the price.</p>\n<ul>\n<li>Keyless locking and starting system Keyless Access without SAFELOCK <br>\n</li>\n<li>Privacy glass for rear side windows and rear window <br>\n</li>\n<li>Park Distance Control - warning signals for obstacles in the front and rear </li>\n<li>Rear view camera system <br>\n</li>\n<li>Assistance package IQ.DRIVE <br>\n</li>\n<li>\"Bangalore\" 6.5J x 17, tires 205/55 R17, low rolling resistance<br>\n</li>\n<li>Space- and weight-saving spare wheel <br>\n</li>\n<li>Plus Edition Package<br>\n</li>\n<li>Lights &amp; Vision package <br>\n</li>\n<li>Preparation for We Connect and We Connect Plus or VW Connect and VW Connect Plus <br>\n</li>\n</ul>\n<h5>Technical Information</h5>\n<ul>\n<li>Fuel Type: Petrol</li>\n<li>Engine capacity: 999cc</li>\n<li>Output: 70kw / 95bhp</li>\n<li>Transmision Type: Manual</li>\n<li>Combined CO2:  124 g/km</li>\n<li>Combined Consumption:  5,4 l/100km</li>\n</ul>\n<!---->",
+      "published_at": "2025-04-17T12:46:58+03:00",
+      "created_at": "2025-04-07T15:17:24+03:00",
+      "updated_at": "2026-11-20T10:48:32+02:00",
+      "vendor": "VW",
+      "product_type": "TAIGO",
+      "tags": [
+        "80anniversary",
+        "new",
+        "Taigo"
+      ],
+      "variants": [
+        {
+          "id": 50910635000145,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "VC162467",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "17900.00",
+          "grams": 0,
+          "compare_at_price": "23240.00",
+          "position": 1,
+          "product_id": 10067209847121,
+          "created_at": "2025-04-07T15:17:24+03:00",
+          "updated_at": "2026-11-20T10:48:32+02:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 70418344542545,
+          "created_at": "2025-04-11T13:19:35+03:00",
+          "position": 1,
+          "updated_at": "2025-08-01T19:58:14+03:00",
+          "product_id": 10067209847121,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0844/8691/4385/files/VWTaigoLife2T2Tdeepblackpearlfront1.webp?v=1754067494",
+          "width": 1024,
+          "height": 1024
+        },
+        {
+          "id": 70418344378705,
+          "created_at": "2025-04-11T13:19:35+03:00",
+          "position": 2,
+          "updated_at": "2025-08-01T19:58:14+03:00",
+          "product_id": 10067209847121,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0844/8691/4385/files/VWTaigoLife2T2Tdeepblackpearlfront2.webp?v=1754067494",
+          "width": 1024,
+          "height": 1024
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    }
+  ]
+}

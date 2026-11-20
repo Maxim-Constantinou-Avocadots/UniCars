@@ -1,0 +1,14 @@
+{
+  "source": "https://www.unicars.com/en/contact.php",
+  "checked_on": "2026-11-19",
+  "includes": [
+    "Head office phone, address, email and hours",
+    "Published showroom and office contacts",
+    "Published workshop, parts and body-and-paint contacts"
+  ],
+  "prototype": {
+    "enquiry_form": "Client-side preview only; no submission, storage or booking confirmation.",
+    "directions": "Google Maps search links using the published addresses.",
+    "image": "Existing Skoda brand photograph; not presented as a Unicars property photograph."
+  }
+}
