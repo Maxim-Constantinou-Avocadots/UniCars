@@ -2,7 +2,53 @@ import test from 'node:test';
 import assert from 'node:assert/strict';
 import { readFileSync } from 'node:fs';
 import vm from 'node:vm';
+import { execFileSync } from 'node:child_process';
 import { id3SelectionFromRoute, id3SelectionLabel, id3VersionId } from '../dist/id3-product-core.mjs';
+
+test('The actual page router opens the refined experience for collection and search links', () => {
+ const source=readFileSync('dist/app.js','utf8');
+ const router=source.slice(source.indexOf('function render(id)'),source.indexOf('function updateLocations()'));
+ const main={},mobile={},calls=[];
+ const context={closeMenus(){},current:'',act(){return ''},document:{body:{classList:{toggle(){}}}},$:selector=>selector==='#main'?main:mobile,window:{unmountUniID3(){},scrollTo(){},renderUniID3:route=>{calls.push(route);return '<div id="id3ProductRoot"></div>';},renderUniRangeVehicle(){throw Error('Neo reached the old catalogue renderer');}}};
+ vm.createContext(context);vm.runInContext(router,context);
+ for(const route of ['range-volkswagen-id-3-neo','range-volkswagen-id-3-neo?version=volkswagen-id-3-neo-version-6','smart-vehicle-volkswagen-id-3-neo-version-1']){
+  context.render(route);assert.equal(calls.at(-1),route);assert.ok(main.innerHTML.includes('id3ProductRoot'));
+ }
+});
+
+test('Legacy catalogue entry points also open the refined Neo page', () => {
+ const queued=[],routes=[];
+ const window={renderUniID3:route=>{routes.push(route);return 'refined-product';}};
+ vm.runInNewContext(readFileSync('dist/vehicle-library.js','utf8'),{window,document:{addEventListener(){}},queueMicrotask:callback=>queued.push(callback)});
+ assert.equal(window.renderUniRangeVehicle('volkswagen-id-3-neo'),'refined-product');
+ assert.equal(window.renderUniRangeVehicle('volkswagen-id-3-neo?version=volkswagen-id-3-neo-version-2'),'refined-product');
+ assert.equal(queued.length,0);
+ assert.equal(routes.length,2);
+ assert.match(window.renderUniRangeVehicle('volkswagen-golf'),/id="rangeVehicle"/);
+ assert.equal(queued.length,1);
+});
+
+test('Deployment URLs version the complete module graph without changing external resources', () => {
+ execFileSync('python3',['-c',`
+import importlib.util,tempfile
+from pathlib import Path
+spec=importlib.util.spec_from_file_location('builder','scripts/build-wix.py')
+builder=importlib.util.module_from_spec(spec);spec.loader.exec_module(builder)
+with tempfile.TemporaryDirectory() as temp:
+ root=Path(temp);(root/'assets').mkdir()
+ (root/'index.html').write_text('<script src="app.js"></script><link href="https://cdn.example/style.css">')
+ (root/'app.js').write_text("import('./assets/page.js');import('./assets/runtime.js')")
+ (root/'assets/page.js').write_text('import "./runtime.js";')
+ (root/'assets/runtime.js').write_text('export const root = {};')
+ builder.version_frontend_assets(root,'release-one')
+ assert 'app.js?v=release-one' in (root/'index.html').read_text()
+ assert 'https://cdn.example/style.css' in (root/'index.html').read_text()
+ assert './assets/runtime.js?v=release-one' in (root/'app.js').read_text()
+ assert './runtime.js?v=release-one' in (root/'assets/page.js').read_text()
+ builder.version_frontend_assets(root,'release-one')
+ assert '?v=release-one?v=' not in (root/'app.js').read_text()
+`]);
+});
 
 test('Each ID.3 Neo catalogue version opens the matching battery and equipment level', () => {
  const library=JSON.parse(readFileSync('dist/data/vehicle-library.json'));

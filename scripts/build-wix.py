@@ -43,6 +43,30 @@ def digest(path):
     return hashlib.sha256(path.read_bytes()).hexdigest()
 
 
+def version_frontend_assets(directory, revision):
+    """Give every local stylesheet and module one consistent release URL.
+
+    This covers the complete ES module graph, so two import paths cannot
+    accidentally load different cached copies of React or a Wix module.
+    Canonical file paths remain available for API checks and older links.
+    """
+    pattern = re.compile(r'''(?P<quote>["'`])(?P<path>(?:\.{1,2}/|/)?[A-Za-z0-9_./-]+\.(?:js|mjs|css))(?P=quote)''')
+    for file in directory.rglob('*'):
+        if not file.is_file() or file.suffix not in {'.html', '.js', '.mjs', '.css'}:
+            continue
+
+        def replace(match):
+            path = match.group('path')
+            target = directory / path.lstrip('/') if path.startswith('/') else file.parent / path
+            resolved = target.resolve()
+            if not resolved.is_relative_to(directory.resolve()) or not resolved.is_file():
+                return match.group(0)
+            quote = match.group('quote')
+            return quote + path + '?v=' + revision + quote
+
+        file.write_text(pattern.sub(replace, file.read_text()))
+
+
 def build():
     config = json.loads((ROOT / 'wix/site.json').read_text())
     map_token = charging_map_token(config) if (SOURCE / 'charging-map/config.js').is_file() else ''
@@ -104,6 +128,7 @@ def build():
     lookup = {path: item['url'] for path, item in media.items()}
     (OUTPUT / 'asset-resolver.js').write_text('window.uniAsset = (function () { const media = ' + json.dumps(lookup, ensure_ascii=False) + '; return function (path) { return media[path] || path; }; })();\n')
     revision = subprocess.check_output(['git', 'rev-parse', 'HEAD'], cwd=ROOT, text=True).strip()
+    version_frontend_assets(OUTPUT, revision)
     checksums = {p.relative_to(OUTPUT).as_posix(): digest(p) for p in sorted(OUTPUT.rglob('*')) if p.is_file()}
     manifest = {'repository': config['repository'], 'commit': revision, 'siteId': config['siteId'], 'mediaCount': len(media), 'files': checksums}
     (OUTPUT / 'deployment-manifest.json').write_text(json.dumps(manifest, indent=2) + '\n')
