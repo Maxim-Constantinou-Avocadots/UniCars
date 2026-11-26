@@ -114,11 +114,11 @@ var navHovered=null;
 function refreshNavIndicator(){const nav=document.querySelector('.desktop-nav'),indicator=nav?.querySelector('.nav-indicator');if(!indicator)return;const focused=nav.contains(document.activeElement)?document.activeElement.closest('a,button'):null,target=navHovered||focused||nav.querySelector('[aria-expanded="true"]')||nav.querySelector('[aria-current="page"]');if(!target){nav.classList.remove('has-nav-highlight');return;}const r=target.getBoundingClientRect(),base=nav.getBoundingClientRect();const first=!nav.classList.contains('has-nav-highlight');if(first)indicator.classList.add('nav-indicator-set');indicator.style.width=r.width+'px';indicator.style.transform=`translateX(${r.left-base.left}px)`;nav.classList.add('has-nav-highlight');if(first)requestAnimationFrame(()=>indicator.classList.remove('nav-indicator-set'));}
 /* The header turns into floating glass once the page scrolls (dark glass over dark sections), slides away while reading down and returns on any upward scroll. */
 function initHeaderScroll(header){if(!header)return;const STEP=6,TOP=12;let lastY=window.scrollY,hidden=false,queued=false;
- const locked=()=>document.body.classList.contains('menu-open')||document.body.classList.contains('dialog-open')||document.body.classList.contains('ehub-dialog-open')||header.matches(':focus-within');
+ const locked=()=>document.body.classList.contains('has-id3-product')||document.body.classList.contains('menu-open')||document.body.classList.contains('dialog-open')||document.body.classList.contains('ehub-dialog-open')||header.matches(':focus-within');
  const setHidden=h=>{if(h===hidden)return;hidden=h;header.classList.toggle('is-hidden',h)};
  const DARK='.eh-hero-frame,.smart-hero.smart-cinematic,.cro-visual,body>footer,[data-nav-tone="dark"]',inner=header.querySelector('.header-inner');
  const toneUnder=()=>{if(!inner)return false;const y=(parseFloat(getComputedStyle(header).top)||0)+inner.offsetTop+inner.offsetHeight/2;const below=document.elementsFromPoint(window.innerWidth/2,y).find(el=>!header.contains(el));return !!below?.closest(DARK)};
- const update=()=>{queued=false;const y=Math.max(0,window.scrollY),dy=y-lastY,revealZone=header.offsetHeight+120;header.classList.toggle('is-scrolled',y>TOP);header.classList.toggle('is-on-dark',y>TOP&&toneUnder());
+ const update=()=>{queued=false;const y=Math.max(0,window.scrollY),dy=y-lastY,revealZone=header.offsetHeight+120,productPage=document.body.classList.contains('has-id3-product');header.classList.toggle('is-scrolled',y>TOP&&!productPage);header.classList.toggle('is-on-dark',y>TOP&&!productPage&&toneUnder());
   if(locked()||y<revealZone){setHidden(false);lastY=y;return}
   if(Math.abs(dy)<STEP)return;
   setHidden(dy>0);lastY=y};

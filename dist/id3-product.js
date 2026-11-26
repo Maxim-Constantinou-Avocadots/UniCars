@@ -25,8 +25,11 @@
     observers.forEach(observer => observer.disconnect()); observers = [];
     product = null;
     window.uniID3Selection = null;
+    document.body.classList.remove('has-id3-product');
   };
   window.renderUniID3 = function (route) {
+    document.body.classList.add('has-id3-product');
+    document.querySelector('.header')?.classList.remove('is-hidden', 'is-scrolled', 'is-on-dark');
     const request = generation;
     queueMicrotask(async () => {
       const root = document.getElementById('id3ProductRoot');

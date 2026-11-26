@@ -4,6 +4,37 @@ import { readFileSync } from 'node:fs';
 import vm from 'node:vm';
 import { execFileSync } from 'node:child_process';
 import { id3SelectionFromRoute, id3SelectionLabel, id3VersionId } from '../dist/id3-product-core.mjs';
+import { createProductSectionNav } from '../dist/id3-product/section-nav.js';
+
+test('Product section shortcuts scroll locally and preserve modified link clicks', t => {
+ const previous=globalThis.window,calls=[];
+ globalThis.window={uniID3Scroll:section=>calls.push(section)};
+ t.after(()=>{if(previous===undefined)delete globalThis.window;else globalThis.window=previous;});
+ const React={createElement:(tag,props,...children)=>({tag,props,children}),useState:value=>[value,()=>{}],useEffect(){}};
+ const Component=createProductSectionNav(React,[{id:'overview',label:'Overview'},{id:'versions',label:'Choose your ID.3'}]);
+ const bar=Component(),links=bar.children[0].children[1].children[0];
+ let prevented=false;
+ links[1].props.onClick({preventDefault(){prevented=true;}});
+ assert.equal(prevented,true);assert.deepEqual(calls,['versions']);
+ prevented=false;links[1].props.onClick({ctrlKey:true,preventDefault(){prevented=true;}});
+ assert.equal(prevented,false);assert.equal(calls.length,1);
+});
+
+test('Product pages keep the shared header stable while other pages retain its scroll animation', () => {
+ const source=readFileSync('dist/app.js','utf8');
+ const implementation=source.slice(source.indexOf('function initHeaderScroll('),source.indexOf('function initNavigationMotion('));
+ const body=new Set(['has-id3-product']),classes=new Set(),listeners={};
+ const header={offsetHeight:96,matches:()=>false,contains:()=>false,querySelector:()=>({offsetTop:0,offsetHeight:96}),addEventListener(){},classList:{toggle:(name,value)=>value?classes.add(name):classes.delete(name)}};
+ const window={scrollY:800,innerWidth:1440,addEventListener:(name,callback)=>{listeners[name]=callback}};
+ const document={body:{classList:{contains:name=>body.has(name)}},elementsFromPoint:()=>[],addEventListener(){}};
+ const context={window,document,getComputedStyle:()=>({top:'30px'}),requestAnimationFrame:callback=>callback(),MutationObserver:class{observe(){}}};
+ vm.createContext(context);vm.runInContext(implementation,context);context.initHeaderScroll(header);
+ assert.equal(classes.has('is-hidden'),false);assert.equal(classes.has('is-scrolled'),false);
+ body.delete('has-id3-product');window.scrollY=1000;listeners.scroll();
+ assert.equal(classes.has('is-scrolled'),true);assert.equal(classes.has('is-hidden'),true);
+ body.add('has-id3-product');window.scrollY=1200;listeners.scroll();
+ assert.equal(classes.has('is-scrolled'),false);assert.equal(classes.has('is-hidden'),false);
+});
 
 test('The actual page router opens the refined experience for collection and search links', () => {
  const source=readFileSync('dist/app.js','utf8');

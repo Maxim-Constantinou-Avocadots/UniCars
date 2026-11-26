@@ -1,7 +1,14 @@
 /* Shared site identity around the retained ID.3 product experience. */
 #id3ProductRoot{font-family:Figtree,Arial,sans-serif;font-size:16px;line-height:1.5;color:#17232e;background:white;min-width:0}
 #id3ProductRoot .id3-load-state{max-width:1640px;margin:auto;padding:72px 48px;min-height:50vh}
-#id3ProductRoot .product-nav{top:var(--id3-shell-height,130px);z-index:20;transition:top .3s ease}
+#id3ProductRoot .product-nav{position:sticky;top:var(--id3-shell-height,130px);z-index:20;background:white;border-block:1px solid #e5eaf0;box-shadow:0 3px 12px #14253606}
+#id3ProductRoot .product-nav>.id3-section-frame{display:flex;align-items:center;max-width:1640px!important;width:100%;height:64px!important;margin-inline:auto;gap:24px;padding:0 40px!important;min-width:0}
+#id3ProductRoot .id3-section-model{flex-shrink:0;font-size:15px;font-weight:600;letter-spacing:-.02em}
+#id3ProductRoot .id3-section-links{display:flex;align-items:center;gap:8px;overflow-x:auto;min-width:0;scrollbar-width:none;padding:6px 3px}
+#id3ProductRoot .product-nav .id3-section-links>a{display:inline-flex;align-items:center;justify-content:center;flex-shrink:0;min-height:40px;padding:9px 14px;font-size:14px;line-height:1.35;white-space:nowrap;border:1px solid transparent;border-radius:var(--radius-inset);color:#52667b;text-decoration:none}
+#id3ProductRoot .product-nav .id3-section-links>a[aria-current=location]{background:#edf4ff;border-color:#d5e4fc;color:#0058df;font-weight:600}
+#id3ProductRoot .product-nav .id3-section-links>a:hover{background:#f1f5f9;color:#172b40}
+#id3ProductRoot .product-nav .id3-section-links>a:focus-visible{outline:2px solid #0058df;outline-offset:2px}
 #id3ProductRoot .decision-card{top:calc(var(--id3-shell-height,130px) + 84px)}
 #id3ProductRoot .decision-story #gallery{scroll-margin-top:0}
 #id3ProductRoot .id3-cta,
@@ -25,6 +32,9 @@
 #id3ProductRoot .decision-tabs button[aria-selected=true]{background:#0058df;color:white}
 @media(max-height:860px){#id3ProductRoot .decision-card{position:static}}
 @media(max-width:767px){
+ #id3ProductRoot .product-nav>.id3-section-frame{height:56px!important;padding-inline:18px!important;gap:12px}
+ #id3ProductRoot .id3-section-model{display:none}
+ #id3ProductRoot .id3-section-links{gap:6px;width:100%}
  #id3ProductRoot .id3-load-state{padding:48px 24px}
  #id3ProductRoot .id3-cta{font-size:14px!important;padding:7px 7px 7px 14px!important;gap:12px!important}
  #id3ProductRoot .decision-mobile{padding:12px 16px;padding-bottom:max(12px,env(safe-area-inset-bottom));gap:10px}
