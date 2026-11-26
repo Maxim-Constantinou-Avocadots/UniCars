@@ -2867,5 +2867,117 @@
     "status": "READY",
     "source": "Unicars Charging Network prototype, source 40c191b8a5c11b3733a0bd8d598bfaf57da8bf03",
     "sha256": "364006838de06a88b2fdbb1fb6eaf322ec644a214cdc03270f4914fd1988d93b"
+  },
+  "id3-product/assets/id3neo-IN0461.jpg": {
+    "url": "https://static.wixstatic.com/media/2ea7da_c07123cb8e874f33a3a9224a776c2aba~mv2.jpg",
+    "id": "2ea7da_c07123cb8e874f33a3a9224a776c2aba~mv2.jpg",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "https://raw.githubusercontent.com/Maxim-Constantinou-Avocadots/UniCars/74c01c22c276a0034e5c3264843cce59550efec9/dist/assets/ev.jpg",
+    "sha256": "092be055cc9c55b36015d02270f4771eef3b47c8d68a26446d2131c7c832cb01"
+  },
+  "id3-product/assets/unicars-logo.png": {
+    "url": "https://static.wixstatic.com/media/2ea7da_91b304c9f81d4a2a83740ff53fc9b4c9~mv2.png",
+    "id": "2ea7da_91b304c9f81d4a2a83740ff53fc9b4c9~mv2.png",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "Unicars Charging Network prototype, source 40c191b8a5c11b3733a0bd8d598bfaf57da8bf03",
+    "sha256": "364006838de06a88b2fdbb1fb6eaf322ec644a214cdc03270f4914fd1988d93b"
+  },
+  "id3-product/assets/id3neo-IN0471.jpg": {
+    "url": "https://static.wixstatic.com/media/2ea7da_96ba04a2926b4b1ba0e26c6ba35fbf67~mv2.jpg",
+    "id": "2ea7da_96ba04a2926b4b1ba0e26c6ba35fbf67~mv2.jpg",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "UniCars ID.3 refined prototype, revision 5202ff467d3644711b4f3d5ef0307d8d3dd47158",
+    "sha256": "b2b017a38ed30097a2c01b177e12f0a32a9d44d5461b5e35866b1a49ac1f4f9a"
+  },
+  "id3-product/assets/id3neo-IN0459.jpg": {
+    "url": "https://static.wixstatic.com/media/2ea7da_4d7941880aef44059f3aa2b7db9f5c30~mv2.jpg",
+    "id": "2ea7da_4d7941880aef44059f3aa2b7db9f5c30~mv2.jpg",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "UniCars ID.3 refined prototype, revision 5202ff467d3644711b4f3d5ef0307d8d3dd47158",
+    "sha256": "437b1841244ece5bf4be28bf560f7056a4a2699f95b23cdba2b5517f4d50947b"
+  },
+  "id3-product/assets/id3neo-IN0463.jpg": {
+    "url": "https://static.wixstatic.com/media/2ea7da_9ce7eb2706f44a1a9a9d6581413083e5~mv2.jpg",
+    "id": "2ea7da_9ce7eb2706f44a1a9a9d6581413083e5~mv2.jpg",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "UniCars ID.3 refined prototype, revision 5202ff467d3644711b4f3d5ef0307d8d3dd47158",
+    "sha256": "4058b1925f197a7904681512ad56daa02f4cf685aec755b1b28637bb88a59017"
+  },
+  "id3-product/assets/id3neo-IN0483.jpg": {
+    "url": "https://static.wixstatic.com/media/2ea7da_bd4f8767945941e0927b92032a9c22b8~mv2.jpg",
+    "id": "2ea7da_bd4f8767945941e0927b92032a9c22b8~mv2.jpg",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "UniCars ID.3 refined prototype, revision 5202ff467d3644711b4f3d5ef0307d8d3dd47158",
+    "sha256": "5c00b82048a9a40b89105454323a25c59cb34c90518be1ed1652a6b8f037f714"
+  },
+  "id3-product/assets/id3neo-IN0481.jpg": {
+    "url": "https://static.wixstatic.com/media/2ea7da_926f833f0aeb4df5950afbe39b6e4b72~mv2.jpg",
+    "id": "2ea7da_926f833f0aeb4df5950afbe39b6e4b72~mv2.jpg",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "UniCars ID.3 refined prototype, revision 5202ff467d3644711b4f3d5ef0307d8d3dd47158",
+    "sha256": "c4e7ada0071d7a6870e3a2fcdf19c96f542e3758153a2826d5288fc1c5aa236e"
+  },
+  "id3-product/assets/id3neo-IN0466.jpg": {
+    "url": "https://static.wixstatic.com/media/2ea7da_d5aad3fb576a4281a51d8f27cbef716b~mv2.jpg",
+    "id": "2ea7da_d5aad3fb576a4281a51d8f27cbef716b~mv2.jpg",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "UniCars ID.3 refined prototype, revision 5202ff467d3644711b4f3d5ef0307d8d3dd47158",
+    "sha256": "a3f2ca3f169303929725ddcce789eb6875e6ecb9783f12130b0c238bfae3aadd"
+  },
+  "id3-product/assets/id3neo-IN0458.jpg": {
+    "url": "https://static.wixstatic.com/media/2ea7da_7600e31e8e73439fb413230f92c10e32~mv2.jpg",
+    "id": "2ea7da_7600e31e8e73439fb413230f92c10e32~mv2.jpg",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "UniCars ID.3 refined prototype, revision 5202ff467d3644711b4f3d5ef0307d8d3dd47158",
+    "sha256": "ea5cc240df8fb8d978261922ca2ec6ddf77f1fb1ab157e62253da0d1cf3f3121"
+  },
+  "id3-product/assets/id3neo-IN0470.jpg": {
+    "url": "https://static.wixstatic.com/media/2ea7da_491b79726a80451c8ba113ed5408bf68~mv2.jpg",
+    "id": "2ea7da_491b79726a80451c8ba113ed5408bf68~mv2.jpg",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "UniCars ID.3 refined prototype, revision 5202ff467d3644711b4f3d5ef0307d8d3dd47158",
+    "sha256": "313f80643819a31a7201c4fff80c59ba83a54583337b2dee5ad8c38474f47bc0"
+  },
+  "id3-product/assets/id3neo-IN0516.jpg": {
+    "url": "https://static.wixstatic.com/media/2ea7da_72c8fc1febc54fb3a8c2bbe602c5e936~mv2.jpg",
+    "id": "2ea7da_72c8fc1febc54fb3a8c2bbe602c5e936~mv2.jpg",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "UniCars ID.3 refined prototype, revision 5202ff467d3644711b4f3d5ef0307d8d3dd47158",
+    "sha256": "f990675191962d5f8d95b303155fc8307225a2f8588c6627794ab43493423e59"
+  },
+  "id3-product/assets/id3neo-IN0514.jpg": {
+    "url": "https://static.wixstatic.com/media/2ea7da_50ba89777a504e9a8e9cdb216d86dbf7~mv2.jpg",
+    "id": "2ea7da_50ba89777a504e9a8e9cdb216d86dbf7~mv2.jpg",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "UniCars ID.3 refined prototype, revision 5202ff467d3644711b4f3d5ef0307d8d3dd47158",
+    "sha256": "4b629f78ded05de67e5d6753749aa14ff5b593e15cdcb6f1b95baccb6d1625fe"
+  },
+  "id3-product/assets/id3neo-IN0457.jpg": {
+    "url": "https://static.wixstatic.com/media/2ea7da_656614908526469180b6603332a976bf~mv2.jpg",
+    "id": "2ea7da_656614908526469180b6603332a976bf~mv2.jpg",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "UniCars ID.3 refined prototype, revision 5202ff467d3644711b4f3d5ef0307d8d3dd47158",
+    "sha256": "bc1c562f3f2e29d12c0c9c5ce3f850c63074eafd7c95156f1cf5714cc50bb7dd"
+  },
+  "id3-product/assets/id3neo-IN0460.jpg": {
+    "url": "https://static.wixstatic.com/media/2ea7da_23b8f061727940a0a0b89aa0b4482b90~mv2.jpg",
+    "id": "2ea7da_23b8f061727940a0a0b89aa0b4482b90~mv2.jpg",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "UniCars ID.3 refined prototype, revision 5202ff467d3644711b4f3d5ef0307d8d3dd47158",
+    "sha256": "c2957dd13a80aebfc44466dfb0606af4acd9fcfb846af42b2e0c304486e3a827"
   }
 }
