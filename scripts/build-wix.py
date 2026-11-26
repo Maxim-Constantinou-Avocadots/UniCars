@@ -3,10 +3,12 @@
 import hashlib
 import html
 import json
+import os
 import re
 import shutil
 import subprocess
 import zipfile
+import urllib.request
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -15,12 +17,35 @@ OUTPUT = ROOT / 'wix-output'
 MEDIA_EXTENSIONS = {'.jpg', '.jpeg', '.png', '.webp', '.gif', '.avif', '.mp4', '.webm', '.pdf', '.zip', '.ico', '.woff', '.woff2', '.ttf', '.otf', '.mp3'}
 
 
+def charging_map_token(config):
+    """Keep the existing browser token in deployment config, outside Git history."""
+    token = os.environ.get('UNICARS_MAPBOX_PUBLIC_TOKEN', '')
+    local = ROOT / 'wix/runtime-map-config.json'
+    if not token and local.is_file():
+        token = json.loads(local.read_text()).get('mapboxToken', '')
+    if not token:
+        # The same public token is already sent to visitors by the live map.
+        # Reuse it on fresh checkouts without committing it to the repository.
+        request = urllib.request.Request(config['url'].rstrip('/') + '/charging-map/config.js',
+                                         headers={'User-Agent': 'UniCars-build/1.0'})
+        try:
+            with urllib.request.urlopen(request, timeout=30) as response:
+                match = re.search(r'"mapboxToken"\s*:\s*"(pk\.[\w.-]+)"', response.read().decode())
+                token = match.group(1) if match else ''
+        except Exception:
+            raise ValueError('Could not preserve the live charging-map configuration. Set UNICARS_MAPBOX_PUBLIC_TOKEN or restore wix/runtime-map-config.json.') from None
+    if not re.fullmatch(r'pk\.[\w.-]+', token):
+        raise ValueError('A public Mapbox browser token is required; secret tokens are never accepted.')
+    return token
+
+
 def digest(path):
     return hashlib.sha256(path.read_bytes()).hexdigest()
 
 
 def build():
     config = json.loads((ROOT / 'wix/site.json').read_text())
+    map_token = charging_map_token(config) if (SOURCE / 'charging-map/config.js').is_file() else ''
     media = json.loads((ROOT / 'wix/media-map.json').read_text())
     replacements = {}
     for path, item in media.items():
@@ -73,6 +98,8 @@ def build():
             target.write_text(json.dumps(value, ensure_ascii=False, separators=(',', ':')) + '\n')
         else:
             text = original.read_text()
+            if relative.as_posix() == 'charging-map/config.js':
+                text = text.replace('__PUBLIC_MAPBOX_TOKEN__', map_token)
             target.write_text(pattern.sub(lambda match: replacements[match.group()], text))
     lookup = {path: item['url'] for path, item in media.items()}
     (OUTPUT / 'asset-resolver.js').write_text('window.uniAsset = (function () { const media = ' + json.dumps(lookup, ensure_ascii=False) + '; return function (path) { return media[path] || path; }; })();\n')

@@ -2835,5 +2835,37 @@
     "mediaType": "IMAGE",
     "status": "READY",
     "source": "https://images.pexels.com/photos/7400021/pexels-photo-7400021.jpeg?auto=compress&cs=tinysrgb&w=128&h=128&fit=crop&crop=faces"
+  },
+  "charging-map/assets/manrope.ttf": {
+    "url": "https://static.wixstatic.com/ufonts/2ea7da_cd05fc48733b4c8490ef2947920380b9/file.ttf",
+    "id": "2ea7da_cd05fc48733b4c8490ef2947920380b9",
+    "mediaType": "FONT",
+    "status": "PENDING",
+    "source": "Unicars Charging Network prototype, source 40c191b8a5c11b3733a0bd8d598bfaf57da8bf03",
+    "sha256": "ed335894f8d954263675f7e457bf657374d8b7be629be4dc43aef97c309ad3ae"
+  },
+  "charging-map/assets/mall.jpg": {
+    "url": "https://static.wixstatic.com/media/2ea7da_d728e53abf074aec9ab3db71a087fe6e~mv2.jpg",
+    "id": "2ea7da_d728e53abf074aec9ab3db71a087fe6e~mv2.jpg",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "Unicars Charging Network prototype, source 40c191b8a5c11b3733a0bd8d598bfaf57da8bf03",
+    "sha256": "3ef0c5132a729ee183b9005fd0e08bd315e28ac795143e952149eeaa5d002498"
+  },
+  "charging-map/assets/marina.jpg": {
+    "url": "https://static.wixstatic.com/media/2ea7da_b251d6ea2d4c4df19f75ea79184562d7~mv2.jpg",
+    "id": "2ea7da_b251d6ea2d4c4df19f75ea79184562d7~mv2.jpg",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "Unicars Charging Network prototype, source 40c191b8a5c11b3733a0bd8d598bfaf57da8bf03",
+    "sha256": "3091a2b1bc8be5895fef4a6c5082297d937c23dd7adcc08de15cfce219b2fa01"
+  },
+  "charging-map/assets/unicars-logo.png": {
+    "url": "https://static.wixstatic.com/media/2ea7da_91b304c9f81d4a2a83740ff53fc9b4c9~mv2.png",
+    "id": "2ea7da_91b304c9f81d4a2a83740ff53fc9b4c9~mv2.png",
+    "mediaType": "IMAGE",
+    "status": "READY",
+    "source": "Unicars Charging Network prototype, source 40c191b8a5c11b3733a0bd8d598bfaf57da8bf03",
+    "sha256": "364006838de06a88b2fdbb1fb6eaf322ec644a214cdc03270f4914fd1988d93b"
   }
 }

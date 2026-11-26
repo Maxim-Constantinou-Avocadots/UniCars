@@ -1,0 +1,214 @@
+[
+  {
+    "id": 9,
+    "name": "Mall of Cyprus",
+    "lat": 35.13043846326754,
+    "lng": 33.370820436279956,
+    "type": "DC",
+    "count": 4,
+    "city": "Nicosia",
+    "venue": "Shopping"
+  },
+  {
+    "id": 6,
+    "name": "Nicosia Mall",
+    "lat": 35.134822135443855,
+    "lng": 33.27921521216133,
+    "type": "DC",
+    "count": 2,
+    "city": "Nicosia",
+    "venue": "Shopping",
+    "image": "charging-map/assets/mall.jpg"
+  },
+  {
+    "id": 11,
+    "name": "My Mall Limassol",
+    "lat": 34.65294844949992,
+    "lng": 32.99713996028836,
+    "type": "DC",
+    "count": 4,
+    "city": "Limassol",
+    "venue": "Shopping"
+  },
+  {
+    "id": 0,
+    "name": "Ayia Napa Marina",
+    "lat": 34.97942657725081,
+    "lng": 33.94301222564903,
+    "type": "DC",
+    "count": 2,
+    "city": "Famagusta",
+    "venue": "Marina",
+    "image": "charging-map/assets/marina.jpg"
+  },
+  {
+    "id": 1,
+    "name": "Kings Avenue Mall",
+    "lat": 34.76582707595934,
+    "lng": 32.41374495447744,
+    "type": "DC",
+    "count": 2,
+    "city": "Paphos",
+    "venue": "Shopping"
+  },
+  {
+    "id": 2,
+    "name": "Anassa Hotel",
+    "lat": 35.04382586724439,
+    "lng": 32.37055311215838,
+    "type": "DC",
+    "count": 3,
+    "city": "Paphos",
+    "venue": "Hotel"
+  },
+  {
+    "id": 3,
+    "name": "Almyra Hotel",
+    "lat": 34.75474927677261,
+    "lng": 32.418867539466035,
+    "type": "DC",
+    "count": 1,
+    "city": "Paphos",
+    "venue": "Hotel"
+  },
+  {
+    "id": 4,
+    "name": "Annabelle Hotel",
+    "lat": 34.75547034573479,
+    "lng": 32.417387524124685,
+    "type": "DC",
+    "count": 1,
+    "city": "Paphos",
+    "venue": "Hotel"
+  },
+  {
+    "id": 5,
+    "name": "Nissi Blu Hotel",
+    "lat": 34.9879673,
+    "lng": 33.9735202,
+    "type": "DC",
+    "count": 3,
+    "city": "Famagusta",
+    "venue": "Hotel"
+  },
+  {
+    "id": 7,
+    "name": "Capo Bay Hotel",
+    "lat": 35.01306371589702,
+    "lng": 34.05693272417085,
+    "type": "DC",
+    "count": 2,
+    "city": "Famagusta",
+    "venue": "Hotel"
+  },
+  {
+    "id": 8,
+    "name": "Hilton Hotel",
+    "lat": 35.163163166680874,
+    "lng": 33.32703895347961,
+    "type": "DC",
+    "count": 2,
+    "city": "Nicosia",
+    "venue": "Hotel"
+  },
+  {
+    "id": 10,
+    "name": "Ritz-Carlton Residences",
+    "lat": 34.703532935123455,
+    "lng": 33.108754982292005,
+    "type": "DC",
+    "count": 2,
+    "city": "Limassol",
+    "venue": "Residence"
+  },
+  {
+    "id": 12,
+    "name": "Asterias Hotel",
+    "lat": 34.98424700703461,
+    "lng": 33.955690593565855,
+    "type": "DC",
+    "count": 2,
+    "city": "Famagusta",
+    "venue": "Hotel"
+  },
+  {
+    "id": 13,
+    "name": "Olympic Residence",
+    "lat": 34.68693192425833,
+    "lng": 33.063964895401334,
+    "type": "DC",
+    "count": 1,
+    "city": "Limassol",
+    "venue": "Residence"
+  },
+  {
+    "id": 14,
+    "name": "The Golden Bay Beach Hotel",
+    "lat": 34.977630001046535,
+    "lng": 33.69160526658008,
+    "type": "DC",
+    "count": 2,
+    "city": "Larnaca",
+    "venue": "Hotel"
+  },
+  {
+    "id": 15,
+    "name": "IKEA Cyprus",
+    "lat": 35.14819164448783,
+    "lng": 33.37182358803253,
+    "type": "AC",
+    "count": 1,
+    "city": "Nicosia",
+    "venue": "Shopping"
+  },
+  {
+    "id": 16,
+    "name": "The Royal Apollonia",
+    "lat": 34.69757130053323,
+    "lng": 33.09494328603795,
+    "type": "AC",
+    "count": 1,
+    "city": "Limassol",
+    "venue": "Hotel"
+  },
+  {
+    "id": 17,
+    "name": "Louis St Elias Resort & Waterpark",
+    "lat": 35.01803691857873,
+    "lng": 34.038640639968335,
+    "type": "AC",
+    "count": 1,
+    "city": "Famagusta",
+    "venue": "Hotel"
+  },
+  {
+    "id": 18,
+    "name": "Louis Phaethon Beach",
+    "lat": 34.73738495624576,
+    "lng": 32.43797868228449,
+    "type": "AC",
+    "count": 1,
+    "city": "Paphos",
+    "venue": "Hotel"
+  },
+  {
+    "id": 19,
+    "name": "Louis Ivi Mare Beach",
+    "lat": 34.74059774848799,
+    "lng": 32.43402323995589,
+    "type": "AC",
+    "count": 1,
+    "city": "Paphos",
+    "venue": "Hotel"
+  },
+  {
+    "id": 20,
+    "name": "The King Jason",
+    "lat": 34.76197332572296,
+    "lng": 32.420080682285516,
+    "type": "AC",
+    "count": 1,
+    "city": "Paphos",
+    "venue": "Hotel"
+  }
+]

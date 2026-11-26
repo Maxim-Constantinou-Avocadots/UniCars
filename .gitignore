@@ -10,3 +10,4 @@ Thumbs.db
 # Generated Wix deployment output
 wix-output/
 wix-site.zip
+wix/runtime-map-config.json

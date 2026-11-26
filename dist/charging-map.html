@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Unicars — Find your next charge</title>
+<meta name="description" content="Explore the Unicars charging network across Cyprus. Find charging locations, compare AC and DC options, and get directions.">
+<link rel="icon" href="charging-map/assets/unicars-logo.png"><link rel="stylesheet" href="charging-map/assets/mapbox-gl.css"><link rel="stylesheet" href="charging-map/assets/leaflet.css"><link rel="stylesheet" href="charging-map/style.css">
+<link rel="stylesheet" href="charging-map/embedded.css"><style>@font-face{font-family:Manrope;src:url('charging-map/assets/manrope.ttf')}</style></head>
+<body>
+<svg class="icon-defs" xmlns="http://www.w3.org/2000/svg"><defs>
+<symbol id="i-search" viewBox="0 0 24 24"><circle cx="10.8" cy="10.8" r="6.8"/><path d="m16 16 4.5 4.5"/></symbol>
+<symbol id="i-arrow" viewBox="0 0 24 24"><path d="M5 12h14m-6-6 6 6-6 6"/></symbol>
+<symbol id="i-back" viewBox="0 0 24 24"><path d="M19 12H5m6-6-6 6 6 6"/></symbol>
+<symbol id="i-chevron" viewBox="0 0 24 24"><path d="m9 5 7 7-7 7"/></symbol>
+<symbol id="i-bolt" viewBox="0 0 24 24"><path d="m13.5 2-9 12H11l-.5 8 9-12H13z"/></symbol>
+<symbol id="i-locate" viewBox="0 0 24 24"><circle cx="12" cy="12" r="6.5"/><circle cx="12" cy="12" r="2"/><path d="M12 2v3m0 14v3M2 12h3m14 0h3"/></symbol>
+<symbol id="i-filter" viewBox="0 0 24 24"><path d="M4 7h16M4 17h16"/><circle cx="9" cy="7" r="2.5" fill="white"/><circle cx="15" cy="17" r="2.5" fill="white"/></symbol>
+<symbol id="i-pin" viewBox="0 0 24 24"><path d="M19 10c0 5-7 11-7 11S5 15 5 10a7 7 0 1 1 14 0Z"/><circle cx="12" cy="10" r="2.5"/></symbol>
+<symbol id="i-close" viewBox="0 0 24 24"><path d="m6 6 12 12M18 6 6 18"/></symbol>
+<symbol id="i-plus" viewBox="0 0 24 24"><path d="M5 12h14M12 5v14"/></symbol>
+<symbol id="i-minus" viewBox="0 0 24 24"><path d="M5 12h14"/></symbol>
+<symbol id="i-full" viewBox="0 0 24 24"><path d="M8 3H3v5m13-5h5v5M3 16v5h5m13-5v5h-5"/></symbol>
+<symbol id="i-info" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M12 11v6m0-10v1"/></symbol>
+<symbol id="i-directions" viewBox="0 0 24 24"><path d="m12 2 10 10-10 10L2 12Z"/><path d="M8 16v-5h8m-3-3 3 3-3 3"/></symbol>
+<symbol id="i-plug" viewBox="0 0 24 24"><path d="M8 3v5m8-5v5M6 8h12v4a6 6 0 0 1-12 0Zm6 10v4"/></symbol>
+<symbol id="i-list" viewBox="0 0 24 24"><path d="M8 6h13M8 12h13M8 18h13M3 6h1M3 12h1M3 18h1"/></symbol>
+<symbol id="i-cube" viewBox="0 0 24 24"><path d="m12 2 9 5v10l-9 5-9-5V7Zm0 10 9-5M3 7l9 5v10M7.5 4.5l9 5"/></symbol>
+<symbol id="i-north" viewBox="0 0 24 24"><path d="m12 3 7 17-7-4-7 4Z"/></symbol>
+<symbol id="i-map" viewBox="0 0 24 24"><path d="m3 5 6-2 6 2 6-2v16l-6 2-6-2-6 2Zm6-2v16m6-14v16"/></symbol>
+<symbol id="i-check" viewBox="0 0 24 24"><path d="m5 12 4 4L19 6"/></symbol>
+<symbol id="i-share" viewBox="0 0 24 24"><path d="M8 7H4v14h16V7h-4M12 15V2m-5 5 5-5 5 5"/></symbol>
+</defs></svg>
+<div class="charging-tools" aria-label="Charging map tools"><div class="language"><button id="en" class="active" aria-label="English">EN</button><span>/</span><button id="gr" aria-label="Ελληνικά">GR</button></div><button class="help-button" data-action="help">How to charge <svg class="icon"><use href="#i-arrow"/></svg></button></div>
+<main class="workspace" id="workspace">
+<div id="map" role="region" aria-label="Interactive charging station map"></div>
+<div id="map-error" hidden><strong data-t="mapUnavailable">The map couldn’t load.</strong><p data-t="mapFallback">You can still search stations and get directions from the list.</p><button id="retry-map" data-t="retry">Try again</button></div>
+<div class="map-heading"><span class="network-mark"><svg class="icon"><use href="#i-bolt"/></svg></span><div><strong data-t="network">Charging network</strong><span data-t="across">Across Cyprus. Along your way.</span></div></div>
+<div class="map-view-toolbar" aria-label="Map view"><div class="view-switch" role="group" aria-label="Map perspective"><button id="view-2d" aria-pressed="true">2D</button><button id="view-3d" aria-pressed="false"><svg class="icon"><use href="#i-cube"/></svg>3D</button></div><button id="reset-north" class="icon-control" aria-label="Reset map to north"><svg class="icon"><use href="#i-north"/></svg></button></div>
+<button id="search-area" class="search-area" hidden><svg class="icon"><use href="#i-search"/></svg><span data-t="searchArea">Search this area</span></button>
+<aside class="finder" id="finder" aria-label="Find charging stations">
+<button class="sheet-handle" id="sheet-handle" aria-label="Expand or collapse station list"><span></span></button>
+<section id="browse-view" class="panel-view">
+<div class="finder-top">
+<div class="eyebrow"><svg class="icon"><use href="#i-bolt"/></svg><span data-t="eyebrow">The Unicars charging network</span></div>
+<h1 data-t="title">Find your next charge.</h1><p class="intro" data-t="intro">A little planning. A lot more freedom.</p>
+<label class="search-box"><svg class="icon"><use href="#i-search"/></svg><span class="sr-only" data-t="searchLabel">Search stations or areas</span><input id="search" type="search" placeholder="Search a station or district" autocomplete="off"></label>
+<div class="location-row"><button id="nearby" class="text-button"><svg class="icon"><use href="#i-locate"/></svg><span data-t="nearby">Use my location</span></button><button id="filters-toggle" class="text-button" aria-expanded="false"><svg class="icon"><use href="#i-filter"/></svg><span data-t="filters">Filters</span><span id="filter-count" hidden></span></button></div>
+<div class="filter-chips" role="group" aria-label="Charging type"><button data-type="all" class="active" aria-pressed="true" data-t="all">All chargers</button><button data-type="DC" aria-pressed="false"><svg class="icon"><use href="#i-bolt"/></svg>DC <span data-t="fast">Fast</span></button><button data-type="AC" aria-pressed="false"><svg class="icon"><use href="#i-plug"/></svg>AC</button></div>
+<div id="filter-panel" class="filter-panel" hidden><label><span data-t="district">District</span><select id="city"><option value="all">All districts</option><option>Nicosia</option><option>Limassol</option><option>Larnaca</option><option>Paphos</option><option>Famagusta</option></select></label><label><span data-t="venue">Location type</span><select id="venue"><option value="all">All locations</option><option value="Shopping">Shopping</option><option value="Hotel">Hotel</option><option value="Marina">Marina</option><option value="Residence">Residence</option></select></label><button class="text-button" id="reset-filters" data-t="reset">Reset filters</button></div>
+</div>
+<div class="results-heading"><span id="result-count" aria-live="polite">Loading stations…</span><button class="text-button sort-button" id="sort"><span data-t="recommended">Featured</span><svg class="icon"><use href="#i-chevron"/></svg></button></div>
+<div class="results" id="results"><div class="skeleton"></div><div class="skeleton"></div><div class="skeleton"></div></div>
+<div class="panel-footer"><svg class="icon"><use href="#i-info"/></svg><span data-t="staticNote">Station locations · No live availability</span></div>
+</section>
+<section id="detail-view" class="panel-view" hidden aria-label="Station details"></section>
+</aside>
+<div class="map-controls"><button id="reset-map" class="reset-map" aria-label="Show all locations"><svg class="icon"><use href="#i-map"/></svg><span data-t="viewAll">View all locations</span></button><div class="control-stack"><button id="zoom-in" aria-label="Zoom in"><svg class="icon"><use href="#i-plus"/></svg></button><button id="zoom-out" aria-label="Zoom out"><svg class="icon"><use href="#i-minus"/></svg></button></div><button id="locate-map" class="icon-control" aria-label="Use my location"><svg class="icon"><use href="#i-locate"/></svg></button><button id="fullscreen" class="icon-control" aria-label="Enter full screen"><svg class="icon"><use href="#i-full"/></svg></button></div>
+<div class="map-legend"><span><span class="legend-dot dc"></span><span data-t="dcLegend">DC charging</span></span><span><span class="legend-dot ac"></span><span data-t="acLegend">AC charging</span></span><button data-action="about" aria-label="About the map"><svg class="icon"><use href="#i-info"/></svg></button></div>
+<button id="mobile-toggle" class="mobile-toggle"><svg class="icon"><use href="#i-list"/></svg><span data-t="showList">Show list</span></button>
+</main>
+
+<dialog id="modal"><div class="modal-inner"><button class="close-modal icon-control" aria-label="Close dialog"><svg class="icon"><use href="#i-close"/></svg></button><div id="modal-content"></div></div></dialog>
+<div id="toast" role="status" hidden></div>
+<script src="charging-map/config.js"></script><script src="charging-map/assets/mapbox-gl.js"></script><script src="charging-map/assets/leaflet.js"></script><script src="charging-map/map-fallback.js"></script><script src="charging-map/app.js"></script>
+</body></html>

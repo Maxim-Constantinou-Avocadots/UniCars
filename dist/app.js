@@ -27,8 +27,7 @@ function modelSearch(id,results){return `<div class="model-search"><label for="$
 function searchModels(input){const q=input.value.trim().toLocaleLowerCase();const results=document.getElementById(input.dataset.modelResults);results.hidden=!q;results.innerHTML=q?(sampleModels.filter(([name])=>name.toLocaleLowerCase().includes(q)).map(([name,id])=>`<a href="#model-${id}"><span>${name}</span>${arrow}</a>`).join('')||`<p>No matching sample model. <a href="#cars">Browse all models</a> or <a href="#contact">ask our team</a>.</p>`)+`<small>Prototype search: four sample models from Alex’s document.</small>`:'';}
 document.addEventListener('input',e=>{if(e.target.matches('[data-model-results]'))searchModels(e.target)});
 
-const CHARGER_MAP_URL='https://unicars-charge-finder.avocadots-9013.chatgpt.site/';
-const destinationHref=id=>id==='chargers'?CHARGER_MAP_URL:'#'+id;
+const destinationHref=id=>'#'+id;
 const photoActions={cars:['Explore car offers','offers'],support:['Book a service','action:service'],electric:['Find a charger','chargers'],visit:['View all locations','locations']};
 function ehubLeaf(){return '<span class="action-icon" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M20 3c-7-1-14 2-14 9a6 6 0 0 0 10 4c3-3 3-8 4-13Z"/><path d="M4 21 15 10"/></svg></span>'}
 function menuLinks(items){return items.map(([label,id,desc])=>`<a href="${destinationHref(id)}" ${id==='available'?'class="ehub-nav-button"':''}><span>${label}${desc?`<small>${desc}</small>`:''}</span>${id==='available'?ehubLeaf():`<span class="menu-arrow" aria-hidden="true">${arrow}</span>`}</a>`).join('')}
@@ -60,8 +59,9 @@ const groups=[['Explore vehicles',[['All models','cars'],['eHub - Available cars
 function hero(title,copy,buttons,image='car.webp',crumb='Home'){return `<section class="hero"><div class="hero-copy"><p class="breadcrumb"><a href="#home">Home</a>${crumb!=='Home'?' / '+crumb:''}</p><h1>${title}</h1><p>${copy}</p><div class="actions">${buttons}</div></div><div class="hero-photo"><img src="${window.uniAsset('assets/'+image)}" alt="${image==='car.webp'?'CUPRA on a winding mountain road':'Škoda photographed beside a modern building'}"></div></section>`}
 const btn=(text,to,kind='primary')=>`<a class="button ${kind}" href="${destinationHref(to)}">${text}${arrow}</a>`;const act=(text,id,kind='primary')=>`<button class="button ${kind}" data-action="${id}">${text}${arrow}</button>`;
 function serviceLinks(){return `<div class="service-list"><a href="#service">Servicing & maintenance ${arrow}</a><a href="#bodywork">Bodywork & paint ${arrow}</a><a href="#parts">Genuine parts ${arrow}</a><a href="#care">Check your care plan ${arrow}</a><a href="#warranty">Warranty & documents ${arrow}</a><a href="#recalls">Recalls ${arrow}</a></div>`}
-function render(id){closeMenus();if(id==='chargers'){window.location.replace(CHARGER_MAP_URL);return;}let selectedCity=id.startsWith('location-')?id.slice(9):null;if(selectedCity)id='locations';current=id;let html='',context='';
+function render(id){closeMenus();let selectedCity=id.startsWith('location-')?id.slice(9):null;if(selectedCity)id='locations';current=id;let html='',context='';
 if(id==='home'||id==='home-cro'){html=window.renderUniHome();}
+else if(id==='chargers'||id.startsWith('chargers?')){html=window.renderUniChargers(id);}
 else if(id==='contact'){html=window.renderUniContact();}
 else if(id==='test-drive'||id.startsWith('test-drive?')){html=window.renderUniTestDrive(id);}
 else if(id==='prices'){html=window.renderUniPrices();}
