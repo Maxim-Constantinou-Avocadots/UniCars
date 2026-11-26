@@ -10,6 +10,7 @@
 #id3ProductRoot .product-nav .id3-section-links>a:hover{background:#f1f5f9;color:#172b40}
 #id3ProductRoot .product-nav .id3-section-links>a:focus-visible{outline:2px solid #0058df;outline-offset:2px}
 #id3ProductRoot .decision-card{top:calc(var(--id3-shell-height,130px) + 84px)}
+#id3ProductRoot .decision-hub{padding-block:64px 72px}
 #id3ProductRoot .decision-story #gallery{scroll-margin-top:0}
 #id3ProductRoot .id3-cta,
 #id3ProductRoot .decision-quote,
@@ -32,6 +33,7 @@
 #id3ProductRoot .decision-tabs button[aria-selected=true]{background:#0058df;color:white}
 @media(max-height:860px){#id3ProductRoot .decision-card{position:static}}
 @media(max-width:767px){
+ #id3ProductRoot .decision-hub{padding-block:40px 48px}
  #id3ProductRoot .product-nav>.id3-section-frame{height:56px!important;padding-inline:18px!important;gap:12px}
  #id3ProductRoot .id3-section-model{display:none}
  #id3ProductRoot .id3-section-links{gap:6px;width:100%}
