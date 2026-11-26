@@ -50,6 +50,20 @@ test('Owner-added fields and renamed labels render with validation and escaped c
  assert.equal(escapeFormText('"<>&'),'&quot;&lt;&gt;&amp;');
 });
 
+test('Originating page stays hidden in the UI and remains available to the submission',()=>{
+ const form=schemas.contact,definition=config.contact,page='https://test.invalid/#contact';
+ const values=contextPrefills(form,definition,{page},models);
+ const field=form.fields.find(f=>definition.hints[f.target]?.role==='page');
+ const html=fieldMarkup(field,{form,values},{id:'contact',definition,models,search:{},month:{}});
+ assert.match(html,/class="uf-context" hidden/);
+ assert.match(html,/type="hidden"/);
+ assert.ok(html.includes(`name="${field.target}"`));
+ assert.ok(html.includes(`value="${page}"`));
+ const s=store('contact');s.setValues({...validValues('contact'),...values});
+ assert.equal(s.validate(),true);
+ assert.equal(s.getState().values[field.target],page);
+});
+
 test('Review preserves values and final submission revalidates earlier steps',async()=>{
  const s=store('testDrive');s.setValues(validValues('testDrive'));for(let i=0;i<3;i++)assert.equal(s.next(),true);
  assert.equal(s.getState().step,3);s.previous();assert.equal(s.getState().values[target('testDrive','name')],'Test Person');s.goToStep(3);

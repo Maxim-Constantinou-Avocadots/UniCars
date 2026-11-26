@@ -70,3 +70,37 @@
  .td-booking .uf-data-note{margin-top:16px;text-align:left;font-size:12px}
 }
 @media(prefers-reduced-motion:reduce){.uf-loading>span{animation:none}.uf-choice>span{transition:none}}
+
+/* Consent is a compact control, never a full-width text input. Keep these
+   dimensions independent of the surrounding page's legacy form styling. */
+.uf-form .uf-consent{display:grid!important;grid-template-columns:20px minmax(0,1fr);gap:12px;align-items:start;cursor:pointer;margin:0;min-width:0}
+.uf-form .uf-consent>input[type=checkbox]{appearance:auto;width:20px;height:20px;min-width:20px;min-height:20px;max-width:20px;max-height:20px;padding:0;margin:2px 0 0;accent-color:#0058df;box-shadow:none;cursor:pointer}
+.uf-form .uf-consent>span{display:block;min-width:0;width:auto;font-size:14px;line-height:1.6;overflow-wrap:break-word}
+
+/* The contact form pairs related questions at desktop widths. Schema-added
+   fields keep their default layout and the mobile form remains one column. */
+.uc-enquiry .uf-fields{grid-template-columns:repeat(2,minmax(0,1fr));gap:22px 18px}
+.uc-enquiry .uf-fields>.uf-role-name,
+.uc-enquiry .uf-fields>.uf-role-email,
+.uc-enquiry .uf-fields>.uf-role-phone,
+.uc-enquiry .uf-fields>.uf-role-city,
+.uc-enquiry .uf-fields>.uf-role-brand,
+.uc-enquiry .uf-fields>.uf-role-modelText{grid-column:auto}
+.uc-enquiry .uf-label{font-size:15px;line-height:1.5;margin-bottom:8px}
+.uc-enquiry .uf-options{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}
+.uc-enquiry .uf-choice>span{height:100%;min-height:58px;padding:14px 16px;border-radius:var(--radius-surface)}
+.uc-enquiry .uf-choice strong{font-size:15px;line-height:1.4}
+.uc-enquiry .uf-consent{padding:16px;border:1px solid #e1e8f0;border-radius:var(--radius-inset);background:#f8fafc}
+.uc-enquiry .uf-consent>span{font-size:15px}
+.uc-enquiry .uf-field textarea{min-height:132px}
+.uc-enquiry .uf-actions{border-top:1px solid #e6ecf2;padding-top:22px;margin-top:24px}
+.uc-enquiry .uf-actions>.primary{min-width:210px}
+.uc-enquiry .uf-data-note{margin-top:14px;line-height:1.6}
+@media(max-width:600px){
+ .uc-enquiry .uf-fields{grid-template-columns:minmax(0,1fr);gap:20px}
+ .uc-enquiry .uf-fields>.uf-field{grid-column:1/-1}
+ .uc-enquiry .uf-choice>span{padding:12px;min-height:64px;gap:8px}
+ .uc-enquiry .uf-choice strong{font-size:14px}
+ .uc-enquiry .uf-consent{padding:14px}
+ .uc-enquiry .uf-actions>.primary{width:100%;min-width:0}
+}

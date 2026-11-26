@@ -40,9 +40,9 @@
 .uc-form-fields{display:grid;grid-template-columns:1fr 1fr;gap:18px 16px;margin-bottom:20px}
 .uc-form-fields>label{display:block;font-size:15px;font-weight:500;color:#263f54;line-height:1.45;min-width:0}
 .uc-form-fields label>small{font-size:14px;color:#687d8f;font-weight:400}
-.uc-contact input:not([type=radio]),.uc-contact select,.uc-contact textarea{width:100%;border:1px solid #cbd6e1;border-radius:var(--radius-surface);background:#fff;padding:13px 14px;color:#17232e;font:400 16px/1.4 Figtree,sans-serif;box-sizing:border-box;transition:border-color .18s,box-shadow .18s}
+.uc-contact input:not([type=radio],[type=checkbox],[type=hidden],[type=file]),.uc-contact select,.uc-contact textarea{width:100%;border:1px solid #cbd6e1;border-radius:var(--radius-surface);background:#fff;padding:13px 14px;color:#17232e;font:400 16px/1.4 Figtree,sans-serif;box-sizing:border-box;transition:border-color .18s,box-shadow .18s}
 .uc-form-fields input,.uc-form-fields .uc-select{margin-top:8px}
-.uc-contact input:not([type=radio]),.uc-contact select{min-height:50px}
+.uc-contact input:not([type=radio],[type=checkbox],[type=hidden],[type=file]),.uc-contact select{min-height:50px}
 .uc-contact input::placeholder,.uc-contact textarea::placeholder{color:#768797;opacity:1}
 .uc-contact input:focus-visible,.uc-contact select:focus-visible,.uc-contact textarea:focus-visible{outline:3px solid #0058df22;outline-offset:1px;border-color:#0058df}
 .uc-select{position:relative;min-width:0}

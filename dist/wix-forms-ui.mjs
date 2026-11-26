@@ -41,6 +41,8 @@ function choiceLabel(field,value){return field.choices.find(c=>c.value===value)?
 export function fieldMarkup(field, state, ui) {
   const value=state.values[field.target], hint=ui.definition.hints[field.target]||{}, v=field.validation||{}, id=ui.id+'-'+field.target;
   const attrs=`id="${id}" name="${e(field.target)}" aria-required="${field.required?'true':'false'}" ${field.readOnly?'disabled':''} aria-describedby="${id}-description ${id}-error"`;
+  // The originating page is submission context, not a question for the visitor.
+  if(hint.role==='page')return `<div class="uf-context" hidden><input type="hidden" id="${id}" name="${e(field.target)}" value="${e(value)}"></div>`;
   const required=field.required?(state.form.requiredIndicator==='NONE'?'':state.form.requiredIndicator==='TEXT'?' (required)':' *'):'';
   const title=`<label class="uf-label ${field.showLabel?'':'uf-sr'}" for="${id}">${e(field.label+required)}</label>`;
   let control='';
