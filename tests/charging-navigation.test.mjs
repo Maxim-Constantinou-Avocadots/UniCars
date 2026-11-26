@@ -25,8 +25,9 @@ test('charger routes embed the map with the shared site header and safe station 
 
 test('the embedded map keeps station search and controls without the prototype navigation', () => {
   const html = read('dist/charging-map.html');
-  assert.doesNotMatch(html, /site-header|main-nav|bottom-bar/);
-  for (const id of ['en', 'gr', 'search', 'filters-toggle', 'view-2d', 'view-3d', 'fullscreen', 'mobile-toggle', 'nearby', 'modal']) {
+  assert.doesNotMatch(html, /site-header|main-nav|bottom-bar|charging-tools|id="en"|id="gr"/);
+  assert.match(html, /<main class="workspace"[^>]*>[\s\S]*class="charging-help" data-action="help"/);
+  for (const id of ['search', 'filters-toggle', 'view-2d', 'view-3d', 'fullscreen', 'mobile-toggle', 'nearby', 'modal']) {
     assert.ok(html.includes(`id="${id}"`), `Missing map control: ${id}`);
   }
   assert.match(read('dist/charging-map/app.js'), /fetch\('charging-map\/stations.json'\)/);

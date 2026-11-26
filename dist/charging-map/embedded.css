@@ -1,24 +1,39 @@
 /* Map-only layout. The parent page supplies the shared UniCars navigation. */
-.charging-tools {
-  height: 48px;
+.workspace { height: 100dvh; min-height: 0; }
+.charging-help {
+  position: absolute;
+  top: 28px;
+  right: 28px;
+  z-index: 3;
   display: flex;
-  justify-content: flex-end;
   align-items: center;
-  gap: 20px;
-  padding: 0 28px;
+  gap: 12px;
+  min-height: 44px;
+  padding: 6px 6px 6px 16px;
   background: #fff;
-  border-bottom: 1px solid #e5eaf0;
-}
-.charging-tools .help-button {
-  display: flex;
-  height: 36px;
+  border: 1px solid #d4dce5;
   border-radius: 20px;
+  box-shadow: 0 2px 12px #1d292e14;
+  font-size: 13px;
+  font-weight: 600;
 }
-.charging-tools .language button { min-width: 30px; min-height: 40px; }
-.workspace { height: calc(100dvh - 48px); min-height: 0; }
-.workspace:fullscreen { height: 100dvh; }
+.help-icon {
+  display: grid;
+  place-items: center;
+  width: 30px;
+  height: 30px;
+  border: 1px solid #dce5ef;
+  border-radius: 10px;
+  background: #f0f5fa;
+  color: #0058df;
+}
+.charging-help:hover { border-color: #0058df; }
+.charging-help:focus-visible { outline: 3px solid #0058df; outline-offset: 3px; }
+.map-heading { display: none; }
 @media (max-width: 900px) {
-  .charging-tools { padding: 0 16px; gap: 14px; }
-  .charging-tools .language { font-size: 12px; }
-  .charging-tools .language button { font-size: 12px; }
+  .charging-help { top: auto; right: 14px; bottom: 345px; }
+  .mobile-toggle { left: 14px; transform: none; min-height: 44px; }
+  .workspace.map-mode .charging-help { bottom: 85px; }
+  .workspace.list-mode .charging-help,
+  .workspace.detail-open .charging-help { display: none; }
 }

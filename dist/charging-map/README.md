@@ -7,7 +7,7 @@ its shared navigation. Station share links use `#chargers?station=<id>`.
 
 The 21 mapped station locations are a snapshot, without live availability.
 The map includes search, filters, directions, geolocation, 2D/3D rendering,
-and a raster fallback. Language and charging-help controls remain in the map.
+and a raster fallback. Charging help is available through a floating button inside the map.
 
 The browser token is supplied by `scripts/build-wix.py` during deployment;
 it is never committed. Fresh builds preserve the existing token from the live
